@@ -1,11 +1,15 @@
 
 
 ## Recent Articles
+- [[tech/humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08)
+- [[finance/read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08)
+- [[business/global-tourists-onitsuka-tiger-japan-stores|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08)
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] (2026-09-07)
 - [[lifestyle/taiwan-temples-religious-life-china-contrast|漫步于台湾庙宇，我窥见中国另一种可能的模样]] (2026-09-07)
 - [[career/americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07)
 - [[business/data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] (2026-09-07)
 - [[business/moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] (2026-09-07)
+- [[business/windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05)
 - [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] (2026-09-04)
 - [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]] (2026-09-02)
 - [[finance/2026-09-02-your-financial-quotient-how-high|你的财商有多高？来跟美国高中生比一比]] (2026-09-02)
@@ -18,6 +22,7 @@
 - [[finance/2026-08-31-wall-street-momentum-trading-fails|华尔街动能交易突然遭遇溃败]] (2026-08-31)
 - [[lifestyle/china-premium-wine-boom-behind-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31)
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] (2026-08-31)
+- [[business/south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-08-28)
 - [[finance/2026-08-28-us-servicemember-kpmg-employee-are-targets-of-prediction-markets-crackdown|一美军人员与一毕马威员工成为预测市场整治行动的目标]] (2026-08-28)
 - [[finance/ai-stock-picking-performance|AI选股能力真的提升了吗？]] (2026-08-27)
 - [[finance/wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] (2026-08-25)
@@ -295,6 +300,6 @@
 - [[career/fake-job-interview-git-hook-malware|Appaji - Software Engineer]] (2001-07-23)
 
 ## 編輯方針
-- [[connected-stories|串連敘事同核實來源]]: 用主題線串起零散報道，論點有據可依
-- [[cross-domain-reporting|多角度報道]]: 同一件事，唔同面向
-- [[valuation-and-risk|估值同風險]]: 核心財務指標、估值框架同風險辨識
+- [[connected-stories|串聯敘事與核實來源]]: 以主題線串聯零散報道，論點有據可依
+- [[cross-domain-reporting|多角度報道]]: 同一件事，不同面向
+- [[valuation-and-risk|估值與風險]]: 核心財務指標、估值框架與風險辨識

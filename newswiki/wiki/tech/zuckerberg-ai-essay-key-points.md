@@ -34,5 +34,5 @@ topics:
 
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/us-smr-nuclear-revival|揭秘美国一代人以来首座核反应堆的建设攻关]]
+- [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/us-nuclear-reactor-construction-smr|揭秘美国一代人以来首座核反应堆的建设攻关]]
-- [[business/meta-q2-earnings-ai-spending-drop|Meta股价大跌10%，因AI支出增加且展望不及预期]]

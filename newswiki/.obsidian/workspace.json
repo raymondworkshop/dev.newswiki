@@ -11,14 +11,10 @@
             "id": "6a7b653fee71aa65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/2026-09-08-全球游客为何涌向日本鬼冢虎门店.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-09-08-全球游客为何涌向日本鬼冢虎门店"
+              "title": "New tab"
             }
           }
         ]
@@ -186,6 +182,15 @@
   },
   "active": "6a7b653fee71aa65",
   "lastOpenFiles": [
+    "raw/archive/2026-09-08-机构投资者影响市场走势，散户如何看懂它们的信号.md",
+    "wiki/finance/read-institutional-signals.md",
+    "raw/archive/2026-09-08-全球游客为何涌向日本鬼冢虎门店.md",
+    "wiki/business/global-tourists-onitsuka-tiger-japan-stores.md",
+    "_resources/2026-09-10-韩国推进“全民AI”计划，向全体国民免费开放AI服务/fde89ac1e33a01e18cb4acbd2f506dcf_MD5.jpg",
+    "_resources/2026-09-10-韩国推进“全民AI”计划，向全体国民免费开放AI服务/19a64f438da673c32e68770a87675278_MD5.jpg",
+    "_resources/2026-09-10-韩国推进“全民AI”计划，向全体国民免费开放AI服务",
+    "raw/2026-09-08-全球游客为何涌向日本鬼冢虎门店.md",
+    "raw/2026-09-10-韩国推进“全民AI”计划，向全体国民免费开放AI服务.md",
     "_resources/2026-09-08-全球游客为何涌向日本鬼冢虎门店/6912b8a0b4d1b29a13ca4048eb2c8858_MD5.jpg",
     "_resources/2026-09-08-全球游客为何涌向日本鬼冢虎门店/6f4c817a5f7d7dfbe113f05d4d15ae05_MD5.jpg",
     "_resources/2026-09-08-全球游客为何涌向日本鬼冢虎门店/2239d76cd908d612b28e664de536bc23_MD5.jpg",
@@ -195,19 +200,15 @@
     "_resources/2026-09-08-全球游客为何涌向日本鬼冢虎门店/b8b8eb9a4c0ce587edc89bbbe9da0182_MD5.jpg",
     "_resources/2026-09-08-全球游客为何涌向日本鬼冢虎门店",
     "raw/2026-09-08-要颠覆现实世界，人形机器人需解决“大脑”短板.md",
-    "raw/2026-09-08-全球游客为何涌向日本鬼冢虎门店.md",
     "_resources/2026-09-08-要颠覆现实世界，人形机器人需解决“大脑”短板/37a62061ae9f850d24a846c1b2832fc4_MD5.png",
     "_resources/2026-09-08-要颠覆现实世界，人形机器人需解决“大脑”短板",
     "raw/2026-09-08-机构投资者影响市场走势，散户如何看懂它们的信号.md",
     "raw/2026-09-07-中欧电动卡车初创公司苇渡科技中国员工几乎全部离职.md",
-    "_resources/2026-09-07-中欧电动卡车初创公司苇渡科技中国员工几乎全部离职/650543d35faf8717aca2c8f58a76d32a_MD5.jpg",
     "_resources/2026-09-07-中欧电动卡车初创公司苇渡科技中国员工几乎全部离职",
     "wiki/tech/theres-no-such-thing-as-a-small-software-team.md",
-    "_resources/2026-09-07-数据中心领域的下一个重大机遇：保险业务/f39c4c44184c5d8ee4e5b7183ed3edbd_MD5.jpg",
     "_resources/2026-09-07-数据中心领域的下一个重大机遇：保险业务",
     "raw/2026-09-07-英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路.md",
     "raw/2026-09-07-数据中心领域的下一个重大机遇：保险业务.md",
-    "_resources/2026-09-07-英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路/6b0c9558117dd63a0902461eb17e3bf1_MD5.jpg",
     "_resources/2026-09-07-英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路",
     "raw/2026-09-07-无大学学历的美国人正迎来多年来最好的就业市场之一.md",
     "_resources/2026-09-07-无大学学历的美国人正迎来多年来最好的就业市场之一",
@@ -218,7 +219,6 @@
     "raw/2026-09-07-美国散户把投资组合交由AI智能体管理，甚至给它们起了名字.md",
     "_resources/2026-09-07-美国散户把投资组合交由AI智能体管理，甚至给它们起了名字",
     "raw/2026-09-04-探访华尔街精英荒野营：人人皆对AI热潮心生寒意.md",
-    "_resources/2026-09-04-探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
     "raw/2026-09-04-初创公司创始人恨不得24小时工作，以跟上自家AI智能体.md",
     "raw/2026-09-04-AI的下一次重大飞跃：走进现实世界.md",
     "raw/2026-09-03-“抗AI”资产有哪些？投资人目光投向体育、赌场和旅游业.md",
@@ -227,10 +227,6 @@
     "raw/archive/2026-09-02-海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽.md",
     "wiki/business/theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594.md",
     "raw/archive/2026-09-02-债券市场给全球领导人打出不及格分数.md",
-    "wiki/finance/2026-09-02-bond-market-fails-global-leaders.md",
-    "raw/archive/2026-09-02-你的财商有多高？来跟美国高中生比一比.md",
-    "wiki/finance/2026-09-02-your-financial-quotient-how-high.md",
-    "raw/archive/2026-09-02-中国精品葡萄酒热潮背后的神秘酒庄.md",
-    "wiki/lifestyle/china-premium-wine-boom-mystery-vineyard.md"
+    "wiki/finance/2026-09-02-bond-market-fails-global-leaders.md"
   ]
 }

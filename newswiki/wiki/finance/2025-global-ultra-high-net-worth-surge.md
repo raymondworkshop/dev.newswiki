@@ -36,7 +36,7 @@ topics:
 - [[business/ai-giants-office-ai-application|一览AI巨头如何在自家办公室应用AI]]
 - [[finance/leopold-aschenbrenner-situational-awareness|将Jane Street纳为投资人的24岁AI奇才]]
 - [[finance/jane-street-ai-spotlight|神秘华尔街巨头Jane Street步入AI聚光灯下]]
-- [[tech/my-homelab-ai-dev-platform|My Homelab AI Dev Platform]]
+- [[finance/read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]]
 
 ---
 **Topics**: [[finance/_index|Finance]], [[business/_index|Business]]  

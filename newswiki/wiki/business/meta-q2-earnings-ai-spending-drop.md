@@ -36,5 +36,5 @@ topics:
 
 - [[business/us-nuclear-reactor-construction-oklo|揭秘美国一代人以来首座核反应堆的建设攻关]]
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
+- [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
 - [[business/microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]]
-- [[business/data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]]

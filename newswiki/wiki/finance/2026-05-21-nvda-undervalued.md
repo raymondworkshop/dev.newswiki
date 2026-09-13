@@ -29,7 +29,7 @@ topics:
 
 ## 相关文章
 
-- [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
+- [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]

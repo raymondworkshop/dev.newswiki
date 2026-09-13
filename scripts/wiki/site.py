@@ -27,7 +27,7 @@ RELATED_PARTS_RE = re.compile(
 DISPLAY_ARTICLE_ENTRY_RE = re.compile(
     r'^- <span class="recent-date">(\d{4}-\d{2}-\d{2})</span> (\[\[[^\]]+\|[^\]]+\]\])'
 )
-MORE_ARTICLES_ENTRY = "- [[articles|再睇多啲]]"
+MORE_ARTICLES_ENTRY = "- [[articles|查看更多]]"
 RECENT_ARTICLES_HEADINGS = ("## Recent Articles", "## 近期文章", "## 近排文章")
 
 
@@ -162,9 +162,9 @@ def localize_homepage_for_site(content: str) -> str:
         flags=re.M,
     )
     content = re.sub(r"\n{3,}", "\n\n", content)
-    content = content.replace("## Recent Articles", "## 近排文章", 1)
-    content = content.replace("## 近期文章", "## 近排文章", 1)
-    content = content.replace("## Philosophy", "## 理念", 1)
+    content = content.replace("## Recent Articles", "## 近期文章", 1)
+    content = content.replace("## 近排文章", "## 近期文章", 1)
+    content = content.replace("## Philosophy", "## 編輯方針", 1)
     return content.lstrip()
 
 

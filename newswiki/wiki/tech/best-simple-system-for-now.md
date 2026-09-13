@@ -52,6 +52,10 @@ topics:
 - Early, iterative delivery with high-quality, minimal systems reduces risk and improves long-term maintainability.
 - The BSSN approach fosters a culture of joyful, maintainable code that evolves with user needs.
 
+## Related Articles
+
+- [[tech/my-agent-md-improve-llm-code-quality|My agent.md to improve LLM-assisted code quality]]
+
 ---
 **Topics**: [[tech/best-simple-system-for-now|Best Simple System for Now]]  
 **Tags**: #tech #software-design #agile #code-quality #pragmatic-development

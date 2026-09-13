@@ -1,6 +1,6 @@
 ---
 title: 多角度報道
-description: 同一件事，唔同面向。
+description: 同一件事，不同面向。
 ---
 
 # 多角度報道

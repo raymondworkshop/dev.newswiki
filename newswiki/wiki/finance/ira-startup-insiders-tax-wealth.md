@@ -43,4 +43,4 @@ topics:
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
 - [[finance/wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
-- [[finance/2026-08-31-wall-street-momentum-trading-fails|华尔街动能交易突然遭遇溃败]]
+- [[tech/humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]]

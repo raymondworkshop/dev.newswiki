@@ -39,4 +39,4 @@ topics:
 - [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
-- [[business/korean-chip-leader-s-century-divorce-ai-boom|韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]]
+- [[finance/chip-stocks-rally-hit-wall-optimism|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]]

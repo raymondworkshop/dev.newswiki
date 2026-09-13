@@ -33,7 +33,7 @@ topics:
 
 ## 相关文章
 
+- [[business/south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]]
 - [[business/openai-q2-revenue-slowdown-vs-anthropic|OpenAI第二季度收入增长乏力，增速逊于Anthropic]]
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
-- [[tech/washington-ai-safety-panic|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]]

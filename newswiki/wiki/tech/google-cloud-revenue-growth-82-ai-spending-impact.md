@@ -32,7 +32,7 @@ topics:
 
 ## 相关文章
 
+- [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
 - [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]
 - [[tech/us-nuclear-reactor-construction-smr|揭秘美国一代人以来首座核反应堆的建设攻关]]
-- [[tech/us-smr-nuclear-revival|揭秘美国一代人以来首座核反应堆的建设攻关]]

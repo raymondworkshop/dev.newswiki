@@ -35,7 +35,7 @@ topics:
 
 ## 相关文章
 
-- [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
 - [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]
+- [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
