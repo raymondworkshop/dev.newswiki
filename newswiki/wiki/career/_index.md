@@ -9,6 +9,9 @@
 - **投资视角**: 人力资本、生产率、行业变迁
 
 ## 相关文章
+- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - WSJ专访多位高管投资者：AI时代人类学、数学、哲学等经典学科比CS更具职业韧性
+- [[anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09) - 研究员因AI安全担忧离职，凸显行业风险。
+- [[windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 苇渡科技因拖欠工资导致中国核心团队近乎清零，CEO宣布战略转型放弃自研车身转向软件授权，此前融资承诺与IPO计划与资金枯竭现实严重背离。
 - [[americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07) - 未上过大学的美国年轻劳动力失业率降至近几十年来的罕见低点，而大学毕业生的处境却截然相反。
 - [[bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] (2026-08-26) - 这位亿万富豪兼慈善家呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。
 - [[startup-founders-24-hour-work-ai-agents|初创公司创始人恨不得24小时工作，以跟上自家AI智能体]] (2026-08-24) - AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。

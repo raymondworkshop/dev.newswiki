@@ -1,15 +1,46 @@
 
 
 ## Recent Articles
-- [[tech/humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08)
-- [[finance/read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08)
-- [[business/global-tourists-onitsuka-tiger-japan-stores|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08)
+- [[business/south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-09-10)
+
+- [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14)
+
+- [[career/want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11)
+
+- [[business/pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10)
+
+- [[lifestyle/tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10)
+
+- [[lifestyle/windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10)
+
+- [[business/us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04)
+
+- [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09)
+
+- [[tech/humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08)
+
+- [[business/windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05)
+
+- [[lifestyle/portugal-comporta-coastal-travel-guide|趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇]] (2026-09-09)
+
+- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08)
+
+- [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09)
+
+- [[business/cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07)
+
+- [[finance/institutional-investor-signals-retail-guide|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08)
+
+- [[business/trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08)
+
+- [[business/onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08)
+
+- [[business/the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08)
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] (2026-09-07)
 - [[lifestyle/taiwan-temples-religious-life-china-contrast|漫步于台湾庙宇，我窥见中国另一种可能的模样]] (2026-09-07)
 - [[career/americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07)
 - [[business/data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] (2026-09-07)
 - [[business/moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] (2026-09-07)
-- [[business/windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05)
 - [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] (2026-09-04)
 - [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]] (2026-09-02)
 - [[finance/2026-09-02-your-financial-quotient-how-high|你的财商有多高？来跟美国高中生比一比]] (2026-09-02)
@@ -22,7 +53,6 @@
 - [[finance/2026-08-31-wall-street-momentum-trading-fails|华尔街动能交易突然遭遇溃败]] (2026-08-31)
 - [[lifestyle/china-premium-wine-boom-behind-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31)
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] (2026-08-31)
-- [[business/south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-08-28)
 - [[finance/2026-08-28-us-servicemember-kpmg-employee-are-targets-of-prediction-markets-crackdown|一美军人员与一毕马威员工成为预测市场整治行动的目标]] (2026-08-28)
 - [[finance/ai-stock-picking-performance|AI选股能力真的提升了吗？]] (2026-08-27)
 - [[finance/wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] (2026-08-25)
@@ -300,6 +330,6 @@
 - [[career/fake-job-interview-git-hook-malware|Appaji - Software Engineer]] (2001-07-23)
 
 ## 編輯方針
-- [[connected-stories|串聯敘事與核實來源]]: 以主題線串聯零散報道，論點有據可依
-- [[cross-domain-reporting|多角度報道]]: 同一件事，不同面向
-- [[valuation-and-risk|估值與風險]]: 核心財務指標、估值框架與風險辨識
+- [[connected-stories|串連敘事同核實來源]]: 用主題線串起零散報道，論點有據可依
+- [[cross-domain-reporting|多角度報道]]: 同一件事，唔同面向
+- [[valuation-and-risk|估值同風險]]: 核心財務指標、估值框架同風險辨識

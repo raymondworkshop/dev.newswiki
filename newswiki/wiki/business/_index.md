@@ -9,13 +9,24 @@
 - **投资视角**: 护城河、市占、资本效率
 
 ## 相关文章
-- [[global-tourists-onitsuka-tiger-japan-stores|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
-- [[humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
-- [[read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 追踪股票的价格区间和成交量，能为个人投资者提供线索，帮助他们判断何时买入即将上涨的股票，或抛售势将下跌的股票。
+- [[south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-09-10) - 韩国推进全民AI计划，向全体国民免费开放生成式AI服务。
+- [[ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14) - Anthropic、OpenAI、xAI领袖罕见共识呼吁放缓前沿模型开发，推行第三方安全评估，OpenAI或推迟IPO。
+- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - WSJ专访多位高管投资者：AI时代人类学、数学、哲学等经典学科比CS更具职业韧性
+- [[pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10) - Pacific Fusion建设聚变设施支持美核武器测试，中美俄三方军备竞赛加剧，聚变商业投资热度飙升
+- [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - AI公司员工通过流动性事件获巨额财富，却因时间贫困导致消费克制，支出集中于全款购房、初创投资及健康恢复设施，传统奢侈品渗透有限。
+- [[windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10) - 世界之窗如何重塑纽约餐饮文化与城市认同，从1976年开业到9·11毁灭及其遗产
+- [[us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04) - 美国高校因生源萎缩推行直接录取，学生无需申请即获录取，Common App参与校三年增三倍，十余州跟进，费用透明成新竞争点。
+- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 人形机器人大脑模型记忆瓶颈与突破，Physical Intelligence/Figure AI/英伟达/Alphabet 领跑，投资渠道含 RoboStrategy 与零部件卖铲人。
+- [[windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 苇渡科技因拖欠工资导致中国核心团队近乎清零，CEO宣布战略转型放弃自研车身转向软件授权，此前融资承诺与IPO计划与资金枯竭现实严重背离。
+- [[china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08) - 中国生物制药凭借制造效率与授权模式吸引资金轮动，指数大幅跑赢AI，但面临IP外流与地缘政治双重风险。
+- [[anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09) - Anthropic拟秋季IPO筹资最多1000亿美元、估值约2万亿美元，高盛摩根士丹利任核心承销商，交易所倾向纳斯达克以享指数提前入围红利。
+- [[cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07) - 中国CAR-T疗法凭借成本优势、产品领先与快速制备吸引全球患者，实体瘤突破标志生物技术产业跃升，但临床试验监管透明度存隐忧。
+- [[trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08) - 中国旅游业升级为国家战略，2030 年收入预计达 1.8 万亿美元，但国内游客单价下降、入境游客单价偏低，消费分层明显。
+- [[onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 鬼冢虎上半年销售额增36%，亚瑟士利润增50%，日元贬值与Y2K潮流驱动游客扫货，品牌拟剥离为子公司。
+- [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - Writing as the core organizational work; narrative as business engine; building return channels for AI-era organizations.
 - [[data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] (2026-09-07) - AI超大规模数据中心在建设和运营过程中面临纷繁复杂的潜在威胁。这为保险公司创造了一个巨大的新商机。
 - [[moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] (2026-09-07) - 杨植麟放弃了在美国发展事业的机会，回国创立了月之暗面，其推出的开放权重模型令全球市场为之一震。
 - [[americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07) - 未上过大学的美国年轻劳动力失业率降至近几十年来的罕见低点，而大学毕业生的处境却截然相反。
-- [[windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
 - [[nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] (2026-09-04) - 这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。
 - [[ai-proof-assets-investors-turn-to-sports-casinos-and-tourism|“抗AI”资产有哪些？投资人目光投向体育、赌场和旅游业]] (2026-09-03) - 风险投资人正寻觅不易受到AI快速发展冲击的领域，他们转向线下体验领域：体育团队、标志性地产，甚至儿童玩具。
 - [[theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]] (2026-09-02) - 水清沙白的度假胜地马尔代夫已然成为一条关键暗道，源源不断地将价值数亿美元的西方物资输送到莫斯科。
@@ -26,7 +37,6 @@
 - [[china-premium-wine-boom-behind-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[china-premium-wine-boom-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] (2026-08-29) - 根据新规，中国房主可以为他们的高利率存量房贷进行再融资；新购房者也将被允许获得最长40年的房贷，高于此前30年的上限。
-- [[south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-08-28) - 韩国计划向全体国民免费开放生成式AI服务，这是首个由国家主导的重大项目，韩国官员希望以此避免过度依赖中美两国的模型。
 - [[amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]] (2026-08-26) - 周二，AMD股价上涨。此前一位分析师上调了该股评级，并强调在蓬勃发展的服务器中央处理器市场中，该公司相比竞争对手更具优势。
 - [[leopold-aschenbrenner-ai-prophet|从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网]] (2026-08-26) - 这位24岁的投资者曾被誉为远见卓识的奇才，吸引了数以十亿美元计的资金，最终却沦为华尔街最新的反面教材。
 - [[bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] (2026-08-26) - 这位亿万富豪兼慈善家呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。

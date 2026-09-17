@@ -9,18 +9,21 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - **投资视角**: 算力需求、技术迭代、供应链
 
 ## 相关文章
-- [[humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
+- [[ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14) - Anthropic、OpenAI、xAI领袖罕见共识呼吁放缓前沿模型开发，推行第三方安全评估，OpenAI或推迟IPO。
+- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - WSJ专访多位高管投资者：AI时代人类学、数学、哲学等经典学科比CS更具职业韧性
+- [[pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10) - Pacific Fusion建设聚变设施支持美核武器测试，中美俄三方军备竞赛加剧，聚变商业投资热度飙升
+- [[anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09) - 研究员因AI安全担忧离职，凸显行业风险。
+- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 人形机器人大脑模型记忆瓶颈与突破，Physical Intelligence/Figure AI/英伟达/Alphabet 领跑，投资渠道含 RoboStrategy 与零部件卖铲人。
+- [[anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09) - Anthropic拟秋季IPO筹资最多1000亿美元、估值约2万亿美元，高盛摩根士丹利任核心承销商，交易所倾向纳斯达克以享指数提前入围红利。
+- [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - Writing as the core organizational work; narrative as business engine; building return channels for AI-era organizations.
 - [[data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] (2026-09-07) - AI超大规模数据中心在建设和运营过程中面临纷繁复杂的潜在威胁。这为保险公司创造了一个巨大的新商机。
 - [[moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] (2026-09-07) - 杨植麟放弃了在美国发展事业的机会，回国创立了月之暗面，其推出的开放权重模型令全球市场为之一震。
 - [[us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] (2026-09-07) - 美国人正通过“氛围编程”构建交易算法，并将自己的股票投资组合交由AI智能体打理，运营掌握量化交易策略的“迷你对冲基金”。
-- [[windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
 - [[nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] (2026-09-04) - 这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。
 - [[2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]] (2026-09-02) - 从本周的G20峰会来看，丝毫没有迹象表明当前困扰投资者的赤字、通胀和地缘政治问题将告一段落。
 - [[corporate-profit-america-589e4848|美国企业利润大幅增长，预计未来景气持续]] (2026-08-31) - 美国最大型企业的利润正强劲增长，这些企业的掌舵人表示，这种势头短期内料将延续。
-- [[my-agent-md-improve-llm-code-quality|My agent.md to improve LLM-assisted code quality]] (2026-08-31) - How a personal agent.md file dramatically improves LLM-generated code quality by encoding style rules, architectural principles, and commit conventions.
 - [[nvidia-targets-global-robotics-china-demand-strong|英伟达瞄准全球机器人赛道，中国市场需求强劲]] (2026-08-31) - 英伟达的物理AI业务不断增长，与此同时，中国机器人制造商正依赖美国芯片和软件工具来训练和操作设备。
 - [[2026-08-31-wall-street-momentum-trading-fails|华尔街动能交易突然遭遇溃败]] (2026-08-31) - 押注大涨赢家的“动能交易”骤然沦为输家，让此前依赖其成功的投资者措手不及。
-- [[south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-08-28) - 韩国计划向全体国民免费开放生成式AI服务，这是首个由国家主导的重大项目，韩国官员希望以此避免过度依赖中美两国的模型。
 - [[2026-08-28-us-servicemember-kpmg-employee-are-targets-of-prediction-markets-crackdown|一美军人员与一毕马威员工成为预测市场整治行动的目标]] (2026-08-28) - 知情人士称，这两宗案件可能会在今年秋季提出指控。
 - [[think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]] (2026-08-28) - 包括法国、意大利、英国和日本在内的债务负担沉重的国家，近几个月来面临着巨大压力。
 - [[e9-97-af-e5-85-a5-e6-88-91-e4-bb-ac-e5-ae-b6-e5-ba-ad-e5-81-|闯入我们家庭假期的不速之客：老妈的AI聊天机器人]] (2026-08-28) - 作为一个对AI心存怀疑和恐惧的千禧一代，当我发现年逾七旬的父母竟然迷上了Claude时，那份错愕可想而知。

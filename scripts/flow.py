@@ -27,7 +27,14 @@ def main() -> int:
     args = parser.parse_args()
     path, report = run_flow(args.ticker, range_=args.range, output_dir=args.output_dir)
 
+    risk_label = {
+        "none": "暂时放心",
+        "watch": "留个心眼",
+        "elevated": "要多当心",
+        "high": "比较当心",
+    }.get(report.risk_level, report.risk_level)
     print(f"{report.ticker} 结论: {report.signal}")
+    print(f"当心程度: {risk_label}")
     print()
     print("理由:")
     for reason in report.reasons:

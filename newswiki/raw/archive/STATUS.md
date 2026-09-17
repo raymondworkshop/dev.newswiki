@@ -1,6 +1,6 @@
 # Archive Status
 
-**Last Updated:** 2026-09-12 2026-09-12 2026-09-12 2026-09-10 2026-09-10 2026-09-07 2026-09-07 2026-09-07 2026-09-07 2026-09-07 2026-09-07 2026-09-07 2026-09-07 2026-09-07 2026-09-07 2026-09-03 2026-09-03 2026-09-03 2026-09-03 2026-09-03 2026-09-03 2026-09-03 2026-09-03 2026-09-03 2026-09-03 2026-09-03 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-31 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-27 2026-08-24 2026-08-22 2026-08-22 2026-08-12 2026-08-12 2026-08-12 2026-08-12 2026-08-12 2026-08-12 2026-08-12 2026-08-12 2026-08-12 2026-08-12 2026-08-11 2026-08-11 2026-08-11 2026-08-11 2026-08-11 2026-08-11 2026-08-11 2026-08-11 2026-08-11 2026-08-11 2026-08-11 2026-08-07 2026-08-07 2026-08-07 2026-08-07 2026-08-07 2026-08-07 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-06 2026-08-04 2026-08-04 2026-08-04 2026-08-04 2026-08-04 2026-08-04 2026-08-04 2026-08-04 2026-08-04 2026-08-03 2026-08-03 2026-08-03 2026-08-03 2026-08-03 2026-08-03 2026-08-03 2026-07-31 2026-07-31 2026-07-31 2026-07-31 2026-07-31 2026-07-31 2026-07-31 2026-07-31 2026-07-28 2026-07-28 2026-07-28 2026-07-28 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-27 2026-07-25 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-24 2026-07-21 2026-07-21 2026-07-21 2026-07-21 2026-07-21 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17 2026-07-17
+**Last Updated:** 2026-09-14
 
 ## Compilation Batch: 2026-05-27 (5 articles)
 
@@ -104,10 +104,23 @@ All files compiled from raw/ to wiki/ and then archived here.
 | File | Topic | Wiki Location | Status |
 |------|-------|---------------|--------|
 | 2026-09-10-韩国推进“全民AI”计划，向全体国民免费开放AI服务.md | 商业 | `newswiki/wiki/business/south-korea-ai-for-all-free-generative-ai-citizens.md` | Archived |
-| 2026-09-08-要颠覆现实世界，人形机器人需解决“大脑”短板.md | 科技 | `newswiki/wiki/tech/humanoid-robot-brain-memory-challenge.md` | Archived |
-| 2026-09-07-中欧电动卡车初创公司苇渡科技中国员工几乎全部离职.md | 商业 | `newswiki/wiki/business/windrose-technology-china-staff-exodus.md` | Archived |
-| 2026-09-08-机构投资者影响市场走势，散户如何看懂它们的信号.md | 金融 | `newswiki/wiki/finance/read-institutional-signals.md` | Archived |
-| 2026-09-08-全球游客为何涌向日本鬼冢虎门店.md | 商业 | `newswiki/wiki/business/global-tourists-onitsuka-tiger-japan-stores.md` | Archived |
+| 2026-09-14-三大AI企业掌门人达成共识：模型开发需要降速.md | 科技 | `newswiki/wiki/tech/ai-leaders-call-for-slower-model-development.md` | Archived |
+| 2026-09-11-想在AI时代脱颖而出？去学人类学吧.md | 职场 | `newswiki/wiki/career/want-to-succeed-in-ai-world-study-anthropology.md` | Archived |
+| 2026-09-10-美国借力核聚变突破，升级核武库以抗衡中俄.md | 商业 | `newswiki/wiki/business/pacific-fusion-nuclear-weapons-testing.md` | Archived |
+| 2026-09-10-科技精英赚了超乎想象的钱，却不知该怎么花.md | 生活 | `newswiki/wiki/lifestyle/tech-elites-wealth-spending-dilemma.md` | Archived |
+| 2026-09-10-世贸中心顶楼的一家餐厅如何改变了纽约.md | 生活 | `newswiki/wiki/lifestyle/windows-on-the-world-nyc-culture.md` | Archived |
+| 2026-09-09-美国数百所高校现在不用提交申请就“直接录取”.md | 商业 | `newswiki/wiki/business/us-colleges-direct-admission-no-application.md` | Archived |
+| 2026-09-09-Anthropic研究员因担忧AI“失控”而辞职.md | 科技 | `newswiki/wiki/tech/anthropic-researcher-quits-over-out-of-control-ai-fears.md` | Archived |
+| 2026-09-08-要颠覆现实世界，人形机器人需解决“大脑”短板.md | 科技 | `newswiki/wiki/tech/humanoid-robots-brain-memory-challenge.md` | Archived |
+| 2026-09-07-中欧电动卡车初创公司苇渡科技中国员工几乎全部离职.md | 商业 | `newswiki/wiki/business/windrose-technology-china-layoffs.md` | Archived |
+| 2026-09-09-趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇.md | 生活 | `newswiki/wiki/lifestyle/portugal-comporta-coastal-travel-guide.md` | Archived |
+| 2026-09-09-暂别AI，中国生物制药板块成市场新宠.md | 商业 | `newswiki/wiki/business/china-biopharma-sector-rotation-market-favorite.md` | Archived |
+| 2026-09-09-关于Anthropic计划中的IPO，你需要了解什么？.md | 商业 | `newswiki/wiki/business/anthropic-ipo-what-to-know.md` | Archived |
+| 2026-09-08-癌症患者们正飞往中国寻求前沿疗法.md | 商业 | `newswiki/wiki/business/cancer-patients-seek-car-t-therapy-china.md` | Archived |
+| 2026-09-08-机构投资者影响市场走势，散户如何看懂它们的信号.md | 金融 | `newswiki/wiki/finance/institutional-investor-signals-retail-guide.md` | Archived |
+| 2026-09-08-数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎.md | 商业 | `newswiki/wiki/business/trillion-dollar-tourism-bright-spot-china-economy.md` | Archived |
+| 2026-09-08-全球游客为何涌向日本鬼冢虎门店.md | 商业 | `newswiki/wiki/business/onitsuka-tiger-tourism-boom.md` | Archived |
+| 2026-09-08-The Narrative is the Business.md | Business | `newswiki/wiki/business/the-narrative-is-the-business.md` | Archived |
 | 2026-09-07-英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路.md | 商业 | `newswiki/wiki/business/nvidia-acquires-hugging-face-13b.md` | Archived |
 | 2026-09-07-美国散户把投资组合交由AI智能体管理，甚至给它们起了名字.md | 金融 | `newswiki/wiki/finance/us-retail-investors-ai-agents-portfolio-management.md` | Archived |
 | 2026-09-07-漫步于台湾庙宇，我窥见中国另一种可能的模样.md | 生活 | `newswiki/wiki/lifestyle/taiwan-temples-religious-life-china-contrast.md` | Archived |

@@ -9,7 +9,11 @@
 - **投资视角**: 现金流、杠杆、风险回报
 
 ## 相关文章
-- [[read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 追踪股票的价格区间和成交量，能为个人投资者提供线索，帮助他们判断何时买入即将上涨的股票，或抛售势将下跌的股票。
+- [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - AI公司员工通过流动性事件获巨额财富，却因时间贫困导致消费克制，支出集中于全款购房、初创投资及健康恢复设施，传统奢侈品渗透有限。
+- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 人形机器人大脑模型记忆瓶颈与突破，Physical Intelligence/Figure AI/英伟达/Alphabet 领跑，投资渠道含 RoboStrategy 与零部件卖铲人。
+- [[portugal-comporta-coastal-travel-guide|趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇]] (2026-09-09) - 孔波塔在自然保护区约束下平衡高端旅游开发与原生风貌，附实用预订指南
+- [[china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08) - 中国生物制药凭借制造效率与授权模式吸引资金轮动，指数大幅跑赢AI，但面临IP外流与地缘政治双重风险。
+- [[institutional-investor-signals-retail-guide|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 解读机构吸筹/派发足迹，涨跌量比率、价格区间与图表工具实战指南
 - [[us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] (2026-09-07) - 美国人正通过“氛围编程”构建交易算法，并将自己的股票投资组合交由AI智能体打理，运营掌握量化交易策略的“迷你对冲基金”。
 - [[ai-proof-assets-investors-turn-to-sports-casinos-and-tourism|“抗AI”资产有哪些？投资人目光投向体育、赌场和旅游业]] (2026-09-03) - 风险投资人正寻觅不易受到AI快速发展冲击的领域，他们转向线下体验领域：体育团队、标志性地产，甚至儿童玩具。
 - [[theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]] (2026-09-02) - 水清沙白的度假胜地马尔代夫已然成为一条关键暗道，源源不断地将价值数亿美元的西方物资输送到莫斯科。

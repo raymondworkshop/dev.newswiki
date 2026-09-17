@@ -9,6 +9,7 @@
 - **投资视角**: 用户粘性、设计护城河、工具链
 
 ## 相关文章
+- [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - Writing as the core organizational work; narrative as business engine; building return channels for AI-era organizations.
 - [[ukraine-fire-point-ceo-iryna-terekh|重创俄军的乌克兰无人机出自一位90后家具设计师之手]] (2026-08-17) - 34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。
 - [[seven-books-i-keep-close|Seven books I keep close because I love them]] (2026-08-17) - From the highly eclectic blog of Mark Dominus
 - [[pentaton-lp|Pentaton LP • Pentaton]] (2026-08-11) - A vinyl-sleeve-sized music streamer designed to make digital music feel analog again through a high-resolution display for cover art.

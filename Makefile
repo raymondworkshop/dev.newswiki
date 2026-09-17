@@ -58,7 +58,7 @@ help:
 	@echo "  make query QUESTION=\"What is Nvidia's moat?\""
 	@echo "  make audit"
 	@echo "  make analyze TICKER=MSFT"
-	@echo "  make flow TICKER=SPY                   价量买卖痕迹提示"
+	@echo "  make flow TICKER=SPY                   看最近是不是更像有人在卖"
 	@echo "  make site                              build Quartz"
 	@echo "  make site SERVE=1 SITE_PORT=8081       local preview"
 	@echo "  make site DEPLOY=1                     build + Cloudflare Pages"

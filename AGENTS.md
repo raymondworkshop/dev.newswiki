@@ -136,4 +136,4 @@ Read-only health check (broken links, gaps, thin/unsupported claims). Recommend 
 
 ## flow
 
-`python3 scripts/flow.py <ticker>` → `outputs/<ticker>_flow.md`. Price/volume accumulation vs distribution heuristics (up/down volume ratio, weekly high/low closes with volume, distribution days). Complementary to `analyze`; not investment advice.
+`python3 scripts/flow.py <ticker>` → `outputs/<ticker>_flow.md`. Plain-language, risk-asymmetric sell/buy volume heuristics (8-week sell window, 4-week recent check, up/down volume ratio, weekly high/low closes with volume). Buy footprints are secondary. Complementary to `analyze`; not investment advice.
