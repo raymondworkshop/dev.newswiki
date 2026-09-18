@@ -50,7 +50,10 @@ export const defaultContentPageLayout: PageLayout = {
         return slug !== "index" && !/\/index$/.test(slug)
       },
     }),
-    Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.ArticleTopics(),
+      condition: isArticlePage,
+    }),
   ],
   left: [
     ...leftChrome,
@@ -59,14 +62,9 @@ export const defaultContentPageLayout: PageLayout = {
       condition: isArticlePage,
     }),
   ],
-  // Desktop articles only: local graph in the right rail.
-  right: [
-    Component.ConditionalRender({
-      component: Component.DesktopUp(Component.Graph()),
-      condition: isArticlePage,
-    }),
-  ],
-  // All viewports: Backlinks after the body, above Stay Updated / ©.
+  // Keep article pages two-column (no graph rail) for a cleaner read.
+  right: [],
+  // Article pages: Backlinks after body; client moves it above「相關文章」when present.
   afterBody: [
     Component.ConditionalRender({
       component: Component.Backlinks(),

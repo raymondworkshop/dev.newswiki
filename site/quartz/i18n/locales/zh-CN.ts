@@ -22,8 +22,8 @@ export default {
       quote: "引用",
     },
     backlinks: {
-      title: "提到本文",
-      noBacklinksFound: "暂无其他文章提到本文",
+      title: "也提到这篇",
+      noBacklinksFound: "暂无其他文章也提到这篇",
     },
     themeToggle: {
       lightMode: "亮色模式",

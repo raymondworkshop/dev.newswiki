@@ -28,6 +28,7 @@ import HomeAside from "./HomeAside"
 import StayUpdated from "./StayUpdated"
 import DesktopUp from "./DesktopUp"
 import BelowDesktop from "./BelowDesktop"
+import ArticleTopics from "./ArticleTopics"
 
 export {
   ArticleTitle,
@@ -43,6 +44,7 @@ export {
   TableOfContents,
   Explorer,
   TagList,
+  ArticleTopics,
   Graph,
   Backlinks,
   Search,

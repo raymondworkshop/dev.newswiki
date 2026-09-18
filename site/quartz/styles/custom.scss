@@ -35,10 +35,23 @@ html {
   }
 }
 
-.page > #quartz-body .center > article {
-  max-width: 44rem;
-  margin-left: auto;
-  margin-right: auto;
+// One reading column shared by header / body / 訂閱 / ©.
+.page > #quartz-body {
+  --reading-width: 44rem;
+}
+
+body[data-slug="index"] .page > #quartz-body {
+  --reading-width: 48rem;
+}
+
+// Fill the reading column — do not re-center with a different max-width.
+.page > #quartz-body .center article,
+.page > #quartz-body .center > .page-header,
+.page > #quartz-body .center > .popover-hint {
+  max-width: none;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
   box-sizing: border-box;
 }
 
@@ -63,7 +76,7 @@ html {
 
 .left.sidebar {
   border-right: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
-  padding-right: 0.5rem;
+  padding-right: 1.15rem;
 }
 
 .right.sidebar {
@@ -151,10 +164,16 @@ html {
       }
     }
 
-    .center > article {
+    .center > article,
+    .center > .popover-hint > article {
       max-width: 100%;
       margin-left: 0;
       margin-right: 0;
+    }
+
+    > .center > .page-header,
+    > .center > .popover-hint {
+      max-width: 100%;
     }
 
     .center > .page-footer .backlinks {
@@ -163,11 +182,11 @@ html {
   }
 }
 
-// Home + topic indexes: two-column desktop (no empty right rail).
-body[data-slug="index"] .page > #quartz-body,
-body[data-slug$="/index"] .page > #quartz-body {
+// Two-column desktop everywhere (no empty / graph right rail).
+.page > #quartz-body {
   @media all and (min-width: 900px) {
-    grid-template-columns: 260px auto;
+    grid-template-columns: 260px minmax(0, 1fr);
+    column-gap: 2.75rem;
     grid-template-areas:
       "grid-sidebar-left grid-header"
       "grid-sidebar-left grid-center"
@@ -176,13 +195,39 @@ body[data-slug$="/index"] .page > #quartz-body {
     > .sidebar.right {
       display: none;
     }
+
+    // .center must own the content column (Quartz only grid-areas the
+    // nested article/header, so without this it auto-places and drifts).
+    > .center {
+      grid-row: 1 / 3;
+      grid-column: 2;
+      justify-self: center;
+      width: 100%;
+      max-width: var(--reading-width);
+      min-width: 0;
+      box-sizing: border-box;
+
+      > .page-header,
+      article {
+        grid-area: auto;
+      }
+    }
+
+    > footer {
+      justify-self: center;
+      width: 100%;
+      max-width: var(--reading-width);
+      margin-left: 0;
+      margin-right: 0;
+      box-sizing: border-box;
+    }
   }
 }
 
-// Backlinks after article body (all viewports), above Stay Updated / ©.
-.page > #quartz-body .center > .page-footer .backlinks {
-  margin: 0.75rem 0 0.35rem;
-  max-width: 44rem;
+// Backlinks: in page-footer by default; JS may move above「相關文章」inside article.
+.page > #quartz-body .center .backlinks {
+  max-width: none;
+  width: 100%;
 }
 
 // Search: full-width rounded field like mockup
@@ -324,15 +369,16 @@ footer {
   opacity: 1;
 }
 
-// Align footer block with article column (override base footer margin-left: 0).
+// Align footer block with reading column (override base footer margin-left: 0).
 .page > #quartz-body > footer {
-  width: min(100%, 44rem);
+  width: 100%;
   min-width: 0;
-  max-width: 44rem;
+  max-width: var(--reading-width);
   margin-left: auto;
   margin-right: auto;
   position: relative;
   z-index: 2;
+  box-sizing: border-box;
 }
 
 // When the right sidebar stacks above the footer (< desktop), keep the
@@ -392,13 +438,11 @@ footer {
 
 body[data-slug$="/index"]:not([data-slug="index"]),
 body[data-slug="articles"] {
-  .page > #quartz-body .center > article {
-    max-width: 46rem;
-  }
+  // Reading width comes from --reading-width on .center / footer.
 
   // Quiet breadcrumbs only (title/meta hidden in layout)
   .page-header {
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.85rem;
 
     .article-title,
     .content-meta {
@@ -406,77 +450,105 @@ body[data-slug="articles"] {
     }
 
     .breadcrumb-container {
-      opacity: 0.72;
-      font-size: 0.88rem;
-      margin-bottom: 0.75rem;
+      opacity: 0.78;
+      font-size: 0.95rem;
+      margin-bottom: 1rem;
     }
   }
 
   article > h1:first-of-type {
-    margin-top: 0.15rem;
-    font-size: 2.35rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.65rem;
+    font-size: 1.55rem;
     font-weight: 700;
-    letter-spacing: -0.035em;
-    line-height: 1.15;
+    letter-spacing: -0.02em;
+    line-height: 1.22;
     color: var(--dark);
     border-bottom: none;
   }
 
-  // 概述 lead
+  // Topic dek: lead paragraph under title (no 概述 heading)
+  article > h1:first-of-type + p,
+  article:has(h2[id="文章"]) > p:first-of-type {
+    margin: 0 0 2.75rem;
+    max-width: 34rem;
+    font-size: 1.12rem;
+    line-height: 1.65;
+    font-weight: 450;
+    color: color-mix(in srgb, var(--darkgray) 78%, var(--gray));
+  }
+
+  // Legacy 概述 heading (if any) — hide label, keep following p as dek
   article > h2[id="概述"],
   article > h2[id="overview"] {
-    margin-top: 1.35rem;
-    margin-bottom: 0.45rem;
-    border-bottom: none;
-    padding-bottom: 0;
-    font-size: 0.78rem;
-    font-weight: 650;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: color-mix(in srgb, var(--darkgray) 70%, var(--secondary));
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
   }
 
   article > h2[id="概述"] + p,
   article > h2[id="overview"] + p {
-    margin: 0 0 1.75rem;
-    max-width: 38rem;
-    font-size: 1.08rem;
-    line-height: 1.7;
-    color: color-mix(in srgb, var(--darkgray) 88%, var(--gray));
+    margin: 0 0 2.75rem;
+    max-width: 34rem;
+    font-size: 1.12rem;
+    line-height: 1.65;
+    font-weight: 450;
+    color: color-mix(in srgb, var(--darkgray) 78%, var(--gray));
   }
 
-  // 核心指标 as soft chips/cards
+  // Topic section titles — same readable size for 文章 / 看点
+  article > h2[id="文章"],
+  article > h2[id="看点"],
+  article > h2[id="看點"],
+  article > h2[id="看什么"],
+  article > h2[id="看什麼"],
+  article > h2[id="重点"],
+  article > h2[id="重點"],
+  article > h2[id="核心指标"],
   article > h2[id="核心指標"],
   article > h2[id="core-metrics"],
   article > h2[id="key-metrics"] {
-    margin-top: 0.5rem;
-    margin-bottom: 0.75rem;
+    margin-top: 2.75rem;
+    margin-bottom: 0.85rem;
     border-bottom: none;
     padding-bottom: 0;
-    font-size: 0.78rem;
+    font-size: 1.2rem;
     font-weight: 650;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: color-mix(in srgb, var(--darkgray) 70%, var(--secondary));
+    letter-spacing: -0.02em;
+    text-transform: none;
+    color: color-mix(in srgb, var(--dark) 94%, var(--secondary));
   }
 
+  article > h2[id="看点"] + ul,
+  article > h2[id="看點"] + ul,
+  article > h2[id="看什么"] + ul,
+  article > h2[id="看什麼"] + ul,
+  article > h2[id="重点"] + ul,
+  article > h2[id="重點"] + ul,
+  article > h2[id="核心指标"] + ul,
   article > h2[id="核心指標"] + ul,
   article > h2[id="core-metrics"] + ul,
   article > h2[id="key-metrics"] + ul {
     list-style: none;
     padding: 0;
-    margin: 0 0 2rem;
+    margin: 0 0 1.5rem;
     display: grid;
-    gap: 0.55rem;
+    gap: 0.7rem;
 
     > li {
       margin: 0;
-      padding: 0.8rem 0.95rem;
-      border: 1px solid color-mix(in srgb, var(--lightgray) 88%, transparent);
-      border-radius: 10px;
-      background: color-mix(in srgb, var(--light) 94%, var(--secondary));
-      line-height: 1.55;
-      color: color-mix(in srgb, var(--darkgray) 90%, var(--gray));
+      padding: 0.95rem 1.05rem;
+      border: 1px solid color-mix(in srgb, var(--lightgray) 82%, transparent);
+      border-radius: 12px;
+      background: color-mix(in srgb, var(--light) 96%, var(--secondary));
+      line-height: 1.6;
+      color: color-mix(in srgb, var(--darkgray) 88%, var(--gray));
 
       strong {
         color: var(--dark);
@@ -500,36 +572,39 @@ body[data-slug="articles"] {
     }
   }
 
-  // 相关文章 / 相關文章 — dated editorial rows
+  // 文章 (topic list; legacy 相关文章) — same title size as 看点
+  article > h2[id="文章"],
   article > h2[id="相关文章"],
   article > h2[id="相關文章"],
   article > h2[id="related-articles"] {
-    margin-top: 0.75rem;
-    margin-bottom: 0.35rem;
+    margin-top: 0.35rem;
+    margin-bottom: 0.85rem;
     border-bottom: none;
     padding-bottom: 0;
-    font-size: 1.05rem;
+    font-size: 1.2rem;
     font-weight: 650;
-    letter-spacing: -0.015em;
-    color: var(--dark);
+    letter-spacing: -0.02em;
+    text-transform: none;
+    color: color-mix(in srgb, var(--dark) 94%, var(--secondary));
   }
 
+  article > h2[id="文章"] + ul,
   article > h2[id="相关文章"] + ul,
   article > h2[id="相關文章"] + ul,
   article > h2[id="related-articles"] + ul {
     list-style: none;
     padding: 0;
-    margin: 0.35rem 0 2rem;
+    margin: 0.15rem 0 1.25rem;
 
     > li {
       position: relative;
       display: grid;
       grid-template-columns: 6.75rem minmax(0, 1fr) 1.15rem;
       align-items: start;
-      gap: 0.65rem 0.75rem;
+      gap: 0.35rem 1rem;
       margin: 0;
-      padding: 0.9rem 0;
-      border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 75%, transparent);
+      padding: 1.2rem 0;
+      border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
       line-height: 1.45;
 
       &:last-child {
@@ -538,11 +613,11 @@ body[data-slug="articles"] {
 
       .recent-date {
         grid-row: 1;
-        font-size: 0.82rem;
+        font-size: 0.8rem;
         color: var(--gray);
         font-variant-numeric: tabular-nums;
         white-space: nowrap;
-        padding-top: 0.12rem;
+        padding-top: 0.2rem;
       }
 
       > a.internal {
@@ -552,7 +627,9 @@ body[data-slug="articles"] {
         padding: 0;
         font-weight: 650;
         color: var(--dark);
-        font-size: 1.02rem;
+        font-size: 1.05rem;
+        line-height: 1.35;
+        letter-spacing: -0.015em;
 
         &:hover,
         &:focus-visible {
@@ -564,11 +641,11 @@ body[data-slug="articles"] {
       .topic-blurb {
         grid-column: 2;
         display: block;
-        margin-top: 0.2rem;
-        font-size: 0.9rem;
+        margin-top: 0.4rem;
+        font-size: 0.88rem;
         font-weight: 400;
-        line-height: 1.55;
-        color: color-mix(in srgb, var(--darkgray) 72%, var(--gray));
+        line-height: 1.6;
+        color: color-mix(in srgb, var(--darkgray) 62%, var(--gray));
       }
 
       &::after {
@@ -579,7 +656,8 @@ body[data-slug="articles"] {
         font-size: 1.15rem;
         justify-self: end;
         line-height: 1;
-        padding-top: 0.1rem;
+        padding-top: 0.15rem;
+        opacity: 0.7;
       }
 
       &:has(a[href$="/articles"]),
@@ -588,7 +666,8 @@ body[data-slug="articles"] {
       &:has(a[href="../articles"]),
       &:has(a[href="./articles"]) {
         display: block;
-        padding-top: 1rem;
+        padding-top: 1.25rem;
+        padding-bottom: 0.35rem;
 
         &::after {
           content: none;
@@ -603,21 +682,15 @@ body[data-slug="articles"] {
     }
   }
 
-  // 相关主题 quieter
+  // 相关主题 removed — left nav already lists topics.
   article > h2[id="相关主题"],
-  article > h2[id="相關主題"] {
-    margin-top: 2rem;
-    opacity: 0.8;
-    border-bottom-color: transparent;
-    font-size: 0.95rem;
-  }
-
+  article > h2[id="相關主題"],
   article > h2[id="相关主题"] + ul,
   article > h2[id="相關主題"] + ul {
-    @include editorial-list;
-    opacity: 0.85;
+    display: none !important;
   }
 }
+
 
 body[data-slug="articles"] {
   article > ul {
@@ -627,16 +700,6 @@ body[data-slug="articles"] {
 
 // Homepage — match editorial demo mockup
 body[data-slug="index"] {
-  .page > #quartz-body .center > article {
-    max-width: 48rem;
-  }
-
-  // Keep footer left edge aligned with homepage article column.
-  .page > #quartz-body > footer {
-    width: min(100%, 48rem);
-    max-width: 48rem;
-  }
-
   article a[role="anchor"] {
     display: none;
   }
@@ -783,16 +846,16 @@ body[data-slug="index"] {
   article > h2#近排文章 + ul {
     list-style: none;
     padding: 0;
-    margin: 0.35rem 0 2rem;
+    margin: 0.25rem 0 0.5rem;
 
     > li {
       position: relative;
       display: grid;
       grid-template-columns: 6.75rem minmax(0, 1fr) 1.25rem;
-      align-items: baseline;
-      gap: 0.75rem;
+      align-items: start;
+      gap: 0.35rem 0.75rem;
       margin: 0;
-      padding: 0.85rem 0;
+      padding: 0.95rem 0;
       border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 75%, transparent);
       line-height: 1.45;
 
@@ -801,18 +864,24 @@ body[data-slug="index"] {
       }
 
       .recent-date {
+        grid-row: 1;
         font-size: 0.82rem;
         color: var(--gray);
         font-variant-numeric: tabular-nums;
         white-space: nowrap;
+        padding-top: 0.15rem;
       }
 
       > a.internal {
+        grid-column: 2;
         text-decoration: none;
         background: transparent;
         padding: 0;
         font-weight: 600;
         color: var(--dark);
+        font-size: 1.02rem;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
 
         &:hover,
         &:focus-visible {
@@ -821,12 +890,25 @@ body[data-slug="index"] {
         }
       }
 
+      .topic-blurb {
+        grid-column: 2;
+        display: block;
+        margin-top: 0.28rem;
+        font-size: 0.88rem;
+        font-weight: 400;
+        line-height: 1.55;
+        color: color-mix(in srgb, var(--darkgray) 62%, var(--gray));
+      }
+
       &::after {
         content: "›";
+        grid-column: 3;
+        grid-row: 1;
         color: var(--gray);
         font-size: 1.15rem;
         justify-self: end;
         line-height: 1;
+        padding-top: 0.12rem;
       }
 
       // "More" link — quieter, no date/chevron layout
@@ -835,7 +917,8 @@ body[data-slug="index"] {
       &:has(a[href="articles"]),
       &:has(a[href="./articles"]) {
         display: block;
-        padding-top: 1rem;
+        padding-top: 0.7rem;
+        padding-bottom: 0.15rem;
 
         &::after {
           content: none;
@@ -850,11 +933,12 @@ body[data-slug="index"] {
     }
   }
 
-  // 編輯方針 — directly after Recent Articles
+  // 編輯原則 — after subscribe band on home
   article > h2#philosophy,
-  article > h2#編輯方針 {
-    margin-top: 0.5rem;
-    margin-bottom: 0.85rem;
+  article > h2#編輯方針,
+  article > h2#編輯原則 {
+    margin-top: 2.75rem;
+    margin-bottom: 0.75rem;
     border-bottom: none;
     padding-bottom: 0;
     font-size: 1.05rem;
@@ -865,10 +949,11 @@ body[data-slug="index"] {
   }
 
   article > h2#philosophy + ul,
-  article > h2#編輯方針 + ul {
+  article > h2#編輯方針 + ul,
+  article > h2#編輯原則 + ul {
     list-style: none;
     padding: 0;
-    margin: 0 0 2rem;
+    margin: 0;
 
     > li {
       margin: 0;
@@ -897,3 +982,125 @@ body[data-slug="index"] {
     }
   }
 }
+
+// Article pages — breathe: drop duplicate chrome, open vertical rhythm
+body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="articles"]):not([data-slug^="tags/"]) {
+  .page > #quartz-body .center > .page-header {
+    margin-bottom: 1.85rem;
+
+    .breadcrumb-container {
+      opacity: 0.78;
+      font-size: 0.95rem;
+    }
+
+    .article-title {
+      margin: 0.55rem 0 0.4rem;
+      font-size: 1.9rem;
+      line-height: 1.28;
+      letter-spacing: -0.03em;
+    }
+
+    .content-meta {
+      margin: 0 0 0.45rem;
+      font-size: 0.92rem;
+      line-height: 1.5;
+    }
+
+    .article-topics {
+      margin: 0 0 0.35rem;
+    }
+
+    .tags {
+      margin: 0;
+      gap: 0.45rem;
+    }
+  }
+
+  // Wiki body repeats the page title as `# [title](source)` — keep source in meta instead.
+  .page > #quartz-body .center > article > h1:first-of-type {
+    display: none;
+  }
+
+  .page > #quartz-body .center > article {
+    > h2 {
+      margin-top: 2.35rem;
+      margin-bottom: 0.85rem;
+      font-size: 1.2rem;
+      font-weight: 650;
+      letter-spacing: -0.02em;
+      line-height: 1.28;
+      border-bottom: none;
+      padding-bottom: 0;
+      color: color-mix(in srgb, var(--dark) 94%, var(--secondary));
+    }
+
+    > h2:first-of-type {
+      margin-top: 0.35rem;
+    }
+
+    > ul {
+      margin: 0.35rem 0 1.85rem;
+      padding-left: 1.15rem;
+
+      > li {
+        margin: 0;
+        padding: 0.55rem 0;
+        line-height: 1.72;
+
+        & + li {
+          border-top: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
+        }
+      }
+    }
+
+    > p {
+      margin: 0.85rem 0;
+      line-height: 1.78;
+    }
+  }
+
+  // Column gap is owned by the shared desktop grid rule above.
+}
+
+// [AI Synthesis] label — quiet badge so inference is visible but not loud
+span.ai-synthesis {
+  display: inline;
+  font-weight: 650;
+  font-size: 0.86em;
+  letter-spacing: 0.02em;
+  color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 12%, var(--light));
+  border: 1px solid color-mix(in srgb, var(--secondary) 22%, transparent);
+  border-radius: 4px;
+  padding: 0.08em 0.38em;
+  margin-right: 0.35em;
+  white-space: nowrap;
+  vertical-align: baseline;
+}
+
+:root[saved-theme="dark"] span.ai-synthesis,
+html[data-theme="dark"] span.ai-synthesis {
+  background: color-mix(in srgb, var(--secondary) 18%, var(--light));
+  border-color: color-mix(in srgb, var(--secondary) 28%, transparent);
+}
+
+// Article lead: key_takeaways as 1 sentence before 要点
+body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="articles"]):not([data-slug^="tags/"]) {
+  .page > #quartz-body .center > article {
+    // Lead paragraphs sit between (hidden) body H1 and ## 要点
+    > h1:first-of-type + p,
+    > h1:first-of-type + p + p {
+      margin: 0 0 1.1rem;
+      max-width: 38rem;
+      font-size: 1.2rem;
+      line-height: 1.65;
+      font-weight: 500;
+      color: color-mix(in srgb, var(--darkgray) 92%, var(--secondary));
+    }
+
+    > h1:first-of-type + p + p {
+      margin-bottom: 1.35rem;
+    }
+  }
+}
+

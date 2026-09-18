@@ -12,7 +12,9 @@ topics:
 
 # [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
 
-## Core View
+Habit formation through intentional substitution of screen time with reading increases reading volume.
+
+## Key Points
 - Read every time you're not doing something else; replace screen time with book time.
 - Remove social media and streaming apps to reduce phone dependency and build mental habit loops.
 - Carry a physical or digital book with you everywhere — use an ebook reader for portability and features like highlighting and backlit reading.
@@ -27,17 +29,9 @@ topics:
 - Avoid speed reading, summaries, and audiobooks; reading physical text builds focus and comprehension.
 - Use public transport, cooking, or walking as natural reading opportunities — these are low-effort, high-impact reading moments.
 
-## Key Takeaways
-- Habit formation through intentional substitution of screen time with reading increases reading volume.
-- Physical and digital tools (e.g., ebook readers) can support reading but should be used in tandem to preserve the experience of reading.
-- A personal library and intentional curation improve long-term engagement with books and knowledge retention.
-- Reading is a form of self-directed learning and personal development — it builds cognitive flexibility and empathy through diverse perspectives.
 
 ## Related Articles
 
 - [[design/Product-Design-Ello-Real-Time-Response|Ello Listens, Adapts & Responds in Real Time]]
 - [[design/pentaton-lp|Pentaton LP • Pentaton]]
 
----
-**Topics**: [[design/_index|Design]]  
-**Tags**: #design #product-design #self-hosted-experiences #habit-forming

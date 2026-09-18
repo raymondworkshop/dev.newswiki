@@ -11,8 +11,6 @@ Curated hub for articles related to 数据中心.
 
 ## 相关文章
 
-- [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]] · #tech
-- [[tech/ai-calculation-competition|AI巨头派发大量免费算力，争夺初创公司市场份额]] · #tech
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]] · #business
 - [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]] · #tech
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]] · #tech
@@ -39,7 +37,7 @@ Curated hub for articles related to 数据中心.
 - [[tech/2026-highest-performing-stocks|盘点2026年上半年标普500指数表现最好的20只股票]] · #tech
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] · #business
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]] · #finance
-- [[business/micron-tech-market-importance|美光科技已成“市场上最重要的股票”，现在该担心了吗？]] · #business
+- [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]] · #tech
 - [[tech/ai-infrastructure-transaction|美国数据中心开发商计划出售价值数百亿美元的股权]] · #tech
 - [[finance/us-stock-market-bubbles|美股擅长制造泡沫，也能从容化解]] · #finance
 - [[business/ibm-stock-crash-why-not-worried|股价单日暴跌25%，IBM首席执行官为何不担心?]] · #business
@@ -51,6 +49,7 @@ Curated hub for articles related to 数据中心.
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] · #career
 - [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]] · #finance
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]] · #finance
+- [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]] · #finance
 - [[business/hormuz-crisis-economic-lessons|霍尔木兹危机带给全球经济的五大启示]] · #business
 - [[business/korean-chip-leader-s-century-divorce-ai-boom|韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]] · #business
 

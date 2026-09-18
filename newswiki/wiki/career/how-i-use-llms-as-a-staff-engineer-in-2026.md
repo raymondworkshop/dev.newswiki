@@ -8,7 +8,9 @@ topics:
 
 # [How I use LLMs as a staff engineer in 2026](https://www.seangoedecke.com/how-i-use-llms-in-2026/)
 
-## Core View
+LLMs are now trusted for full PR generation in familiar domains, reducing manual effort and accelerating development cycles.
+
+## Key Points
 - Use LLMs for smart autocomplete with Copilot and for short tactical changes in unfamiliar domains, always reviewed by a SME.
 - Write use-once-and-throwaway research code and ask targeted questions to learn about new topics like Unity game engine.
 - Use LLMs for last-resort bugfixes and for big-picture proofreading of long-form English communication.
@@ -28,17 +30,9 @@ topics:
 - [AI Synthesis] Agents now operate with greater autonomy and recover from errors more effectively than early versions, though human oversight remains critical for complex or ambiguous cases.
 - [AI Synthesis] Human expertise is still essential in narrowing down bug search space — the engineer actively provides context, builds mental models, and guides agent sessions to improve accuracy.
 
-## Key Takeaways
-- LLMs are now trusted for full PR generation in familiar domains, reducing manual effort and accelerating development cycles.
-- Bug diagnosis has improved dramatically, with 80% of issues resolved autonomously by agents when given sufficient context.
-- Human review remains essential — even with powerful agents, rejection rates are high due to misaligned intent or over-optimization.
-- Testing and local setup tasks are now efficiently delegated to agents, reducing time spent on trivial debugging.
-- The core balance is shifting toward AI automation, but human judgment and oversight are still required for quality and trust.
-
 ## Related Articles
 
-- [[tech/ai-password-handover-experiment|把密码交给AI是一种什么体验？我做了一次实测]]
-
----
-**Topics**: [[career/ai-impact|AI and Employment Trends]], [[career/ai-in-the-workplace|AI in Professional Practice]], [[tech/ai-agent-tools|AI Agents and Development Tools]]  
-**Tags**: #ai-in-career #staff-engineering #ai-automation
+- [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]
+- [[career/ai-removing-middle-class-software-engineering|AI is removing the middle class of software engineering]]
+- [[career/llm-burnout-impact|I Think I Have LLM Burnout]]

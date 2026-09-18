@@ -12,7 +12,9 @@ topics:
 
 # [航空公司真的不想让你买最便宜的机票](https://cn.wsj.com/articles/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%83%B3%E8%AE%A9%E4%BD%A0%E4%B9%B0%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E6%9C%BA%E7%A5%A8-870c45d7?mod=cn_hp_life_pos1)
 
-## 核心观点
+基础经济舱已演变为一种“诱饵”定价，旨在通过剥离基础服务引导用户支付更高票价。
+
+## 要点
 - 航空公司通过不断收紧基础经济舱（Basic Economy）的限制，将原本的基础服务转化为“追加销售”（Upselling）机会，迫使旅客升级至普通经济舱。
 - 限制范围已从早期的选座和行李，扩展到取消政策、忠诚度计划（里程累积）以及贵宾室使用权。
 - 不同航司的策略差异：[[business/airline-basic-economy-restrictions|美国航空]]和[[business/airline-basic-economy-restrictions|达美航空]]在里程累积上最为严格；[[business/airline-basic-economy-restrictions|美联航]]则利用基础经济舱强推其联名信用卡。
@@ -25,11 +27,4 @@ topics:
 - **美国西南航空 (Southwest)**：虽允许免费取消，但基础经济舱积分有效期缩短至6个月（从预订起算）。
 - **JetBlue & 阿拉斯加航空**：JetBlue 提高取消手续费至150美元；阿拉斯加航空 (Saver票价) 停止累积里程且取消政策极其严格（起飞前14天内取消则机票作废）。
 
-## 核心要点
-- 基础经济舱已演变为一种“诱饵”定价，旨在通过剥离基础服务引导用户支付更高票价。
-- 旅客在购买低价票前需重点核实：里程累积资格、取消手续费、以及是否必须通过官方渠道购买。
-- 航司正将忠诚度福利与特定金融产品（如信用卡）深度绑定，以增加用户切换成本。
 
----
-**主题**: [[business/_index|Business]]  
-**标签**: #business #airline-industry #pricing-strategy

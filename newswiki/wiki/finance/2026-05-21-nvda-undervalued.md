@@ -6,30 +6,13 @@ topics:
   - tech
 ---
 
-# 即使市值高达5万亿美元，英伟达依然被低估
+# 即使市值高达5万亿美元，[[hubs/nvidia|英伟达]]依然被低估
 
-- **核心观点**：尽管英伟达 (NVDA) 市值已突破5.4万亿美元，但由于其极高的增长速度和相对合理的估值，依然具有投资价值。
-- **财务表现**：连续14个财季收入和利润超出华尔街预期。
-- **市场地位**：在GPU领域保持绝对优势，且正在快速扩张CPU业务（本财年可见度达200亿美元），直接竞争 [[Intel]]。
-- **估值逻辑**：
-    - 当前季度预计收入910亿美元，同比翻倍。
-    - 在同等规模的公司中，英伟达的增长速度（近100%）远超平均水平（14%）。
-- **主要客户动向**：[[hubs/spacex|SpaceX]] (xAI) 等公司资本支出巨大，主要投向 Grace Blackwell 系统。
-- **风险/挑战**：市场注意力分散到“第二/第三梯队”AI受益者（如 [[Micron]]），以及 [[OpenAI]]/SpaceX 可能的 IPO 吸引资金。
-
-## Key Takeaways
-- 英伟达不再仅仅是GPU公司，其数据中心全栈能力（CPU + GPU + 网络）正全面爆发。
-- 规模效应显著：巨大的研发投入换取了遥遥领先的市场地位。
-- 市场“冷漠”期往往是价值投资者的观察窗口。
-
----
-**Source**: [[2026-05-27-即使市值高达5万亿美元，英伟达依然被低估]]
-**Topics**: [[finance/_index|Finance]], [[tech/_index|Tech]]  
-**Tags**: #nvda #ai-chips #value-investing
+[[hubs/nvidia|英伟达]]不再仅仅是[[hubs/gpu|GPU]]公司，其[[hubs/ai-infrastructure|数据中心]]全栈能力（CPU + [[hubs/gpu|GPU]] + 网络）正全面爆发。
 
 ## 相关文章
 
-- [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
-- [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
+- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
+- [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
-- [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
+- [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]

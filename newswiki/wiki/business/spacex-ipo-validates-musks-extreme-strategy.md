@@ -13,8 +13,10 @@ topics:
 
 # [SpaceX上市印证了马斯克“极致”战略的威力](https://cn.wsj.com/articles/spacex%E4%B8%8A%E5%B8%82%E5%8D%B0%E8%AF%81%E4%BA%86%E9%A9%AC%E6%96%AF%E5%85%8B-%E6%9E%81%E8%87%B4-%E6%88%98%E7%95%A5%E7%9A%84%E5%A8%81%E5%8A%9B-30bf2dae?mod=cn_hp_lead_pos9)
 
-## 核心观点
-- SpaceX's IPO was the largest in global history, raising tens of billions of dollars to fund ambitious goals like giant rockets, orbital AI data centers, and a future city on Mars.
+[[hubs/spacex|SpaceX]]'s record-breaking [[hubs/ipo|IPO]] validates Elon Musk's "extreme" strategy of pursuing ambitious, "most"-focused goals.
+
+## 要点
+- [[hubs/spacex|SpaceX]]'s [[hubs/ipo|IPO]] was the largest in global history, raising tens of billions of dollars to fund ambitious goals like giant rockets, orbital AI [[hubs/ai-infrastructure|data center]]s, and a future city on Mars.
 - Elon Musk's strategy, characterized by pursuing "the most" (biggest, fastest, best), has been a cornerstone of his business empire, driving unprecedented success for SpaceX and Tesla.
 - Musk's initial goal for SpaceX was to reignite public interest in space exploration, exemplified by his early idea of sending plant seeds to Mars.
 - The high cost of single-use rockets led Musk to found SpaceX in 2002 with the aim of creating reusable rockets.
@@ -30,19 +32,9 @@ topics:
 - SpaceX's IPO demonstrated the power of Musk's "extreme" strategy, leading to a significant surge in its stock and making Musk the world's first trillionaire.
 - While some of SpaceX's grander dreams, like a city on Mars, may never materialize, its true legacy lies in inspiring a new generation to imagine and pursue limitless possibilities.
 
-## Key Takeaways
-- SpaceX's record-breaking IPO validates Elon Musk's "extreme" strategy of pursuing ambitious, "most"-focused goals.
-- Musk's vision for SpaceX, initially to reignite public interest in space, has evolved into a multi-billion dollar enterprise with goals of orbital AI data centers and Mars colonization.
-- SpaceX and Tesla's "firsts" and "bests" have not only driven business success but also inspired a new wave of hard-tech innovation and investment.
-- Despite controversies and challenges, Musk's relentless pursuit of seemingly impossible goals has fostered a culture of ambition and possibility for future generations.
-
 ## 相关文章
 
+- [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]
+- [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
+- [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
 - [[business/musk-confidant-gracias-set-for-spacex-windfall|马斯克密友格拉西亚斯有望因SpaceX斩获680亿美元收益]]
-- [[finance/spacex-ipo-wealth-management|SpaceX员工紧急恶补：暴富后应如何理财]]
-- [[business/starlink-ground-market-challenge|星链已称霸卫星互联网，它能否在地面市场颠覆AT&T和Verizon？]]
-- [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
-
----
-**Topics**: [[business/_index|Business]], [[tech/_index|Tech]]  
-**Tags**: #SpaceX #ElonMusk #IPO #BusinessStrategy #SpaceExploration #Tesla #Innovation

@@ -13,7 +13,9 @@ topics:
 
 # [Founders Guide: Success may not matter if you aren't doing what you love](https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter)
 
-## Core View
+Founder-Market Fit is essential for surviving the decade-long commitment of a startup.
+
+## Key Points
 - Distinguishes between Product-Market Fit (PMF) and Founder-Market Fit (FMF); while PMF is a boolean of market demand, FMF is a high-dimensional alignment of the founder's temperament, culture, and identity with the target customer.
 - FMF acts as a 'similarity function' or 'vibe fit' that enables founders to communicate effectively with customers, understand their problems deeply, and build authentic tribal identity.
 - The long-term nature of startups (7-10 years) makes FMF a critical survival mechanism; without it, founders risk burnout or loss of interest even if the company achieves financial success (e.g., 7-figure ARR).
@@ -26,11 +28,6 @@ topics:
 - **Technicality**: The ability to empathize with non-technical users is a critical FMF component for technical founders to avoid building products that assume too much competence.
 - **Environment & Lifestyle**: Geographic location (e.g., NYC for fintech) and free-time interests (e.g., AI agents) create natural distribution channels and sustainable passion.
 
-## Key Takeaways
-- Founder-Market Fit is essential for surviving the decade-long commitment of a startup.
-- Building for yourself is a strategy to leverage existing FMF to find and appeal to similar users.
-- FMF involves trade-offs; knowing one's 'deal breakers' is as important as finding market signal.
-- Refer to [[business/_index|Business]] for broader startup strategy and [[career/_index|Career]] for founder development.
 
 ## Related Articles
 
@@ -39,6 +36,3 @@ topics:
 - [[career/founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
 - [[business/67-age-entrepreneurship|我67岁开始创业，这比退休好太多了]]
 
----
-**Topics**: [[business/_index|Business]], [[career/_index|Career]]  
-**Tags**: #founder-market-fit #startup-strategy #entrepreneurship

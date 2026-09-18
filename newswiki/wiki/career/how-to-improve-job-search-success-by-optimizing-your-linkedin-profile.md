@@ -12,7 +12,9 @@ topics:
 
 # [如何提升求职成功率？或许你需要精修领英档案](https://cn.wsj.com/articles/%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E6%B1%82%E8%81%8C%E6%88%90%E5%8A%9F%E7%8E%87-%E6%88%96%E8%AE%B8%E4%BD%A0%E9%9C%80%E8%A6%81%E7%B2%BE%E4%BF%AE%E9%A2%86%E8%8B%B1%E6%A1%A3%E6%A1%88-d748a99e?mod=cn_hp_lead_pos10)
 
-## 核心观点
+持续更新和优化领英档案是提升求职成功率的关键。
+
+## 要点
 - 打造一个强大的领英(LinkedIn)个人主页是现代求职的关键，其重要性不亚于健身或保持健康习惯。
 - 领英个人主页的“技能”部分日益重要，招聘人员倾向于根据实际能力而非头衔筛选人才。
 - 在社交媒体时代，领英是招聘人员联系潜在人选、拓展人脉和获取引荐的首要平台，许多求职申请甚至要求提供个人主页链接。
@@ -33,9 +35,9 @@ topics:
 - 她专注于与过去履历相似的项目管理岗位。
 
 ## 杰夫·康拉德(Jeff Conrad)：热衷测试的实验派
-- 康拉德在微软工作18年后被裁，他利用丰厚的遣散费尝试各种领英主页修改。
+- 康拉德在[[hubs/microsoft|微软]]工作18年后被裁，他利用丰厚的遣散费尝试各种领英主页修改。
 - 他购买了领英高级会员服务，通过查看谁浏览了他的主页来判断自己是否进入候选名单。
-- 他将微软的履历“翻译”成通俗易懂的语言，阐明自己的职责和影响力，因为公司内部头衔和行话对外人意义不大。
+- 他将[[hubs/microsoft|微软]]的履历“翻译”成通俗易懂的语言，阐明自己的职责和影响力，因为公司内部头衔和行话对外人意义不大。
 - 他利用多种AI工具打磨主页的“关于”部分，并请前同事提供反馈。
 - 他通过观察数据指标来检验修改效果，例如主页浏览量的变化。
 
@@ -47,20 +49,9 @@ topics:
 - 她通过自由职业平台Upwork筛选顾问，以避免虚假服务。
 - 目前她正利用领英宣传众筹活动以支付搬家费用。
 
-## Key Takeaways
-- 持续更新和优化领英档案是提升求职成功率的关键。
-- 在领英上保持活跃度、突出技能和影响力至关重要。
-- 利用AI工具和数据分析可以辅助优化领英主页。
-- 人脉推荐和精准定位目标职位能显著提高求职效率。
-- 即使在职也应维护好领英形象，以应对潜在机会或突发情况。
-
 ## 相关文章
 
 - [[career/how-to-improve-job-search-success-by-optimizing-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]]
 - [[career/how-to-improve-job-search-success-by-refining-your-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]]
 - [[career/ai-career-preparedness|Facing AI-Driven Job Disruption: A New Initiative Aims to Prepare Millions of Americans]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
-
----
-**Topics**: [[career/_index|Career]]  
-**Tags**: #LinkedIn #求职 #职业发展

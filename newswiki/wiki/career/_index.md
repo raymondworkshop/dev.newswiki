@@ -1,18 +1,16 @@
 # 职场
 
-## 概述
-技能、就业与组织如何在AI时代重塑职业路径  
+技能、就业与组织如何在AI时代重塑职业路径
 
-## 核心指标
-- **关键公司**:[[Anthropic]], [[Ferretly]], [[RefAssured]], [[LinkedIn]], [[Stripe]]
-- **关键技术/变量**: AI 替身、自动化、背调、职业路径
-- **投资视角**: 人力资本、生产率、行业变迁
-
-## 相关文章
-- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - WSJ专访多位高管投资者：AI时代人类学、数学、哲学等经典学科比CS更具职业韧性
-- [[anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09) - 研究员因AI安全担忧离职，凸显行业风险。
-- [[windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 苇渡科技因拖欠工资导致中国核心团队近乎清零，CEO宣布战略转型放弃自研车身转向软件授权，此前融资承诺与IPO计划与资金枯竭现实严重背离。
+## 文章
+- [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
+- [[why-purge-middle-managers-backfire|中层管理者“大清洗”为何会带来反噬？]] (2026-09-17) - 这些中层管理者让高层领导能够下放权力，并让基层员工发挥出最大效能，而我们正低估了他们这些往往不为人所见的工作。
+- [[spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] (2026-09-17) - 布莱恩·阿格雷是SpaceX十多年的老员工，IPO使其个人财富急剧增长。他和妻子双双辞职，计划以每个月2.5万美元的预算周游世界，度过“疯狂之年”。
+- [[ai-career-skills-anthropology-math-philosophy|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
+- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
+- [[anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09) - AI实验室内部的担忧正在加剧：竞争压力正促使科技公司加速迈向具备自我改进能力的模型，而这类模型有可能脱离人类控制。
 - [[americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07) - 未上过大学的美国年轻劳动力失业率降至近几十年来的罕见低点，而大学毕业生的处境却截然相反。
+- [[windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
 - [[bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] (2026-08-26) - 这位亿万富豪兼慈善家呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。
 - [[startup-founders-24-hour-work-ai-agents|初创公司创始人恨不得24小时工作，以跟上自家AI智能体]] (2026-08-24) - AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。
 - [[codex-vs-claude-impressions|Quick impressions: A week of using Codex more than Claude]] (2026-08-21) - Claude goes above and beyond what is asked and guesses what you might want. Codex does what you tell it and stops at the first sign that it might be done. Ten impressions from a week of using Codex more.
@@ -74,9 +72,8 @@
 - [[principles-for-living-operating-system-for-life|Principles For Living: An Operating System for Life]] (2018-06-05) - All that we write about, think about, and strive for at Farnam Street draws inspiration from one of these five principles: Direction Over Speed, Live Deliberately, Thoughtful Opinions Held Loosely, Principles Outlive Tactics, and Own Your Actions.
 - [[fake-job-interview-git-hook-malware|Appaji - Software Engineer]] (2001-07-23) - Appaji, a Computer Science graduate from IIT Patna and former intern at Arista Networks, is a Software Engineer at Infinite Reality. Passionate about building innovative web experiences, with a strong interest in sustainable and customer-focused startups.
 
-## 相关主题
-- [[business/_index|商业/]]
-- [[tech/_index|科技/]]
-- [[design/_index|设计/]]
-- [[finance/_index|金融/]]
-- [[lifestyle/_index|生活/]]
+## 看点
+- **关键公司**:[[Anthropic]], [[Ferretly]], [[RefAssured]], [[LinkedIn]], [[Stripe]]
+- **关键技术**: AI 替身、[[hubs/automation|自动化]]、[[hubs/background-check|背调]]、[[hubs/career-path|职业路径]]
+- **投资视角**: 人力资本、生产率、行业变迁
+

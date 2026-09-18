@@ -12,11 +12,13 @@ topics:
 
 # [美股擅长制造泡沫，也能从容化解](https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E6%93%85%E9%95%BF%E5%88%B6%E9%80%A0%E6%B3%A1%E6%B2%AB-%E4%B9%9F%E8%83%BD%E4%BB%8E%E5%AE%B9%E5%8C%96%E8%A7%A3-66214a2b?mod=cn_hp_lead_pos2)
 
-## 核心观点
+非债务驱动的微型泡沫虽导致资本错配，但不会摧毁金融体系。
+
+## 要点
 - 美股市场展现出对“微型泡沫”的强韧性，局部领域的繁荣与萧条（如3D打印、SPACs、加密货币等）虽剧烈，但未对大盘造成系统性破坏。
 - 微型泡沫成因：宽松的货币环境、赌徒本能、对新技术的狂热，以及交易游戏化和零手续费降低了进入门槛。
 - 风险隔离机制：近年来的微型泡沫大多非债务融资支撑，因此破裂时仅导致投资者损失，而未冲击银行体系。
-- 潜在系统性风险：[[hubs/ai|AI]] 领域投资规模巨大（预计未来四年数据中心支出达7万亿美元），若生产力提升不足以支撑支出，且债务融资增加，可能演变为影响整体经济的巨型泡沫。
+- 潜在系统性风险：[[hubs/ai|AI]] 领域投资规模巨大（预计未来四年[[hubs/ai-infrastructure|数据中心]]支出达7万亿美元），若生产力提升不足以支撑支出，且债务融资增加，可能演变为影响整体经济的巨型泡沫。
 
 ## 历史泡沫回顾
 - 2014年：3D打印（峰值下跌93%）。
@@ -25,18 +27,9 @@ topics:
 - 2023-2026年：AI微型公司（如Super Micro Computer下跌超过85%）。
 - 近期：存储芯片泡沫（SK海力士曾下跌55%）。
 
-## 核心要点
-- 非债务驱动的微型泡沫虽导致资本错配，但不会摧毁金融体系。
-- [[hubs/ai|AI]] 投资的规模已达到可能引发系统性风险的临界点。
-- 资本错配是泡沫周期的必然代价，争议在于这种“狂飙突进”是否能通过技术革新获得最终正向回报。
-
----
-**主题**: [[finance/_index|Finance]]  
-**标签**: #finance
-
 ## 相关文章
 
 - [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
-- [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
-- [[finance/chip-stocks-rally-hit-wall-optimism|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]]
+- [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]]
+- [[finance/warsh-ai-renaissance-diagnosis|新任美联储主席沃什的首场大考：如何判读AI繁荣？]]

@@ -1,15 +1,18 @@
 @use "../../styles/variables.scss" as *;
 
-// Match topic-page「相關文章」dated editorial rows.
+// Pair with in-article「相關文章」: same list chrome; sit above it when moved.
 .backlinks {
+  margin: 2.35rem 0 1.25rem;
+
   > h3 {
-    margin: 0 0 0.35rem;
+    margin: 0 0 0.85rem;
     border-bottom: none;
     padding-bottom: 0;
-    font-size: 1.05rem;
+    font-size: 1.2rem;
     font-weight: 650;
-    letter-spacing: -0.015em;
-    color: var(--dark);
+    letter-spacing: -0.02em;
+    line-height: 1.28;
+    color: color-mix(in srgb, var(--dark) 94%, var(--secondary));
   }
 
   .backlinks-list {

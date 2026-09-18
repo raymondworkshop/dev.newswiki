@@ -18,7 +18,8 @@ Curated hub for articles related to SpaceX.
 - [[business/spacex-stocks-below-ipo-price|SpaceX股价首次跌破IPO发行价]] · #business
 - [[tech/ai-warfare-evolution|Warfare Mode is Changing: Is It Gradual Evolution or a Total Revolution?]] · #tech
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]] · #tech
-- [[finance/2026-05-21-nvda-undervalued|即使市值高达5万亿美元，英伟达依然被低估]] · #finance
+- [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] · #business
+- [[lifestyle/spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] · #lifestyle
 - [[finance/ai-funding-warning-sign|巨额资金涌入AI，这是一个巨大的危险信号]] · #finance
 - [[business/starlink-ground-market-challenge|星链已称霸卫星互联网，它能否在地面市场颠覆AT&T和Verizon？]] · #business
 - [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]] · #business
@@ -29,6 +30,7 @@ Curated hub for articles related to SpaceX.
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]] · #finance
 - [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]] · #business
 - [[business/musk-confidant-gracias-set-for-spacex-windfall|马斯克密友格拉西亚斯有望因SpaceX斩获680亿美元收益]] · #business
+- [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]] · #business
 
 ---
 **Topics**: [[business/_index|Business]]  

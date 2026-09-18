@@ -34,6 +34,10 @@ FORCE_PREPARE ?=
 ACTION ?= install
 DENSIFY ?= 1
 BACKFILL_COMPANIES ?= 1
+RELATED_LIMIT ?=
+NO_HUBS ?=
+NO_MENTIONS ?=
+STATS_ONLY ?=
 
 WIKI_FLAGS = --source "$(SOURCE)" --wiki "$(WIKI)"
 SYNC_FLAGS = $(WIKI_FLAGS) --archive "$(ARCHIVE)" \
@@ -41,7 +45,10 @@ SYNC_FLAGS = $(WIKI_FLAGS) --archive "$(ARCHIVE)" \
 	$(if $(NO_ARCHIVE),--no-archive) $(if $(FILE),--file "$(FILE)") \
 	--provider "$(LLM_PROVIDER)"
 LLM_FLAGS = $(if $(DRY_RUN),--dry-run) --provider "$(LLM_PROVIDER)"
-DENSIFY_FLAGS = --wiki "$(WIKI)" $(if $(DRY_RUN),--dry-run)
+DENSIFY_FLAGS = --wiki "$(WIKI)" $(if $(DRY_RUN),--dry-run) \
+	$(if $(RELATED_LIMIT),--related-limit "$(RELATED_LIMIT)") \
+	$(if $(NO_HUBS),--no-hubs) $(if $(NO_MENTIONS),--no-mentions) \
+	$(if $(STATS_ONLY),--stats-only)
 QUARTZ_OUT = --output "$(abspath $(SITE_OUTPUT))"
 
 .DEFAULT_GOAL := help
@@ -55,6 +62,12 @@ help:
 	@echo ""
 	@echo "  make sync                              raw → wiki → densify → 关联公司"
 	@echo "  make sync LLM_PROVIDER=gemini DRY_RUN=1"
+	@echo "  make densify                           全库：相关互链 + 实体/概念链 + hubs"
+	@echo "  make densify DRY_RUN=1                 只预览 densify 会改什么"
+	@echo "  make densify RELATED_LIMIT=8           每篇相关文章上限（默认 4）"
+	@echo "  make densify NO_HUBS=1                 不写 hubs/"
+	@echo "  make densify NO_MENTIONS=1             跳过正文实体/概念互链（类 Wikipedia）"
+	@echo "  make densify STATS_ONLY=1              只统计，不写文件"
 	@echo "  make query QUESTION=\"What is Nvidia's moat?\""
 	@echo "  make audit"
 	@echo "  make analyze TICKER=MSFT"
@@ -67,6 +80,9 @@ help:
 	@echo ""
 	@echo "  Sync opts:  ALL=1  REVIEW=1  FILE=name.md  NO_ARCHIVE=1"
 	@echo "              DENSIFY=0  BACKFILL_COMPANIES=0"
+	@echo "  Densify:    扫整个 wiki — 相关文章双向互链、正文实体/关键概念→hub、"
+	@echo "              entity+concept hubs、主题页「关键技术/变量」挂链；"
+	@echo "              sync 成功后默认会跑（DENSIFY=0 可跳过）"
 	@echo "  Site opts:  PREPARE=0  FORCE_PREPARE=1"
 	@echo "  Maint:      densify  rebuild-indexes  backfill-companies"
 	@echo "              backfill-sources  backfill-titles  repair-index-labels"
@@ -94,7 +110,10 @@ sync:
 	fi; \
 	exit $$status
 
-densify densify-links: ; $(RUN)/wiki.py densify-links $(DENSIFY_FLAGS)
+# 全库 densify：相关双向互链 + 正文实体链 + hubs（不跑 LLM；sync 成功后也会自动跑）
+densify densify-links:
+	@echo "=== densify wiki=$(WIKI) related_limit=$(RELATED_LIMIT) no_hubs=$(NO_HUBS) no_mentions=$(NO_MENTIONS) stats_only=$(STATS_ONLY) dry_run=$(DRY_RUN) ==="
+	$(RUN)/wiki.py densify-links $(DENSIFY_FLAGS)
 
 query:
 	@test -n "$(QUESTION)" || (echo 'Usage: make query QUESTION="..."'; exit 1)
@@ -137,7 +156,8 @@ endif
 	cd "$(SITE_DIR)" && npm run quartz -- build --serve --port "$(SITE_PORT)" $(QUARTZ_OUT)
 
 site-deploy: site-build
-	npx wrangler pages deploy "$(SITE_OUTPUT)" --project-name "$(PAGES_PROJECT)" \
+	@test -x node_modules/.bin/wrangler || npm install --no-fund --no-audit
+	npx --yes wrangler pages deploy "$(SITE_OUTPUT)" --project-name "$(PAGES_PROJECT)" \
 		--branch "$(PAGES_BRANCH)" --commit-dirty=true
 	@echo "Production site: $(PAGES_URL)"
 

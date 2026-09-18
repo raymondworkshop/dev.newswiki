@@ -12,7 +12,9 @@ topics:
 
 # [如何提升求职成功率？或许你需要精修领英档案](https://cn.wsj.com/articles/%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E6%B1%82%E8%81%8C%E6%88%90%E5%8A%9F%E7%8E%87-%E6%88%96%E8%AE%B8%E4%BD%A0%E9%9C%80%E8%A6%81%E7%B2%BE%E4%BF%AE%E9%A2%86%E8%8B%B1%E6%A1%A3%E6%A1%88-d748a99e?mod=cn_hp_lead_pos10)
 
-## 核心观点
+持续优化领英个人主页是提升求职成功率的关键，包括更新技能、发布内容、争取推荐信和清晰阐述影响力。
+
+## 要点
 - 打造一个强大的领英(LinkedIn)个人主页是提升求职成功率的关键，其重要性不亚于健身或多喝水，但养成习惯并非易事。
 - 网络社交的最佳实践不断演变，领英个人主页的“技能”部分日益重要，招聘人员倾向于根据实际能力而非头衔筛选人才。
 - 在社交媒体时代，领英是招聘人员联系潜在人选的第一站，也是拓展人脉和获取引荐的关键渠道，许多求职申请甚至要求提供个人主页链接。
@@ -34,9 +36,9 @@ topics:
 - 她专注于与过去履历相似的项目管理岗位，优化了个人主页以匹配目标职位。
 
 ## 杰夫·康拉德(Jeff Conrad)：热衷测试的实验派
-- 康拉德在微软工作18年后被裁，利用丰厚的遣散费精挑细选并不断尝试修改领英主页。
+- 康拉德在[[hubs/microsoft|微软]]工作18年后被裁，利用丰厚的遣散费精挑细选并不断尝试修改领英主页。
 - 他购买领英高级会员服务，通过查看谁浏览了自己的主页来判断自己是否进入候选名单。
-- 他将微软的履历“翻译”成通俗易懂的语言，阐明职责和影响力，使主页浏览者易于理解。
+- 他将[[hubs/microsoft|微软]]的履历“翻译”成通俗易懂的语言，阐明职责和影响力，使主页浏览者易于理解。
 - 康拉德借助多种AI工具打磨主页的“关于”部分，将其视为第一印象并力求完美。
 - 他会请前同事提供反馈，并依靠数据指标（如主页浏览量）来检验修改效果。
 
@@ -48,20 +50,9 @@ topics:
 - 她通过自由职业平台Upwork筛选顾问，警惕网络上售卖虚假领英优化服务的骗子。
 - 目前，她正利用领英宣传众筹活动以支付跨州搬家费用。
 
-## Key Takeaways
-- 持续优化领英个人主页是提升求职成功率的关键，包括更新技能、发布内容、争取推荐信和清晰阐述影响力。
-- 主动出击，精准定位目标职位和公司，并利用人脉进行内推，能显著提高求职效率。
-- 利用AI工具辅助打磨个人主页内容，并结合数据分析来检验优化效果。
-- 保持耐心和毅力，即使在求职困难的行业，一个精心维护的领英主页也能在机会来临时发挥重要作用。
-- 警惕网络上的虚假服务，选择可靠的渠道进行领英优化和求职指导。
-
 ## 相关文章
 
-- [[career/how-to-improve-job-search-success-by-refining-your-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]]
 - [[career/how-to-improve-job-search-success-by-optimizing-your-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]]
-- [[career/how-to-improve-job-success-rate-with-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]]
+- [[career/how-to-improve-job-search-success-by-refining-your-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]]
 - [[career/ai-career-preparedness|Facing AI-Driven Job Disruption: A New Initiative Aims to Prepare Millions of Americans]]
-
----
-**Topics**: [[career/_index|Career]]  
-**Tags**: #linkedin #jobsearch #careerdevelopment
+- [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]

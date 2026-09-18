@@ -11,7 +11,9 @@ topics:
 
 # [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
 
-## Core View
+Start small and focus on consistency and community culture over scale.
+
+## Key Points
 - A local Ruby meetup fosters community and peer learning, where junior developers gain inspiration and job opportunities through direct interaction.
 - The first meetup requires minimal setup: securing a venue, promoting via personal outreach, and focusing on small, consistent attendance.
 - Event formats include talks, hack nights, workshops, and hangouts — with talks being most common due to shared context and lower social barriers.
@@ -37,16 +39,8 @@ topics:
 - Connect with Ruby Central and regional Ruby meetups to expand reach and access funding or sponsorship opportunities.
 - Potential for growth into larger events — such as conferences — is highlighted, with examples like SF Ruby Conference originating from a local meetup.
 
-## Key Takeaways
-- Start small and focus on consistency and community culture over scale.
-- Personal outreach and direct communication are more effective than broad marketing campaigns.
-- A meetup’s success is defined by its ability to foster human connection, not just technical skill transfer.
-- Sustainability requires co-organization and intentional effort to maintain momentum.
 
 ## Related Articles
 
 - [[tech/science-of-reading-and-evidence-based-math|Science of Reading & Evidence-Based Math]]
 
----
-**Topics**: [[tech/_index|Tech]]  
-**Tags**: #tech #ruby #developer-community #education-tech

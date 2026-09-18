@@ -12,10 +12,12 @@ topics:
 
 # [如何在AI時代保護我們的私隱？](https://cn.wsj.com/articles/%E5%A6%82%E4%BD%95%E5%9C%A8ai%E6%99%82%E4%BB%A3%E4%BF%9D%E8%AD%B7%E6%88%91%E5%80%91%E7%9A%84%E7%A7%81%E9%9A%B1-143f1d96)
 
-## 核心观点
+隐私保护不能仅靠用户自我管理，必须由企业承担法律责任。
+
+## 要点
 - 当前隐私法律将数据控制责任推给个人，但在AI时代，普通人难以理解或管理海量数据风险。
 - AI技术能够分析个人数字足迹，推断出健康、宗教、政治等敏感信息，即使用户未授权。
-- 企业应为数据滥用和隐私侵害承担法律责任，类似食品、汽车安全监管的问责机制。
+- 企业应为数据滥用和隐私侵害承担法律责任，类似食品、汽车安全[[hubs/regulation|监管]]的问责机制。
 - 有效的隐私保护应建立在数据最小化原则和企业内部审查机制之上，而非依赖用户主动阅读隐私条款。
 - 应引入‘删除权’和‘暗黑模式’限制，防止企业通过欺骗性设计诱导用户共享数据。
 
@@ -29,18 +31,9 @@ topics:
 - 应要求技术设计中内置隐私保护机制，如默认不收集、用户可回退选项。
 - 技术开发应基于多方利益相关者标准进行隐私和安全测试，而非单方面由企业自决。
 
-## Key Takeaways
-- 隐私保护不能仅靠用户自我管理，必须由企业承担法律责任。
-- AI技术的泛化分析能力要求法律必须建立可执行的问责机制。
-- 数据最小化、删除权和‘暗黑模式’限制是实现有效隐私保护的关键措施。
-
 ## 相关文章
 
-- [[tech/ai-calculation-competition|AI巨头派发大量免费算力，争夺初创公司市场份额]]
-- [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]
-- [[tech/ai-drug-discovery-2026|AI能否研发出更佳药物？华尔街等不了那么久]]
-- [[tech/ai-cost-control|Token使用量激增，企业如何控制AI成本？]]
-
----
-**Topics**: [[tech/_index|Tech]]  
-**Tags**: #ai #privacy #data-governance #ethical-ai
+- [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]]
+- [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]]
+- [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]]
+- [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]]

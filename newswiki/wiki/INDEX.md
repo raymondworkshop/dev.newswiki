@@ -1,46 +1,51 @@
 
 
 ## Recent Articles
-- [[business/south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-09-10)
 
+- [[finance/yuan-four-year-high-pboc-fixing|人民币升至逾四年高点]] (2026-09-18)
+- [[business/mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18)
+- [[business/microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18)
+- [[business/ed-sheeran-tour-nfl-stadium-owners-macklemore-controversy|一通40分钟的电话，如何让埃德·希兰的巡演悬于一线？]] (2026-09-17)
+- [[business/novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] (2026-09-17)
+- [[lifestyle/spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] (2026-09-17)
+- [[career/why-purge-middle-managers-backfire|中层管理者“大清洗”为何会带来反噬？]] (2026-09-17)
+- [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]] (2026-09-16)
+- [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]] (2026-09-16)
+- [[business/us-businesses-pricing-dilemma-energy-costs|美国企业现在不知道该如何定价了]] (2026-09-16)
+- [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]] (2026-09-16)
+- [[finance/mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]] (2026-09-15)
+- [[lifestyle/mountain-school-ivy-league-farm-work|一学期付4万美元干农活，这所另类学校如何成为常春藤敲门砖？]] (2026-09-15)
+- [[business/xbox-asha-sharma-turnaround|“游戏圈外人”夏尔马的使命：以残酷诚实整顿微软Xbox业务]] (2026-09-14)
+- [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]] (2026-09-14)
+- [[business/china-economic-slowdown-shangrila-matsutake-trade|中国经济困境波及香格里拉松茸“猎人”]] (2026-09-14)
 - [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14)
-
+- [[business/fast-food-chains-shift-automation-hospitality|美国快餐连锁迎来战略大转向：从自动化回归“人情味”]] (2026-09-11)
+- [[career/ai-career-skills-anthropology-math-philosophy|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11)
 - [[career/want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11)
-
+- [[business/south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-09-10)
 - [[business/pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10)
-
 - [[lifestyle/tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10)
-
 - [[lifestyle/windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10)
-
-- [[business/us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04)
-
+- [[tech/ai-deanonymization-social-media|以为你的匿名账号很安全？AI或许能查出你是谁]] (2026-09-09)
+- [[tech/openai-navier-stokes-millennium-breakthrough|OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”]] (2026-09-09)
 - [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09)
-
-- [[tech/humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08)
-
-- [[business/windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05)
-
 - [[lifestyle/portugal-comporta-coastal-travel-guide|趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇]] (2026-09-09)
-
-- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08)
-
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09)
-
-- [[business/cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07)
-
+- [[tech/humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08)
+- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08)
 - [[finance/institutional-investor-signals-retail-guide|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08)
-
 - [[business/trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08)
-
 - [[business/onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08)
-
 - [[business/the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08)
+- [[lifestyle/taiwan-temples-religious-freedom-vs-china|漫步于台湾庙宇，我窥见中国另一种可能的模样]] (2026-09-07)
+- [[business/cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07)
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] (2026-09-07)
 - [[lifestyle/taiwan-temples-religious-life-china-contrast|漫步于台湾庙宇，我窥见中国另一种可能的模样]] (2026-09-07)
 - [[career/americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07)
 - [[business/data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] (2026-09-07)
 - [[business/moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] (2026-09-07)
+- [[business/windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05)
+- [[business/us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04)
 - [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] (2026-09-04)
 - [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]] (2026-09-02)
 - [[finance/2026-09-02-your-financial-quotient-how-high|你的财商有多高？来跟美国高中生比一比]] (2026-09-02)
@@ -116,6 +121,7 @@
 - [[lifestyle/sanxingdui-lost-civilization|三星堆失落文明谜团重重，正重塑对中华文明起源的认知]] (2026-08-10)
 - [[career/hidden-skills-of-top-talent|顶尖人才的隐藏技能：把玩耍和“不作为”当作必修课-返朴的财新博客-财新网]] (2026-08-09)
 - [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]] (2026-08-09)
+- [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]] (2026-08-07)
 - [[business/chinas-new-export-engine|中国的新出口引擎：为全球工厂供货]] (2026-08-07)
 - [[tech/rogue-ai-agents-guide|失控AI机器人世界的用户指南]] (2026-08-07)
 - [[lifestyle/ai-medical-report-interpretation|医生反感患者用AI解读化验单，但根本拦不住]] (2026-08-07)
@@ -329,7 +335,7 @@
 - [[business/doing-something-never-done-before|Doing Something That’s Never Been Done Before]] (2025-11-14)
 - [[career/fake-job-interview-git-hook-malware|Appaji - Software Engineer]] (2001-07-23)
 
-## 編輯方針
-- [[connected-stories|串連敘事同核實來源]]: 用主題線串起零散報道，論點有據可依
-- [[cross-domain-reporting|多角度報道]]: 同一件事，唔同面向
-- [[valuation-and-risk|估值同風險]]: 核心財務指標、估值框架同風險辨識
+## 編輯原則
+- [[connected-stories|敘事與來源]]: 用主題把報道串起來，說法都能查到出處
+- [[cross-domain-reporting|多角度報道]]: 同一件事，不同面向
+- [[valuation-and-risk|估值與風險]]: 看數字、估值，也看風險

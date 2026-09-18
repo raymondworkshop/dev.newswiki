@@ -44,14 +44,14 @@ Densify hubs/links, then fill empty topic `关键公司` (`DENSIFY=0` / `BACKFIL
 - Primary topic ∈ `business|tech|design|finance|career|lifestyle` only; else `needs_review`
 - Optional secondaries in `article.topics` (primary first); one file under primary
 - Respect raw `topics` hint; harness review labels in `newswiki/raw/REVIEW.md`
-- Distill grounded sections + `key_takeaways`; keep source front matter
+- Distill grounded sections + `key_takeaways` (exactly 1 opening sentence that summarizes the whole article’s conclusion, before 要点; not a separate 核心要点 section); keep source front matter
 - Prefer resolvable links; aim for 2–4 wiki links in bullets/takeaways when supported
 - `article.slug`: lowercase ASCII `a-z0-9-` (no CJK; English slug from URL/topic)
 - `article.path`: `<wiki-prefix>/<primary>/<slug>.md` (no nested subfolders)
 
 **Harness**: scan → validate JSON → render (`[Title](source)` if source set) → indexes → archive stub → delete inbox + `_resources/` → `STATUS.md` + `.sync_cache.json`.
 
-**Actions**: `create_article` | `skip_duplicate` | `needs_review`. Heading: `核心观点` (zh) / `Core View` (en).
+**Actions**: `create_article` | `skip_duplicate` | `needs_review`. Heading: `要点` (zh) / `Key Points` (en).
 
 ```json
 {
@@ -71,8 +71,8 @@ Densify hubs/links, then fill empty topic `关键公司` (`DENSIFY=0` / `BACKFIL
       "author": ["[[Author Name]]"], "published": "YYYY-MM-DD",
       "created": "YYYY-MM-DD", "description": "Source-language description"
     },
-    "sections": [{"heading": "核心观点", "bullets": ["Grounded bullet.", "[AI Synthesis] Inference."]}],
-    "key_takeaways": ["Concise takeaway."],
+    "sections": [{"heading": "要点", "bullets": ["Grounded bullet.", "[AI Synthesis] Inference."]}],
+    "key_takeaways": ["One sentence summarizing the article’s overall conclusion."],
     "topics": ["primary-topic-slug", "secondary-topic-slug"],
     "topic_footer": {
       "topic_links": ["[[primary-topic-slug/_index|Primary Topic]]", "[[secondary-topic-slug/_index|Secondary Topic]]"],

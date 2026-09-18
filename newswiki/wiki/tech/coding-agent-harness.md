@@ -12,6 +12,8 @@ topics:
 
 # [Coding Agent Harness](https://x.com/dongxi_nlp/article/2071729771126346093)
 
+The coding agent's true value lies in its runtime system — the harness — which ensures reliability, safety, and consistency in file and workspace operations.
+
 ## The Harness Is The Product
 - The most critical component of a coding agent is often the 'harness' — the runtime system that manages file state, tool execution, and context — rather than the underlying language model.
 - The harness owns the full lifecycle: input routing, message design, prompt assembly, tool validation, permission policy, execution, and state update.
@@ -55,12 +57,6 @@ topics:
 - Subagents can be 'fresh', 'forked', or 'partial forked' depending on the task — with partial forks being most practical for complex workflows.
 - The harness must manage subagent lifecycle, including context inheritance, result aggregation, and integration back into the parent session.
 
-## Key Takeaways
-- The coding agent's true value lies in its runtime system — the harness — which ensures reliability, safety, and consistency in file and workspace operations.
-- A robust harness must manage file truth, detect stale reads, and enforce tool contracts to prevent accidental or malicious modifications.
-- Input routing and slash commands provide user control over the agent's runtime, separating control plane from model reasoning.
-- Context is a projection, not a dump — the harness curates and filters evidence to prevent context flooding and improve model performance.
-- Subagents extend the agent's capabilities through parallel, isolated workspaces, but require careful management to avoid uncontrolled complexity.
 
 ## Related Articles
 
@@ -69,6 +65,3 @@ topics:
 - [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]]
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]
 
----
-**Topics**: [[tech/coding-agent-harness|Coding Agent Harness]]  
-**Tags**: #ai #agent #coding-agent #ai-robotics #tooling #runtime

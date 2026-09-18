@@ -13,7 +13,9 @@ topics:
 
 # [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/)
 
-## Core View
+Self-hosting an AI Dev Platform using OpenCode and GitOps for homelab management.
+
+## Key Points
 - The author set up OpenCode Web UI with Git access to simplify homelab management through a GitOps style workflow.
 - OpenCode pushes changes to Git, which are then approved via Pull Requests (PRs) before GitOps deploys them.
 - The platform enables persistent coding sessions synced across devices and simplifies tasks like container updates by summarizing release notes and adding healthchecks.
@@ -50,12 +52,6 @@ topics:
 - The setup enables home infrastructure changes from any device, with PR review from a phone and GitOps handling deployment.
 - The main limitation is the lack of CI feedback integration, as Forgejo Actions logs are not easily accessible via the public API.
 
-## Key Takeaways
-- Self-hosting an AI Dev Platform using OpenCode and GitOps for homelab management.
-- Automating container updates and service maintenance with AI assistance.
-- Implementing a secure workflow with AI changes behind PR reviews.
-- Leveraging GitOps for streamlined deployments and easier infrastructure management.
-- Identifying limitations in CI feedback integration with Forgejo.
 
 ## Related Articles
 
@@ -64,6 +60,3 @@ topics:
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
 - [[tech/estonia-ai-education-experiment|如何应对AI导致的学生思维退化？这个国家给学生提供免费定制版ChatGPT]]
 
----
-**Topics**: [[tech/_index|Tech]], [[design/_index|Design]]  
-**Tags**: #AI #Homelab #GitOps #OpenCode #DevPlatform

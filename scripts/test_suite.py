@@ -56,7 +56,6 @@ from wiki.common import (
     article_language,
     normalize_synthesis_text,
     slug_fallback_from_raw,
-    takeaways_heading,
 )
 from llm_provider import (
     JSON_RETRY_PROMPT,
@@ -302,7 +301,7 @@ class SyncWikiTests(unittest.TestCase):
         topic_dir = sync_module.WIKI_DIR / "tech"
         topic_dir.mkdir(parents=True, exist_ok=True)
         (topic_dir / "_index.md").write_text(
-            "# Tech\n\n## 相关文章\n",
+            "# Tech\n\n## 文章\n",
             encoding="utf-8",
         )
 
@@ -322,7 +321,7 @@ class SyncWikiTests(unittest.TestCase):
             request = build_compile_prompt(path)
             self.assertIn("Source language: Chinese", request.prompt)
             self.assertIn("Do not translate the article into English", request.prompt)
-            self.assertIn("核心观点", request.prompt)
+            self.assertIn("要点", request.prompt)
 
     def test_strip_raw_body_for_prompt_removes_svg_and_html(self) -> None:
         noisy = (
@@ -607,26 +606,30 @@ class SyncWikiTests(unittest.TestCase):
         self.assertIn('title: "Sample Article"', rendered)
         self.assertIn("# [Sample Article](https://example.com/sample)", rendered)
         self.assertNotIn("**Source**:", rendered)
-        self.assertIn("## Core View", rendered)
-        self.assertIn("## Key Takeaways", rendered)
+        self.assertIn("## Key Points", rendered)
+        self.assertNotIn("## Key Takeaways", rendered)
+        # Lead sentences appear before Key Points (no takeaways H2).
+        core_idx = rendered.index("## Key Points")
+        self.assertLess(rendered.index("Grounded takeaway."), core_idx)
         self.assertIn("topics:", rendered)
-        self.assertIn("**Topics**:", rendered)
-        self.assertIn("[[tech/_index|Tech]]", rendered)
-        self.assertIn("**Tags**: #tech #sample", rendered)
+        self.assertNotIn("**Topics**:", rendered)
+        self.assertNotIn("**Tags**:", rendered)
 
     def test_render_chinese_article_uses_chinese_labels(self) -> None:
         proposal = copy.deepcopy(self.sample_proposal)
         proposal["article"]["title"] = "示例文章"
         proposal["article"]["front_matter"]["title"] = "示例文章"
         proposal["article"]["front_matter"]["description"] = "中文描述"
-        proposal["article"]["sections"][0]["heading"] = "核心观点"
+        proposal["article"]["sections"][0]["heading"] = "要点"
+        proposal["article"]["key_takeaways"] = ["结论一句。"]
         rendered = render_article_markdown(proposal)
         self.assertEqual(article_language(proposal["article"]), "zh")
-        self.assertEqual(takeaways_heading("zh"), "核心要点")
-        self.assertIn("## 核心要点", rendered)
-        self.assertIn("**主题**:", rendered)
-        self.assertIn("**标签**:", rendered)
+        self.assertNotIn("## 核心要点", rendered)
         self.assertNotIn("## Key Takeaways", rendered)
+        self.assertLess(rendered.index("结论一句。"), rendered.index("## 要点"))
+        self.assertNotIn("可选第二句。", rendered)
+        self.assertNotIn("**主题**:", rendered)
+        self.assertNotIn("**标签**:", rendered)
 
     def test_normalize_proposal_language_resets_title_to_raw(self) -> None:
         with sync_workspace():
@@ -652,7 +655,7 @@ class SyncWikiTests(unittest.TestCase):
             self._seed_topic_index()
             (sync_module.WIKI_DIR / "business").mkdir(parents=True, exist_ok=True)
             (sync_module.WIKI_DIR / "business" / "_index.md").write_text(
-                "# Business\n\n## 相关文章\n\n## 相关主题\n",
+                "# Business\n\n## 文章\n\n",
                 encoding="utf-8",
             )
             proposal = copy.deepcopy(self.sample_proposal)
@@ -856,7 +859,7 @@ class QueryWikiTests(unittest.TestCase):
         topic_dir = query_module.WIKI_DIR / "ai-infrastructure"
         topic_dir.mkdir(parents=True, exist_ok=True)
         (topic_dir / "_index.md").write_text(
-            "# AI Infrastructure\n\n## 相关文章\n- [[2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]\n",
+            "# AI Infrastructure\n\n## 文章\n- [[2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]\n",
             encoding="utf-8",
         )
 
@@ -1282,11 +1285,11 @@ class PrepareQuartzContentTests(unittest.TestCase):
 
         self.assertEqual(len(all_entries), 7)
         visible_entries = prepare_module._collect_recent_article_entries(trimmed)
-        self.assertEqual(len(visible_entries), prepare_module.RECENT_ARTICLES_LIMIT)
+        self.assertEqual(len(visible_entries), prepare_module.HOME_RECENT_ARTICLES_LIMIT)
         self.assertIn("[[articles|查看更多]]", trimmed)
         visible_dates = re.findall(r'class="recent-date">(\d{4}-\d{2}-\d{2})<', trimmed)
         self.assertEqual(visible_dates[0], "2026-06-07")
-        self.assertEqual(visible_dates, [f"2026-06-{n:02d}" for n in range(7, 1, -1)])
+        self.assertEqual(visible_dates, [f"2026-06-{n:02d}" for n in range(7, 2, -1)])
         self.assertEqual(
             [prepare_module._entry_sort_date(e) for e in all_entries[:3]],
             ["2026-06-07", "2026-06-06", "2026-06-05"],
@@ -1339,9 +1342,9 @@ class PrepareQuartzContentTests(unittest.TestCase):
             f"- [[article-{index}|Article {index}]] (2026-06-{index:02d}) - summary."
             for index in range(1, 8)
         ]
-        topic_index = "# Topic\n\n## 相关文章\n\n" + "\n".join(entries) + "\n\n## 相关主题\n"
+        topic_index = "# Topic\n\n## 文章\n\n" + "\n".join(entries) + "\n"
         trimmed = trim_related_articles_for_site(topic_index)
-        related_section = trimmed.split("## 相关文章", 1)[1].split("## 相关主题", 1)[0]
+        related_section = trimmed.split("## 文章", 1)[1]
         visible_dates = re.findall(r'class="recent-date">(\d{4}-\d{2}-\d{2})<', related_section)
         self.assertEqual(len(visible_dates), prepare_module.RECENT_ARTICLES_LIMIT)
         self.assertIn("[[articles|查看更多]]", related_section)
@@ -1362,7 +1365,7 @@ class PrepareQuartzContentTests(unittest.TestCase):
                 for index in range(1, 8)
             ]
             (topic_dir / "_index.md").write_text(
-                "# AI & Employment\n\n## 相关文章\n\n" + "\n".join(entries) + "\n",
+                "# AI & Employment\n\n## 文章\n\n" + "\n".join(entries) + "\n",
                 encoding="utf-8",
             )
             (wiki_dir / "INDEX.md").write_text("# News Wiki\n\n## Recent Articles\n", encoding="utf-8")
@@ -1370,7 +1373,7 @@ class PrepareQuartzContentTests(unittest.TestCase):
             prepare_content(wiki_dir, content_dir)
 
             site_topic_index = (content_dir / "ai-employment" / "index.md").read_text(encoding="utf-8")
-            related_section = site_topic_index.split("## 相關文章", 1)[1]
+            related_section = site_topic_index.split("## 文章", 1)[1]
             visible_dates = re.findall(r'class="recent-date">(\d{4}-\d{2}-\d{2})<', related_section)
             self.assertEqual(len(visible_dates), prepare_module.RECENT_ARTICLES_LIMIT)
             self.assertEqual(visible_dates[0], "2026-06-07")
@@ -1383,7 +1386,7 @@ class DensifyWikiTests(unittest.TestCase):
         from pathlib import Path
 
         sample = (
-            "# T\n\n## 核心观点\n- hi\n\n## 相关文章\n\n"
+            "# T\n\n## 要点\n- hi\n\n## 相关文章\n\n"
             "- [[business/a|A]]\n\n---\n**Topics**: [[business/_index|Business]]  \n"
             "**Tags**: #business\n"
         )
@@ -1397,6 +1400,94 @@ class DensifyWikiTests(unittest.TestCase):
         out = upsert_related_section(sample, related)
         self.assertIn("**Topics**", out)
         self.assertIn("[[business/c|C]]", out)
+
+    def test_link_plain_mentions_creates_hub_links(self) -> None:
+        from wiki.densify import link_plain_mentions
+
+        sample = (
+            "---\ntitle: \"T\"\n---\n\n"
+            "# T\n\nSpaceX于2026年IPO，英伟达也受益。\n"
+            "已有链接 [[hubs/spacex|SpaceX]] 不应再套一层。\n"
+            "外链 [SpaceX](https://example.com) 保持原样。\n"
+        )
+        out, added = link_plain_mentions(sample, max_links=10)
+        self.assertGreaterEqual(added, 2)
+        self.assertIn("[[hubs/spacex|SpaceX]]于2026年", out)
+        self.assertIn("[[hubs/ipo|IPO]]", out)
+        self.assertIn("[[hubs/nvidia|英伟达]]", out)
+        # Existing wikilink / markdown link untouched (no nested [[[[ ]])
+        self.assertNotIn("[[[[", out)
+        self.assertIn("[SpaceX](https://example.com)", out)
+        # Front matter not linked
+        self.assertTrue(out.startswith("---\ntitle:"))
+
+    def test_link_plain_mentions_concepts(self) -> None:
+        from wiki.densify import CONCEPT_ALIASES, build_mention_alias_map, link_plain_mentions
+
+        sample = "---\ntitle: \"T\"\n---\n\n利率上行压制估值，监管趋严。\n"
+        out, added = link_plain_mentions(
+            sample,
+            alias_map=build_mention_alias_map(CONCEPT_ALIASES),
+            max_links=10,
+        )
+        self.assertGreaterEqual(added, 2)
+        self.assertIn("[[hubs/interest-rates|利率]]", out)
+        self.assertIn("[[hubs/valuation|估值]]", out)
+        self.assertIn("[[hubs/regulation|监管]]", out)
+
+    def test_link_metrics_line_values(self) -> None:
+        from wiki.densify import link_metrics_line_values
+
+        linked = link_metrics_line_values("利率、估值、监管、AI 投研")
+        self.assertIn("[[hubs/interest-rates|利率]]", linked)
+        self.assertIn("[[hubs/valuation|估值]]", linked)
+        self.assertIn("[[hubs/ai-investing|AI 投研]]", linked)
+
+    def test_link_plain_mentions_respects_budget_and_skips_partial(self) -> None:
+        from wiki.densify import link_plain_mentions
+
+        text = "SpaceX and NVIDIA and Microsoft and Nebius and CoreWeave."
+        out, added = link_plain_mentions(text, max_links=2)
+        self.assertEqual(added, 2)
+        self.assertEqual(out.count("[[hubs/"), 2)
+
+    def test_related_map_is_bidirectional(self) -> None:
+        from wiki.densify import Article, build_related_map
+        from pathlib import Path
+
+        a = Article(
+            Path("a.md"),
+            "business/a.md",
+            "business/a",
+            "A",
+            ["business"],
+            tags={"ipo"},
+            entities={"spacex"},
+        )
+        b = Article(
+            Path("b.md"),
+            "business/b.md",
+            "business/b",
+            "B",
+            ["business"],
+            tags={"ipo"},
+            entities={"spacex"},
+        )
+        c = Article(
+            Path("c.md"),
+            "lifestyle/c.md",
+            "lifestyle/c",
+            "C",
+            ["lifestyle"],
+            tags={"travel"},
+            entities=set(),
+        )
+        related = build_related_map([a, b, c], limit=4)
+        a_slugs = {x.slug_path for x in related["business/a"]}
+        b_slugs = {x.slug_path for x in related["business/b"]}
+        self.assertIn("business/b", a_slugs)
+        self.assertIn("business/a", b_slugs)
+        self.assertNotIn("lifestyle/c", a_slugs)
 
 
 if __name__ == "__main__":

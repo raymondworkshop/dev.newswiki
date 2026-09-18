@@ -14,12 +14,9 @@ from wiki.common import (
     RESOURCE_DIR_RE,
     TRUNCATED_URL_RE,
     WIKI_PATH_RE,
-    article_language,
     markdown_external_link,
     parse_raw_front_matter,
     require_mapping,
-    takeaways_heading,
-    topic_footer_labels,
     yaml_quote,
 )
 
@@ -77,17 +74,14 @@ def ensure_topic_index_for_slug(
     overview = rationale or f"{display} related articles and investment notes."
     stub = f"""# {display}
 
-## 概述
 {overview}
 
-## 核心指标
+## 文章
+
+## 看点
 - **关键公司**:
-- **关键技术/变量**:
+- **关键技术**:
 - **投资视角**:
-
-## 相关文章
-
-## 相关主题
 """
     index_path.write_text(stub.strip() + "\n", encoding="utf-8")
     return index_path
@@ -107,7 +101,7 @@ def update_indexes(proposal: dict[str, Any], *, wiki_dir: Path, root_index: Path
     entry = str(index_updates["topic_index_entry"]).strip()
     for slug in article_topic_slugs(proposal):
         topic_index = ensure_topic_index_for_slug(wiki_dir, slug)
-        append_unique_line(topic_index, "相关文章", entry)
+        append_unique_line(topic_index, "文章", entry)
     prepend_recent_article(root_index, str(index_updates["root_recent_entry"]).strip())
 
 
@@ -348,6 +342,14 @@ def render_article_markdown(proposal: dict[str, Any]) -> str:
     heading = f"# {markdown_external_link(title, source)}" if source else f"# {title}"
     parts = [format_front_matter(front_matter), "", heading, ""]
 
+    # One opening sentence: whole-article conclusion (formerly ## 核心要点), before 要点.
+    takeaways = article.get("key_takeaways") or []
+    if isinstance(takeaways, list) and takeaways:
+        line = str(takeaways[0]).strip()
+        if line:
+            parts.append(line)
+            parts.append("")
+
     for section in article["sections"]:
         section_heading = str(section["heading"]).strip()
         parts.append(f"## {section_heading}")
@@ -355,20 +357,5 @@ def render_article_markdown(proposal: dict[str, Any]) -> str:
             parts.append(f"- {str(bullet).strip()}")
         parts.append("")
 
-    lang = article_language(article)
-    parts.append(f"## {takeaways_heading(lang)}")
-    for takeaway in article["key_takeaways"]:
-        parts.append(f"- {str(takeaway).strip()}")
-    parts.append("")
-
-    footer = article.get("topic_footer", {})
-    topic_links = footer.get("topic_links")
-    if isinstance(topic_links, list) and topic_links:
-        links = ", ".join(str(link).strip() for link in topic_links if str(link).strip())
-    else:
-        links = ", ".join(topic_link(slug) for slug in front_matter["topics"])
-    tags = footer.get("tags", [])
-    tag_line = " ".join(str(tag).strip() for tag in tags if str(tag).strip())
-    topics_label, tags_label = topic_footer_labels(lang)
-    parts.extend(["---", f"**{topics_label}**: {links}  ", f"**{tags_label}**: {tag_line}"])
+    # Topic chips render in the page header (ArticleTopics); no body footer.
     return "\n".join(parts).strip() + "\n"

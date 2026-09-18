@@ -13,6 +13,8 @@ topics:
 
 # [Netflix Exploring Live TV and Bundled Services as User Engagement Declines](https://cn.wsj.com/articles/netflix-is-exploring-live-tv-and-bundles-as-it-struggles-to-keep-viewers-hooked-72463bf8?mod=cn_hp_featst_pos1)
 
+Netflix is pivoting from a pure on-demand model to one that includes live TV and bundled services to combat declining user engagement.
+
 ## Key Business Trends and Strategic Shifts
 - Netflix executives are exploring live TV channels to boost user engagement, with content continuously aired rather than on-demand.
 - The company is evaluating bundling with other streaming services like Peacock (NBCUniversal) and offering them as app-based subscriptions, similar to Amazon and Apple.
@@ -43,16 +45,8 @@ topics:
 - [AI Synthesis] The potential acquisition of Warner Bros. Discovery content was previously considered but ultimately rejected, signaling internal concerns about growth and market positioning.
 - [AI Synthesis] The company's declining engagement metrics and rising ad competition suggest a need for stronger content differentiation and user retention strategies.
 
-## Key Takeaways
-- Netflix is pivoting from a pure on-demand model to one that includes live TV and bundled services to combat declining user engagement.
-- The company faces intense competitive pressure from both subscription and free ad-supported platforms.
-- Pricing and content diversification—especially in short-form and live content—are key strategies to improve retention and revenue.
-- Live and ad-supported content could significantly boost revenue, but may also risk alienating core subscribers who value the current no-ad model.
 
 ## Related Articles
 
 - [[business/us-biotech-boosts-secrity-to-fight-china-pharma-competition|为防范中国药企跟风，美国生物技术公司加强保密]]
 
----
-**Topics**: [[business/_index|Business]]  
-**Tags**: #business #streaming #engagement #competition

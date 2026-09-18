@@ -13,6 +13,8 @@ topics:
 
 # [专访风投家约翰·杜尔：AI是史上最大的科技“海啸”](https://cn.wsj.com/articles/%E4%B8%93%E8%AE%BF%E9%A3%8E%E6%8A%95%E5%AE%B6%E7%BA%A6%E7%BF%B0-%E6%9D%9C%E5%B0%94-ai%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9A%84%E7%A7%91%E6%8A%80-%E6%B5%B7%E5%95%B8-34e2ea79?mod=cn_hp_wknd_pos1)
 
+生成式AI是继互联网之后最大的颠覆性技术浪潮，其影响尚待完全评估。
+
 ## AI革命的规模与速度
 - 约翰·杜尔将科技浪潮比作“海啸”，指出历史上曾有几次重大的颠覆性浪潮（如个人电脑、互联网、云计算）。
 - 他认为，生成式人工智能(AI)带来的浪潮是“有史以来最大的颠覆”，其影响被低估了。
@@ -28,10 +30,6 @@ topics:
 - 他肯定了美国创业精神的结构性优势，指出风投支持的公司在创造优质就业岗位方面做出了巨大贡献。
 - 关于新兴技术，他持谨慎态度，例如在访谈中表示自己没有投资加密货币，认为其在人力资本方面的作用尚未被充分验证。
 
-## Key Takeaways
-- 生成式AI是继互联网之后最大的颠覆性技术浪潮，其影响尚待完全评估。
-- 成功的创业需要独特的愿景、强大的执行团队和早期信念的坚持。
-- 风投的成功在于早期识别并押注于人力资本的潜力。
 
 ## 相关文章
 
@@ -40,6 +38,3 @@ topics:
 - [[finance/leopold-aschenbrenner-situational-awareness|将Jane Street纳为投资人的24岁AI奇才]]
 - [[business/ai-giants-office-ai-application|一览AI巨头如何在自家办公室应用AI]]
 
----
-**Topics**: [[business/_index|Business]], [[tech/_index|Tech]]  
-**Tags**: #AI #VentureCapital #Disruption

@@ -12,10 +12,12 @@ topics:
 
 # [特朗普政府正就注资国内无人机公司进行谈判](https://cn.wsj.com/articles/ttrump-us-drone-company-funding-1af34e06)
 
-## 核心观点
+无人机已成为美国防卫战略的核心，政府投资反映出供应链安全的迫切性
+
+## 要点
 - 无人机已成为美国国防战略的关键技术
 - 政府直接投资国内企业以强化供应链独立性
-- 地缘政治紧张推动防卫产业重组
+- [[hubs/geopolitics|地缘政治]]紧张推动防卫产业重组
 
 ## 政策背景
 
@@ -85,7 +87,7 @@ topics:
 - 技术出口管制限制商业潜力
 - 供应链建设需要长期投入
 
-### 地缘政治风险
+### [[hubs/geopolitics|地缘政治]]风险
 - 中美技术竞争升级
 - 盟国供应链协调复杂性
 - 政策变化的不确定性
@@ -102,19 +104,9 @@ topics:
 - 政策稳定性与跨政府周期的连续性
 - 成本控制与利润空间
 
-## Key Takeaways
-- 无人机已成为美国防卫战略的核心，政府投资反映出供应链安全的迫切性
-- 国内投资与政府订单为无人机企业提供了稳定的收入与成长空间
-- 供应链本地化与技术自主是长期趋势，但需要时间积累
-- 投资者应关注企业的技术能力、交付能力、以及与政府的合作稳定性
-
 ## 相关文章
 
-- [[business/hormuz-crisis-economic-lessons|霍尔木兹危机带给全球经济的五大启示]]
+- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
+- [[tech/2026-05-28-cheap-humanoid-robots|下一波中国冲击：比二手车还便宜的人形机器人]]
+- [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
 - [[business/korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]]
-- [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]]
-- [[business/philippines-central-to-us-asia-strategy|菲律宾为何对美国的亚洲战略至关重要？]]
-
----
-**Topics**: [[business/_index|Business]]  
-**Tags**: #defense #drones #无人机 #technology #geopolitics

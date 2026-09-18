@@ -1,19 +1,19 @@
-# 金融
+# 投资
 
-## 概述
-资本如何定价与配置——市場、流动性与风险   
+资本如何定价与配置——市場、流动性与风险
 
-## 核心指标
-- **关键公司**:[[hubs/spacex|SpaceX]], [[DeepSeek]], [[hubs/nvidia|Nvidia]], [[Leon Capital Group]], [[OpenAI]]
-- **关键技术/变量**: 利率、估值、监管、AI 投研
-- **投资视角**: 现金流、杠杆、风险回报
-
-## 相关文章
-- [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - AI公司员工通过流动性事件获巨额财富，却因时间贫困导致消费克制，支出集中于全款购房、初创投资及健康恢复设施，传统奢侈品渗透有限。
-- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 人形机器人大脑模型记忆瓶颈与突破，Physical Intelligence/Figure AI/英伟达/Alphabet 领跑，投资渠道含 RoboStrategy 与零部件卖铲人。
-- [[portugal-comporta-coastal-travel-guide|趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇]] (2026-09-09) - 孔波塔在自然保护区约束下平衡高端旅游开发与原生风貌，附实用预订指南
-- [[china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08) - 中国生物制药凭借制造效率与授权模式吸引资金轮动，指数大幅跑赢AI，但面临IP外流与地缘政治双重风险。
-- [[institutional-investor-signals-retail-guide|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 解读机构吸筹/派发足迹，涨跌量比率、价格区间与图表工具实战指南
+## 文章
+- [[yuan-four-year-high-pboc-fixing|人民币升至逾四年高点]] (2026-09-18) - 周五人民币兑美元创逾四年高点，出口强劲与央行连续调强中间价提供支撑。
+- [[spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] (2026-09-17) - 布莱恩·阿格雷是SpaceX十多年的老员工，IPO使其个人财富急剧增长。他和妻子双双辞职，计划以每个月2.5万美元的预算周游世界，度过“疯狂之年”。
+- [[bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]] (2026-09-16) - 美国银行一位分析师预计，到2030年，整个半导体行业的潜在市场总额将达到3.2万亿美元。最大受益者是四只股票。
+- [[china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]] (2026-09-16) - 中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。
+- [[mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]] (2026-09-15) - 这位亿万富翁企业集团旗下的保险公司是美国主要的年金销售商之一。联邦检察官正对这些保险公司的投资披露情况展开审查。
+- [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - OpenAI和Anthropic的股份出售交易造就了数百名千万富翁。但这些人却不知该怎么花钱，也没时间消费。当一些人聊起怎么犒劳自己时，提到最多的是一台意式浓缩咖啡机。
+- [[portugal-comporta-coastal-travel-guide|趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇]] (2026-09-09) - 孔波塔是葡萄牙最时髦的海滨度假胜地，这已不再是秘密。但它的魔力在于，这里依然给人一种秘境之感。
+- [[china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08) - 分析师看好生物制药股，理由是其盈利具有吸引力、估值较低。与此同时，市场对AI板块盈利能力和估值偏高的担忧，也进一步凸显了生物制药股的吸引力。
+- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
+- [[institutional-investor-signals-retail-guide|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 追踪股票的价格区间和成交量，能为个人投资者提供线索，帮助他们判断何时买入即将上涨的股票，或抛售势将下跌的股票。
+- [[read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 追踪股票的价格区间和成交量，能为个人投资者提供线索，帮助他们判断何时买入即将上涨的股票，或抛售势将下跌的股票。
 - [[us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] (2026-09-07) - 美国人正通过“氛围编程”构建交易算法，并将自己的股票投资组合交由AI智能体打理，运营掌握量化交易策略的“迷你对冲基金”。
 - [[ai-proof-assets-investors-turn-to-sports-casinos-and-tourism|“抗AI”资产有哪些？投资人目光投向体育、赌场和旅游业]] (2026-09-03) - 风险投资人正寻觅不易受到AI快速发展冲击的领域，他们转向线下体验领域：体育团队、标志性地产，甚至儿童玩具。
 - [[theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]] (2026-09-02) - 水清沙白的度假胜地马尔代夫已然成为一条关键暗道，源源不断地将价值数亿美元的西方物资输送到莫斯科。
@@ -105,9 +105,8 @@
 - [[2026-05-11-divorce-financial-infidelity|婚姻破裂的关键导火索：“财务出轨”]] (2026-05-11) - 如今，对伴侣隐瞒财产或支出已是再简单不过的事情，但“财务不忠”不仅会酿成离婚的结局，还会给个人带来严重的财务后果。
 - [[2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] (2026-02-23) - 对热门AI初创公司的投资争夺战已导致投资者之间的交易条款出现差异，从而引发了外界对这些公司真实价值的质疑。
 
-## 相关主题
-- [[business/_index|商业/]]
-- [[tech/_index|科技/]]
-- [[design/_index|设计/]]
-- [[career/_index|职场/]]
-- [[lifestyle/_index|生活/]]
+## 看点
+- **关键公司**:[[hubs/spacex|SpaceX]], [[DeepSeek]], [[hubs/nvidia|Nvidia]], [[Leon Capital Group]], [[OpenAI]]
+- **关键技术**: [[hubs/interest-rates|利率]]、[[hubs/valuation|估值]]、[[hubs/regulation|监管]]、[[hubs/ai-investing|AI 投研]]
+- **投资视角**: [[hubs/cash-flow|现金流]]、[[hubs/leverage|杠杆]]、[[hubs/risk-return|风险回报]]
+

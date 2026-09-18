@@ -9,7 +9,9 @@ topics:
 
 # [Ello Listens, Adapts & Responds in Real Time](https://www.ello.com/how-it-works)
 
-## Core View
+Ello leverages real-time speech processing to create a responsive, child-adaptive learning experience.
+
+## Key Points
 - Ello uses real-time speech recognition to listen to children reading aloud, detecting confidence and hesitation to adapt content dynamically.
 - The system personalizes daily learning plans based on a child’s prior performance, interests, and learning pace.
 - Ello employs a teacher-like response model: offering hints, adjusting approaches, and celebrating progress to mirror human pedagogy.
@@ -30,16 +32,9 @@ topics:
 - The Parent Dashboard provides real-time visibility into a child’s progress, skill mastery, and upcoming learning goals.
 - Parents are informed of milestones and can discuss them at home, reinforcing educational continuity and trust.
 
-## Key Takeaways
-- Ello leverages real-time speech processing to create a responsive, child-adaptive learning experience.
-- The design emphasizes emotional engagement, effort-based motivation, and pedagogical rigor.
-- It combines AI personalization with human-like teaching behaviors to improve learning outcomes and retention.
-
 ## Related Articles
 
-- [[design/how-to-read-more-books|How to read more books]]
-- [[design/pentaton-lp|Pentaton LP • Pentaton]]
-
----
-**Topics**: [[design/_index|Product Design]]  
-**Tags**: #product-design #ai-education #child-learning
+- [[career/improve-pronunciation-day-5|5 days to improve your pronunciation / Day 5 - You've earned your certificate]]
+- [[lifestyle/china-releases-pastor-ezra-jin|China Releases Imprisoned Pastor Ezra Jin After U.S. Pressure]]
+- [[career/founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
+- [[career/how-to-choose-a-subproblem|How To Choose A Subproblem]]

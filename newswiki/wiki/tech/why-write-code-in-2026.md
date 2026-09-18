@@ -11,7 +11,9 @@ topics:
 
 # [Why write code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code)
 
-## Core View
+Direct code writing enhances attention, ownership, and architectural understanding in AI-driven software development.
+
+## Key Points
 - Software engineers must maintain the software factory—building infrastructure that enables agents to operate effectively through proactive prompts and reactive safeguards like testing and linting.
 - Even with AI-generated code, direct code writing provides deeper attention and understanding of system architecture, preventing fragility and slop accumulation.
 - [AI Synthesis] Writing code fosters ownership and precision, allowing humans to experience the full 4DX virtual reality of execution, unlike passive reading of diffs or English descriptions.
@@ -23,12 +25,6 @@ topics:
 - The article highlights that agents often default to safe, conservative changes, which can amplify poor initial decisions—such as using local storage instead of a backend—leading to excessive code bloat.
 - By directly engaging with code, humans can connect minute details to the big picture, improving system design and performance.
 
-## Key Takeaways
-- Direct code writing enhances attention, ownership, and architectural understanding in AI-driven software development.
-- AI agents are not compilers—they require human oversight to avoid amplifying poor design decisions.
-- Fragility accumulates when code is only reviewed passively; hands-on coding reduces this risk.
-- The software factory benefits from early integration of CI/CD and direct code experience to improve quality and maintainability.
-- Humans must engage with code to avoid the 'reverse centaur' problem of relying on English-based proxies for technical decisions.
 
 ## Related Articles
 
@@ -37,6 +33,3 @@ topics:
 - [[tech/stripe-kai-deep-agents|How Stripe Built Kai on Deep Agents in 1 Week]]
 - [[business/ai-software-company-moats|How does AI affect software company moats?]]
 
----
-**Topics**: [[tech/ai-agents|AI Agents]], [[tech/software-architecture|Software Architecture]], [[tech/ai-development|AI Development]]  
-**Tags**: #ai-agents #software-architecture #ai-development

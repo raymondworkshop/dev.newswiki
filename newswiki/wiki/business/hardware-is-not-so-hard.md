@@ -13,7 +13,9 @@ topics:
 
 # [Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
 
-## Core View
+Hardware is 'as hard as you make it'—simplicity in design is the primary lever for reducing manufacturing risk.
+
+## Key Points
 - The common adage that "hardware is hard" is often overstated for simple devices; in the case of Jamcorder, the software (firmware, app, and tooling) was significantly more challenging than the physical build.
 - Hardware difficulty is a function of complexity and scale; by intentionally limiting features (e.g., removing USB-C, power buttons, and complex sensors), the production process remains smooth.
 - Successful medium-scale hardware ventures require a lean operation and a strong focus on protecting margins, specifically aiming for a gross margin of 70% or higher.
@@ -25,12 +27,4 @@ topics:
 - Implement a robust anti-counterfeit strategy and provide detailed, picture-based manufacturing guides.
 - Optimize packaging size to increase value density, which simplifies logistics and fulfillment.
 
-## Key Takeaways
-- Hardware is 'as hard as you make it'—simplicity in design is the primary lever for reducing manufacturing risk.
-- For niche hardware, the software complexity often outweighs the hardware complexity.
-- High gross margins (70%+) are essential to offset the slower scaling nature of hardware businesses.
-- In-house final QA is non-negotiable for maintaining quality at medium scale.
 
----
-**Topics**: [[business/_index|Business]], [[tech/_index|Tech]]  
-**Tags**: #business

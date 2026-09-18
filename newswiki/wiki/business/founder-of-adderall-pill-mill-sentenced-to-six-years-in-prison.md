@@ -12,7 +12,9 @@ topics:
 
 # [经营硅谷“处方药坊”的中国籍商人在美被判六年监禁](https://cn.wsj.com/articles/founder-of-adderall-pill-mill-sentenced-to-six-years-in-prison-17144b69?mod=cn_hp_lead_pos11)
 
-## 核心观点
+硅谷初创公司Done Global创始人何如佳因非法分销管制药物被判六年监禁。
+
+## 要点
 - Done Global创始人何如佳(Ruthia He)因共谋分销管制药物被判处六年监禁，并被处以100万美元罚款。
 - 检方指控Done Global是一个滥开阿德拉(Adderall)的“处方药坊”，其临床医生经常在几分钟内就开出兴奋剂处方，几乎不问任何问题，完全绕开了标准的医疗评估流程。
 - 该公司的盈利模式是通过向患者收取兴奋剂处方续签的包月费用。
@@ -26,11 +28,6 @@ topics:
 - 另有八人已就参与该共谋认罪并出庭作证。
 - 何如佳曾将Done与Facebook和TikTok等公司类比，认为大多数成功的公司都靠成瘾牟利。
 
-## Key Takeaways
-- 硅谷初创公司Done Global创始人何如佳因非法分销管制药物被判六年监禁。
-- 该公司被指控为“处方药坊”，通过快速、不当的处方模式牟利。
-- 此判决旨在对其他创业者起到警示作用。
-- Done公司已将业务转移至中国，但其美国网站仍在运营。
 
 ## 相关文章
 
@@ -39,6 +36,3 @@ topics:
 - [[tech/washington-ai-safety-panic|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]]
 - [[finance/2026-05-27-stablecoin-risks|稳定币为何会给经济带来风险]]
 
----
-**Topics**: [[business/_index|Business]]  
-**Tags**: #startup #legal #healthcare #regulation

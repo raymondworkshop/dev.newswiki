@@ -22,8 +22,8 @@ export default {
       quote: "引用",
     },
     backlinks: {
-      title: "提到呢篇",
-      noBacklinksFound: "暫時未有其他文章提到呢篇",
+      title: "提及本文",
+      noBacklinksFound: "暫時未有其他文章提到這篇",
     },
     themeToggle: {
       lightMode: "淺色",
@@ -50,14 +50,14 @@ export default {
       linkToOriginal: "去原文",
     },
     search: {
-      title: "搵",
-      searchBarPlaceholder: "搵文章…",
+      title: "搜尋",
+      searchBarPlaceholder: "搜尋文章…",
     },
     tableOfContents: {
       title: "目錄",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `大概要睇 ${minutes} 分鐘`,
+      readingTime: ({ minutes }) => `約 ${minutes} 分鐘`,
     },
   },
   pages: {

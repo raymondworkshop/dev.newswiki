@@ -215,11 +215,13 @@ def _source_language_hint(front_matter: dict[str, Any], body: str) -> str:
     if cjk < 20:
         return (
             "Source language: English. Write article.title, front_matter fields meant for "
-            "display, section headings (use Core View), bullets, and key_takeaways in English."
+            "display, section headings (use Key Points), bullets, and key_takeaways "
+            "(exactly 1 opening sentence that summarizes the whole article conclusion, placed before Key Points; not a separate Key Takeaways section) in English."
         )
     return (
         "Source language: Chinese. Preserve Chinese for article.title, front_matter.title, "
-        "front_matter.description, section headings (use 核心观点), bullets, and key_takeaways. "
+        "front_matter.description, section headings (use 要点), bullets, and key_takeaways "
+        "(开头恰好 1 句：总结整篇文章的结论，放在「要点」之前；不要再单独写「核心要点」区块). "
         "Do not translate the article into English. article.slug remains ASCII-only."
     )
 
@@ -246,6 +248,7 @@ article.path must be exactly `{WIKI_PREFIX}/{{primary-topic}}/{{article.slug}}.m
 
 Linking: include at least 2-4 resolvable [[wiki links]] in bullets/takeaways when grounded in the source. Prefer [[topic/existing-article-slug|Title]] or [[hubs/entity|Name]] over bare unresolved names.
 Preserve the source article language throughout: article.title, front_matter, section headings, bullets, and key_takeaways must match the raw language. Do not translate or rename titles.
+key_takeaways: exactly 1 sentence that summarizes the entire article’s conclusion (the reader’s takeaway). Rendered as the opening lead above 要点 / Key Points — no ## 核心要点 / ## Key Takeaways heading. Do not use a bullet list; one full sentence only.
 
 {language_hint}
 
@@ -325,8 +328,11 @@ def validate_proposal(proposal: dict[str, Any], raw_path: Path) -> None:
         validate_synthesis_labels([str(b) for b in bullets], "section bullet")
 
     key_takeaways = article.get("key_takeaways", [])
-    if not isinstance(key_takeaways, list) or not key_takeaways:
-        raise ValueError("article.key_takeaways must be a non-empty list.")
+    if not isinstance(key_takeaways, list) or len(key_takeaways) != 1:
+        raise ValueError(
+            "article.key_takeaways must be a list with exactly 1 sentence summarizing the whole article conclusion "
+            "(before 要点 / Key Points)."
+        )
     validate_synthesis_labels([str(k) for k in key_takeaways], "key takeaway")
 
     for key in ("topic_index_entry", "root_recent_entry"):

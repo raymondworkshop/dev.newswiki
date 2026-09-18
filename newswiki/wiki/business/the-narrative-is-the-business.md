@@ -13,7 +13,9 @@ topics:
 
 # [The Narrative is the Business](https://surya.website/a-blog/the-narrative-is-the-business)
 
-## Core View
+Writing is the work: in the AI era, prompts and prose are the primary interface to building — clear writing equals clear thinking equals velocity.
+
+## Key Points
 - All work is converging on writing: specs, decks, memos, prompts — writing is no longer adjacent to work, it is the work itself.
 - Bezos's six-page memo culture proves clear writing forces clear thinking; PowerPoint creates illusion of understanding.
 - Articulation is the first product: before anything gets built, the narrative justifying it must exist. Narratives shape strategic decisions, resolve contradictions, clarify positioning.
@@ -27,13 +29,4 @@ topics:
 - Leadership becomes editing: maintaining coherence across a living text constantly tested against reality.
 - The draft is never final: AI made writing the main thing organizations must do. The question is whether anyone tells you what your drafts sound like. Build the return channel.
 
-## Key Takeaways
-- Writing is the work: in the AI era, prompts and prose are the primary interface to building — clear writing equals clear thinking equals velocity.
-- Narrative is the engine: it doesn't just communicate strategy, it shapes it. Articulation is the first product.
-- Organizations need a return channel: a double-entry ledger for narrative where what gets written gets built, what gets built gets experienced, and experience talks back to adjust the draft.
-- Emerging practice: dual-native brand systems (human + agent formats), narrative version control for code, newsroom-like orgs where leadership = editing.
-- Competitive advantage: organizations that build return channels compound a clear, evolving understanding of their own story; the rest fill with echoes of a first draft until all they hear is noise.
 
----
-**Topics**: [[business/_index|Business]], [[tech/_index|Tech]], [[design/_index|Design]]  
-**Tags**: #business #tech #design

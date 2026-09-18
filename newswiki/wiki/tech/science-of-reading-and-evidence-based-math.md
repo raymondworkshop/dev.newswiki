@@ -10,7 +10,9 @@ topics:
 
 # [Science of Reading & Evidence-Based Math](https://www.ello.com/our-teaching-approach)
 
-## Core View
+Ello leverages the Science of Reading and evidence-based math to deliver personalized, adaptive learning experiences.
+
+## Key Points
 - Ello uses the Science of Reading, grounded in phonics, fluency, and comprehension, to teach reading through real-time support and adaptive pacing.
 - Math instruction focuses on building understanding rather than memorization, using visual tools and step-by-step problem breakdowns.
 - The platform adapts dynamically to a child's learning pace and struggles, offering targeted practice when a child repeats errors or gets stuck.
@@ -27,15 +29,9 @@ topics:
 - Dynamic content reshapes in real time to match how a child learns, making the experience feel responsive and human-like.
 - Supports English as a second language with culturally relevant, experience-based content and pacing structures.
 
-## Key Takeaways
-- Ello leverages the Science of Reading and evidence-based math to deliver personalized, adaptive learning experiences.
-- One-on-one teaching is central to its design, supported by research showing significant learning gains in 1:1 tutoring environments.
-- The platform uses real-time adaptation to address individual learning gaps, making it a strong example of AI-driven educational technology.
-
 ## Related Articles
 
-- [[tech/how-to-start-a-ruby-meetup|How to Start a Ruby Meetup]]
-
----
-**Topics**: [[tech/_index|Tech]], [[design/_index|Design]]  
-**Tags**: #tech #education-tech #adaptive-learning
+- [[tech/theres-no-such-thing-as-a-small-software-team|There's no such thing as a small software team anymore]]
+- [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]]
+- [[career/improve-pronunciation-day-5|5 days to improve your pronunciation / Day 5 - You've earned your certificate]]
+- [[design/Product-Design-Ello-Real-Time-Response|Ello Listens, Adapts & Responds in Real Time]]

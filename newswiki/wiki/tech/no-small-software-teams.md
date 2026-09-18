@@ -12,23 +12,17 @@ topics:
 
 # [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
 
-## Core View
+Software architecture must now be designed for agent-parallelism, not just human-parallelism.
+
+## Key Points
 - AI coding agents have fundamentally changed the scale of software production; a small team utilizing 20-100 agents can generate commit and PR volumes previously seen only in massive organizations like [[hubs/Uber|Uber]].
 - High modularity (e.g., microservices) is now a necessity for small teams to enable 'embarrassingly parallel' workflows and prevent agents from creating net-negative productivity through merge conflicts and broken builds.
 - The traditional overhead of modularity—such as boilerplate and CI configuration—has been neutralized because [[hubs/ai-agents|AI Agents]] can now automate these tasks.
 - Modular design is critical for agent performance because smaller modules fit more effectively within the limited context windows of current LLMs.
 
-## Key Takeaways
-- Software architecture must now be designed for agent-parallelism, not just human-parallelism.
-- Modularity is the primary lever for scaling the effective use of coding agents.
-
 ## Related Articles
 
-- [[tech/why-write-code-in-2026|Why write code in 2026]]
-- [[tech/stripe-kai-deep-agents|How Stripe Built Kai on Deep Agents in 1 Week]]
-- [[business/ai-software-company-moats|How does AI affect software company moats?]]
-- [[tech/rogue-ai-agents-guide|失控AI机器人世界的用户指南]]
-
----
-**Topics**: [[tech/_index|Tech]]  
-**Tags**: #ai-agents #software-architecture #modularity
+- [[tech/ai-ml-engineering/langgraph-stateful-ai-agents|LangGraph: Build Stateful AI Agents in Python]]
+- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
+- [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
+- [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]

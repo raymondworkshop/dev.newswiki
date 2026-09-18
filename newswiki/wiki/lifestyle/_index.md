@@ -1,23 +1,24 @@
 # 生活
 
-## 概述
-健康、关系与文化如何定义当下生活方式  
+健康、关系与文化如何定义当下生活方式
 
-## 核心指标
-- **关键公司**:[[H&M]], [[Sellpy]], [[Shein]]
-- **关键技术/变量**: 人口结构、消费习惯、社会文化
-- **投资视角**: 长期主题、品牌与生活方式赛道
-
-## 相关文章
-- [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - AI公司员工通过流动性事件获巨额财富，却因时间贫困导致消费克制，支出集中于全款购房、初创投资及健康恢复设施，传统奢侈品渗透有限。
-- [[windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10) - 世界之窗如何重塑纽约餐饮文化与城市认同，从1976年开业到9·11毁灭及其遗产
-- [[us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04) - 美国高校因生源萎缩推行直接录取，学生无需申请即获录取，Common App参与校三年增三倍，十余州跟进，费用透明成新竞争点。
-- [[portugal-comporta-coastal-travel-guide|趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇]] (2026-09-09) - 孔波塔在自然保护区约束下平衡高端旅游开发与原生风貌，附实用预订指南
-- [[cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07) - 中国CAR-T疗法凭借成本优势、产品领先与快速制备吸引全球患者，实体瘤突破标志生物技术产业跃升，但临床试验监管透明度存隐忧。
-- [[trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08) - 中国旅游业升级为国家战略，2030 年收入预计达 1.8 万亿美元，但国内游客单价下降、入境游客单价偏低，消费分层明显。
-- [[onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 鬼冢虎上半年销售额增36%，亚瑟士利润增50%，日元贬值与Y2K潮流驱动游客扫货，品牌拟剥离为子公司。
+## 文章
+- [[spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] (2026-09-17) - 布莱恩·阿格雷是SpaceX十多年的老员工，IPO使其个人财富急剧增长。他和妻子双双辞职，计划以每个月2.5万美元的预算周游世界，度过“疯狂之年”。
+- [[mountain-school-ivy-league-farm-work|一学期付4万美元干农活，这所另类学校如何成为常春藤敲门砖？]] (2026-09-15) - 就读于Mountain School项目的高中生们希望通过洗碗、放羊和收玉米，来获得远离科技产品的喘息之机，并为自己的大学申请加分。
+- [[china-economic-slowdown-shangrila-matsutake-trade|中国经济困境波及香格里拉松茸“猎人”]] (2026-09-14) - 藏族松茸“猎人”每年都有几个星期会进入喜马拉雅高山上采摘这种珍贵食材，但如今激烈的市场竞争正不断压缩他们的生存和盈利空间。
+- [[americas-great-ai-freakout|美国AI大恐慌全面爆发]] (2026-09-14) - 人们一直担心AI技术可能毁灭人类文明并引发网络攻击，这种情绪在办公室里和餐桌上的谈论中已达到沸点。
+- [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - OpenAI和Anthropic的股份出售交易造就了数百名千万富翁。但这些人却不知该怎么花钱，也没时间消费。当一些人聊起怎么犒劳自己时，提到最多的是一台意式浓缩咖啡机。
+- [[windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10) - 位于世贸中心北塔100多层之上的“世界之窗”曾是重塑纽约城市文化的餐饮巨头。
+- [[portugal-comporta-coastal-travel-guide|趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇]] (2026-09-09) - 孔波塔是葡萄牙最时髦的海滨度假胜地，这已不再是秘密。但它的魔力在于，这里依然给人一种秘境之感。
+- [[global-tourists-onitsuka-tiger-japan-stores|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
+- [[onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
+- [[trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08) - 中国最新五年规划提出，要打造“旅游强国”。每年有数千万外国人入境中国，国内游也在升温，但一些中国游客却捂紧了钱包。
+- [[cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07) - 如今上海正成为美国等富裕国家癌症患者跨国就医的新热门目的地，这里的CAR-T疗法费用不到美国的一半，中国获批产品数量也居全球首位。
+- [[taiwan-temples-religious-freedom-vs-china|漫步于台湾庙宇，我窥见中国另一种可能的模样]] (2026-09-07) - 两岸分离七十余载，塑造了两地民众截然不同的宗教生活。在台北挤满信众的庙宇中，出生于中国的本报记者见证了中国大陆失去了什么。
 - [[taiwan-temples-religious-life-china-contrast|漫步于台湾庙宇，我窥见中国另一种可能的模样]] (2026-09-07) - 两岸分离七十余载，塑造了两地民众截然不同的宗教生活。在台北挤满信众的庙宇中，出生于中国的本报记者见证了中国大陆失去了什么。
+- [[us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04) - 随着生源萎缩，越来越多学校开始“直接录取”，即只依据几项标准录取学生，比如高中成绩单。“这不是学生向院校提出申请，而是院校向学生提出申请。”
 - [[lincoln-class-ship-deployment-pattaya|“林肯号”航母高强度部署告一段落，泰国芭提雅准备迎接船员]] (2026-09-02) - 大约5,000名手头阔绰、急需休整放松的水兵即将涌入泰国海滨度假胜地芭堤雅。
+- [[bent-over-dumbbell-row|俯身哑铃划船_Keep]] (2026-08-31) - 步骤 | 双脚分开，俯身约90°；双手对握哑铃，拳心相对；手肘微屈，双臂垂直于地面夹肘上拉哑铃至腹部两侧，在最高点时略作停顿，缓慢下放哑铃至起始位置动作全程保持肘部夹紧呼吸 | 上拉哑铃时呼气，下放哑铃时吸气动作感觉 | 上拉哑铃时，后背有明显收缩感；次数多之后可能会出现轻微灼烧感
 - [[china-premium-wine-boom-behind-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[china-premium-wine-boom-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[e9-97-af-e5-85-a5-e6-88-91-e4-bb-ac-e5-ae-b6-e5-ba-ad-e5-81-|闯入我们家庭假期的不速之客：老妈的AI聊天机器人]] (2026-08-28) - 作为一个对AI心存怀疑和恐惧的千禧一代，当我发现年逾七旬的父母竟然迷上了Claude时，那份错愕可想而知。
@@ -74,9 +75,8 @@
 - [[principles-for-living-an-operating-system-for-life|Principles For Living: An Operating System for Life]] (2018-06-05) - All that we write about, think about, and strive for at Farnam Street draws inspiration from one of these five principles: Direction Over Speed, Live Deliberately, Thoughtful Opinions Held Loosely, Principles Outlive Tactics, and Own Your Actions.
 - [[principles-for-living-operating-system-for-life|Principles For Living: An Operating System for Life]] (2018-06-05) - All that we write about, think about, and strive for at Farnam Street draws inspiration from one of these five principles: Direction Over Speed, Live Deliberately, Thoughtful Opinions Held Loosely, Principles Outlive Tactics, and Own Your Actions.
 
-## 相关主题
-- [[business/_index|商业/]]
-- [[tech/_index|科技/]]
-- [[design/_index|设计/]]
-- [[finance/_index|金融/]]
-- [[career/_index|职场/]]
+## 看点
+- **关键公司**:[[H&M]], [[Sellpy]], [[Shein]]
+- **关键技术**: [[hubs/demographics|人口结构]]、[[hubs/consumer-habits|消费习惯]]、社会文化
+- **投资视角**: 长期主题、品牌与生活方式赛道
+

@@ -9,10 +9,12 @@ topics:
 
 # [Fine Tuning a Local LLM to Categorize Questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
 
+Small, specialized LLMs can be effectively fine-tuned for specific classification tasks like question routing.
+
 ## Project Overview
 - The goal is to build a chatbot for household maintenance queries using RAG against a vector database.
-- A preprocessing step uses a small local LLM to categorize incoming questions into known metadata tags (e.g., pool, car, hvac, cooking) to narrow the vector search space.
-- The experiment tests the hypothesis that a very small local LLM can be reliably fine-tuned for this classification task.
+- A preprocessing step uses a small local [[hubs/llm|LLM]] to categorize incoming questions into known metadata tags (e.g., pool, car, hvac, cooking) to narrow the vector search space.
+- The experiment tests the hypothesis that a very small local [[hubs/llm|LLM]] can be reliably fine-tuned for this classification task.
 
 ## LLM & Finetuning Details
 - Models used: Qwen 3:4B (general QA) and Qwen 3:0.6B (classifier).
@@ -29,18 +31,9 @@ topics:
 - **2nd Attempt (Code Mapping):** Switching the output requirement from a variable category string to a fixed, two-character opaque code significantly boosted performance.
 - **Final Result:** Accuracy reached ~92% (120/131 correct) by enforcing a fixed-format code output, demonstrating the critical role of output constraints in small model reliability.
 
-## Key Takeaways
-- Small, specialized LLMs can be effectively fine-tuned for specific classification tasks like question routing.
-- The success of fine-tuning heavily depends on constraining the output format (e.g., using fixed codes) to minimize ambiguity and improve reliability.
-- The transition from 10% to 92% accuracy highlights the power of targeted fine-tuning over zero-shot prompting for constrained tasks.
-
 ## Related Articles
 
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
 - [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]]
-- [[tech/llm-critics-right-use-anyway|The LLM Critics Are Right. I Use LLMs Anyway.]]
-
----
-**Topics**: [[tech/_index|Tech]]  
-**Tags**: #tech #llm #fine-tuning
+- [[tech/llm-mechanics-walkthrough|How LLMs Actually Work]]

@@ -14,6 +14,8 @@ topics:
 
 # [霍尔木兹危机带给全球经济的五大启示](https://cn.wsj.com/articles/five-things-the-hormuz-crisis-taught-us-about-the-global-economy-4947491a?mod=cn_hp_econ_pos1)
 
+Global economies have become more resilient to oil supply disruptions due to ample reserves, market adaptability, and increased energy efficiency.
+
 ## 许多国家准备充分
 - Global oil supply was ample before the Hormuz crisis, with healthy strategic and commercial inventories in major economies.
 - This provided a buffer, allowing economies to weather the shock with limited disruption.
@@ -44,24 +46,14 @@ topics:
 
 ## 人工智能(AI)热潮抵消了能源危机带来的拖累
 - The AI boom has acted as a counterforce to the energy crisis's drag on the global economy.
-- Rapid construction of U.S. data center infrastructure and market enthusiasm for AI have boosted trade and investment.
+- Rapid construction of U.S. [[hubs/ai-infrastructure|data center]] infrastructure and market enthusiasm for AI have boosted trade and investment.
 - This has driven stock markets to record highs.
 - Asian economies, particularly Taiwan, South Korea, Singapore, and Japan, have seen significant export growth due to their role in supplying AI components.
 - This technological surge has provided strong momentum to key sectors of the global economy, offsetting the impact of oil supply shortages elsewhere.
-
-## Key Takeaways
-- Global economies have become more resilient to oil supply disruptions due to ample reserves, market adaptability, and increased energy efficiency.
-- The shift towards renewable energy and electric vehicles is reducing oil demand.
-- The AI boom has provided a significant economic boost, particularly for Asian tech exporters, counteracting the negative effects of the energy crisis.
-- Countries with high exposure to the Hormuz Strait, like China and other Asian economies, have shown remarkable resilience.
 
 ## 相关文章
 
 - [[business/ai-software-company-moats|How does AI affect software company moats?]]
 - [[business/spacex-ipo-validates-musks-extreme-strategy|SpaceX上市印证了马斯克“极致”战略的威力]]
-- [[business/2026-05-28-drone-investment|特朗普政府正就注资国内无人机公司进行谈判]]
+- [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
 - [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]]
-
----
-**Topics**: [[business/_index|Business]], [[finance/_index|Finance]]  
-**Tags**: #energy #geopolitics #economics #technology #supplychain

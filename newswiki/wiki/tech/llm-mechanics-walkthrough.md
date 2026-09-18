@@ -12,7 +12,9 @@ topics:
 
 # [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/): A Technical Walkthrough
 
-## Core LLM Pipeline Stages
+LLMs are highly complex, deep stacks of transformer blocks, each layer refining the token's vector through attention and FFNs.
+
+## Core [[hubs/llm|LLM]] Pipeline Stages
 - The process involves nine key stages: Tokenization $\rightarrow$ Embeddings $\rightarrow$ Positional Encoding $\rightarrow$ Attention $\rightarrow$ Multi-head Attention $\rightarrow$ Feed-forward Network $\rightarrow$ Residual Stream/Layer Normalization $\rightarrow$ Next Token Prediction.
 - The model operates on a sequence of integers (token IDs) rather than raw text.
 
@@ -47,15 +49,9 @@ topics:
 - Next-token prediction is the objective: the model predicts the next token based on the final layer's vector, using logits and a temperature/sampling strategy.
 - Inference relies on the KV cache to avoid recomputing past tokens, making generation sequential.
 
-## Key Takeaways
-- LLMs are highly complex, deep stacks of transformer blocks, each layer refining the token's vector through attention and FFNs.
-- The convergence on specific components (RoPE, RMSNorm, SwiGLU) reflects a mature, optimized design pattern for modern frontier models.
-- The model's function is fundamentally next-token prediction, which enables emergent capabilities like reasoning and coding.
-
 ## Related Articles
 
-- [[tech/ai-ml-engineering/langgraph-stateful-ai-agents|LangGraph: Build Stateful AI Agents in Python]]
-
----
-**Topics**: [[tech/_index|Tech]]  
-**Tags**: #LLM #Transformer #DeepLearning #ML
+- [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
+- [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[tech/local-llm-question-categorization|Fine Tuning a Local LLM to Categorize Questions]]
+- [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]]

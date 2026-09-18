@@ -13,19 +13,21 @@ topics:
 
 # [巨额资金涌入AI，这是一个巨大的危险信号](https://cn.wsj.com/articles/all-the-money-flooding-into-ai-is-a-giant-warning-sign-d71df439?mod=cn_hp_mkt_pos1)
 
-## AI 领域的资金涌入与 SpaceX 的收购
-- 埃隆·马斯克旗下的 SpaceX 以 600 亿美元全股票收购了编程助手 Cursor，以在企业级 AI 领域获得立足点。
-- 此次收购被视为近期股票发行热潮的一部分，暗示着高估值可能存在风险。
+企业集体转向股票发行是股票[[hubs/valuation|估值]]过高的危险信号。
+
+## AI 领域的资金涌入与 [[hubs/spacex|SpaceX]] 的收购
+- 埃隆·马斯克旗下的 [[hubs/spacex|SpaceX]] 以 600 亿美元全股票收购了编程助手 Cursor，以在企业级 AI 领域获得立足点。
+- 此次收购被视为近期股票发行热潮的一部分，暗示着高[[hubs/valuation|估值]]可能存在风险。
 - 当企业集体转变为股票卖家时，这通常是股票被严重高估的信号。
 
 ## 企业融资决策与市场信号
 - 企业可以通过举债或发行股票来为资本支出和收购融资。
 - 当股票估值很高时，企业增发股票的成本较低，这会激励它们选择股权融资。
 - 传奇投资者本杰明·格雷厄姆将市场比作一个躁郁症患者，企业发行股票时，它们选择的是卖出。
-- 当企业作为一个群体集体变成卖家时，这表明股票估值过高，投资者不加选择的需求激励了股票供应的增加（通过二次增发或 IPO）。
+- 当企业作为一个群体集体变成卖家时，这表明股票估值过高，投资者不加选择的需求激励了股票供应的增加（通过二次增发或 [[hubs/ipo|IPO]]）。
 
 ## 历史上的资金狂潮与泡沫
-- 互联网泡沫和新冠疫情后的 SPAC 狂热中，随着股票估值上升，出现了 IPO 和增发浪潮。
+- 互联网泡沫和新冠疫情后的 SPAC 狂热中，随着股票估值上升，出现了 [[hubs/ipo|IPO]] 和增发浪潮。
 - 在互联网泡沫时期，并购交易的三分之二资金来自新股；在 2020-21 年期间，这一比例为 45%。
 - 近期，企业使用股票为近一半的交易成本融资，显示出投资者对股票的强劲需求。
 - 在 2007 年金融危机爆发前夕，低廉的债务融资成本导致了债务市场的泡沫，尽管当时只有 19% 的交易通过股票融资。
@@ -36,19 +38,9 @@ topics:
 - 当大量企业筹集资金追逐同一个机会（如当前的 AI 热潮）时，存在三种可能性：机会巨大且利润丰厚；机会真实但竞争侵蚀利润；或叙事被夸大，资金被挥霍。
 - AI 热潮的危险在于可能重蹈互联网泡沫的覆辙，即企业竞相烧钱，最终导致股东财富化为乌有。
 
-## Key Takeaways
-- 企业集体转向股票发行是股票估值过高的危险信号。
-- 历史上的资金狂潮（如互联网泡沫和 SPAC 狂潮）与当前 AI 领域的巨额资金涌入有相似之处。
-- 标准估值指标可能具有误导性，企业融资决策更能反映市场的昂贵程度。
-- AI 热潮可能面临与互联网泡沫相似的风险，即过度投资和价值毁灭。
-
 ## 相关文章
 
-- [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
-- [[finance/spacex-ipo-wealth-management|SpaceX员工紧急恶补：暴富后应如何理财]]
-- [[finance/spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
-
----
-**Topics**: [[finance/_index|Finance]], [[tech/_index|Tech]]  
-**Tags**: #AI #Investment #MarketBubble #Valuation
+- [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
+- [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
+- [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]

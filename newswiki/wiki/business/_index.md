@@ -1,33 +1,46 @@
 # 商业
 
-## 概述
-企业如何決策，發展與機會  
+企业如何決策，發展與機會
 
-## 核心指标
-- **关键公司**:[[hubs/spacex|SpaceX]], [[Anthropic]], [[DeepSeek]], [[hubs/nvidia|Nvidia]], [[Apple]]
-- **关键技术/变量**: 商业模式、监管、地缘政治
-- **投资视角**: 护城河、市占、资本效率
-
-## 相关文章
-- [[south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-09-10) - 韩国推进全民AI计划，向全体国民免费开放生成式AI服务。
-- [[ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14) - Anthropic、OpenAI、xAI领袖罕见共识呼吁放缓前沿模型开发，推行第三方安全评估，OpenAI或推迟IPO。
-- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - WSJ专访多位高管投资者：AI时代人类学、数学、哲学等经典学科比CS更具职业韧性
-- [[pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10) - Pacific Fusion建设聚变设施支持美核武器测试，中美俄三方军备竞赛加剧，聚变商业投资热度飙升
-- [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - AI公司员工通过流动性事件获巨额财富，却因时间贫困导致消费克制，支出集中于全款购房、初创投资及健康恢复设施，传统奢侈品渗透有限。
-- [[windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10) - 世界之窗如何重塑纽约餐饮文化与城市认同，从1976年开业到9·11毁灭及其遗产
-- [[us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04) - 美国高校因生源萎缩推行直接录取，学生无需申请即获录取，Common App参与校三年增三倍，十余州跟进，费用透明成新竞争点。
-- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 人形机器人大脑模型记忆瓶颈与突破，Physical Intelligence/Figure AI/英伟达/Alphabet 领跑，投资渠道含 RoboStrategy 与零部件卖铲人。
-- [[windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 苇渡科技因拖欠工资导致中国核心团队近乎清零，CEO宣布战略转型放弃自研车身转向软件授权，此前融资承诺与IPO计划与资金枯竭现实严重背离。
-- [[china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08) - 中国生物制药凭借制造效率与授权模式吸引资金轮动，指数大幅跑赢AI，但面临IP外流与地缘政治双重风险。
-- [[anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09) - Anthropic拟秋季IPO筹资最多1000亿美元、估值约2万亿美元，高盛摩根士丹利任核心承销商，交易所倾向纳斯达克以享指数提前入围红利。
-- [[cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07) - 中国CAR-T疗法凭借成本优势、产品领先与快速制备吸引全球患者，实体瘤突破标志生物技术产业跃升，但临床试验监管透明度存隐忧。
-- [[trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08) - 中国旅游业升级为国家战略，2030 年收入预计达 1.8 万亿美元，但国内游客单价下降、入境游客单价偏低，消费分层明显。
-- [[onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 鬼冢虎上半年销售额增36%，亚瑟士利润增50%，日元贬值与Y2K潮流驱动游客扫货，品牌拟剥离为子公司。
-- [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - Writing as the core organizational work; narrative as business engine; building return channels for AI-era organizations.
+## 文章
+- [[yuan-four-year-high-pboc-fixing|人民币升至逾四年高点]] (2026-09-18) - 周五人民币兑美元创逾四年高点，出口强劲与央行连续调强中间价提供支撑。
+- [[mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18) - 支付行业高管正准备应对AI驱动的购物浪潮，这迫使他们重新审视交易风险、欺诈防范，以及如何处理可能“失控”的AI智能体。
+- [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
+- [[ed-sheeran-tour-nfl-stadium-owners-macklemore-controversy|一通40分钟的电话，如何让埃德·希兰的巡演悬于一线？]] (2026-09-17) - NFL新英格兰爱国者队老板克拉夫特向歌手埃德·希兰发出明确警告：除非撤换公开指控以色列的开场嘉宾麦克勒莫，否则他将取消在吉列体育场的巡演场次。其他NFL球队老板也准备采取同样的行动。
+- [[novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] (2026-09-17) - 生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。
+- [[why-purge-middle-managers-backfire|中层管理者“大清洗”为何会带来反噬？]] (2026-09-17) - 这些中层管理者让高层领导能够下放权力，并让基层员工发挥出最大效能，而我们正低估了他们这些往往不为人所见的工作。
+- [[musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]] (2026-09-16) - 这位科技企业家正利用他的社交媒体传声筒搅动局势，为一个新兴的英国反移民政党摇旗呐喊，并宣称“内战已不可避免”。
+- [[us-businesses-pricing-dilemma-energy-costs|美国企业现在不知道该如何定价了]] (2026-09-16) - 面对高企的能源成本，各类企业难以判断这场高成本冲击究竟会持续多久，在制定产品价格时陷入了两难抉择。
+- [[china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]] (2026-09-16) - 中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。
+- [[mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]] (2026-09-15) - 这位亿万富翁企业集团旗下的保险公司是美国主要的年金销售商之一。联邦检察官正对这些保险公司的投资披露情况展开审查。
+- [[china-economic-slowdown-shangrila-matsutake-trade|中国经济困境波及香格里拉松茸“猎人”]] (2026-09-14) - 藏族松茸“猎人”每年都有几个星期会进入喜马拉雅高山上采摘这种珍贵食材，但如今激烈的市场竞争正不断压缩他们的生存和盈利空间。
+- [[xbox-asha-sharma-turnaround|“游戏圈外人”夏尔马的使命：以残酷诚实整顿微软Xbox业务]] (2026-09-14) - 当微软任命阿莎·夏尔马负责重振Xbox业务时，她在游戏领域毫无经验。夏尔马的做法是毫不避讳地分享坏消息。
+- [[ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14) - Anthropic CEO阿莫迪上周六呼吁AI行业控制前沿工具的开发节奏，马斯克和阿尔特曼表示支持，阿尔特曼甚至暗示OpenAI可能需要推迟IPO。
+- [[americas-great-ai-freakout|美国AI大恐慌全面爆发]] (2026-09-14) - 人们一直担心AI技术可能毁灭人类文明并引发网络攻击，这种情绪在办公室里和餐桌上的谈论中已达到沸点。
+- [[fast-food-chains-shift-automation-hospitality|美国快餐连锁迎来战略大转向：从自动化回归“人情味”]] (2026-09-11) - 麦当劳和汉堡王正在加强员工培训以提升待客之道；“我们的餐厅似乎让人感觉仓促、缺乏人情味、冷冰冰”。
+- [[ai-career-skills-anthropology-math-philosophy|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
+- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
+- [[pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10) - 在新墨西哥州沙漠中，初创公司Pacific Fusion正在建设一座核聚变设施，其目标是帮助美国在与俄罗斯和中国的三方军备竞赛中胜出。
+- [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - OpenAI和Anthropic的股份出售交易造就了数百名千万富翁。但这些人却不知该怎么花钱，也没时间消费。当一些人聊起怎么犒劳自己时，提到最多的是一台意式浓缩咖啡机。
+- [[windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10) - 位于世贸中心北塔100多层之上的“世界之窗”曾是重塑纽约城市文化的餐饮巨头。
+- [[anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09) - 预计今秋华尔街的重头戏将是Anthropic的首次公开募股。投资者正翘首以盼，希望能一窥该公司的内部财务状况；而对Anthropic来说，也仍有一些关键决策亟待敲定。
+- [[openai-navier-stokes-millennium-breakthrough|OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”]] (2026-09-09) - OpenAI破解了纳维-斯托克斯难题，代表了AI解决数学难题领域迄今为止最重大的进展。眼下，各大顶尖AI实验室正为争夺数学领域的霸主地位展开激战。
+- [[china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08) - 分析师看好生物制药股，理由是其盈利具有吸引力、估值较低。与此同时，市场对AI板块盈利能力和估值偏高的担忧，也进一步凸显了生物制药股的吸引力。
+- [[global-tourists-onitsuka-tiger-japan-stores|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
+- [[onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
+- [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - I'm a designer and creative technologist based in Brooklyn, NY.
+- [[trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08) - 中国最新五年规划提出，要打造“旅游强国”。每年有数千万外国人入境中国，国内游也在升温，但一些中国游客却捂紧了钱包。
+- [[humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
+- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
+- [[read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 追踪股票的价格区间和成交量，能为个人投资者提供线索，帮助他们判断何时买入即将上涨的股票，或抛售势将下跌的股票。
+- [[cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07) - 如今上海正成为美国等富裕国家癌症患者跨国就医的新热门目的地，这里的CAR-T疗法费用不到美国的一半，中国获批产品数量也居全球首位。
 - [[data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] (2026-09-07) - AI超大规模数据中心在建设和运营过程中面临纷繁复杂的潜在威胁。这为保险公司创造了一个巨大的新商机。
 - [[moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] (2026-09-07) - 杨植麟放弃了在美国发展事业的机会，回国创立了月之暗面，其推出的开放权重模型令全球市场为之一震。
 - [[americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07) - 未上过大学的美国年轻劳动力失业率降至近几十年来的罕见低点，而大学毕业生的处境却截然相反。
+- [[windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
+- [[windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
 - [[nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] (2026-09-04) - 这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。
+- [[us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04) - 随着生源萎缩，越来越多学校开始“直接录取”，即只依据几项标准录取学生，比如高中成绩单。“这不是学生向院校提出申请，而是院校向学生提出申请。”
 - [[ai-proof-assets-investors-turn-to-sports-casinos-and-tourism|“抗AI”资产有哪些？投资人目光投向体育、赌场和旅游业]] (2026-09-03) - 风险投资人正寻觅不易受到AI快速发展冲击的领域，他们转向线下体验领域：体育团队、标志性地产，甚至儿童玩具。
 - [[theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]] (2026-09-02) - 水清沙白的度假胜地马尔代夫已然成为一条关键暗道，源源不断地将价值数亿美元的西方物资输送到莫斯科。
 - [[lincoln-class-ship-deployment-pattaya|“林肯号”航母高强度部署告一段落，泰国芭提雅准备迎接船员]] (2026-09-02) - 大约5,000名手头阔绰、急需休整放松的水兵即将涌入泰国海滨度假胜地芭堤雅。
@@ -37,6 +50,7 @@
 - [[china-premium-wine-boom-behind-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[china-premium-wine-boom-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] (2026-08-29) - 根据新规，中国房主可以为他们的高利率存量房贷进行再融资；新购房者也将被允许获得最长40年的房贷，高于此前30年的上限。
+- [[south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-08-28) - 韩国计划向全体国民免费开放生成式AI服务，这是首个由国家主导的重大项目，韩国官员希望以此避免过度依赖中美两国的模型。
 - [[amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]] (2026-08-26) - 周二，AMD股价上涨。此前一位分析师上调了该股评级，并强调在蓬勃发展的服务器中央处理器市场中，该公司相比竞争对手更具优势。
 - [[leopold-aschenbrenner-ai-prophet|从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网]] (2026-08-26) - 这位24岁的投资者曾被誉为远见卓识的奇才，吸引了数以十亿美元计的资金，最终却沦为华尔街最新的反面教材。
 - [[bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] (2026-08-26) - 这位亿万富豪兼慈善家呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。
@@ -81,6 +95,7 @@
 - [[zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] (2026-08-11) - 扎克伯格发表了一篇6,500字的长文，阐述了该公司对AI竞赛的思考及其对社会的意义，并探讨了美国政府应如何监管和促进这项技术。本文梳理了关键要点。
 - [[rise-of-american-tourists|美国人正周游世界，势不可挡]] (2026-08-10) - 在强劲经济推动下，曾经喜欢宅家的美国人正转变为充满热情的国际旅行者，富裕银发一族和追求社交媒体热潮的新世代还在迅速涌入那些鲜为人知的目的地。
 - [[chinas-new-export-engine|中国的新出口引擎：为全球工厂供货]] (2026-08-07) - 中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。
+- [[saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]] (2026-08-07) - 生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。
 - [[meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]] (2026-08-06) - 该公司表示，Muse Code的定价将低于热门竞品。投资者一直向Meta施压，要求其证明在AI人才和算力方面的巨额投入能够带来回报。
 - [[pringles-ai-production-line|探秘品客生产线：AI如何让每一片薯片都完美]] (2026-08-06) - 薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。
 - [[spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]] (2026-08-06) - SPV基金宣称能提供这家火箭公司IPO前的投资“敞口”。但投资者后来被告知，股票在挂牌交易前就已抛售，其预期收益大打折扣。
@@ -169,9 +184,8 @@
 - [[2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] (2026-02-23) - 对热门AI初创公司的投资争夺战已导致投资者之间的交易条款出现差异，从而引发了外界对这些公司真实价值的质疑。
 - [[doing-something-never-done-before|Doing Something That’s Never Been Done Before]] (2025-11-14) - I’ve found recently that I’ve been a bit hesitant to take on new projects, especially of the interesting variety, largely out of a fear that I’m doing something unoriginal. As anyone who has spent any substantial amount of time in the markets will tell you, being second to an idea isn’t necessarily terrible, but being 50th generally is, and I’d really rather avoid being 50th whenever possible. How do you guarantee, or at least maximize the odds, that whatever you’re doing, you’re the first?
 
-## 相关主题
-- [[tech/_index|科技/]]
-- [[design/_index|设计/]]
-- [[finance/_index|金融/]]
-- [[career/_index|职场/]]
-- [[lifestyle/_index|生活/]]
+## 看点
+- **关键公司**:[[hubs/spacex|SpaceX]], [[Anthropic]], [[DeepSeek]], [[hubs/nvidia|Nvidia]], [[Apple]]
+- **关键技术**: [[hubs/business-model|商业模式]]、[[hubs/regulation|监管]]、[[hubs/geopolitics|地缘政治]]
+- **投资视角**: 护城河、市占、资本效率
+

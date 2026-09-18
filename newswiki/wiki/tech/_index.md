@@ -1,29 +1,37 @@
 # 科技
 
-## 概述
-AI模型、機器人与智能体如何重塑基础设施與生產力  
+AI模型、機器人与智能体如何重塑基础设施與生產力
 
-## 核心指标
-- **关键公司**: [[Nvidia]], [[Nebius]], [[CoreWeave]]
-- **关键技术/变量**: GPU、LLM、人形机器人、AI Agent
-- **投资视角**: 算力需求、技术迭代、供应链
-
-## 相关文章
-- [[ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14) - Anthropic、OpenAI、xAI领袖罕见共识呼吁放缓前沿模型开发，推行第三方安全评估，OpenAI或推迟IPO。
-- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - WSJ专访多位高管投资者：AI时代人类学、数学、哲学等经典学科比CS更具职业韧性
-- [[pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10) - Pacific Fusion建设聚变设施支持美核武器测试，中美俄三方军备竞赛加剧，聚变商业投资热度飙升
-- [[anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09) - 研究员因AI安全担忧离职，凸显行业风险。
-- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 人形机器人大脑模型记忆瓶颈与突破，Physical Intelligence/Figure AI/英伟达/Alphabet 领跑，投资渠道含 RoboStrategy 与零部件卖铲人。
-- [[anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09) - Anthropic拟秋季IPO筹资最多1000亿美元、估值约2万亿美元，高盛摩根士丹利任核心承销商，交易所倾向纳斯达克以享指数提前入围红利。
-- [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - Writing as the core organizational work; narrative as business engine; building return channels for AI-era organizations.
+## 文章
+- [[mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18) - 支付行业高管正准备应对AI驱动的购物浪潮，这迫使他们重新审视交易风险、欺诈防范，以及如何处理可能“失控”的AI智能体。
+- [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
+- [[novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] (2026-09-17) - 生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。
+- [[why-purge-middle-managers-backfire|中层管理者“大清洗”为何会带来反噬？]] (2026-09-17) - 这些中层管理者让高层领导能够下放权力，并让基层员工发挥出最大效能，而我们正低估了他们这些往往不为人所见的工作。
+- [[bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]] (2026-09-16) - 美国银行一位分析师预计，到2030年，整个半导体行业的潜在市场总额将达到3.2万亿美元。最大受益者是四只股票。
+- [[xbox-asha-sharma-turnaround|“游戏圈外人”夏尔马的使命：以残酷诚实整顿微软Xbox业务]] (2026-09-14) - 当微软任命阿莎·夏尔马负责重振Xbox业务时，她在游戏领域毫无经验。夏尔马的做法是毫不避讳地分享坏消息。
+- [[ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14) - Anthropic CEO阿莫迪上周六呼吁AI行业控制前沿工具的开发节奏，马斯克和阿尔特曼表示支持，阿尔特曼甚至暗示OpenAI可能需要推迟IPO。
+- [[americas-great-ai-freakout|美国AI大恐慌全面爆发]] (2026-09-14) - 人们一直担心AI技术可能毁灭人类文明并引发网络攻击，这种情绪在办公室里和餐桌上的谈论中已达到沸点。
+- [[ai-career-skills-anthropology-math-philosophy|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
+- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
+- [[pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10) - 在新墨西哥州沙漠中，初创公司Pacific Fusion正在建设一座核聚变设施，其目标是帮助美国在与俄罗斯和中国的三方军备竞赛中胜出。
+- [[anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09) - 预计今秋华尔街的重头戏将是Anthropic的首次公开募股。投资者正翘首以盼，希望能一窥该公司的内部财务状况；而对Anthropic来说，也仍有一些关键决策亟待敲定。
+- [[ai-deanonymization-social-media|以为你的匿名账号很安全？AI或许能查出你是谁]] (2026-09-09) - 大语言模型能通过拼凑零散公开的线索，查出化名社交媒体账号背后的身份，而且准确度惊人。
+- [[anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09) - AI实验室内部的担忧正在加剧：竞争压力正促使科技公司加速迈向具备自我改进能力的模型，而这类模型有可能脱离人类控制。
+- [[openai-navier-stokes-millennium-breakthrough|OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”]] (2026-09-09) - OpenAI破解了纳维-斯托克斯难题，代表了AI解决数学难题领域迄今为止最重大的进展。眼下，各大顶尖AI实验室正为争夺数学领域的霸主地位展开激战。
+- [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - I'm a designer and creative technologist based in Brooklyn, NY.
+- [[humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
+- [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
 - [[data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] (2026-09-07) - AI超大规模数据中心在建设和运营过程中面临纷繁复杂的潜在威胁。这为保险公司创造了一个巨大的新商机。
 - [[moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] (2026-09-07) - 杨植麟放弃了在美国发展事业的机会，回国创立了月之暗面，其推出的开放权重模型令全球市场为之一震。
 - [[us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] (2026-09-07) - 美国人正通过“氛围编程”构建交易算法，并将自己的股票投资组合交由AI智能体打理，运营掌握量化交易策略的“迷你对冲基金”。
+- [[windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
 - [[nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] (2026-09-04) - 这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。
 - [[2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]] (2026-09-02) - 从本周的G20峰会来看，丝毫没有迹象表明当前困扰投资者的赤字、通胀和地缘政治问题将告一段落。
 - [[corporate-profit-america-589e4848|美国企业利润大幅增长，预计未来景气持续]] (2026-08-31) - 美国最大型企业的利润正强劲增长，这些企业的掌舵人表示，这种势头短期内料将延续。
+- [[my-agent-md-improve-llm-code-quality|My agent.md to improve LLM-assisted code quality]] (2026-08-31) - How a personal agent.md file dramatically improves LLM-generated code quality by encoding style rules, architectural principles, and commit conventions.
 - [[nvidia-targets-global-robotics-china-demand-strong|英伟达瞄准全球机器人赛道，中国市场需求强劲]] (2026-08-31) - 英伟达的物理AI业务不断增长，与此同时，中国机器人制造商正依赖美国芯片和软件工具来训练和操作设备。
 - [[2026-08-31-wall-street-momentum-trading-fails|华尔街动能交易突然遭遇溃败]] (2026-08-31) - 押注大涨赢家的“动能交易”骤然沦为输家，让此前依赖其成功的投资者措手不及。
+- [[south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-08-28) - 韩国计划向全体国民免费开放生成式AI服务，这是首个由国家主导的重大项目，韩国官员希望以此避免过度依赖中美两国的模型。
 - [[2026-08-28-us-servicemember-kpmg-employee-are-targets-of-prediction-markets-crackdown|一美军人员与一毕马威员工成为预测市场整治行动的目标]] (2026-08-28) - 知情人士称，这两宗案件可能会在今年秋季提出指控。
 - [[think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]] (2026-08-28) - 包括法国、意大利、英国和日本在内的债务负担沉重的国家，近几个月来面临着巨大压力。
 - [[e9-97-af-e5-85-a5-e6-88-91-e4-bb-ac-e5-ae-b6-e5-ba-ad-e5-81-|闯入我们家庭假期的不速之客：老妈的AI聊天机器人]] (2026-08-28) - 作为一个对AI心存怀疑和恐惧的千禧一代，当我发现年逾七旬的父母竟然迷上了Claude时，那份错愕可想而知。
@@ -77,6 +85,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] (2026-08-11) - 扎克伯格发表了一篇6,500字的长文，阐述了该公司对AI竞赛的思考及其对社会的意义，并探讨了美国政府应如何监管和促进这项技术。本文梳理了关键要点。
 - [[ai-removing-middle-class-software-engineering|AI is removing the middle class of software engineering]] (2026-08-11) - AI makes projects with weak engineering culture fail much faster.
 - [[how-i-use-llms-to-learn|How I use LLMs to learn complex topics]] (2026-08-09) - LLMs are used for any things. Learning new things is one of the top use cases.
+- [[saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]] (2026-08-07) - 生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。
 - [[ai-generates-new-virus|AI最新的骇人里程碑：生成新病毒]] (2026-08-07) - AI模型失控风险引发警惕，但研究者称AI模型创造新病毒的实验或可用于对抗耐药细菌。
 - [[rogue-ai-agents-guide|失控AI机器人世界的用户指南]] (2026-08-07) - AI智能体在近期“失控”事件中扮演了窃贼、破坏者、霸凌者等恶劣角色。
 - [[ai-medical-report-interpretation|医生反感患者用AI解读化验单，但根本拦不住]] (2026-08-07) - 一项民意调查，大约三分之一的成年人会向AI聊天机器人寻求健康建议，19%的人专门使用AI来解读实验室数据或医学检查报告。 这导致医生不得不去纠正错误的指导意见。
@@ -179,9 +188,8 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[best-simple-system-for-now|Best Simple System for Now]] (2025-02-03) - You can have your cake and eat it, as long as you bake it carefully. 'We can do this the quick way and pay later, or the thorough way and pay now.' This seems to be a fundamental dichotomy in software development, between 'perfectionism' and 'pragmatism', but I do not think it has to be a trade-off at all.
 - [[fake-job-interview-git-hook-malware|Appaji - Software Engineer]] (2001-07-23) - Appaji, a Computer Science graduate from IIT Patna and former intern at Arista Networks, is a Software Engineer at Infinite Reality. Passionate about building innovative web experiences, with a strong interest in sustainable and customer-focused startups.
 
-## 相关主题
-- [[business/_index|商业/]]
-- [[design/_index|设计/]]
-- [[finance/_index|金融/]]
-- [[career/_index|职场/]]
-- [[lifestyle/_index|生活/]]
+## 看点
+- **关键公司**: [[Nvidia]], [[Nebius]], [[CoreWeave]]
+- **关键技术**: [[hubs/gpu|GPU]]、[[hubs/llm|LLM]]、[[hubs/humanoid-robot|人形机器人]]、[[hubs/ai-agent|AI Agent]]
+- **投资视角**: 算力需求、技术迭代、供应链
+

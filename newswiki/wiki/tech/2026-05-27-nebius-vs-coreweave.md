@@ -12,14 +12,16 @@ topics:
 
 # [CoreWeave请让位，Nebius来了](https://cn.wsj.com/articles/coreweave%E8%AF%B7%E8%AE%A9%E4%BD%8D-nebius%E6%9D%A5%E4%BA%86-5a8f68c9?mod=cn_markets)
 
-## 核心观点
+尽管 [[hubs/coreweave|CoreWeave]] 目前体量更大，但 [[hubs/nebius|Nebius]] 的技术自主性和资产控制力给予其更强的适应性
+
+## 要点
 - AI云服务的竞争格局中，[[hubs/nebius|Nebius]] 相比 [[hubs/coreweave|CoreWeave]] 具有更高的上行潜力
 - [[hubs/nebius|Nebius]] 凭借独特的技术自主性和资产控制力，在面对市场变化时更具灵活性
 
-## 竞争对比：Nebius vs CoreWeave
+## 竞争对比：[[hubs/nebius|Nebius]] vs [[hubs/coreweave|CoreWeave]]
 
 ### [[hubs/coreweave|CoreWeave]]（美国）
-- 起源于加密货币挖矿，后转向AI算力服务
+- 起源于加密货币挖矿，后转向[[hubs/ai-infrastructure|AI算力]]服务
 - 成功上市，获 [[hubs/nvidia|Nvidia]] 投资
 - 客户集中于 [[hubs/microsoft|Microsoft]]、[[OpenAI]] 等大型科技公司
 - Q1收入超20亿美元，未履行合同预计1,000亿美元
@@ -34,7 +36,7 @@ topics:
 ## [[hubs/nebius|Nebius]] 的核心竞争优势
 
 ### 1. 技术自主设计能力
-- **从零开始设计数据中心及内部设备**
+- **从零开始设计[[hubs/ai-infrastructure|数据中心]]及内部设备**
   - 电源系统、冷却系统、服务器、机架均可自主打造
   - 不依赖 [[Dell]]、[[HPE]] 等外部制造商
   - 直接与亚洲代工厂合作生产
@@ -58,19 +60,9 @@ topics:
 - **现金余额**：93亿美元
 - **融资方式**：主要依靠股权投资和可转换票据（非高负债）
 
-## Key Takeaways
-- 尽管 [[hubs/coreweave|CoreWeave]] 目前体量更大，但 [[hubs/nebius|Nebius]] 的技术自主性和资产控制力给予其更强的适应性
-- 数据中心设计、服务器定制、能源管理的垂直整合是 [[hubs/nebius|Nebius]] 的关键护城河
-- AI从业务高速增长向稳定盈利转变时，灵活性和自主能力将成为决胜因素
-- [[hubs/nebius|Nebius]] 对更广泛企业级应用的聚焦，优于客户集中在头部科技公司的战略
-
 ## 相关文章
 
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
-- [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
+- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
 - [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]
-
----
-**Topics**: [[tech/_index|Tech]]  
-**Tags**: #ai-infrastructure #云计算 #nebius #coreweave #数据中心

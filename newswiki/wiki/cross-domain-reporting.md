@@ -15,5 +15,12 @@ description: 同一件事，不同面向。
 
 ## 喺本站
 
-- 入口：[[business/_index|商業]] · [[tech/_index|科技]] · [[design/_index|設計]] · [[lifestyle/_index|生活]]（以及 [[finance/_index|金融]]、[[career/_index|職場]] 嘅相鄰角）。
-- 例：AI 開支既係財報同估值問題，亦係算力同產品形態問題，仲可能改寫工作同日常生活——三篇或以上互連，先算多角度讀完。
+- 入口：[[business/_index|商业]] · [[tech/_index|科技]] · [[design/_index|设计]] · [[lifestyle/_index|生活]]（以及 [[finance/_index|投资]]、[[career/_index|职场]] 嘅相鄰角）。
+- 例：AI 開支既係財報同[[hubs/valuation|估值]]問題，亦係算力同產品形態問題，仲可能改寫工作同日常生活——三篇或以上互連，先算多角度讀完。
+
+## 相关文章
+
+- [[valuation-and-risk|估值與風險]]
+- [[finance/semiconductor-stocks-correction|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]]
+- [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
+- [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]

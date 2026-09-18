@@ -11,8 +11,10 @@ from wiki.common import repo_root, resolve_path as wiki_resolve_path
 ROOT = repo_root()
 RECENT_ARTICLES_MARKER = "## Recent Articles"
 TOPICS_MARKER = "## Topics"
-RELATED_ARTICLES_MARKER = "## 相关文章"
+RELATED_ARTICLES_MARKER = "## 文章"
+RELATED_ARTICLES_MARKERS = ("## 文章", "## 相关文章", "## 相關文章")
 RECENT_ARTICLES_LIMIT = 6
+HOME_RECENT_ARTICLES_LIMIT = 5
 TOPICS_DISPLAY_LIMIT = 6
 WIKI_LINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
@@ -71,6 +73,9 @@ def _canonical_article_entry(line: str) -> str:
 
 def _display_article_entry(line: str) -> str:
     stripped = line.strip()
+    related = RELATED_PARTS_RE.match(stripped)
+    if related:
+        return _display_related_entry(stripped)
     parts = ARTICLE_PARTS_RE.match(stripped)
     if parts:
         return f'- <span class="recent-date">{parts.group(2)}</span> {parts.group(1)}'
@@ -78,6 +83,55 @@ def _display_article_entry(line: str) -> str:
     if display:
         return stripped
     return stripped
+
+
+def _clip_blurb(text: str, max_len: int = 70) -> str:
+    cleaned = re.sub(r"\s+", " ", text).strip()
+    if len(cleaned) <= max_len:
+        return cleaned
+    window = cleaned[: max_len + 1]
+    for sep in ("。", "！", "？", "；", "，", ". ", "! ", "? ", "; ", ", "):
+        idx = window.rfind(sep)
+        if idx >= max_len // 2:
+            end = idx + (1 if sep in {"。", "！", "？", "；", "，"} else 0)
+            return cleaned[:end].rstrip("，,;； ") + "…"
+    return cleaned[:max_len].rstrip() + "…"
+
+
+def _blurb_from_article(wiki_dir: Path, rel: str) -> str:
+    path = wiki_dir / f"{rel}.md"
+    if not path.is_file():
+        return ""
+    from wiki.common import parse_raw_front_matter
+
+    front_matter, body = parse_raw_front_matter(path.read_text(encoding="utf-8"))
+    desc = str(front_matter.get("description") or "").strip()
+    if desc:
+        return _clip_blurb(desc)
+    for line in body.splitlines():
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#") or stripped.startswith("---"):
+            continue
+        if stripped.startswith("- ") or stripped.startswith("["):
+            continue
+        return _clip_blurb(stripped)
+    return ""
+
+
+def _enrich_recent_entry_with_blurb(entry: str, wiki_dir: Path | None) -> str:
+    if wiki_dir is None:
+        return entry
+    parts = ARTICLE_PARTS_RE.match(entry.strip())
+    if not parts:
+        return entry
+    link, date = parts.group(1), parts.group(2)
+    target_match = re.match(r"\[\[([^\]|#]+)", link)
+    if not target_match:
+        return entry
+    blurb = _blurb_from_article(wiki_dir, target_match.group(1).strip())
+    if not blurb:
+        return entry
+    return f"- {link} ({date}) - {blurb}"
 
 
 def _display_related_entry(line: str) -> str:
@@ -164,7 +218,8 @@ def localize_homepage_for_site(content: str) -> str:
     content = re.sub(r"\n{3,}", "\n\n", content)
     content = content.replace("## Recent Articles", "## 近期文章", 1)
     content = content.replace("## 近排文章", "## 近期文章", 1)
-    content = content.replace("## Philosophy", "## 編輯方針", 1)
+    content = content.replace("## Philosophy", "## 編輯原則", 1)
+    content = content.replace("## 編輯方針", "## 編輯原則", 1)
     return content.lstrip()
 
 
@@ -296,7 +351,10 @@ def _render_topic_group(group_lines: list[str], *, limit: int = RECENT_ARTICLES_
     return rendered
 
 
-def trim_recent_articles_for_site(content: str) -> tuple[str, list[str]]:
+def trim_recent_articles_for_site(
+    content: str,
+    wiki_dir: Path | None = None,
+) -> tuple[str, list[str]]:
     heading = _recent_articles_heading(content)
     if not heading:
         return content, []
@@ -311,7 +369,11 @@ def trim_recent_articles_for_site(content: str) -> tuple[str, list[str]]:
 
     entries = _collect_article_entries_from_text("\n".join(after_lines[:rest_start]))
     entries = sorted(entries, key=_entry_sort_date, reverse=True)
-    block = _render_recent_display_entries(entries, limit=RECENT_ARTICLES_LIMIT)
+    display_entries = [_enrich_recent_entry_with_blurb(e, wiki_dir) for e in entries]
+    block = _render_recent_display_entries(
+        display_entries,
+        limit=HOME_RECENT_ARTICLES_LIMIT,
+    )
     return _replace_section_block(content, heading, block), entries
 
 
@@ -333,10 +395,11 @@ def _entry_sort_date(entry: str) -> str:
 
 
 def trim_related_articles_for_site(content: str) -> str:
-    if RELATED_ARTICLES_MARKER not in content:
+    marker = next((m for m in RELATED_ARTICLES_MARKERS if m in content), None)
+    if marker is None:
         return content
 
-    _, after = content.split(RELATED_ARTICLES_MARKER, 1)
+    _, after = content.split(marker, 1)
     after_lines = after.splitlines()
     rest_start = len(after_lines)
     for index, line in enumerate(after_lines):
@@ -345,12 +408,11 @@ def trim_related_articles_for_site(content: str) -> str:
             break
 
     entries = _collect_list_entries(after_lines[:rest_start])
-    # Prefer dated article rows when present; fall back to plain wiki links.
-    dated = [e for e in entries if RELATED_PARTS_RE.match(e.strip())]
-    source_entries = dated if dated else entries
-    source_entries = sorted(source_entries, key=_entry_sort_date, reverse=True)
-    block = _render_related_display_entries(source_entries, limit=RECENT_ARTICLES_LIMIT)
-    return _replace_section_block(content, RELATED_ARTICLES_MARKER, block)
+    block = _render_related_display_entries(entries)
+    updated = _replace_section_block(content, marker, block)
+    if marker != RELATED_ARTICLES_MARKER:
+        updated = updated.replace(marker, RELATED_ARTICLES_MARKER, 1)
+    return updated
 
 
 def write_all_articles_page(content_dir: Path, entries: list[str]) -> None:
@@ -508,7 +570,10 @@ def prepare_content(
                 content = normalize_quartz_links(content)
                 if source.name == "INDEX.md":
                     content = trim_topics_groups_for_site(content)
-                    content, all_article_entries = trim_recent_articles_for_site(content)
+                    content, all_article_entries = trim_recent_articles_for_site(
+                        content,
+                        wiki_dir=wiki_dir,
+                    )
                     content = localize_homepage_for_site(content)
                     content = add_front_matter(
                         content,
@@ -542,7 +607,8 @@ def prepare_content(
             index_source = wiki_dir / "INDEX.md"
             if index_source.exists():
                 _, all_article_entries = trim_recent_articles_for_site(
-                    normalize_quartz_links(index_source.read_text(encoding="utf-8"))
+                    normalize_quartz_links(index_source.read_text(encoding="utf-8")),
+                    wiki_dir=wiki_dir,
                 )
 
         write_all_articles_page(staging_dir, all_article_entries)

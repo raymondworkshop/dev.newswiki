@@ -12,7 +12,9 @@ topics:
 
 # [How a $33/Hour Costco Cashier Built a Million-Dollar Retirement: A Case Study in Employee Retention and Well-being](https://cn.wsj.com/articles/%E6%97%B6%E8%96%AA33%E7%BE%8E%E5%85%83%E7%9A%84%E5%BC%80%E5%B8%82%E5%AE%A2%E6%94%B6%E9%93%B6%E5%91%98-%E5%A6%82%E4%BD%95%E6%94%92%E5%87%BA%E7%99%BE%E4%B8%87%E8%BA%AB%E5%AE%B6-4223869c?mod=cn_hp_lead_pos10)
 
-## Core View
+High employee retention leads to better customer experiences and lower operational costs.
+
+## Key Points
 - Tony Barzar, a 60-year-old cashier with 40 years of service at Costco, earns a base hourly wage of $32.90, one of the highest in the retail sector.
 - His retirement savings exceed $100,000, largely due to the company's 401(k) plan managed by T. Rowe Price, with consistent contributions over decades.
 - Costco provides comprehensive healthcare, including $15 for routine visits and $25 for specialist visits, significantly below the national average.
@@ -38,12 +40,4 @@ topics:
 - The company's 401(k) plan, transitioned from a pension to a defined-contribution plan in 1993, enables long-term wealth accumulation for employees.
 - Costco's model demonstrates that investing in employee well-being can yield long-term financial and operational returns.
 
-## Key Takeaways
-- High employee retention leads to better customer experiences and lower operational costs.
-- Investing in employee well-being—especially healthcare, mental health, and career development—can significantly improve retention and productivity.
-- Experienced employees are not just cost centers; they are cultural assets that enhance service quality and brand loyalty.
-- A company's retention strategy directly impacts its bottom line through reduced training costs and improved customer satisfaction.
 
----
-**Topics**: [[career/employee-retention-and-workplace-culture|Career: Employee Retention and Workplace Culture]]  
-**Tags**: #career #employee-retention #workplace-culture #retirement-savings #employee-well-being

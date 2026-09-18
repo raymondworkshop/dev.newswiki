@@ -12,8 +12,10 @@ topics:
 
 # [LangGraph: Build Stateful AI Agents in Python](https://realpython.com/langgraph-python/)
 
+LangGraph provides a powerful, visualizable framework (StateGraph) for modeling complex, real-world [[hubs/llm|LLM]] applications that require memory, decision-making, and iteration.
+
 ## LangGraph Fundamentals
-- LangGraph builds upon LangChain to enable sophisticated LLM workflows capable of handling real-world complexities like state, conditional edges, and cycles.
+- LangGraph builds upon LangChain to enable sophisticated [[hubs/llm|LLM]] workflows capable of handling real-world complexities like state, conditional edges, and cycles.
 - Key concepts include defining workflows using state graphs composed of nodes (actions) and edges (transitions).
 - The library allows for the construction of autonomous LLM agents that process tasks using state graphs to interact with external tools or APIs.
 
@@ -28,15 +30,9 @@ topics:
 - **Cycles**: Enable loops between nodes, allowing the graph to iterate on a task until a terminal condition is met (e.g., answering follow-up questions until all are resolved).
 - **Agent Architecture**: LangGraph is well-suited for building agents where an LLM acts as the decision-maker, and external tools are executed based on the agent's instructions.
 
-## Key Takeaways
-- LangGraph provides a powerful, visualizable framework (StateGraph) for modeling complex, real-world LLM applications that require memory, decision-making, and iteration.
-- The combination of nodes (actions), edges (flow), and state (memory) allows for the construction of robust, production-grade AI agents.
-
 ## Related Articles
 
-- [[tech/llm-mechanics-walkthrough|How LLMs Actually Work]]
-- [[business/ai-giants-office-ai-application|一览AI巨头如何在自家办公室应用AI]]
-
----
-**Topics**: [[tech/ai-ml-engineering/LangGraph Build Stateful AI Agents in Python]]  
-**Tags**: #LangGraph #LLM #AgenticWorkflow
+- [[tech/no-small-software-teams|There's no such thing as a small software team anymore]]
+- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
+- [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
+- [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]

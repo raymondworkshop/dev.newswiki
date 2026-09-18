@@ -36,12 +36,12 @@ const defaultOptions: BreadcrumbOptions = {
 }
 
 const FOLDER_LABELS: Record<string, string> = {
-  tech: "科技/",
-  design: "設計/",
-  business: "商業/",
-  finance: "金融/",
-  career: "職場/",
-  lifestyle: "生活/",
+  tech: "科技",
+  design: "設計",
+  business: "商業",
+  finance: "投資",
+  career: "職場",
+  lifestyle: "生活",
   articles: "所有文章",
 }
 

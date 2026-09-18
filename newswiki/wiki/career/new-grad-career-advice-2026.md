@@ -12,6 +12,8 @@ topics:
 
 # [给应届毕业生的五点具体职场建议](https://cn.wsj.com/articles/no-one-cares-about-your-gpa-and-more-career-advice-for-new-grads-e813d97e?mod=cn_hp_lead_pos9)
 
+职业成功依赖于在现实工作环境中建立的沟通习惯和可验证的产出，而非校园履历。
+
 ## 职业生涯的现实认知
 - 职业生涯的起点是现实的，而非校园的理想化环境。
 - 尽管存在AI等因素，但近期应届大学毕业生的失业率（5.6%）仍在可控范围内，找到工作是大概率事件。
@@ -36,12 +38,5 @@ topics:
 - 职业发展是一个持续学习的过程，但需警惕年龄带来的认知落差，职业的快速变化要求终身适应。
 - 年轻一代的视角需要适应职业的演进速度，避免因信息差产生职业倦怠感。
 
-## Key Takeaways
-- 职业成功依赖于在现实工作环境中建立的沟通习惯和可验证的产出，而非校园履历。
-- 主动寻找并争取高层级的'资助者'是职业晋升的关键。
-- 适应职场环境的严格性，放下校园的特殊保护伞。
 
----
-**Topics**: [[career/_index|Career]]  
 **Topic**: [[career/_index|Career]]  
-**Tags**: #careeradvice #newgrad #professionalism

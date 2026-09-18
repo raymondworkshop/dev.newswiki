@@ -11,7 +11,6 @@ Curated hub for articles related to Microsoft.
 
 ## 相关文章
 
-- [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]] · #tech
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]] · #business
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]] · #tech
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]] · #tech
@@ -19,6 +18,7 @@ Curated hub for articles related to Microsoft.
 - [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]] · #tech
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]] · #tech
 - [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]] · #tech
+- [[business/xbox-asha-sharma-turnaround|“游戏圈外人”夏尔马的使命：以残酷诚实整顿微软Xbox业务]] · #business
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]] · #tech
 - [[tech/washington-ai-safety-panic|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] · #tech
 - [[career/how-to-improve-job-search-success-by-optimizing-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]] · #career
@@ -26,6 +26,7 @@ Curated hub for articles related to Microsoft.
 - [[career/how-to-improve-job-search-success-by-refining-your-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]] · #career
 - [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]] · #tech
 - [[business/microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]] · #business
+- [[business/microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] · #business
 - [[tech/us-nuclear-reactor-construction-smr|揭秘美国一代人以来首座核反应堆的建设攻关]] · #tech
 - [[tech/us-smr-nuclear-revival|揭秘美国一代人以来首座核反应堆的建设攻关]] · #tech
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] · #business

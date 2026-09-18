@@ -12,8 +12,10 @@ topics:
 
 # [稳定币为何会给经济带来风险](https://cn.wsj.com/articles/stablecoins-are-private-money-thats-why-theyre-a-risk-to-the-economy-619664c8?mod=cn_markets)
 
-## 核心观点
-- 稳定币已成为加密货币生态的关键工具，但监管框架滞后
+稳定币是加密生态重要基础设施，但[[hubs/regulation|监管]]滞后于增长速度
+
+## 要点
+- 稳定币已成为加密货币生态的关键工具，但[[hubs/regulation|监管]]框架滞后
 - 无限增长的稳定币发行存在系统性金融风险
 - 政策制定者需要在创新与风险控制间取得平衡
 
@@ -74,18 +76,9 @@ topics:
 - **优先选择监管透明的项目**（如 [[USDC]] vs [[USDT]]）
 - **分散风险**，避免单一稳定币依赖
 
-## Key Takeaways
-- 稳定币是加密生态重要基础设施，但监管滞后于增长速度
-- 无限供给 + 储备金不透明 + 跨域特性 = 系统性风险
-- 投资者应警惕稳定币集中风险，需等待监管框架完善
-- 政策制定者需在创新支持与风险防控间寻求平衡
-
 ## 相关文章
 
-- [[tech/washington-ai-safety-panic|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]]
-- [[business/founder-of-adderall-pill-mill-sentenced-to-six-years-in-prison|经营硅谷“处方药坊”的中国籍商人在美被判六年监禁]]
-
----
-**Topics**: [[finance/_index|Finance]]  
-**Topic**: [[finance/_index|Finance]]  
-**Tags**: #crypto #stablecoin #usdc #tether #regulation #金融风险
+- [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
+- [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
+- [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]]
+- [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]

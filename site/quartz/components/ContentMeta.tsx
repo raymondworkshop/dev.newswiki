@@ -25,8 +25,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
+    const source = typeof fileData.frontmatter?.source === "string" ? fileData.frontmatter.source : undefined
 
-    if (text) {
+    if (text || source) {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
@@ -34,12 +35,24 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       // Display reading time if enabled
-      if (options.showReadingTime) {
+      if (text && options.showReadingTime) {
         const { minutes, words: _words } = readingTime(text)
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
         segments.push(<span>{displayedTime}</span>)
+      }
+
+      if (source) {
+        segments.push(
+          <a class="external content-meta-source" href={source} target="_blank" rel="noopener noreferrer">
+            原文
+          </a>,
+        )
+      }
+
+      if (segments.length === 0) {
+        return null
       }
 
       return (

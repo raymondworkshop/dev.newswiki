@@ -13,7 +13,9 @@ topics:
 
 # [Forget Working: Passive Income Is the New American Dream](https://cn.wsj.com/articles/passive-income-dreams-f4ec7dda?mod=cn_hp_lead_pos10)
 
-## Core View
+Passive income is no longer just a financial strategy—it's a cultural and personal lifestyle shift.
+
+## Key Points
 - Greg Keogh, a 30-something man from Austin, Texas, found success by designing a narrow, high-demand vacuum cleaner for pet hair, which sold well on Amazon and now generates $50,000-$115,000 annually with minimal effort.
 - The article highlights a growing trend where individuals are seeking passive income as a form of personal liberation, with 44% of 18-28 year olds reporting side income sources.
 - Platforms like Airbnb, Turo, and Etsy are enabling users to monetize underutilized assets such as cars, homes, and personal skills.
@@ -36,16 +38,9 @@ topics:
 - Search trends on Google and Reddit show a 50% increase in passive income queries since the 2020s, with weekly traffic to dedicated subreddits reaching 500,000 visitors.
 - The concept of 'passive income' is increasingly being used as a lifestyle ideal—work is no longer a necessity, and time is now a valuable asset.
 
-## Key Takeaways
-- Passive income is no longer just a financial strategy—it's a cultural and personal lifestyle shift.
-- Many so-called passive income models are not truly passive and require significant effort to maintain or scale.
-- AI tools are enabling new, scalable models (e.g., voice cloning, content generation), but also increasing the risk of scams and overpromising.
-- The trend reflects a broader societal disillusionment with traditional employment and a desire for autonomy and time freedom.
-
 ## Related Articles
 
-- [[career/career-life-balance|How to Plan Your Life Successfully]]
-
----
-**Topics**: [[lifestyle/_index|Lifestyle Trends]], [[career/_index|Career Trends]]  
-**Tags**: #passive-income #work-life-balance #ai-entrepreneurship #digital-lifestyle
+- [[finance/sea-legal-action-against-insider-traders-china-brokerage-crackdown|Sea Files Lawsuit Against 100 Anonymous Short Sellers Alleging $100M Profits from China Brokerage Crackdown Insiders]]
+- [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]]
+- [[lifestyle/utah-ai-doctor-pilot|犹他州试点“AI医生”，真人医生们坐不住了]]
+- [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]]

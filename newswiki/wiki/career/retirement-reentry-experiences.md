@@ -13,7 +13,9 @@ topics:
 
 # [In America, What Is the Experience of Retiring and Starting a Business Later in Life?](https://cn.wsj.com/articles/retirement-in-america-business-b2c1c101?mod=cn_hp_life_pos1)
 
-## Core View
+Late-life entrepreneurship is growing, driven by a desire for autonomy and purpose.
+
+## Key Points
 - Retirement is no longer a fixed endpoint; many individuals in their 50s and 60s are re-entering the workforce through entrepreneurship or small business ownership.
 - A 22% increase in 55-64 year-old entrepreneurs over the past decade shows a growing trend of late-life entrepreneurship.
 - Key motivations include leveraging decades of experience, seeking autonomy, and finding purpose beyond traditional employment.
@@ -29,7 +31,7 @@ topics:
 
 ## Case Study: Rob Perry (68)
 - Acquired and reopened a 30-year-old print shop in Vermont, renaming it Shirt Happens.
-- Monthly expenses of $8,000; annual income of $13.5k, generating $50k-$60k in free cash flow.
+- Monthly expenses of $8,000; annual income of $13.5k, generating $50k-$60k in free [[hubs/cash-flow|cash flow]].
 - Works 40 hours per week; operates during peak demand and takes time off for skiing or European trips.
 - Faced challenges in finding a successor, highlighting a key risk for older entrepreneurs.
 
@@ -46,17 +48,9 @@ topics:
 - Spent $11,040 annually; 65% of expenses go to taxes, insurance, and donations.
 - Prioritize community impact over personal leisure; view retirement as a continuation of social entrepreneurship.
 
-## Key Takeaways
-- Late-life entrepreneurship is growing, driven by a desire for autonomy and purpose.
-- Financial risk is higher with age, especially regarding capital depletion and lack of exit plans.
-- Entrepreneurs in this age group often operate with lower capital risk and strong personal motivations.
-- Work-life balance and time management are critical, with many working 15-40 hours per week.
-- A clear exit strategy and financial contingency are essential for long-term sustainability.
-
 ## Related Articles
 
-- [[business/67-age-entrepreneurship|我67岁开始创业，这比退休好太多了]]
-
----
-**Topics**: [[career/_index|Career]]  
-**Tags**: #career #lifestyle #aging #workforce
+- [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]]
+- [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
+- [[finance/ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]]
+- [[business/ibm-stock-crash-why-not-worried|股价单日暴跌25%，IBM首席执行官为何不担心?]]

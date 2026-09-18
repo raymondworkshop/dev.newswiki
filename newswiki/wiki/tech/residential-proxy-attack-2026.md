@@ -14,6 +14,8 @@ topics:
 
 # [美国家庭网络如何沦为黑客隐身衣？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E5%A6%82%E4%BD%95%E6%B2%A6%E4%B8%BA%E9%BB%91%E5%AE%A2%E9%9A%90%E8%BA%AB%E8%A1%A3-4615a67d?mod=cn_hp_tech_pos2)
 
+消费级IoT设备已成为国家级网络攻击的全球化、可租赁的后门基础设施。
+
 ## 住宅代理网络的兴起与利用
 - 康卡斯特的调查揭示，数百万台数字家庭设备被用于发动危险的网络攻击，这些设备被转化为犯罪分子的云计算网络。
 - 这些低成本消费设备预装了后门软件，被用于构建住宅代理网络，可用于欺诈或被政府背景黑客利用，掩盖其与俄罗斯、中国、伊朗和朝鲜等国的联系。
@@ -26,12 +28,7 @@ topics:
 
 ## 现代攻击向量的演变
 - 现代黑客越来越多地利用这些网络窃取受害者用于云计算服务的登录凭据，这是其谋生基础设施之一。
-- Volexity发现，俄罗斯黑客利用住宅代理网络发起了一种极难察觉的新型攻击，通过虚假的Microsoft Teams会议窃取受害者Microsoft 365凭据，从而伪装成从美国家庭网络登录。
-
-## Key Takeaways
-- 消费级IoT设备已成为国家级网络攻击的全球化、可租赁的后门基础设施。
-- 住宅代理网络极大地增加了恶意活动的可溯源难度，使得攻击者能够有效隐藏其地理位置和身份。
-- 攻击向量已从直接入侵转向利用家庭网络作为跳板，使得攻击难以被传统安全系统拦截。
+- Volexity发现，俄罗斯黑客利用住宅代理网络发起了一种极难察觉的新型攻击，通过虚假的[[hubs/microsoft|Microsoft]] Teams会议窃取受害者[[hubs/microsoft|Microsoft]] 365凭据，从而伪装成从美国家庭网络登录。
 
 ## 相关文章
 
@@ -39,7 +36,3 @@ topics:
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]
 - [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]]
-
----
-**Topics**: [[tech/_index|技术基础设施]], [[business/_index|企业安全风险]], [[lifestyle Trends/_index|物联网安全]]  
-**Tags**:

@@ -1,6 +1,6 @@
 # Archive Status
 
-**Last Updated:** 2026-09-14
+**Last Updated:** 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
 
 ## Compilation Batch: 2026-05-27 (5 articles)
 
@@ -103,6 +103,28 @@ All files compiled from raw/ to wiki/ and then archived here.
 
 | File | Topic | Wiki Location | Status |
 |------|-------|---------------|--------|
+| 2026-09-18-人民币升至逾四年高点.md | 投资 | `newswiki/wiki/finance/yuan-four-year-high-pboc-fixing.md` | Archived |
+| 2026-09-18-继Visa之后，万事达卡也将允许AI机器人代客购物.md | 商业 | `newswiki/wiki/business/mastercard-alchemy-ai-agent-payments.md` | Archived |
+| 2026-09-18-微软力推AI转型，从重构自身开始.md | 商业 | `newswiki/wiki/business/microsoft-ai-transformation-frontier-playbook.md` | Archived |
+| 2026-09-18-一通40分钟的电话，如何让埃德·希兰的巡演悬于一线？.md | 商业 | `newswiki/wiki/business/ed-sheeran-tour-nfl-stadium-owners-macklemore-controversy.md` | Archived |
+| 2026-09-14-“游戏圈外人”夏尔马的使命：以残酷诚实整顿微软Xbox业务.md | 商业 | `newswiki/wiki/business/xbox-asha-sharma-turnaround.md` | Archived |
+| 2026-09-17-美国快餐连锁迎来战略大转向：从自动化回归“人情味”.md | 商业 | `newswiki/wiki/business/fast-food-chains-shift-automation-hospitality.md` | Archived |
+| 2026-09-17-漫步于台湾庙宇，我窥见中国另一种可能的模样.md | 生活 | `newswiki/wiki/lifestyle/taiwan-temples-religious-freedom-vs-china.md` | Archived |
+| 2026-09-17-马斯克将他的“政治搅局机器”对准英国.md | 商业 | `newswiki/wiki/business/musk-uk-political-interference.md` | Archived |
+| 2026-09-17-退休储户撑起道奇队老板马克·沃尔特的金融帝国.md | 金融 | `newswiki/wiki/finance/mark-walter-annuity-empire-federal-probe.md` | Archived |
+| 2026-09-17-这四只股票有望成为3.2万亿美元半导体机遇的最大受益者.md | 金融 | `newswiki/wiki/finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks.md` | Archived |
+| 2026-09-17-诺和诺德将用Anthropic的Claude助力药物研发.md | 商业 | `newswiki/wiki/business/novo-nordisk-anthropic-claude-drug-discovery.md` | Archived |
+| 2026-09-17-美国企业现在不知道该如何定价了.md | 商业 | `newswiki/wiki/business/us-businesses-pricing-dilemma-energy-costs.md` | Archived |
+| 2026-09-17-想在AI时代脱颖而出？去学人类学吧.md | 职场 | `newswiki/wiki/career/ai-career-skills-anthropology-math-philosophy.md` | Archived |
+| 2026-09-17-因SpaceX上市暴富，这对夫妇踏上追梦之旅.md | 生活 | `newswiki/wiki/lifestyle/spacex-ipo-couple-year-of-freak.md` | Archived |
+| 2026-09-17-以为你的匿名账号很安全？AI或许能查出你是谁.md | 科技 | `newswiki/wiki/tech/ai-deanonymization-social-media.md` | Archived |
+| 2026-09-17-中层管理者“大清洗”为何会带来反噬？.md | 职场 | `newswiki/wiki/career/why-purge-middle-managers-backfire.md` | Archived |
+| 2026-09-17-中国可以避免金融危机，但无法避免深层代价.md | 金融 | `newswiki/wiki/finance/china-financial-crisis-hidden-costs.md` | Archived |
+| 2026-09-17-一学期付4万美元干农活，这所另类学校如何成为常春藤敲门砖？.md | 生活 | `newswiki/wiki/lifestyle/mountain-school-ivy-league-farm-work.md` | Archived |
+| 2026-09-14-美国AI大恐慌全面爆发.md | 科技 | `newswiki/wiki/tech/americas-great-ai-freakout.md` | Archived |
+| 2026-09-14-中国经济困境波及香格里拉松茸“猎人”.md | 商业 | `newswiki/wiki/business/china-economic-slowdown-shangrila-matsutake-trade.md` | Archived |
+| 2026-09-11-直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变.md | 商业 | `newswiki/wiki/business/saas-apocalypse-ai-disruption.md` | Archived |
+| 2026-09-09-OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”.md | 科技 | `newswiki/wiki/tech/openai-navier-stokes-millennium-breakthrough.md` | Archived |
 | 2026-09-10-韩国推进“全民AI”计划，向全体国民免费开放AI服务.md | 商业 | `newswiki/wiki/business/south-korea-ai-for-all-free-generative-ai-citizens.md` | Archived |
 | 2026-09-14-三大AI企业掌门人达成共识：模型开发需要降速.md | 科技 | `newswiki/wiki/tech/ai-leaders-call-for-slower-model-development.md` | Archived |
 | 2026-09-11-想在AI时代脱颖而出？去学人类学吧.md | 职场 | `newswiki/wiki/career/want-to-succeed-in-ai-world-study-anthropology.md` | Archived |

@@ -15,7 +15,7 @@ if str(_SCRIPTS_DIR) not in sys.path:
 
 from wiki.common import parse_raw_front_matter
 from wiki.sync import WIKI_DIR, configure_paths, repo_root
-from wiki.densify import ENTITY_ALIASES
+from wiki.densify import CONCEPT_ALIASES, ENTITY_ALIASES
 from topic_config import CANONICAL_TOPICS, article_topics_for_path, topic_link
 
 # Capture target + optional display label (common.WIKI_LINK_RE only keeps the target).
@@ -239,10 +239,11 @@ def rebuild_indexes(wiki_dir: Path) -> None:
             continue
         content = index_path.read_text(encoding="utf-8")
         dated_lines = sorted(by_topic.get(topic, []), key=lambda item: item[0], reverse=True)
-        content = replace_section(content, "相关文章", [line for _, line in dated_lines])
-        related = [slug for slug in CANONICAL_TOPICS if slug != topic]
-        related_links = [topic_link(slug) for slug in related]
-        content = replace_section(content, "相关主题", [f"- {link}" for link in related_links])
+        # Prefer first-instinct「文章」; migrate legacy「相关文章」heading.
+        content = re.sub(r"(?m)^## 相关文章\s*$", "## 文章", content)
+        content = re.sub(r"(?m)^## 相關文章\s*$", "## 文章", content)
+        content = replace_section(content, "文章", [line for _, line in dated_lines])
+        # Topic nav already covers cross-topic discovery — drop 相关主题.
         index_path.write_text(content, encoding="utf-8")
 
 
@@ -263,7 +264,7 @@ SKIP_COMPANY_HUBS = {
     "usdc",
     "usdt",
     "tether",
-}
+} | set(CONCEPT_ALIASES)
 PERSON_NAME_RE = re.compile(r"^[A-Z][a-z]+(?:\s+[A-Z][a-z.'\-]+){1,3}$")
 CORP_TOKEN_RE = re.compile(
     r"\b(Capital|Technologies|Technology|Ventures|Partners|Holdings|Corp|Inc|LLC|"
@@ -498,7 +499,11 @@ def backfill_key_companies(
 
 
 def annotate_article_topics(wiki_dir: Path) -> None:
-    topic_re = re.compile(r"\*\*Topics?\*\*:.*")
+    """Ensure frontmatter `topics:` is set; strip legacy body Topics/主题 footers."""
+    footer_re = re.compile(
+        r"\n---\n\*\*(?:Topics?|主题|主題)\*\*:[^\n]*(?:\n\*\*(?:Tags|标签|標籤)\*\*:[^\n]*)?",
+        re.M,
+    )
     for topic in CANONICAL_TOPICS:
         topic_dir = wiki_dir / topic
         if not topic_dir.is_dir():
@@ -508,8 +513,6 @@ def annotate_article_topics(wiki_dir: Path) -> None:
                 continue
             topics = article_topics_for_path(path.name, topic)
             text = path.read_text(encoding="utf-8")
-            topic_links = ", ".join(topic_link(slug) for slug in topics)
-            footer = f"**Topics**: {topic_links}  "
 
             if text.startswith("---\n"):
                 end = text.find("\n---\n", 4)
@@ -528,15 +531,7 @@ def annotate_article_topics(wiki_dir: Path) -> None:
                     + f"\n---\n{text}"
                 )
 
-            if topic_re.search(text):
-                text = topic_re.sub(footer, text, count=1)
-            elif "**Tags**" in text:
-                text = text.replace("**Tags**:", f"{footer}\n**Tags**:", 1)
-            elif text.rstrip().endswith("---"):
-                text = text.rstrip() + f"\n{footer}\n"
-            else:
-                text = text.rstrip() + f"\n\n---\n{footer}\n"
-
+            text = footer_re.sub("", text)
             path.write_text(text, encoding="utf-8")
 
 

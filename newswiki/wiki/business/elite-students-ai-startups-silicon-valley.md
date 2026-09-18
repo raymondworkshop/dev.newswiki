@@ -13,11 +13,13 @@ topics:
 
 # [Elite Students Abandon Wall Street to Chase AI Startup Dreams](https://cn.wsj.com/articles/forget-wall-street-elite-students-are-spending-their-summers-on-startup-dreams-280749b7?mod=cn_hp_wknd_pos1)
 
-## Core View
+Students are increasingly choosing to pursue AI entrepreneurship over traditional internships, driven by the perceived value of hands-on experience and faster learning curves.
+
+## Key Points
 - Princeton University student Charles Muehlberger is taking a year off to launch an AI startup focused on offline deployment of open-source models.
 - Students are increasingly choosing to skip traditional internships and pursue startup ecosystems in places like San Francisco's Yale Hacker House and TekTrek.
 - Yale Hacker House, supported by alumni and venture capital, provides housing, mentorship, and networking opportunities for 15 students from Yale and other institutions.
-- Students like Leïa Ryan are founding AI startups—such as Cortex, a knowledge system for biotech labs—raising $600,000 at a $1M valuation and securing early contracts.
+- Students like Leïa Ryan are founding AI startups—such as Cortex, a knowledge system for biotech labs—raising $600,000 at a $1M [[hubs/valuation|valuation]] and securing early contracts.
 - Some students, like Gauri Kshettry, are balancing entrepreneurship with education, viewing degrees as a form of intellectual and personal safeguard.
 - Critics, like Floodgate's Ann Miura-Ko, caution against dropping out, noting the difficulty in predicting which ideas will become 'unicorns'.
 
@@ -27,22 +29,13 @@ topics:
 - Students are building AI tools for industrial reporting (e.g., Strata), AI legal services, and AI-driven biotech solutions, indicating a shift toward AI as a cross-sector enabler.
 
 ## Implications for Business Strategy
-- [AI Synthesis] The trend signals a growing demand for AI-driven solutions in non-traditional sectors such as biotech, legal services, and industrial automation.
+- [AI Synthesis] The trend signals a growing demand for AI-driven solutions in non-traditional sectors such as biotech, legal services, and industrial [[hubs/automation|automation]].
 - [AI Synthesis] This shift reflects a redefinition of value creation—moving from employment-based growth to product-led, user-driven innovation.
 - [AI Synthesis] The rise of student-led startups may signal a future where early-stage AI ventures are more agile and responsive than traditional corporate R&D models.
 
-## Key Takeaways
-- Students are increasingly choosing to pursue AI entrepreneurship over traditional internships, driven by the perceived value of hands-on experience and faster learning curves.
-- Student-led startups are forming in niche areas such as AI for biotech, legal services, and industrial reporting, indicating a new wave of AI commercialization.
-- The success of these ventures depends on access to mentorship, capital, and community—highlighting the importance of ecosystem support in early-stage innovation.
-
 ## Related Articles
 
-- [[business/how-to-earn-a-billion-dollars|How to Earn a Billion Dollars]]
-- [[tech/coding-agent-harness|Coding Agent Harness]]
-- [[tech/ai-warfare-evolution|Warfare Mode is Changing: Is It Gradual Evolution or a Total Revolution?]]
-- [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]]
-
----
-**Topics**: [[business/_index|Business]], [[tech/_index|Tech]]  
-**Tags**: #business #startup #ai #student-entrepreneurship
+- [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
+- [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]]
+- [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]
+- [[business/iran-war-winner-african-billionaire|Iran War Brings a Surprise Winner: Africa's Richest Man]]

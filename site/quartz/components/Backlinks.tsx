@@ -4,6 +4,8 @@ import { resolveRelative, simplifySlug } from "../util/path"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 import { QuartzPluginData } from "../plugins/vfile"
+// @ts-ignore
+import script from "./scripts/backlinks.inline"
 
 interface BacklinksOptions {
   hideWhenEmpty: boolean
@@ -122,5 +124,6 @@ export default ((opts?: Partial<BacklinksOptions>) => {
   }
 
   Backlinks.css = style
+  Backlinks.afterDOMLoaded = script
   return Backlinks
 }) satisfies QuartzComponentConstructor

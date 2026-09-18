@@ -12,7 +12,9 @@ topics:
 
 # [AI能否研发出更佳药物？华尔街等不了那么久](https://cn.wsj.com/articles/can-ai-make-better-drugs-not-on-wall-streets-timeline-4e62a795?mod=cn_hp_featst_pos2)
 
-## 核心观点
+AI提高了药物发现效率，但尚未证明能提升单位研发支出的成药成功率。
+
+## 要点
 - AI正通过预测蛋白质折叠、识别药物靶点、在计算机中筛选数百万分子，加速药物发现。
 - 在罗氏([[Roche]])旗下的基因泰克([[Genentech]])，计算生物学家阿维夫·雷格夫(Aviv Regev)搭建了“闭环实验室”(lab in the loop)：AI预测候选分子，实验验证后结果反馈模型，形成迭代。
 - AI的优势不在于“更会推理”，而在于能整合远超任何单个研究者的生物学知识。
@@ -42,20 +44,11 @@ topics:
 - 最终赢家未必是纯AI初创，更可能是兼具深厚生物学数据、全球研发体系与运营规模的大型制药企业。
 - 这场变革可能需要数年：生物系统并不遵循半导体周期。
 
-## Key Takeaways
-- AI提高了药物发现效率，但尚未证明能提升单位研发支出的成药成功率。
-- “反摩尔定律”——研发更慢、更贵——仍是投资者观望的主因。
-- AI价值主要在数据整合与模式识别，而非接近人类水平的推理。
-- 华尔街需要可验证的临床证据，才会重估制药板块。
-- [AI Synthesis] 具备数据深井与运营能力的大药企，比纯模型公司更可能兑现AI红利。
 
 ## 相关文章
 
 - [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]]
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]
+- [[tech/openai-navier-stokes-millennium-breakthrough|OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”]]
 - [[tech/ai-cost-control|Token使用量激增，企业如何控制AI成本？]]
-- [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]]
 
----
-**Topics**: [[tech/_index|Tech]]  
-**Tags**: #ai #药物发现 #闭环实验室 #反摩尔定律 #基因泰克
