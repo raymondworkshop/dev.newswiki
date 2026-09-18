@@ -29,11 +29,11 @@ topics:
 ## 机制与[[hubs/regulation|监管]]风险
 - **[[hubs/valuation|估值]]漏洞**: 内部人士可能通过故意低估非上市公司股票价格来绕过年度供款限制，从而在账户中囤积更多股权。
 - **合规风险**: 若IRA购买由账户所有者控制的公司股票，可能违反税收规定，面临美国国税局（IRS）的审计及账户失效风险。
-- **[[hubs/regulation|监管]]缺失**: 托管机构通常依赖投资者个人提供的非流动性资产[[hubs/valuation|估值]]，导致IRS难以有效监管和提起诉讼。
+- **[[hubs/regulation|监管]]缺失**: 托管机构通常依赖投资者个人提供的非流动性资产[[hubs/valuation|估值]]，导致IRS难以有效[[hubs/regulation|监管]]和提起诉讼。
 
 ## 相关文章
 
+- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
-- [[finance/korean-shipping-magnate-iranian-war-profit|韩国油轮大亨借伊朗战争大赚一笔]]

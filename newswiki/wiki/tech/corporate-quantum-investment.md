@@ -28,5 +28,5 @@ topics:
 
 ## 相关文章
 
-- [[business/corporate-quantum-investment|企业正在量子技术上投入巨资]]
+- [[tech/corporate-quantum-investment|企业正在量子技术上投入巨资]]
 - [[business/ibm-stock-crash-why-not-worried|股价单日暴跌25%，IBM首席执行官为何不担心?]]

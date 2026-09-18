@@ -22,11 +22,11 @@ topics:
 - 固定指数年金营销中使用不存在指数的「历史回测」宣传引发[[hubs/regulation|监管]]担忧，NAIC 工作组拟严打此类做法并收紧私募信贷投资披露与资本要求 [[finance/insurance-regulation-trends|保险监管趋势]]。
 - AM Best 考虑下调相关公司评级，Truist 与 Fifth Third Bank 已暂停 Delaware Life 年金新销售，分销渠道收紧 [[finance/ratings-distribution-risk|评级与分销风险]]。
 - 州担保协会仅提供约 25 万美元/人的保障上限，若保险公司破产，大额保单持有人面临本金损失风险 [[finance/state-guaranty-associations|州担保协会保障限额]]。
-- [AI Synthesis] 2014 年集体诉讼曾指控 Guggenheim 将保险公司变「提款机」收购道奇队，虽迅速和解，但当前规模更大、监管更严，历史风险模式或重演。
+- [AI Synthesis] 2014 年集体诉讼曾指控 Guggenheim 将保险公司变「提款机」收购道奇队，虽迅速和解，但当前规模更大、[[hubs/regulation|监管]]更严，历史风险模式或重演。
 
 ## 相关文章
 
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
 - [[finance/korean-shipping-magnate-iranian-war-profit|韩国油轮大亨借伊朗战争大赚一笔]]
-- [[finance/jane-street-ai-spotlight|神秘华尔街巨头Jane Street步入AI聚光灯下]]
+- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]

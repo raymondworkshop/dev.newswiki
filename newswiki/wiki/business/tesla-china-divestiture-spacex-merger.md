@@ -28,7 +28,7 @@ topics:
 
 ## 潜在挑战与影响
 - 中国是特斯拉第二大市场（2026年上半年销量占比约18%），剥离可能影响其全球大众市场电动汽车的盈利能力。
-- 北京方面可能担心合并导致中国车主数据流向美国防务公司，或两用物项非法流向SpaceX，从而引发严密审查。
+- 北京方面可能担心合并导致中国车主数据流向美国防务公司，或两用物项非法流向[[hubs/spacex|SpaceX]]，从而引发严密审查。
 - 参考案例：星巴克和百胜餐饮(Yum Brands)此前均采取过分拆或出售中国业务股权的策略以应对类似风险。
 
 ## 相关文章
@@ -36,4 +36,4 @@ topics:
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
 - [[business/musk-confidant-gracias-set-for-spacex-windfall|马斯克密友格拉西亚斯有望因SpaceX斩获680亿美元收益]]
-- [[business/korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]]
+- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]

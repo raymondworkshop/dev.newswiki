@@ -21,7 +21,7 @@ User preference for the 'strongest model' creates a ceiling for the adoption of 
 - Local hosting is often more expensive when accounting for the initial hardware investment and monthly electricity costs compared to API subscriptions.
 
 ## Niche Utility of Local Models
-- Local models serve a niche for latency-sensitive applications, such as voice chat, acting as a fast interface that delegates complex tasks to larger datacenter models.
+- Local models serve a niche for latency-sensitive applications, such as voice chat, acting as a fast interface that delegates complex tasks to larger [[hubs/ai-infrastructure|datacenter]] models.
 - Specific value propositions for local models include [[tech/open-weight-models|open-weight models]] for steering vectors, total infrastructure control, and offline availability.
 
 ## Related Articles

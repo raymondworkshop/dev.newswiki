@@ -28,4 +28,4 @@ AI 驱动的生产力提升正在导致经济增长与就业增长的脱钩。
 - [[tech/2026-highest-performing-stocks|盘点2026年上半年标普500指数表现最好的20只股票]]
 - [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
-- [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]]
+- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]

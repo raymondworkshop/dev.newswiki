@@ -22,6 +22,7 @@ from wiki.common import (
     SLUG_RE,
     add_dry_run_arg,
     add_llm_provider_arg,
+    article_language,
     derive_article_slug_fallback,
     load_agents_contract,
     markdown_external_link,
@@ -248,7 +249,10 @@ article.path must be exactly `{WIKI_PREFIX}/{{primary-topic}}/{{article.slug}}.m
 
 Linking: include at least 2-4 resolvable [[wiki links]] in bullets/takeaways when grounded in the source. Prefer [[topic/existing-article-slug|Title]] or [[hubs/entity|Name]] over bare unresolved names.
 Preserve the source article language throughout: article.title, front_matter, section headings, bullets, and key_takeaways must match the raw language. Do not translate or rename titles.
-key_takeaways: exactly 1 sentence that summarizes the entire article’s conclusion (the reader’s takeaway). Rendered as the opening lead above 要点 / Key Points — no ## 核心要点 / ## Key Takeaways heading. Do not use a bullet list; one full sentence only.
+key_takeaways (required): a JSON array with EXACTLY one string — one full sentence that concludes the WHOLE article (the single reader takeaway after reading all sections). It is the opening lead above 要点 / Key Points (no ## 核心要点 heading).
+Do NOT put multiple bullets in key_takeaways. Do NOT omit it. Do NOT copy a single section bullet or the short description unless that sentence truly summarizes the entire piece.
+Wrong: ["point A", "point B"] · Wrong: "" · Wrong: omitting the field
+Right: ["CEOs publicly worry about AI extinction, but privately focus on nearer-term competition, regulation, and product risk."]
 
 {language_hint}
 
@@ -328,10 +332,10 @@ def validate_proposal(proposal: dict[str, Any], raw_path: Path) -> None:
         validate_synthesis_labels([str(b) for b in bullets], "section bullet")
 
     key_takeaways = article.get("key_takeaways", [])
-    if not isinstance(key_takeaways, list) or len(key_takeaways) != 1:
+    if not isinstance(key_takeaways, list) or len(key_takeaways) != 1 or not str(key_takeaways[0]).strip():
         raise ValueError(
             "article.key_takeaways must be a list with exactly 1 sentence summarizing the whole article conclusion "
-            "(before 要点 / Key Points)."
+            f"(before 要点 / Key Points); got {key_takeaways!r}."
         )
     validate_synthesis_labels([str(k) for k in key_takeaways], "key takeaway")
 
@@ -357,6 +361,121 @@ def validate_proposal(proposal: dict[str, Any], raw_path: Path) -> None:
         raise ValueError("archive.should_archive must be true for create_article.")
     if not str(front_matter.get("source", "")).strip():
         raise ValueError("article.front_matter.source is required for create_article.")
+
+
+def normalize_proposal_key_takeaways(proposal: dict[str, Any]) -> list[str]:
+    """Format-only: wrap a bare non-empty string as a one-item list.
+
+    Does not invent a whole-article summary from description/bullets — that requires
+    ``repair_key_takeaways_with_llm`` when the field is missing or multi-item.
+    """
+
+    if proposal.get("action") != "create_article":
+        return []
+
+    article = proposal.get("article")
+    if not isinstance(article, dict):
+        return []
+
+    raw = article.get("key_takeaways", [])
+    if isinstance(raw, str):
+        text = raw.strip()
+        article["key_takeaways"] = [text] if text else []
+        return ["Wrapped key_takeaways string into a single-item list."] if text else []
+    if isinstance(raw, list):
+        cleaned = [str(item).strip() for item in raw if str(item).strip()]
+        article["key_takeaways"] = cleaned
+        return []
+    if raw is None:
+        article["key_takeaways"] = []
+        return []
+    text = str(raw).strip()
+    article["key_takeaways"] = [text] if text else []
+    return ["Wrapped key_takeaways value into a single-item list."] if text else []
+
+
+def key_takeaways_needs_summary_repair(proposal: dict[str, Any]) -> bool:
+    """True when create_article lacks exactly one whole-article conclusion sentence."""
+
+    if proposal.get("action") != "create_article":
+        return False
+    article = proposal.get("article")
+    if not isinstance(article, dict):
+        return True
+    takeaways = article.get("key_takeaways")
+    if not isinstance(takeaways, list) or len(takeaways) != 1:
+        return True
+    return not str(takeaways[0]).strip()
+
+
+def build_key_takeaway_repair_prompt(proposal: dict[str, Any]) -> LLMRequest:
+    """Ask the model for one sentence that concludes the whole compiled article."""
+
+    article = require_mapping(proposal, "article")
+    front_matter = article.get("front_matter") if isinstance(article.get("front_matter"), dict) else {}
+    title = str(article.get("title") or front_matter.get("title") or "").strip()
+    language = article_language(article)
+    lang_line = (
+        "Write the sentence in English."
+        if language == "en"
+        else "用与原文相同的中文写这一句结论。"
+    )
+    sections_payload: list[dict[str, Any]] = []
+    for section in article.get("sections") or []:
+        if not isinstance(section, dict):
+            continue
+        sections_payload.append(
+            {
+                "heading": str(section.get("heading", "")).strip(),
+                "bullets": [str(b).strip() for b in (section.get("bullets") or []) if str(b).strip()],
+            }
+        )
+    prior = article.get("key_takeaways")
+    prompt = f"""The compile proposal is missing a valid whole-article conclusion sentence.
+
+Return ONLY JSON:
+{{"key_takeaways":["<one sentence>"]}}
+
+Rules:
+- Exactly one string in the array.
+- That string must summarize the ENTIRE article’s conclusion (the single reader takeaway), not one section and not a bullet list.
+- {lang_line}
+- Ground the sentence in the title + sections below. Do not invent facts.
+
+Title: {title}
+
+Sections:
+{json.dumps(sections_payload, ensure_ascii=False, indent=2)}
+
+Prior key_takeaways field (may be wrong/empty/multi):
+{json.dumps(prior, ensure_ascii=False)}
+"""
+    return LLMRequest(system=load_agents_contract(), prompt=prompt)
+
+
+def repair_key_takeaways_with_llm(provider: LLMProvider, proposal: dict[str, Any]) -> list[str]:
+    """Replace invalid key_takeaways with one LLM-written whole-article conclusion."""
+
+    if not key_takeaways_needs_summary_repair(proposal):
+        return []
+
+    repaired = proposal_from_provider(provider, build_key_takeaway_repair_prompt(proposal))
+    takeaways = repaired.get("key_takeaways")
+    if isinstance(takeaways, str) and takeaways.strip():
+        takeaways = [takeaways.strip()]
+    if not isinstance(takeaways, list):
+        raise ValueError(
+            "key_takeaways repair failed: expected JSON key_takeaways list with one whole-article sentence."
+        )
+    cleaned = [str(item).strip() for item in takeaways if str(item).strip()]
+    if len(cleaned) != 1:
+        raise ValueError(
+            "key_takeaways repair failed: need exactly 1 whole-article conclusion sentence, "
+            f"got {takeaways!r}."
+        )
+    article = require_mapping(proposal, "article")
+    article["key_takeaways"] = cleaned
+    return ["Repaired key_takeaways via LLM whole-article conclusion sentence."]
 
 
 def normalize_proposal_synthesis_labels(proposal: dict[str, Any]) -> list[str]:
@@ -559,12 +678,16 @@ def apply_proposal(
     *,
     dry_run: bool = False,
     no_archive: bool = False,
+    provider: LLMProvider | None = None,
 ) -> CompileResult:
     proposal = enforce_canonical_topics(proposal)
     normalize_proposal_language(proposal, raw_path)
     normalize_proposal_slugs(proposal, raw_path)
     normalize_proposal_paths(proposal)
     normalize_proposal_source_file(proposal, raw_path)
+    takeaway_notes = normalize_proposal_key_takeaways(proposal)
+    if provider is not None and key_takeaways_needs_summary_repair(proposal):
+        takeaway_notes = takeaway_notes + repair_key_takeaways_with_llm(provider, proposal)
     synthesis_notes = normalize_proposal_synthesis_labels(proposal)
     validate_proposal(proposal, raw_path)
     action = str(proposal["action"])
@@ -573,6 +696,7 @@ def apply_proposal(
         action=action,
         dry_run=dry_run,
         review_notes=[str(n) for n in proposal.get("review_notes", []) or []]
+        + takeaway_notes
         + synthesis_notes,
     )
 
@@ -630,7 +754,13 @@ def sync_file(
 ) -> CompileResult:
     try:
         resolved = proposal or proposal_from_provider(provider, build_compile_prompt(raw_path))
-        return apply_proposal(resolved, raw_path, dry_run=dry_run, no_archive=no_archive)
+        return apply_proposal(
+            resolved,
+            raw_path,
+            dry_run=dry_run,
+            no_archive=no_archive,
+            provider=provider,
+        )
     except Exception as exc:
         return CompileResult(
             source_file=raw_path.name,

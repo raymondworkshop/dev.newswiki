@@ -24,14 +24,14 @@ topics:
 - 该州医疗执照委员会多数成员联名信呼吁叫停项目，认为Doctronic的工具尚未经过充分审查，且开具处方本身就存在风险。
 - AI技术缺乏人类医生的教育、执照考试和住院医师培训等传统保障机制，被部分专家称为“黑匣子”。
 
-## 监管框架与未来走向
+## [[hubs/regulation|监管]]框架与未来走向
 - 州政府官员表示项目有保障措施，包括分阶段实施策略：初始阶段所有AI处方需人类医生审核，且AI需购买医疗事故保险。
 - Doctronic声称AI遵循医生制定的临床指南，且审核医生具备专业背景，初期批准率达72%，审核医生的认同率达91%。
-- 未来目标是AI完全自主续开处方，但目前仍需等待更多数据和监管机构（如FDA）的评估，且美国医学会等机构普遍持反对意见，担忧‘滑坡效应’。
+- 未来目标是AI完全自主续开处方，但目前仍需等待更多数据和[[hubs/regulation|监管]]机构（如FDA）的评估，且美国医学会等机构普遍持反对意见，担忧‘滑坡效应’。
 
 ## 相关文章
 
+- [[tech/dna-evidence-security-flaw|安全漏洞致使全美30年来的DNA证据面临黑客攻击风险]]
 - [[finance/tiktok-financial-advice-analysis|盘点TikTok上满天飞的理财“秘籍”]]
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]]
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
-- [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]

@@ -24,7 +24,7 @@ Multimodal AI systems can achieve high accuracy and scalability when built with 
 - AI-led annotation generates training data with 90% lower inference cost and zero human effort, accelerating fine-tuning of specialized models.
 
 ## Technical Innovations
-- [[hubs/llm|LLM]] jury system: Multiple LLM evaluators independently judge tags and vote on consensus, improving accuracy and reducing human dependency.
+- [[hubs/llm|LLM]] jury system: Multiple [[hubs/llm|LLM]] evaluators independently judge tags and vote on consensus, improving accuracy and reducing human dependency.
 - Context optimization loop: Failure signals from high-quality evaluation datasets are used to propose and test prompt improvements, mimicking reinforcement learning.
 - Deduplication, Spark distribution, batch processing, and result remapping enable efficient, scalable inference across millions of items.
 - AI-generated training data accelerates fine-tuning without requiring human annotation, reducing development cycle time significantly.

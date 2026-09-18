@@ -17,7 +17,7 @@ AI 投资的规模化导致 [[hubs/meta|Meta]] 自由[[hubs/cash-flow|现金流]
 
 ## 要点
 - 财务表现：第二财季收入创纪录（608亿美元，同比增长28%），但净利润（158亿美元）低于预期，同比下降14%。
-- [[hubs/cash-flow|现金流]]压力：自由现金流从第一财季的120亿美元锐减至不足7.84亿美元，主因是大规模AI基础设施投资。
+- [[hubs/cash-flow|现金流]]压力：自由[[hubs/cash-flow|现金流]]从第一财季的120亿美元锐减至不足7.84亿美元，主因是大规模AI基础设施投资。
 - 资本支出上调：将今年最低资本支出预期从1,250亿美元上调至1,300亿美元，上限维持在1,450亿美元。
 - AI 战略：[[hubs/mark-zuckerberg|马克·扎克伯格]]强调优先将算力用于自身业务而非短期出售获利；通过与 [[hubs/blackrock|贝莱德]] 合作筹集120亿美元建设德州[[hubs/ai-infrastructure|数据中心]]。
 - 产品进展：发布 Muse Spark 及 Muse Spark 1.1 模型，在编码和计算机使用方面有所提升，旨在竞争 [[tech/openai|OpenAI]] 和 [[tech/google-gemini|Gemini]] 的市场份额。
@@ -26,7 +26,7 @@ AI 投资的规模化导致 [[hubs/meta|Meta]] 自由[[hubs/cash-flow|现金流]
 
 ## 相关文章
 
-- [[business/us-nuclear-reactor-construction-oklo|揭秘美国一代人以来首座核反应堆的建设攻关]]
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
 - [[business/ibm-stock-crash-why-not-worried|股价单日暴跌25%，IBM首席执行官为何不担心?]]
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
+- [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]

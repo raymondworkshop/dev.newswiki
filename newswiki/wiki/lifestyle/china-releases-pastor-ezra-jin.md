@@ -36,6 +36,6 @@ The release of Pastor Ezra Jin signals a potential shift in China's handling of 
 ## Related Articles
 
 - [[design/Product-Design-Ello-Real-Time-Response|Ello Listens, Adapts & Responds in Real Time]]
-- [[career/founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
+- [[business/founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
 - [[business/iran-war-winner-african-billionaire|Iran War Brings a Surprise Winner: Africa's Richest Man]]
-- [[tech/theres-no-such-thing-as-a-small-software-team|There's no such thing as a small software team anymore]]
+- [[business/western-automakers-losing-grip-on-chinese-market|Western Automakers Are Losing Their Grip on the Chinese Auto Market]]

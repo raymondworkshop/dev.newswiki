@@ -20,12 +20,12 @@ topics:
 - Bernstein 分析师 Jay Huang 指出，[[hubs/humanoid-robot|人形机器人]]已能借助 AI 模型模拟场景并规划，但关键瓶颈在于“记忆力” —— 即使用和留存信息的能力，而非存储芯片。
 - Physical Intelligence 开发的“多尺度具身记忆”让模型能持续跟踪任务 15 分钟并自行纠错，其 0.7 模型甚至能执行训练数据中未见过的任务，被视为重大突破。
 - Bernstein 认为 [[tech/physical-intelligence|Physical Intelligence]]、[[hubs/nvidia|英伟达]]、[[tech/alphabet|Alphabet]] 及 [[business/figure-ai|Figure AI]] 将在机器人大脑模型领域引领前沿；Figure 计划获取多达 10 万张[[hubs/nvidia|英伟达]] [[hubs/gpu|GPU]] 并大规模采集真实世界数据。
-- 摩根大通将人形机器人大脑称为阻碍行业规模化的“最大瓶颈”；摩根士丹利预测 2050 年市场规模达 5 万亿美元、部署超 10 亿台机器人。
+- 摩根大通将[[hubs/humanoid-robot|人形机器人]]大脑称为阻碍行业规模化的“最大瓶颈”；摩根士丹利预测 2050 年市场规模达 5 万亿美元、部署超 10 亿台机器人。
 - 投资端可通过 [[finance/robo-strategy-etf|RoboStrategy (BOT)]] 获得 Figure 等未上市公司敞口；瑞银建议关注“物理 AI”赋能公司（齿轮、传感器、芯片），摩根大通看好 [[business/timken|Timken]]、[[business/regal-rexnord|雷科达]]、[[business/allient|Allient]] 等“卖铲人”零部件供应商。
 
 ## 相关文章
 
-- [[tech/humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]]
 - [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
 - [[tech/nvidia-targets-global-robotics-china-demand-strong|英伟达瞄准全球机器人赛道，中国市场需求强劲]]
+- [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]

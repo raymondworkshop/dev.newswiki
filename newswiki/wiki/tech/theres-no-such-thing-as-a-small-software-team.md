@@ -8,23 +8,21 @@ author:
   - "[[Jake Gold]]"
 topics:
   - tech
-  - career
 ---
 
 # [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
 
-AI agents turn modularity from a cost into a [[hubs/leverage|leverage]] point: more/smaller modules = more parallel agents = higher throughput.
+Software architecture must now be designed for agent-parallelism, not just human-parallelism.
 
 ## Key Points
-- Small software teams running 20–100 AI coding agents in parallel can generate 10× the commit/PR volume of traditional teams (500 commits, 200 pushes, 100 PRs per busy day vs. 50/20/10).
-- Uber's thousands-of-microservices model — once seen as extreme — becomes the new normal because high modularity enables "embarrassingly parallel" agent work across services.
-- Modularity used to be expensive (boilerplate, plumbing, CI config); AI agents now write that overhead, making fine-grained splitting cheap.
-- Coding agents are context-limited: modules small enough to fit in a context window dramatically improve agent performance.
-- The modularity of your codebase now directly determines how many agents you can run effectively — design for it from the start.
+- AI coding agents have fundamentally changed the scale of software production; a small team utilizing 20-100 agents can generate commit and PR volumes previously seen only in massive organizations like [[hubs/Uber|Uber]].
+- High modularity (e.g., microservices) is now a necessity for small teams to enable 'embarrassingly parallel' workflows and prevent agents from creating net-negative productivity through merge conflicts and broken builds.
+- The traditional overhead of modularity—such as boilerplate and CI configuration—has been neutralized because [[hubs/ai-agents|AI Agents]] can now automate these tasks.
+- Modular design is critical for agent performance because smaller modules fit more effectively within the limited context windows of current LLMs.
 
 ## Related Articles
 
-- [[tech/my-agent-md-improve-llm-code-quality|My agent.md to improve LLM-assisted code quality]]
-- [[tech/science-of-reading-and-evidence-based-math|Science of Reading & Evidence-Based Math]]
-- [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]]
-- [[lifestyle/china-releases-pastor-ezra-jin|China Releases Imprisoned Pastor Ezra Jin After U.S. Pressure]]
+- [[tech/ai-ml-engineering/langgraph-stateful-ai-agents|LangGraph: Build Stateful AI Agents in Python]]
+- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
+- [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
+- [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]

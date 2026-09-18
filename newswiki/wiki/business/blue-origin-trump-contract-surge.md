@@ -20,7 +20,7 @@ Blue Origin's contract growth under Trump was driven by strategic positioning ag
 - Bezos shifted from being a political rival of Donald Trump to a key strategic ally, leveraging personal and political relationships to secure major government contracts for Blue Origin.
 - Blue Origin's federal contract value surged 177% annually under Trump compared to the Biden administration, despite having significantly less total contract volume than [[hubs/spacex|SpaceX]].
 - The company secured $11 billion in government obligations during Trump's term, with key contracts from NASA and the Department of Defense focused on lunar and space defense missions.
-- A key driver of this growth was the strategic realignment after SpaceX's dominance under Elon Musk, with Trump explicitly favoring Blue Origin as a counterbalance to SpaceX's market control.
+- A key driver of this growth was the strategic realignment after [[hubs/spacex|SpaceX]]'s dominance under Elon Musk, with Trump explicitly favoring Blue Origin as a counterbalance to [[hubs/spacex|SpaceX]]'s market control.
 - Bezos personally engaged with Trump and key government officials, including the Pentagon and NASA, to build trust and ensure access to high-value defense and space projects.
 
 ## Key Government Contracts and Milestones
@@ -31,7 +31,7 @@ Blue Origin's contract growth under Trump was driven by strategic positioning ag
 - The company also received a $34 billion NASA contract for the development of a lunar lander during the Biden era, which continued into the Trump administration.
 
 ## Strategic Rationale and Competitive Dynamics
-- [AI Synthesis] Bezos recognized that SpaceX's dominance under Elon Musk, especially during the 2024 election cycle, created a significant competitive threat. To prevent being excluded from key government contracts, Bezos personally engaged with the Trump administration to secure a foothold in the federal space market.
+- [AI Synthesis] Bezos recognized that [[hubs/spacex|SpaceX]]'s dominance under Elon Musk, especially during the 2024 election cycle, created a significant competitive threat. To prevent being excluded from key government contracts, Bezos personally engaged with the Trump administration to secure a foothold in the federal space market.
 - Trump reportedly expressed a desire to see more space contracts go to companies other than SpaceX, citing concerns about monopolistic practices and the need for a competitive ecosystem.
 - Bezos' personal relationship with Trump evolved from hostility to trust, with Trump reportedly calling Bezos 'a good guy' and expressing admiration for his leadership in space.
 - The company's new 'New Glenn' rocket faced a launch failure in May 2025, but the incident led to a significant government commitment to support recovery and future launches, reinforcing the partnership.

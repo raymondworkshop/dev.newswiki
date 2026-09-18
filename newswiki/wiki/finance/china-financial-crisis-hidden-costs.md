@@ -28,4 +28,4 @@ topics:
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
 - [[finance/tiktok-financial-advice-analysis|盘点TikTok上满天飞的理财“秘籍”]]
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
-- [[finance/us-japan-yen-intervention-2026|图解美日联手提振日圆的五大原因]]
+- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]

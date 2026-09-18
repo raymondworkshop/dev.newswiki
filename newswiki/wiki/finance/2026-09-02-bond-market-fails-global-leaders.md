@@ -19,11 +19,11 @@ topics:
 - 全球债券收益率飙升，美国10年期国债收益率触及4.8%，创特朗普任内新高，日本、法国、英国等国收益率亦显著上升，反映市场对赤字失控、通胀及[[hubs/geopolitics|地缘政治]]风险的担忧。
 - [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]]
 - G20峰会未能解决根本问题：经济增长乏力（美国GDP增速仅2.1%）、AI带来的生产率提升不足以抵消债务扩张，且更强劲的经济增长反而推高[[hubs/interest-rates|利率]]，增加利息负担。
-- 市场担忧未来[[hubs/interest-rates|利率]]将维持高位，认为当前3.6%的利率可能成为新常态，政府债务规模（美国已超40万亿美元）持续攀升加剧了收益率压力。
+- 市场担忧未来[[hubs/interest-rates|利率]]将维持高位，认为当前3.6%的[[hubs/interest-rates|利率]]可能成为新常态，政府债务规模（美国已超40万亿美元）持续攀升加剧了收益率压力。
 
 ## 相关文章
 
 - [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]]
-- [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
-- [[finance/berkshire-and-japanese-builders-see-opportunity-in-us-housing|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]
+- [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]
+- [[finance/central-bank-crisis-cycle|央行陷入周而复始的危机循环]]

@@ -1,6 +1,6 @@
 # Archive Status
 
-**Last Updated:** 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
+**Last Updated:** 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
 
 ## Compilation Batch: 2026-05-27 (5 articles)
 
@@ -103,6 +103,25 @@ All files compiled from raw/ to wiki/ and then archived here.
 
 | File | Topic | Wiki Location | Status |
 |------|-------|---------------|--------|
+| 2026-09-18-How To Write With An LLM.md | 科技 | `newswiki/wiki/tech/how-to-write-with-an-llm.md` | Archived |
+| 2026-09-18-黑客利用Anthropic的Claude入侵了OpenAI.md | 科技 | `newswiki/wiki/tech/hackers-use-claude-to-breach-openai.md` | Archived |
+| 2026-09-18-除了减重，GLP-1类药物还有哪些疗效.md | 生活 | `newswiki/wiki/lifestyle/glp1-drugs-beyond-weight-loss.md` | Archived |
+| 2026-09-18-美国家庭最头痛的五个字：今晚吃什么？.md | 生活 | `newswiki/wiki/lifestyle/american-families-dinner-struggle.md` | Archived |
+| 2026-09-18-砸酒桶、办屋顶酒会：能源交易商举杯庆祝“战争红利”.md | 商业 | `newswiki/wiki/business/energy-traders-war-boom.md` | Archived |
+| 2026-09-18-币安入欧计划泡汤背后：拉加德亲自出面干预.md | 金融 | `newswiki/wiki/finance/binance-eu-entry-blocked-lagarde-intervention.md` | Archived |
+| 2026-09-18-华为计划如何成为“中国的英伟达”.md | 科技 | `newswiki/wiki/tech/huawei-aims-to-become-chinas-nvidia.md` | Archived |
+| 2026-09-18-别管什么AI末日了，真正的威胁就在眼前.md | 科技 | `newswiki/wiki/tech/ignore-ai-doomsday-real-threat.md` | Archived |
+| 2026-09-18-利率上升将使私募股权行业糟糕的一年雪上加霜.md | 金融 | `newswiki/wiki/finance/rising-rates-worsen-private-equity-crisis.md` | Archived |
+| 2026-09-18-他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”.md | 科技 | `newswiki/wiki/tech/jacob-coxon-anthropic-resignation-ai-safety.md` | Archived |
+| 2026-09-18-一家中国黑客公司如何利用AI大幅提升网络间谍活动.md | 科技 | `newswiki/wiki/tech/chinese-hacking-firm-ai-cyber-espionage.md` | Archived |
+| 2026-09-18-What we’ve learned from Microsoft's own AI transformation.md | 商业 | `newswiki/wiki/business/microsoft-ai-transformation-lessons.md` | Archived |
+| 2026-09-18-Kimi K3, and what we can still learn from the pelican benchmark.md | 科技 | `newswiki/wiki/tech/kimi-k3-pelican-benchmark.md` | Archived |
+| 2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447.md | 商业 | `newswiki/wiki/business/gpt-5-6-sol-ran-a-real-business-lost-447.md` | Archived |
+| 2026-09-18-CEO们对AI末日威胁的真实想法是什么？.md | 商业 | `newswiki/wiki/business/ceos-ai-apocalypse-threat.md` | Archived |
+| 2026-09-18-Kalshi寻求扩张高风险交易版图，永续合约热度飙升.md | 投资 | `newswiki/wiki/finance/kalshi-seeks-expansion-single-stock-perpetual-futures.md` | Archived |
+| 2026-09-18-How I use LLMs to learn complex topics.md | 科技 | `newswiki/wiki/tech/how-i-use-llms-to-learn-complex-topics.md` | Archived |
+| 2026-09-18-AI图片无处不在：它们如何影响大脑，我们又该如何应对？.md | 科技 | `newswiki/wiki/tech/ai-images-blurring-reality-guide.md` | Archived |
+| 2026-09-18-AI is removing the middle class of software engineering.md | 职场 | `newswiki/wiki/career/ai-removing-middle-class-software-engineering.md` | Archived |
 | 2026-09-18-人民币升至逾四年高点.md | 投资 | `newswiki/wiki/finance/yuan-four-year-high-pboc-fixing.md` | Archived |
 | 2026-09-18-继Visa之后，万事达卡也将允许AI机器人代客购物.md | 商业 | `newswiki/wiki/business/mastercard-alchemy-ai-agent-payments.md` | Archived |
 | 2026-09-18-微软力推AI转型，从重构自身开始.md | 商业 | `newswiki/wiki/business/microsoft-ai-transformation-frontier-playbook.md` | Archived |

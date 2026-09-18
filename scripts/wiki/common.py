@@ -15,11 +15,13 @@ from urllib.parse import urlparse
 
 AI_SYNTHESIS_PREFIX = "[AI Synthesis]"
 # Leading label variants LLMs often emit instead of the exact prefix.
-_SYNTHESIS_LEAD_RE = re.compile(
-    r"^(?:[*_`]+)?(?:【\s*AI\s*Synthesis\s*】|\[\s*AI\s*Synthesis\s*\]|AI\s*Synthesis)"
-    r"(?:[*_`]+)?\s*[:：\-]?\s*",
+_SYNTHESIS_MARKER_RE = re.compile(
+    r"(?:[*_`]+)?(?:【\s*AI\s*Synthesis\s*】|［\s*AI\s*Synthesis\s*］|"
+    r"\[\s*AI\s*Synthesis\s*\]|（\s*AI\s*Synthesis\s*）|\(\s*AI\s*Synthesis\s*\)|"
+    r"AI\s*Synthesis)(?:[*_`]+)?\s*[:：\-]?\s*",
     re.IGNORECASE,
 )
+_SYNTHESIS_LEAD_RE = re.compile(rf"^{_SYNTHESIS_MARKER_RE.pattern}", re.IGNORECASE)
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 WIKI_LINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]")
 WIKI_LINK_LABEL_RE = re.compile(r"\[\[([^\]|]+)\|([^\]]+)\]\]")
@@ -73,16 +75,36 @@ def validate_slug(slug: str, label: str) -> None:
 
 
 def normalize_synthesis_text(text: str) -> str:
-    """Repair common leading `[AI Synthesis]` variants; leave other text unchanged."""
+    """Repair common `[AI Synthesis]` label placement before strict validation.
+
+    Handles leading variants and mid-bullet markers (``fact. [AI Synthesis] inference``).
+    """
 
     stripped = text.strip()
     if not stripped or stripped.startswith(AI_SYNTHESIS_PREFIX):
         return stripped
-    match = _SYNTHESIS_LEAD_RE.match(stripped)
-    if not match:
-        return stripped
-    rest = stripped[match.end() :].lstrip()
-    return f"{AI_SYNTHESIS_PREFIX} {rest}" if rest else AI_SYNTHESIS_PREFIX
+
+    lead = _SYNTHESIS_LEAD_RE.match(stripped)
+    if lead:
+        rest = stripped[lead.end() :].lstrip()
+        return f"{AI_SYNTHESIS_PREFIX} {rest}" if rest else AI_SYNTHESIS_PREFIX
+
+    mid = _SYNTHESIS_MARKER_RE.search(stripped)
+    if mid:
+        before = stripped[: mid.start()].rstrip(" \t.;；。，,")
+        after = stripped[mid.end() :].lstrip(" \t:：-—–")
+        parts = [p for p in (before, after) if p]
+        if not parts:
+            return AI_SYNTHESIS_PREFIX
+        return f"{AI_SYNTHESIS_PREFIX} " + " ".join(parts)
+
+    # Bare leftover "AI Synthesis" mention that failed the marker regex — keep content, drop phrase.
+    if re.search(r"AI\s*Synthesis", stripped, re.IGNORECASE):
+        cleaned = re.sub(r"AI\s*Synthesis", "", stripped, flags=re.IGNORECASE)
+        cleaned = re.sub(r"\s{2,}", " ", cleaned).strip(" \t:：-—–[]【】（）()")
+        return f"{AI_SYNTHESIS_PREFIX} {cleaned}" if cleaned else AI_SYNTHESIS_PREFIX
+
+    return stripped
 
 
 def validate_synthesis_labels(items: list[str], label: str) -> None:
@@ -91,7 +113,9 @@ def validate_synthesis_labels(items: list[str], label: str) -> None:
         if not text:
             raise ValueError(f"{label} contains an empty bullet.")
         if "AI Synthesis" in text and not text.startswith(AI_SYNTHESIS_PREFIX):
-            raise ValueError(f"{label} inference must start with '{AI_SYNTHESIS_PREFIX}'.")
+            raise ValueError(
+                f"{label} inference must start with '{AI_SYNTHESIS_PREFIX}'; got {text!r}."
+            )
 
 
 def source_language_from_text(text: str) -> str:

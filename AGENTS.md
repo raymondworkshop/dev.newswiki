@@ -44,7 +44,7 @@ Densify hubs/links, then fill empty topic `关键公司` (`DENSIFY=0` / `BACKFIL
 - Primary topic ∈ `business|tech|design|finance|career|lifestyle` only; else `needs_review`
 - Optional secondaries in `article.topics` (primary first); one file under primary
 - Respect raw `topics` hint; harness review labels in `newswiki/raw/REVIEW.md`
-- Distill grounded sections + `key_takeaways` (exactly 1 opening sentence that summarizes the whole article’s conclusion, before 要点; not a separate 核心要点 section); keep source front matter
+- Distill grounded sections + `key_takeaways`: exactly **one** sentence that concludes the **whole** article (opening lead before 要点 — not a section bullet, not multi-item, not a separate 核心要点 heading); keep source front matter
 - Prefer resolvable links; aim for 2–4 wiki links in bullets/takeaways when supported
 - `article.slug`: lowercase ASCII `a-z0-9-` (no CJK; English slug from URL/topic)
 - `article.path`: `<wiki-prefix>/<primary>/<slug>.md` (no nested subfolders)

@@ -32,4 +32,4 @@ topics:
 - [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]]
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
 - [[finance/central-bank-crisis-cycle|央行陷入周而复始的危机循环]]
-- [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
+- [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]]

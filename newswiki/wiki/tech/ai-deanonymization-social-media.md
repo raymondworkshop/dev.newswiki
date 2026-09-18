@@ -26,6 +26,6 @@ topics:
 ## 相关文章
 
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
-- [[tech/ai-world-models-robotics|AI的下一次重大飞跃：走进现实]]
 - [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]]
 - [[tech/2026-05-28-cheap-humanoid-robots|下一波中国冲击：比二手车还便宜的人形机器人]]
+- [[tech/warehouse-robotics-adoption|仓库正越来越多地使用机器人]]

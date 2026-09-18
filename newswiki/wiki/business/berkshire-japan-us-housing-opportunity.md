@@ -2,39 +2,35 @@
 title: "伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇"
 source: "https://cn.wsj.com/articles/%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E5%92%8C%E6%97%A5%E6%9C%AC%E5%BB%BA%E7%AD%91%E5%95%86%E9%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%BD%8F%E5%AE%85%E5%B8%82%E5%9C%BA%E7%9C%8B%E5%88%B0%E6%9C%BA%E9%81%87-80f7bd5f?mod=cn_hp_featst_pos1"
 published: "2026-06-04"
-created: "2026-06-09"
+created: "2026-06-18"
 description: "伯克希尔哈撒韦公司在美国住宅建筑商身上看到了什么公开市场投资者没有注意到的东西？或许与关注该行业的日本企业所见略同。"
 author:
   - "[[Carol Ryan]]"
 topics:
-  - business
   - finance
+  - business
 ---
 
 # [伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇](https://cn.wsj.com/articles/%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E5%92%8C%E6%97%A5%E6%9C%AC%E5%BB%BA%E7%AD%91%E5%95%86%E9%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%BD%8F%E5%AE%85%E5%B8%82%E5%9C%BA%E7%9C%8B%E5%88%B0%E6%9C%BA%E9%81%87-80f7bd5f?mod=cn_hp_featst_pos1)
 
-耐心资本（如伯克希尔哈撒韦）正在通过收购进入美国住宅市场，瞄准结构性低迷期的机会。
+伯克希尔哈撒韦和多家日本建筑商正在美国住宅市场进行大规模投资，看好其长期潜力。
 
-## 市场收购与结构观察
-- 伯克希尔哈撒韦斥资68亿美元收购Taylor Morrison，以及日本建筑商（如住友林业、大和房屋）收购美国住宅建造商的系列交易，表明耐心资本正在进入美国住宅市场。
-- 美国住宅建筑行业高度分散，头部企业（D.R. Horton, Lennar）的市场份额约为14%，但许多小型企业缺乏研发投入，行业平均每年新屋开工数仅为六套。
-
-## 行业挑战与利润挤压
-- 当前住房市场艰难，建筑商为促成销售不得不提供房贷[[hubs/interest-rates|利率]]贴息等优惠，导致整个行业的利润率受到挤压。
-- 能否通过降低原材料或土地购买成本来抵消这一压力，是行业生存的关键。
-
-## 技术创新与生产率瓶颈
-- 瑞银分析指出，日本有15%的房屋采用模块化建造（工厂制造部件后组装），而美国仅为3%。
-- 从传统木结构转向模块化开放式墙板可减少20%的浪费，并可能使每栋房屋的营业利润增加$6,175。
-- 高盛估计，1970年至2024年间，建筑业劳动生产率下降了30%，而更广泛经济领域增长逾一倍，缺乏创新是造成部分生产率差距的原因之一。
-
-## 投资视角与未来展望
-- Taylor Morrison的收购公告前，其股价市盈率约为预期收益的10倍，相较标普500的21倍，[[hubs/valuation|估值]]相对较低。
-- 伯克希尔哈撒韦的投资可能表明，他们认为美国住宅建筑商的低迷时期即将过去，而效率更高的企业将在需求回归时占据优势。
+## 要点
+- 伯克希尔哈撒韦以68亿美元收购Taylor Morrison，这是今年一系列日本企业在美国住宅建筑商的投资中的最新一笔。
+- 住友林业(Sumitomo Forestry)将以45亿美元收购Tri Pointe Homes，大和房屋(Daiwa House)的美国子公司也进行了多项收购，日本饭田集团控股(Iida Group Holdings)关联公司收购了Wright Homes的多数股权。
+- 日本住宅建造商预计将控制美国单户住宅建筑市场6%的份额。
+- 美国的住宅建筑行业高度分散，许多小型企业缺乏研发财力。
+- 在艰难的住房市场中，建筑商面临利润率压力，扩大规模是降低成本的一种方式。
+- 日本在模块化建筑方面处于领先地位（15%的房屋采用），而美国仅为3%。模块化建筑可减少浪费并增加营业利润。
+- 美国房屋建造方式创新缓慢，建筑业劳动生产率自1970年以来下降了30%，其中20%的差距归因于缺乏创新。
+- Taylor Morrison的市盈率约为10倍，相对于标普500指数的21倍，[[hubs/valuation|估值]]偏低，这可能是吸引伯克希尔哈撒韦的原因之一。
+- 此次收购表明伯克希尔哈撒韦可能认为美国住宅建筑商的低迷期即将过去，尽管[[hubs/geopolitics|地缘政治]]和[[hubs/interest-rates|利率]]上升可能减缓复苏。
+- 美国住房市场供应短缺，需求最终将回归，届时效率更高的企业将占据优势。
+- 财力雄厚的投资者如伯克希尔哈撒韦能够安然度过低迷期，并通过提高利润来抓住机遇。
 
 ## 相关文章
 
-- [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
-- [[finance/berkshire-and-japanese-builders-see-opportunity-in-us-housing|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]
-- [[finance/2026-05-26-office-residential-conversion-denver|抄底全美最空荡市中心：他能说服人们住进写字楼吗？]]
-- [[business/whirlpool-north-america-struggle|退守本土后，惠而浦为何仍难逃“寒冬”？]]
+- [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]]
+- [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
+- [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]]
+- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]

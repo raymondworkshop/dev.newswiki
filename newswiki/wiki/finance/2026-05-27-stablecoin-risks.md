@@ -35,7 +35,7 @@ topics:
 
 ### 1. 私人货币的系统性风险
 - 稳定币本质是 **私人发行的类货币资产**
-- 未受传统央行监管框架约束
+- 未受传统央行[[hubs/regulation|监管]]框架约束
 - 潜在的"银行挤兑"风险（无法按需兑换美元）
 
 ### 2. 储备金不透明
@@ -48,8 +48,8 @@ topics:
 - 缺乏央行职能的供给管制
 - 可能导致类似通胀的风险
 
-### 4. 监管空白
-- 各国对稳定币的监管框架差异大
+### 4. [[hubs/regulation|监管]]空白
+- 各国对稳定币的[[hubs/regulation|监管]]框架差异大
 - 缺乏统一的国际协调
 - 跨境使用中的法律地位不明确
 
@@ -79,6 +79,6 @@ topics:
 ## 相关文章
 
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
+- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]]
-- [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]

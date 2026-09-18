@@ -18,7 +18,6 @@ Curated hub for the concept 「GPU」.
 - [[tech/ai-cost-control|Token使用量激增，企业如何控制AI成本？]] · #tech
 - [[finance/2026-05-21-nvda-undervalued|即使市值高达5万亿美元，英伟达依然被低估]] · #finance
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]] · #design
-- [[tech/humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] · #tech
 - [[tech/humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] · #tech
 
 ---

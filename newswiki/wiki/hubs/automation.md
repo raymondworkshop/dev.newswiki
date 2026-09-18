@@ -26,6 +26,7 @@ Curated hub for the concept 「automation」.
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] · #finance
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] · #career
 - [[business/novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] · #business
+- [[tech/hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] · #tech
 
 ---
 **Topics**: [[business/_index|Business]]  

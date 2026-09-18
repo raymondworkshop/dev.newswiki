@@ -5,11 +5,11 @@ created: "2026-05-30"
 
 ## 近期文章
 
-- <span class="recent-date">2026-09-18</span> [[finance/yuan-four-year-high-pboc-fixing|人民幣升至逾四年高點]]<span class="topic-blurb"> — 週五，人民幣兌美元匯率創下四年多來新高，中國強勁的出口表現以及央行的支持爲人民幣走強提供了支撐。</span>
-- <span class="recent-date">2026-09-18</span> [[business/mastercard-alchemy-ai-agent-payments|繼Visa之後，萬事達卡也將允許AI機器人代客購物]]<span class="topic-blurb"> — 支付行業高管正準備應對AI驅動的購物浪潮，這迫使他們重新審視交易風險、欺詐防範，以及如何處理可能“失控”的AI智能體。</span>
-- <span class="recent-date">2026-09-18</span> [[business/microsoft-ai-transformation-frontier-playbook|微軟力推AI轉型，從重構自身開始]]<span class="topic-blurb"> — 這家科技巨頭將發佈指南，分享其在內部AI轉型與組織重構歷程中汲取的一線經驗。</span>
-- <span class="recent-date">2026-09-17</span> [[business/ed-sheeran-tour-nfl-stadium-owners-macklemore-controversy|一通40分鐘的電話，如何讓埃德·希蘭的巡演懸於一線？]]<span class="topic-blurb"> — NFL新英格蘭愛國者隊老闆克拉夫特向歌手埃德·希蘭發出明確警告：除非撤換公開指控以色列的開場嘉賓麥克勒莫，否則他將取消在吉列體育場的巡演場次。…</span>
-- <span class="recent-date">2026-09-17</span> [[business/novo-nordisk-anthropic-claude-drug-discovery|諾和諾德將用Anthropic的Claude助力藥物研發]]<span class="topic-blurb"> — 生產減肥藥物諾和泰及諾和盈的丹麥製藥商諾和諾德將攜手Anthropic，把AI引入藥物研發。</span>
+- <span class="recent-date">2026-09-18</span> [[tech/hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]]<span class="topic-blurb"> — 一個參加漏洞搜尋計劃的獨立安全研究團隊訪問了OpenAI的內部代碼系統。該事件暴露了自動化網絡威脅日益增長的風險。</span>
+- <span class="recent-date">2026-09-18</span> [[lifestyle/glp1-drugs-beyond-weight-loss|除了減重，GLP-1類藥物還有哪些療效?]]<span class="topic-blurb"> — 醫學界正在探索減肥藥是否也能用於治療子宮內膜異位症和克羅恩病等疾病。</span>
+- <span class="recent-date">2026-09-18</span> [[lifestyle/american-families-dinner-struggle|美國家庭最頭痛的五個字：今晚喫什麼？]]<span class="topic-blurb"> — 美國人花在做飯上的時間比過去20年都要多，但繁忙的日程和不斷上漲的成本卻讓做飯成了生活中的頭號痛點。</span>
+- <span class="recent-date">2026-09-18</span> [[business/energy-traders-war-boom|砸酒桶、辦屋頂酒會：能源交易商舉杯慶祝“戰爭紅利”]]<span class="topic-blurb"> — 地緣政治衝突擾亂全球能源供應，大宗商品經紀商和交易商從中獲利頗豐。</span>
+- <span class="recent-date">2026-09-18</span> [[finance/binance-eu-entry-blocked-lagarde-intervention|幣安入歐計劃泡湯背後：拉加德親自出面干預]]<span class="topic-blurb"> — 歐洲央行掌門人親自幹預，將這家曾在美國承認犯有金融罪的全球最大加密貨幣交易所擋在了歐盟大門之外。</span>
 - [[articles|查看更多]]
 
 ## 編輯原則

@@ -4,34 +4,35 @@
 
 ## 文章
 - [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
+- [[ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] (2026-09-17) - 特朗普称AI对人类的威胁是一场骗局，可企业CEO们并不买账。
+- [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...
+- [[jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]] (2026-09-17) - 自雅各布·考克森发出危险警告以来，长期以来关于AI技术潜在危险的隐忧已爆发为全球性关注。
 - [[why-purge-middle-managers-backfire|中层管理者“大清洗”为何会带来反噬？]] (2026-09-17) - 这些中层管理者让高层领导能够下放权力，并让基层员工发挥出最大效能，而我们正低估了他们这些往往不为人所见的工作。
 - [[spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] (2026-09-17) - 布莱恩·阿格雷是SpaceX十多年的老员工，IPO使其个人财富急剧增长。他和妻子双双辞职，计划以每个月2.5万美元的预算周游世界，度过“疯狂之年”。
 - [[ai-career-skills-anthropology-math-philosophy|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
-- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
 - [[anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] (2026-09-09) - AI实验室内部的担忧正在加剧：竞争压力正促使科技公司加速迈向具备自我改进能力的模型，而这类模型有可能脱离人类控制。
 - [[americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07) - 未上过大学的美国年轻劳动力失业率降至近几十年来的罕见低点，而大学毕业生的处境却截然相反。
-- [[windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
+- [[windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
 - [[bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] (2026-08-26) - 这位亿万富豪兼慈善家呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。
 - [[startup-founders-24-hour-work-ai-agents|初创公司创始人恨不得24小时工作，以跟上自家AI智能体]] (2026-08-24) - AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。
 - [[codex-vs-claude-impressions|Quick impressions: A week of using Codex more than Claude]] (2026-08-21) - Claude goes above and beyond what is asked and guesses what you might want. Codex does what you tell it and stops at the first sign that it might be done. Ten impressions from a week of using Codex more.
-- [[66-year-old-job-search|打破年龄魔咒：66岁老人重返职场之路]] (2026-08-21) - “我会告诉所有比我年轻的人，一定要存钱，以防遇到我这样的事，”将于12月迎来67岁生日的Lee说。“而如果你和我年纪一样大，那就千万别放弃。”
 - [[older-worker-reentry-success|打破年龄魔咒：66岁老人重返职场之路]] (2026-08-21) - “我会告诉所有比我年轻的人，一定要存钱，以防遇到我这样的事，”将于12月迎来67岁生日的Lee说。“而如果你和我年纪一样大，那就千万别放弃。”
-- [[theres-no-such-thing-as-a-small-software-team|There's no such thing as a small software team anymore]] (2026-08-20) - Uber infamously runs thousands of microservices. They ended up with so many services because hundreds of engineers wanted to deploy on their own schedule, with clear ownership of their code, instead of waiting in one giant merge queue.For decades a small team with 5 or 10 people writing code at the same time didn’t even need to consider doing this. On a busy day a small team might generate 50 commits/20 pushes/10 PRs. A small team today, running 20-100 agents in parallel, might generate 500 commits/200 pushes/100 PRs.
 - [[outsmart-ai-workday-tracking|当AI监控你的日常工作时，该如何智胜它？]] (2026-08-20) - 眼下有什么比做一名好员工更重要？那就是在越来越多管理者正使用的AI生产力追踪系统眼中，看起来像一名好员工。
 - [[linkedin-dating-trend|不顾“禁爱令”，领英意外成为约会神器]] (2026-08-20) - 凭借清晰的头像和详尽的个人履历，这个职场社交平台正成为单身人士寻觅伴侣的首选工具。
 - [[ai-chaos-book-publishing|AI让图书出版业陷入一片混乱]] (2026-08-18) - 几笔重磅图书合约因疑似使用AI而告吹，这迫使整个行业重新审视创造力、信任的基石，以及出版业的未来。
 - [[warehouse-robotics-adoption|仓库正越来越多地使用机器人]] (2026-08-18) - 劳动力成本上升和快速送货需求正促使企业推进订单履行自动化。
-- [[e6-88-91-e4-b8-ba-e4-bd-95-e8-a6-81-e6-b1-82-e8-81-8a-e5-a4-|我为何要求聊天机器人别再对我过度谄媚]] (2026-08-18) - AI回答问题总是过于迎合、过于热情，而这在一定程度上是我们自己造成的。
 - [[ukraine-fire-point-ceo-iryna-terekh|重创俄军的乌克兰无人机出自一位90后家具设计师之手]] (2026-08-17) - 34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。
 - [[interns-running-the-show|告别端茶倒水，实习生今夏开始挑大梁]] (2026-08-13) - 随着AI接管琐碎任务，实习生们正肩负起牵头项目等更大责任。
 - [[jobless-boom-era|“无就业”繁荣时代已经到来]] (2026-08-13) - 股市认为美国经济正在加速，但招聘活动并未跟上。
 - [[2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]] (2026-08-11) - Calibrate your enthusiasm
 - [[ai-removing-middle-class-software-engineering|AI is removing the middle class of software engineering]] (2026-08-11) - AI makes projects with weak engineering culture fail much faster.
+- [[how-i-use-llms-to-learn-complex-topics|How I use LLMs to learn complex topics]] (2026-08-09) - LLMs are used for any things. Learning new things is one of the top use cases.
 - [[hidden-skills-of-top-talent|顶尖人才的隐藏技能：把玩耍和“不作为”当作必修课-返朴的财新博客-财新网]] (2026-08-09) - 探讨“无所事事”与玩耍对大脑默认网络（DMN）的激活作用，以及过度工作对前额叶皮质和心理健康的损害。
 - [[llms-reward-expertise|LLMs reward expertise]] (2026-08-06) - An analysis of why domain expertise remains the most critical skill for effective LLM prompting and high-value output.
 - [[ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]] (2026-07-30) - AI工具让创始人更容易单枪匹马地创业，而且许多人在公司发展壮大后依然保持这种单干状态。
 - [[dont-start-startup-to-get-acquired|Don't start a startup with the goal of getting acquired.]] (2026-07-27) - If your goal is to cash out at $5 million as quickly and reliably as possible, becoming a founder is a very strange way to do it.
 - [[big-companies-resume-hiring-ai-employment|大企业重新开始招聘，打破“AI将消灭就业”的预测]] (2026-07-27) - 在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。
+- [[fake-job-interview-git-hook-malware|I Inspected My Take-Home Interview Project. It Was a Whole Operation.]] (2026-07-23) - A LinkedIn recruitment scam delivered malware via a take-home FastAPI project’s git pre-commit hook.
 - [[how-to-choose-a-subproblem|How To Choose A Subproblem]] (2026-07-20) - And why the best subproblem is always 'make a picture'
 - [[ai-knows-your-online-activity|AI知道你在网上做过什么，现在你的雇主也知道了]] (2026-07-16) - 企业正利用AI工具越来越深入地调查员工的网络历史和足迹，无论是聘用前还是聘用后。
 - [[how-i-use-llms-as-a-staff-engineer-in-2026|How I use LLMs as a staff engineer in 2026]] (2026-07-16)
@@ -39,7 +40,6 @@
 - [[amazon-off-campus-romance-series|亚马逊如何打造《校园之外》等爆款青春剧集]] (2026-07-16) - Prime Video掘金青春浪漫小说领域，专门迎合庞大的女性和女孩群体，满足她们想要沉浸到爱情故事里避世放松的需求。
 - [[llm-critics-right-use-anyway|The LLM Critics Are Right. I Use LLMs Anyway.]] (2026-07-15) - I almost agree with all of the LLM critics, yet I still use LLMs a lot. I know this sounds like I am delusional, but I don't think I am alone with it.
 - [[founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]] (2026-07-14) - Founder market fit is a necessary but insufficient condition for finding success in the startup world
-- [[founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]] (2026-07-14) - Founder market fit is a necessary but insufficient condition for finding success in the startup world
 - [[employee-retention-case-study|How a $33/Hour Costco Cashier Built a Million-Dollar Retirement: A Case Study in Employee Retention and Well-being]] (2026-07-09) - A detailed look at Tony Barzar, a 40-year veteran Costco cashier, who earned over $100,000 in retirement savings through the company's generous 401(k) plan, comprehensive healthcare, and retention strategy that values experienced employees as cultural assets.
 - [[llm-burnout-impact|I Think I Have LLM Burnout]] (2026-07-09) - The author describes growing fatigue from daily exposure to LLM-generated content, particularly due to repetitive patterns like hallucinations, excessive emojis, and staccato fragments.
 - [[retirement-reentry-experiences|In America, What Is the Experience of Retiring and Starting a Business Later in Life?]] (2026-07-06) - A look at how individuals in their 50s and 60s are redefining retirement by launching new ventures, discussing financial implications, work-life balance, and personal motivations.
@@ -49,9 +49,6 @@
 - [[ai-career-preparedness|Facing AI-Driven Job Disruption: A New Initiative Aims to Prepare Millions of Americans]] (2026-06-25) - A coalition of employers and state governments is developing a strategy to help workers adapt to AI-driven labor changes.
 - [[passive-income-new-american-dream|Forget Working: Passive Income Is the New American Dream]] (2026-06-25) - As confidence in traditional 9-to-5 jobs wanes, more people are turning to social media for alternative income streams, though many of these ideas are scams or unviable.
 - [[AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]] (2026-06-22) - 随着企业加速拥抱AI，一些领域的过度应用可能弊大于利。
-- [[how-to-improve-job-search-success-by-optimizing-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]] (2026-06-18) - 无论你眼下是否在找工作，及时更新领英运营策略都至关重要。
-- [[how-to-improve-job-search-success-by-optimizing-your-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]] (2026-06-18) - 无论你眼下是否在找工作，及时更新领英运营策略都至关重要。
-- [[how-to-improve-job-search-success-by-refining-your-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]] (2026-06-18) - 无论你眼下是否在找工作，及时更新领英运营策略都至关重要。
 - [[how-to-improve-job-success-rate-with-linkedin-profile|如何提升求职成功率？或许你需要精修领英档案]] (2026-06-18) - 无论你眼下是否在找工作，及时更新领英运营策略都至关重要。
 - [[us-late-parenthood-financial-reality|In the US, what are the financial realities of having children after age 40?]] (2026-06-16) - Four families shared their experiences with later parenthood and the resulting financial impacts.
 - [[new-grad-career-advice-2026|给应届毕业生的五点具体职场建议]] (2026-06-09) - 大学里的“娇生惯养”不会延续到现实社会中。
@@ -70,7 +67,6 @@
 - [[2026-03-25-how-top-companies-develop-talent|这些公司更能成就人才，它们是这样做的]] (2026-03-25) - 在排行榜上排名靠前的公司往往大量招聘大学应届毕业生，让他们在不同岗位上历练，同时注重软技能的传授。
 - [[dont-become-an-engineering-manager|Don't become an Engineering Manager]] (2026-03-03) - Over drinks a few weeks ago, a friend told me he'd been offered a promotion, to an Engineering Manager role.
 - [[principles-for-living-operating-system-for-life|Principles For Living: An Operating System for Life]] (2018-06-05) - All that we write about, think about, and strive for at Farnam Street draws inspiration from one of these five principles: Direction Over Speed, Live Deliberately, Thoughtful Opinions Held Loosely, Principles Outlive Tactics, and Own Your Actions.
-- [[fake-job-interview-git-hook-malware|Appaji - Software Engineer]] (2001-07-23) - Appaji, a Computer Science graduate from IIT Patna and former intern at Arista Networks, is a Software Engineer at Infinite Reality. Passionate about building innovative web experiences, with a strong interest in sustainable and customer-focused startups.
 
 ## 看点
 - **关键公司**:[[Anthropic]], [[Ferretly]], [[RefAssured]], [[LinkedIn]], [[Stripe]]

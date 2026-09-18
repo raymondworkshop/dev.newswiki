@@ -39,6 +39,9 @@ from wiki.sync import (
     normalize_proposal_paths,
     normalize_proposal_slugs,
     normalize_proposal_source_file,
+    normalize_proposal_key_takeaways,
+    key_takeaways_needs_summary_repair,
+    repair_key_takeaways_with_llm,
     normalize_proposal_synthesis_labels,
     normalize_wiki_path,
     parse_raw_front_matter,
@@ -396,6 +399,18 @@ class SyncWikiTests(unittest.TestCase):
             ("**AI Synthesis** Team size is a myth.", "[AI Synthesis] Team size is a myth."),
             ("[AI Synthesis] Already good.", "[AI Synthesis] Already good."),
             ("Grounded fact only.", "Grounded fact only."),
+            (
+                "CEOs fret publicly. [AI Synthesis] Privately they race on product risk.",
+                "[AI Synthesis] CEOs fret publicly. Privately they race on product risk.",
+            ),
+            (
+                "Revenue fell. AI Synthesis: margins still expanded.",
+                "[AI Synthesis] Revenue fell. margins still expanded.",
+            ),
+            (
+                "（AI Synthesis）模型会讨好用户。",
+                "[AI Synthesis] 模型会讨好用户。",
+            ),
         ]
         for raw, expected in cases:
             self.assertEqual(normalize_synthesis_text(raw), expected)
@@ -418,6 +433,41 @@ class SyncWikiTests(unittest.TestCase):
         self.assertTrue(
             proposal["article"]["key_takeaways"][0].startswith("[AI Synthesis]")
         )
+
+    def test_normalize_proposal_key_takeaways_wraps_string_only(self) -> None:
+        as_string = copy.deepcopy(self.sample_proposal)
+        as_string["article"]["key_takeaways"] = (
+            "CEOs downplay existential AI risk while racing on nearer-term product bets."
+        )
+        notes = normalize_proposal_key_takeaways(as_string)
+        self.assertFalse(key_takeaways_needs_summary_repair(as_string))
+        validate_proposal(as_string, Path("2026-05-30-sample.md"))
+        self.assertEqual(len(as_string["article"]["key_takeaways"]), 1)
+        self.assertTrue(notes)
+
+        multi = copy.deepcopy(self.sample_proposal)
+        multi["article"]["key_takeaways"] = ["First point.", "Second point."]
+        normalize_proposal_key_takeaways(multi)
+        self.assertTrue(key_takeaways_needs_summary_repair(multi))
+        with self.assertRaisesRegex(ValueError, "exactly 1 sentence"):
+            validate_proposal(multi, Path("2026-05-30-sample.md"))
+
+    def test_repair_key_takeaways_with_llm_writes_whole_article_sentence(self) -> None:
+        proposal = copy.deepcopy(self.sample_proposal)
+        proposal["article"]["key_takeaways"] = ["Partial A.", "Partial B."]
+        provider = FixtureProvider(
+            {
+                "key_takeaways": [
+                    "Across the piece, the lasting takeaway is that AI coding agents change team leverage more than headcount."
+                ]
+            }
+        )
+        notes = repair_key_takeaways_with_llm(provider, proposal)
+        self.assertTrue(notes)
+        self.assertFalse(key_takeaways_needs_summary_repair(proposal))
+        validate_proposal(proposal, Path("2026-05-30-sample.md"))
+        self.assertIn("lasting takeaway", proposal["article"]["key_takeaways"][0])
+        self.assertTrue(any("ENTIRE article" in req.prompt for req in provider.requests))
 
     def test_validate_rejects_nested_article_path(self) -> None:
         proposal = copy.deepcopy(self.sample_proposal)
@@ -1301,25 +1351,68 @@ class PrepareQuartzContentTests(unittest.TestCase):
             wiki_dir = tmp_path / "wiki"
             content_dir = tmp_path / "content"
             wiki_dir.mkdir()
+            (wiki_dir / "finance").mkdir()
+            (wiki_dir / "business").mkdir()
+            (wiki_dir / "finance" / "yuan-high.md").write_text(
+                "---\ntitle: \"人民币升至高点\"\ndescription: \"desc only\"\n---\n\n"
+                "# Title\n\n人民币走强反映出口与央行支撑的合力。\n\n## 要点\n- bullet\n",
+                encoding="utf-8",
+            )
+            (wiki_dir / "business" / "msft-ai.md").write_text(
+                "---\ntitle: \"微软AI\"\n---\n\n# Title\n\n微软从自身重构推动AI转型。\n\n## 要点\n- bullet\n",
+                encoding="utf-8",
+            )
             entries = [
-                f"- [[topic/article-{index}|Article {index}]] (2026-06-{index:02d})"
-                for index in range(1, 8)
+                "- [[finance/yuan-high|人民币升至高点]] (2026-09-18)",
+                "- [[business/msft-ai|微软AI]] (2026-09-18)",
+                "- [[finance/yuan-high|人民币升至高点]] (2026-09-18)",  # dup
+                "- [[business/older|旧文]] (2026-09-17)",
             ]
             (wiki_dir / "INDEX.md").write_text(
                 "# News Wiki\n\n## Recent Articles\n\n" + "\n".join(entries) + "\n",
                 encoding="utf-8",
             )
 
-            prepare_content(wiki_dir, content_dir)
-
-            site_index = (content_dir / "index.md").read_text(encoding="utf-8")
-            visible_entries = prepare_module._collect_recent_article_entries(site_index)
-            self.assertEqual(len(visible_entries), prepare_module.RECENT_ARTICLES_LIMIT)
-            self.assertIn("[[articles|查看更多]]", site_index)
+            prepare_content(wiki_dir, content_dir, traditional_chinese=False)
 
             all_articles = (content_dir / "articles.md").read_text(encoding="utf-8")
-            self.assertEqual(len(prepare_module._collect_article_entries_from_text(all_articles)), 7)
+            self.assertIn("# 所有文章", all_articles)
+            self.assertIn("共 3 篇", all_articles)
+            self.assertIn("## 2026-09", all_articles)
+            self.assertIn("### 2026-09-18", all_articles)
+            self.assertIn("### 2026-09-17", all_articles)
+            self.assertIn('class="articles-month-nav"', all_articles)
+            self.assertIn('href="#2026-09"', all_articles)
+            self.assertIn('class="article-topic"', all_articles)
+            self.assertIn("人民币走强反映出口与央行支撑的合力", all_articles)
+            self.assertNotIn("desc only", all_articles)
+            self.assertEqual(all_articles.count("[[finance/yuan-high|"), 1)
             self.assertFalse((wiki_dir / "articles.md").exists())
+
+    def test_write_all_articles_page_groups_by_date(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            wiki_dir = Path(tmp) / "wiki"
+            content_dir = Path(tmp) / "content"
+            wiki_dir.mkdir()
+            content_dir.mkdir()
+            (wiki_dir / "tech").mkdir()
+            (wiki_dir / "tech" / "ai.md").write_text(
+                "---\ntitle: \"AI\"\n---\n\n全篇结论句在此。\n\n## 要点\n- x\n",
+                encoding="utf-8",
+            )
+            prepare_module.write_all_articles_page(
+                content_dir,
+                [
+                    "- [[tech/ai|AI]] (2026-09-10)",
+                    "- [[tech/ai|AI]] (2026-09-10)",
+                ],
+                wiki_dir=wiki_dir,
+                traditional_chinese=False,
+            )
+            page = (content_dir / "articles.md").read_text(encoding="utf-8")
+            self.assertIn("共 1 篇", page)
+            self.assertIn('<span class="article-topic">科技</span>', page)
+            self.assertIn("全篇结论句在此", page)
 
     def test_trim_topics_groups_for_site_limits_each_group(self) -> None:
         entries = [

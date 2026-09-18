@@ -25,5 +25,5 @@ The current market environment shows a 'dual bubble' — one in profitability an
 
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]
 - [[business/iran-war-winner-african-billionaire|Iran War Brings a Surprise Winner: Africa's Richest Man]]
+- [[tech/kimi-k3-pelican-benchmark|Kimi K3, and what we can still learn from the pelican benchmark]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
-- [[tech/a-road-to-lisp-why-lisp|A road to Lisp: Why Lisp]]

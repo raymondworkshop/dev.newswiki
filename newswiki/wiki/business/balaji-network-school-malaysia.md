@@ -30,6 +30,6 @@ topics:
 ## 相关文章
 
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]
-- [[business/korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]]
 - [[business/pentagon-missile-submarine-contracts|五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
+- [[business/lynas-revival/lynas-revival-lacaze|从濒临崩盘到西方稀土支柱：Lynas掌门人拉卡兹如何撼动中国主导地位]]

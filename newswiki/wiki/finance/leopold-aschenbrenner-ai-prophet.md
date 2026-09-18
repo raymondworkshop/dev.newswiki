@@ -21,8 +21,8 @@ topics:
 ## 要点
 - 利奥波德·阿申布伦纳（Leopold Aschenbrenner）凭借在 [[tech/openai|OpenAI]] 的工作经历和深厚的有效利他主义（EA）人脉网，迅速在硅谷建立声望并创立管理 450 亿美元的对冲基金 Situational Awareness。
 - 该基金采取极高风险的投资策略：高度集中于 AI 供应链（半导体、能源、软件）及 [[tech/anthropic|Anthropic]] 股份，且[[hubs/leverage|杠杆]]率高达 3:1。
-- 由于投资组合过于集中且杠杆过高，当中国廉价 AI 系统引发市场恐慌导致科技股抛售时，基金遭遇爆仓，被迫折价向 Citadel 清仓公开市场投资组合。
-- 此次崩盘导致 [[finance/jane-street|Jane Street]] 等投资者遭受巨额损失（约 150 亿美元），成为关于过度自信与杠杆风险的典型案例。
+- 由于投资组合过于集中且[[hubs/leverage|杠杆]]过高，当中国廉价 AI 系统引发市场恐慌导致科技股抛售时，基金遭遇爆仓，被迫折价向 Citadel 清仓公开市场投资组合。
+- 此次崩盘导致 [[finance/jane-street|Jane Street]] 等投资者遭受巨额损失（约 150 亿美元），成为关于过度自信与[[hubs/leverage|杠杆]]风险的典型案例。
 - [AI Synthesis] 阿申布伦纳的案例揭示了硅谷“认知红利”与金融风险管理之间的脱节：技术上的“态势感知”未能转化为财务上的风险感知。
 
 ## 人脉网络与资源获取
@@ -32,7 +32,7 @@ topics:
 
 ## 相关文章
 
-- [[finance/citadel-buys-situational-awareness-portfolio|前OpenAI员工执掌的对冲基金陷入巨亏，Citadel出手收购其股票投资组合]]
 - [[finance/situational-awareness-citadel-acquisition|前OpenAI员工执掌的对冲基金陷入巨亏，Citadel出手收购其股票投资组合]]
 - [[finance/situational-awareness-crisis|华尔街如何嗅到了Situational Awareness危机爆发的气息]]
 - [[finance/central-bank-crisis-cycle|央行陷入周而复始的危机循环]]
+- [[finance/korean-shipping-magnate-iranian-war-profit|韩国油轮大亨借伊朗战争大赚一笔]]

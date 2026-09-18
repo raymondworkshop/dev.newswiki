@@ -28,5 +28,5 @@ topics:
 
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
 - [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]]
-- [[business/korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]]
-- [[business/windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]]
+- [[business/base-power-energy-storage|戴尔之子进军储能业，欲将电池装进你家后院]]
+- [[business/ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]]

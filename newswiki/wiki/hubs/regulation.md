@@ -13,8 +13,9 @@ Curated hub for the concept 「regulatory」.
 
 - [[career/2026-05-27-ai-employment-phoenix|AI冲击波席卷菲尼克斯：\"格子间\"产业帝国濒临瓦解]] · #career
 - [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] · #tech
+- [[business/ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] · #business
 - [[lifestyle/passive-income-new-american-dream|Forget Working: Passive Income Is the New American Dream]] · #lifestyle
-- [[business/korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]] · #business
+- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]] · #finance
 - [[finance/sea-legal-action-against-insider-traders-china-brokerage-crackdown|Sea Files Lawsuit Against 100 Anonymous Short Sellers Alleging $100M Profits from China Brokerage Crackdown Insiders]] · #finance
 - [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]] · #tech
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]] · #finance
@@ -22,24 +23,23 @@ Curated hub for the concept 「regulatory」.
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]] · #finance
 - [[finance/china-offshore-wealth-crackdown|中国富豪借离岸架构积累财富的时代正在终结]] · #finance
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] · #finance
-- [[business/windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] · #business
-- [[business/china-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]] · #business
+- [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]] · #tech
 - [[business/chinas-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]] · #business
 - [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] · #tech
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance
+- [[tech/ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]] · #tech
 - [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]] · #career
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]] · #business
 - [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]] · #tech
 - [[tech/ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] · #tech
-- [[tech/washington-ai-safety-panic|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] · #tech
 - [[tech/ai-privacy-protection|如何在AI時代保護我們的私隱？]] · #tech
 - [[tech/dna-evidence-security-flaw|安全漏洞致使全美30年来的DNA证据面临黑客攻击风险]] · #tech
 - [[finance/leopold-aschenbrenner-situational-awareness|将Jane Street纳为投资人的24岁AI奇才]] · #finance
 - [[business/publicsquare-collapse|小特朗普曾力挺的MAGA电商平台崩盘内幕]] · #business
+- [[finance/binance-eu-entry-blocked-lagarde-intervention|币安入欧计划泡汤背后：拉加德亲自出面干预]] · #finance
 - [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]] · #business
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] · #business
 - [[tech/openai-ai-hack-hugging-face|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]] · #tech
-- [[tech/openai-rogue-model-hack|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]] · #tech
 - [[career/bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] · #career
 - [[business/theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]] · #business
 - [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]] · #business

@@ -14,7 +14,6 @@
 - [[starter-kit-ai-design-apps|Starter kit for AI design apps]] (2026-07-29) - Toolcraft is an open-source starter kit and UI library for building custom design apps with AI.
 - [[on-making|On Making]] (2026-07-23)
 - [[christopher-nolan-trojan-horse-design|克里斯托弗·诺兰解析《奥德赛》核心史诗级场景]] (2026-07-21) - 诺兰的IMAX版《奥德赛》重塑了文学史上最著名的情节桥段，完全使用IMAX胶片摄影机拍摄并运用老派的好莱坞技法，营造出特洛伊木马强烈的戏剧张力。
-- [[5-days-pronunciation-day-5|5 days to improve your pronunciation / Day 5 - You've earned your certificate]] (2026-07-16) - Day five of Tim's 5-day guide to better pronunciation.
 - [[memex-index|Index]] (2026-07-16)
 - [[llm-critics-right-use-anyway|The LLM Critics Are Right. I Use LLMs Anyway.]] (2026-07-15) - I almost agree with all of the LLM critics, yet I still use LLMs a lot. I know this sounds like I am delusional, but I don't think I am alone with it.
 - [[christopher-nolan-how-became-hollywoods-top-grossing-director|克里斯托弗·诺兰如何成为好莱坞最具票房号召力的导演]] (2026-07-15) - 借《奥德赛》上映之际，回顾这位导演从《记忆碎片》到《奥本海默》的一系列代表性佳作。

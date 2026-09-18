@@ -33,5 +33,5 @@ SLY enables rapid development of language parsers by abstracting complex lexical
 
 - [[tech/a-road-to-lisp-why-lisp|A road to Lisp: Why Lisp]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[tech/kimi-k3-pelican-benchmark|Kimi K3, and what we can still learn from the pelican benchmark]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
-- [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]

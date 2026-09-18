@@ -27,12 +27,12 @@ The case demonstrates the financial and reputational risk of being a counterpart
 ## Investment & Market Implications
 - [AI Synthesis] This case represents one of the largest recorded insider trading incidents in recent history, surpassing the 2011 Raj Rajaratnam case by over 80% in total profits.
 - The incident underscores the risk of [[hubs/regulation|regulatory]] arbitrage and the potential for non-public information to be exploited across borders, especially in cross-market financial services.
-- It highlights the importance of regulatory transparency and the need for stricter enforcement mechanisms to prevent the use of non-public data in trading decisions.
+- It highlights the importance of [[hubs/regulation|regulatory]] transparency and the need for stricter enforcement mechanisms to prevent the use of non-public data in trading decisions.
 - The case may prompt increased scrutiny of cross-border trading platforms and their compliance with data privacy and market integrity laws.
 
 ## Regulatory and Ethical Concerns
 - [AI Synthesis] The case raises concerns about the integrity of financial markets, particularly when non-public information is used to manipulate trading outcomes.
-- It reflects a growing risk in global finance where regulatory actions in one jurisdiction can have cascading effects on international capital flows and market sentiment.
+- It reflects a growing risk in global finance where [[hubs/regulation|regulatory]] actions in one jurisdiction can have cascading effects on international capital flows and market sentiment.
 - The involvement of a major U.S. market maker (Sea) as a plaintiff adds weight to the seriousness of the alleged misconduct and may influence future enforcement actions.
 
 ## Related Articles
@@ -40,4 +40,4 @@ The case demonstrates the financial and reputational risk of being a counterpart
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
 - [[lifestyle/passive-income-new-american-dream|Forget Working: Passive Income Is the New American Dream]]
 - [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]]
-- [[finance/mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]]
+- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]

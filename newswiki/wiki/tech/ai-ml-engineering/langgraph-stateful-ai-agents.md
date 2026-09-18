@@ -17,7 +17,7 @@ LangGraph provides a powerful, visualizable framework (StateGraph) for modeling 
 ## LangGraph Fundamentals
 - LangGraph builds upon LangChain to enable sophisticated [[hubs/llm|LLM]] workflows capable of handling real-world complexities like state, conditional edges, and cycles.
 - Key concepts include defining workflows using state graphs composed of nodes (actions) and edges (transitions).
-- The library allows for the construction of autonomous LLM agents that process tasks using state graphs to interact with external tools or APIs.
+- The library allows for the construction of autonomous [[hubs/llm|LLM]] agents that process tasks using state graphs to interact with external tools or APIs.
 
 ## Core Components & Concepts
 - **Nodes**: Represent discrete actions within the graph (e.g., calling a function, invoking a chain).
@@ -28,11 +28,11 @@ LangGraph provides a powerful, visualizable framework (StateGraph) for modeling 
 ## Advanced Workflow Patterns
 - **Conditional Edges**: Allow the graph to dynamically choose the next path based on the current state (e.g., `route_escalation_status_edge`).
 - **Cycles**: Enable loops between nodes, allowing the graph to iterate on a task until a terminal condition is met (e.g., answering follow-up questions until all are resolved).
-- **Agent Architecture**: LangGraph is well-suited for building agents where an LLM acts as the decision-maker, and external tools are executed based on the agent's instructions.
+- **Agent Architecture**: LangGraph is well-suited for building agents where an [[hubs/llm|LLM]] acts as the decision-maker, and external tools are executed based on the agent's instructions.
 
 ## Related Articles
 
-- [[tech/no-small-software-teams|There's no such thing as a small software team anymore]]
+- [[tech/theres-no-such-thing-as-a-small-software-team|There's no such thing as a small software team anymore]]
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]

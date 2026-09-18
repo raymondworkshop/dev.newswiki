@@ -17,9 +17,9 @@ topics:
 
 ## 要点
 - [[hubs/spacex|SpaceX]]'s [[hubs/ipo|IPO]] was the largest in global history, raising tens of billions of dollars to fund ambitious goals like giant rockets, orbital AI [[hubs/ai-infrastructure|data center]]s, and a future city on Mars.
-- Elon Musk's strategy, characterized by pursuing "the most" (biggest, fastest, best), has been a cornerstone of his business empire, driving unprecedented success for SpaceX and Tesla.
-- Musk's initial goal for SpaceX was to reignite public interest in space exploration, exemplified by his early idea of sending plant seeds to Mars.
-- The high cost of single-use rockets led Musk to found SpaceX in 2002 with the aim of creating reusable rockets.
+- Elon Musk's strategy, characterized by pursuing "the most" (biggest, fastest, best), has been a cornerstone of his business empire, driving unprecedented success for [[hubs/spacex|SpaceX]] and Tesla.
+- Musk's initial goal for [[hubs/spacex|SpaceX]] was to reignite public interest in space exploration, exemplified by his early idea of sending plant seeds to Mars.
+- The high cost of single-use rockets led Musk to found [[hubs/spacex|SpaceX]] in 2002 with the aim of creating reusable rockets.
 - SpaceX has achieved numerous "firsts," including being the first private company to launch liquid-fuel rockets into Earth orbit and the first to successfully recover a launched rocket.
 - Tesla also boasts "firsts," such as being the first electric car company to win MotorTrend's Car of the Year and the first to have an electric car become the world's best-selling vehicle.
 - Musk's "extreme" strategy has not been without challenges, including missed deadlines, overstatements, detours, and financial losses.
@@ -29,7 +29,7 @@ topics:
 - The success of SpaceX and Tesla has paved the way for other ambitious ventures, including AI labs like OpenAI and Anthropic, which are also planning major IPOs.
 - Musk's personal motivation stems from a near-death experience with malaria, leading him to conclude that humanity needs to become a multi-planetary species.
 - The pursuit of reusable rockets, initially dismissed by the industry, was a mathematically sound approach that eventually led to SpaceX's success, despite early failures.
-- SpaceX's IPO demonstrated the power of Musk's "extreme" strategy, leading to a significant surge in its stock and making Musk the world's first trillionaire.
+- SpaceX's [[hubs/ipo|IPO]] demonstrated the power of Musk's "extreme" strategy, leading to a significant surge in its stock and making Musk the world's first trillionaire.
 - While some of SpaceX's grander dreams, like a city on Mars, may never materialize, its true legacy lies in inspiring a new generation to imagine and pursue limitless possibilities.
 
 ## 相关文章

@@ -21,6 +21,6 @@ description: 同一件事，不同面向。
 ## 相关文章
 
 - [[valuation-and-risk|估值與風險]]
-- [[finance/semiconductor-stocks-correction|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]]
-- [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
+- [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
+- [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]

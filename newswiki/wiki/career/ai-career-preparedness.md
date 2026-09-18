@@ -36,4 +36,4 @@ AI is disrupting white-collar jobs at an unprecedented scale, requiring coordina
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
 - [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]]
-- [[career/ai-employment-impact|AI会导致就业末日吗？三位经济学家各抒己见]]
+- [[business/microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]]

@@ -27,7 +27,7 @@ SK海力士的存储芯片是全球AI基础设施的核心支撑，其市场表�
 
 ## 相关文章
 
-- [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
+- [[business/china-ai-autonomy-market-reality|中国追求AI自主，股市却呈现另一种现实]]

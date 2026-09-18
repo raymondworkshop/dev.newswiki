@@ -26,6 +26,6 @@ AI 驱动的自主攻击标志着网络安全进入“侏罗纪公园”时刻�
 ## 相关文章
 
 - [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]]
-- [[tech/openai-rogue-model-hack|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]]
+- [[tech/openai-ai-hack-hugging-face|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]]
 - [[business/mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]]
-- [[tech/ai-rogue-deception-2026|AI在测试中再次失控，这次还学会了欺骗]]
+- [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]

@@ -25,4 +25,4 @@ Aim for clarity and a steady pace rather than native-level perfection.
 - [[career/how-to-choose-a-subproblem|How To Choose A Subproblem]]
 - [[design/Product-Design-Ello-Real-Time-Response|Ello Listens, Adapts & Responds in Real Time]]
 - [[tech/science-of-reading-and-evidence-based-math|Science of Reading & Evidence-Based Math]]
-- [[career/founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
+- [[business/founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]

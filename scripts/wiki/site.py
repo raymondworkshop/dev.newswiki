@@ -31,6 +31,16 @@ DISPLAY_ARTICLE_ENTRY_RE = re.compile(
 )
 MORE_ARTICLES_ENTRY = "- [[articles|查看更多]]"
 RECENT_ARTICLES_HEADINGS = ("## Recent Articles", "## 近期文章", "## 近排文章")
+# Site-facing topic chips (match TopicNav labels; s2t converts when needed).
+SITE_TOPIC_LABELS: dict[str, str] = {
+    "business": "商业",
+    "tech": "科技",
+    "design": "设计",
+    "finance": "投资",
+    "career": "职场",
+    "lifestyle": "生活",
+}
+ARCHIVE_BLURB_MAX_LEN = 90
 
 
 def has_front_matter(content: str) -> bool:
@@ -86,7 +96,12 @@ def _display_article_entry(line: str) -> str:
 
 
 def _clip_blurb(text: str, max_len: int = 70) -> str:
-    cleaned = re.sub(r"\s+", " ", text).strip()
+    # Archive/home blurbs are inline prose — drop wiki-link syntax, keep labels.
+    cleaned = WIKI_LINK_RE.sub(
+        lambda m: (m.group(2) or m.group(1).rsplit("/", 1)[-1]).strip(),
+        text,
+    )
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
     if len(cleaned) <= max_len:
         return cleaned
     window = cleaned[: max_len + 1]
@@ -98,24 +113,39 @@ def _clip_blurb(text: str, max_len: int = 70) -> str:
     return cleaned[:max_len].rstrip() + "…"
 
 
-def _blurb_from_article(wiki_dir: Path, rel: str) -> str:
+def _blurb_from_article(
+    wiki_dir: Path,
+    rel: str,
+    *,
+    prefer_lead: bool = False,
+    max_len: int = 70,
+) -> str:
     path = wiki_dir / f"{rel}.md"
     if not path.is_file():
         return ""
     from wiki.common import parse_raw_front_matter
 
     front_matter, body = parse_raw_front_matter(path.read_text(encoding="utf-8"))
+
+    def lead_from_body() -> str:
+        for line in body.splitlines():
+            stripped = line.strip()
+            if not stripped or stripped.startswith("#") or stripped.startswith("---"):
+                continue
+            if stripped.startswith("- ") or stripped.startswith("["):
+                continue
+            return _clip_blurb(stripped, max_len=max_len)
+        return ""
+
+    if prefer_lead:
+        lead = lead_from_body()
+        if lead:
+            return lead
+
     desc = str(front_matter.get("description") or "").strip()
     if desc:
-        return _clip_blurb(desc)
-    for line in body.splitlines():
-        stripped = line.strip()
-        if not stripped or stripped.startswith("#") or stripped.startswith("---"):
-            continue
-        if stripped.startswith("- ") or stripped.startswith("["):
-            continue
-        return _clip_blurb(stripped)
-    return ""
+        return _clip_blurb(desc, max_len=max_len)
+    return lead_from_body()
 
 
 def _enrich_recent_entry_with_blurb(entry: str, wiki_dir: Path | None) -> str:
@@ -132,6 +162,82 @@ def _enrich_recent_entry_with_blurb(entry: str, wiki_dir: Path | None) -> str:
     if not blurb:
         return entry
     return f"- {link} ({date}) - {blurb}"
+
+
+def _escape_inline_math(text: str) -> str:
+    """Prevent KaTeX from treating `$…$` as math in archive titles/blurbs."""
+
+    return text.replace("$", "＄")
+
+
+def _rewrite_wiki_link_label(link: str, *, escape_math: bool = False) -> str:
+    match = re.match(r"^\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]$", link.strip())
+    if not match:
+        return link
+    target, label = match.group(1).strip(), match.group(2)
+    if label is None:
+        return link
+    if escape_math:
+        label = _escape_inline_math(label)
+    return f"[[{target}|{label}]]"
+
+
+def _parse_article_entry(entry: str) -> tuple[str, str, str] | None:
+    """Return (wiki_rel, link_markdown, date) for a canonical INDEX entry."""
+
+    parts = ARTICLE_PARTS_RE.match(entry.strip())
+    if not parts:
+        return None
+    link, date = parts.group(1), parts.group(2)
+    target_match = re.match(r"\[\[([^\]|#]+)", link)
+    if not target_match:
+        return None
+    rel = target_match.group(1).strip()
+    # Skip topic folder indexes and bare topic roots — not article pages.
+    if rel.endswith("/_index") or rel.endswith("_index") or "/" not in rel:
+        return None
+    return rel, link, date
+
+
+def _display_archive_entry(entry: str, wiki_dir: Path | None) -> str | None:
+    parsed = _parse_article_entry(entry)
+    if not parsed:
+        return None
+    rel, link, _date = parsed
+    topic_slug = rel.split("/", 1)[0]
+    topic_label = SITE_TOPIC_LABELS.get(topic_slug, topic_slug)
+    topic_html = (
+        f'<span class="article-topic">{topic_label}</span> ' if topic_label else ""
+    )
+    link = _rewrite_wiki_link_label(link, escape_math=True)
+    blurb = ""
+    if wiki_dir is not None:
+        blurb = _blurb_from_article(
+            wiki_dir,
+            rel,
+            prefer_lead=True,
+            max_len=ARCHIVE_BLURB_MAX_LEN,
+        )
+        blurb = _escape_inline_math(blurb)
+    blurb_html = f'<span class="topic-blurb"> — {blurb}</span>' if blurb else ""
+    return f"- {topic_html}{link}{blurb_html}"
+
+
+def _dedupe_article_entries(entries: list[str]) -> list[str]:
+    """Keep first occurrence per wiki path (entries should already be newest-first)."""
+
+    seen: set[str] = set()
+    out: list[str] = []
+    for entry in entries:
+        parsed = _parse_article_entry(entry)
+        if not parsed:
+            continue
+        rel = parsed[0]
+        if rel in seen:
+            continue
+        seen.add(rel)
+        out.append(entry)
+    return out
 
 
 def _display_related_entry(line: str) -> str:
@@ -415,12 +521,75 @@ def trim_related_articles_for_site(content: str) -> str:
     return updated
 
 
-def write_all_articles_page(content_dir: Path, entries: list[str]) -> None:
+def write_all_articles_page(
+    content_dir: Path,
+    entries: list[str],
+    *,
+    wiki_dir: Path | None = None,
+    traditional_chinese: bool = True,
+) -> None:
+    """Render /articles as a date-grouped archive with topic chip + lead blurb."""
+
     if not entries:
         return
-    page_path = content_dir / "articles.md"
-    body = "\n".join(entries)
-    page_path.write_text(f"# 所有文章\n\n{body}\n", encoding="utf-8")
+
+    unique = _dedupe_article_entries(entries)
+    by_date: dict[str, list[str]] = {}
+    for entry in unique:
+        parsed = _parse_article_entry(entry)
+        if not parsed:
+            continue
+        _rel, _link, date = parsed
+        by_date.setdefault(date, []).append(entry)
+
+    if not by_date:
+        return
+
+    dates = sorted(by_date.keys(), reverse=True)
+    months = sorted({date[:7] for date in dates}, reverse=True)
+    article_count = sum(len(by_date[d]) for d in dates)
+    month_links = []
+    for i, month in enumerate(months):
+        if i:
+            month_links.append('<span class="articles-month-sep" aria-hidden="true">·</span>')
+        month_links.append(f'<a href="#{month}">{month}</a>')
+    month_nav = (
+        '<nav class="articles-month-nav" aria-label="按月跳转">'
+        + "".join(month_links)
+        + "</nav>"
+    )
+
+    lines: list[str] = [
+        "# 所有文章",
+        "",
+        f"共 {article_count} 篇 · 按时间倒序",
+        "",
+        month_nav,
+        "",
+    ]
+
+    current_month = ""
+    for date in dates:
+        month = date[:7]
+        if month != current_month:
+            if current_month:
+                lines.append("")
+            lines.append(f"## {month}")
+            lines.append("")
+            current_month = month
+        lines.append(f"### {date}")
+        lines.append("")
+        for entry in by_date[date]:
+            rendered = _display_archive_entry(entry, wiki_dir)
+            if rendered:
+                lines.append(rendered)
+        lines.append("")
+
+    body = "\n".join(lines).rstrip() + "\n"
+    page = add_front_matter(body, {"title": "所有文章"})
+    if traditional_chinese:
+        page = convert_markdown(page)
+    (content_dir / "articles.md").write_text(page, encoding="utf-8")
 
 
 def resolve_path(value: str) -> Path:
@@ -611,7 +780,12 @@ def prepare_content(
                     wiki_dir=wiki_dir,
                 )
 
-        write_all_articles_page(staging_dir, all_article_entries)
+        write_all_articles_page(
+            staging_dir,
+            all_article_entries,
+            wiki_dir=wiki_dir,
+            traditional_chinese=traditional_chinese,
+        )
         (staging_dir / PREPARE_MTIME_CACHE).write_text(
             json.dumps(new_mtimes, indent=0, sort_keys=True) + "\n",
             encoding="utf-8",

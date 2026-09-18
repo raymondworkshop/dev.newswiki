@@ -30,4 +30,3 @@ AI并未改变主动管理在统计学上的劣势，无法保证跑赢大盘。
 
 ## 相关文章
 
-- [[finance/ai-guaxuan-nengli-zhen-deng-ti-shi-di-le-ma|AI选股能力真的提升了吗？]]

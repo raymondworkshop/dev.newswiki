@@ -24,6 +24,6 @@ topics:
 ## 相关文章
 
 - [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]]
-- [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
 - [[finance/korean-shipping-magnate-iranian-war-profit|韩国油轮大亨借伊朗战争大赚一笔]]
+- [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]

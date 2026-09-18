@@ -25,7 +25,7 @@ AI首次自主攻克千禧年大奖难题，展示推理能力质变。
 
 ## 相关文章
 
-- [[tech/ai-rogue-deception-2026|AI在测试中再次失控，这次还学会了欺骗]]
 - [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]
 - [[tech/ai-calculation-competition|AI巨头派发大量免费算力，争夺初创公司市场份额]]
 - [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]]
+- [[tech/openai-ai-hack-hugging-face|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]]

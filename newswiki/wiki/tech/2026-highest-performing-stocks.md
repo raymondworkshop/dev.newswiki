@@ -35,13 +35,13 @@ topics:
 - 房地产和必需消费品板块表现稳健，但整体[[hubs/valuation|估值]]有所下降。
 
 ## 风险与观察点
-- [AI Synthesis] 闪迪和美光科技的高增长依赖于市场对存储芯片需求的持续性，若AI数据中心需求放缓，增长动能可能减弱。
+- [AI Synthesis] 闪迪和美光科技的高增长依赖于市场对存储芯片需求的持续性，若AI[[hubs/ai-infrastructure|数据中心]]需求放缓，增长动能可能减弱。
 - [AI Synthesis] 美光科技2023年曾出现净亏损，市场对其财务可持续性仍存疑，当前股价上涨是否建立在盈利改善基础上需持续观察。
 - [AI Synthesis] 部分公司（如闪迪、西部数据）的高涨幅可能伴随[[hubs/valuation|估值]]泡沫风险，需警惕未来盈利兑现不及预期。
 
 ## 相关文章
 
-- [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/ai-infrastructure-transaction|美国数据中心开发商计划出售价值数百亿美元的股权]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
+- [[finance/chip-stocks-rally-hit-wall-optimism|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]]

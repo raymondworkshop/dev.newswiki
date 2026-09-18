@@ -54,4 +54,4 @@ LLMs are highly complex, deep stacks of transformer blocks, each layer refining 
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
 - [[tech/local-llm-question-categorization|Fine Tuning a Local LLM to Categorize Questions]]
-- [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]]
+- [[tech/how-i-use-llms-to-learn-complex-topics|How I use LLMs to learn complex topics]]

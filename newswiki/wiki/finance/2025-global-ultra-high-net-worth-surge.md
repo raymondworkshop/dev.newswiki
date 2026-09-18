@@ -33,5 +33,5 @@ Global ultra-high-net-worth individuals surged by 14.4% in 2025, the fastest gro
 - [[business/ai-giants-office-ai-application|一览AI巨头如何在自家办公室应用AI]]
 - [[finance/leopold-aschenbrenner-situational-awareness|将Jane Street纳为投资人的24岁AI奇才]]
 - [[finance/jane-street-ai-spotlight|神秘华尔街巨头Jane Street步入AI聚光灯下]]
-- [[finance/read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]]
+- [[finance/institutional-investor-signals-retail-guide|机构投资者影响市场走势，散户如何看懂它们的信号]]
 

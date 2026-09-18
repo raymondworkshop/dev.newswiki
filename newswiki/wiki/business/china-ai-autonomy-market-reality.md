@@ -20,11 +20,11 @@ topics:
 - 尽管有 [[hubs/deepseek|DeepSeek]] 和 [[hubs/moonshot-ai|Moonshot AI]] 等企业的技术突破，但中国科技股的[[hubs/valuation|估值]]逻辑仍深受美韩市场情绪影响，呈现出强烈的“境外输入性风险”。
 - “国产替代”叙事在支撑[[hubs/valuation|估值]]的同时，也导致市场在缺乏 [[hubs/nvidia|Nvidia]] 式业绩支撑时，更容易在逻辑动摇时出现剧烈波动。
 - [[hubs/cxmt|长鑫存储]] (CXMT) 的案例表明，即便企业受益于全球供应短短缺实现利润井喷，其股价仍受制于此前过度透支的预期以及外部市场逻辑。
-- [AI Synthesis] 中国AI产业正处于“技术能力”与“资本定价权”的脱节期：技术上追求独立，但金融估值仍锚定全球（尤其是美国）的定价体系。
+- [AI Synthesis] 中国AI产业正处于“技术能力”与“资本定价权”的脱节期：技术上追求独立，但金融[[hubs/valuation|估值]]仍锚定全球（尤其是美国）的定价体系。
 
 ## 相关文章
 
 - [[business/korean-chip-leader-s-century-divorce-ai-boom|韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
-- [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
+- [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]

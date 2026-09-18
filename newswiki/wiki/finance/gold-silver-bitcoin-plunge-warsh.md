@@ -34,7 +34,7 @@ topics:
 
 ## 相关文章
 
-- [[finance/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-27654da1|坚持投资终有回报：坏消息再多，也挡不住美股创下逾25年来最强劲涨势]]
+- [[finance/why-it-pays-to-stay-invested|坚持投资终有回报：坏消息再多，也挡不住美股创下逾25年来最强劲涨势]]
 - [[finance/us-japan-yen-intervention-2026|图解美日联手提振日圆的五大原因]]
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]]
-- [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
+- [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]

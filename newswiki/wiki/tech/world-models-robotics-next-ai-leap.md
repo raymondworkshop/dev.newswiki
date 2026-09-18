@@ -19,11 +19,11 @@ topics:
 - General Intuition[[hubs/valuation|估值]]超60亿美元，其模型仅需几分钟微调即可驱动四足机器狗、轮式车辆或无人机，但目前不适用于双足[[hubs/humanoid-robot|人形机器人]]。
 - 前Google DeepMind研究员Jack Parker-Holder创办Emulate，正融资超5亿美元，团队含6名前Google员工；World Labs（李飞飞）收购机器人公司Scenix；AMI Labs（杨立昆）探索[[hubs/llm|LLM]]之外架构。
 - 世界模型通过感知三维空间并决策下一步动作，弥补[[hubs/llm|LLM]]处理3D场景效率低、延迟高的短板；但机器人容错率极低，幻觉可能导致物理碰撞。
-- 业界存在两条路径：纯世界模型路线 vs LLM+世界模型混合架构（LLM调用世界模型如调用工具）。General Intuition CEO Pim de Witte强调科学评估而非追逐“超级智能”叙事。
+- 业界存在两条路径：纯世界模型路线 vs [[hubs/llm|LLM]]+世界模型混合架构（[[hubs/llm|LLM]]调用世界模型如调用工具）。General Intuition CEO Pim de Witte强调科学评估而非追逐“超级智能”叙事。
 
 ## 相关文章
 
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
-- [[tech/humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[career/how-i-use-llms-as-a-staff-engineer-in-2026|How I use LLMs as a staff engineer in 2026]]

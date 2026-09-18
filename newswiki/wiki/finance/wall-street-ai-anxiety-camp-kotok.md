@@ -26,7 +26,7 @@ topics:
 
 ## 相关文章
 
-- [[business/us-nuclear-reactor-construction-oklo|揭秘美国一代人以来首座核反应堆的建设攻关]]
+- [[finance/ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]]
+- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
 - [[business/openai-q2-revenue-slowdown-vs-anthropic|OpenAI第二季度收入增长乏力，增速逊于Anthropic]]
-- [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]

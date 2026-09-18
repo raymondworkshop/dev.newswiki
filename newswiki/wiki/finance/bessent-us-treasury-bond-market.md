@@ -27,7 +27,7 @@ topics:
 
 ## 相关文章
 
-- [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
+- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]]
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]]
-- [[finance/berkshire-and-japanese-builders-see-opportunity-in-us-housing|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]
+- [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]

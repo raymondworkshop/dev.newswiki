@@ -40,4 +40,4 @@ Jane Street成功地将传统对冲基金的深厚资本运作能力与前沿AI�
 - [[finance/leopold-aschenbrenner-situational-awareness|将Jane Street纳为投资人的24岁AI奇才]]
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
 - [[finance/korean-shipping-magnate-iranian-war-profit|韩国油轮大亨借伊朗战争大赚一笔]]
-- [[finance/tiktok-financial-advice-analysis|盘点TikTok上满天飞的理财“秘籍”]]
+- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]

@@ -28,7 +28,7 @@ Direct code writing enhances attention, ownership, and architectural understandi
 
 ## Related Articles
 
-- [[tech/no-small-software-teams|There's no such thing as a small software team anymore]]
+- [[tech/theres-no-such-thing-as-a-small-software-team|There's no such thing as a small software team anymore]]
 - [[tech/a-road-to-lisp-why-lisp|A road to Lisp: Why Lisp]]
 - [[tech/stripe-kai-deep-agents|How Stripe Built Kai on Deep Agents in 1 Week]]
 - [[business/ai-software-company-moats|How does AI affect software company moats?]]

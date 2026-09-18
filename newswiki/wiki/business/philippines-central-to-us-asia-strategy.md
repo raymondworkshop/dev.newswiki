@@ -26,6 +26,6 @@ topics:
 ## 相关文章
 
 - [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]]
-- [[business/korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]]
+- [[finance/korean-shipping-magnate-iranian-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]]
 - [[business/2026-05-28-drone-investment|特朗普政府正就注资国内无人机公司进行谈判]]
 - [[business/hormuz-crisis-economic-lessons|霍尔木兹危机带给全球经济的五大启示]]

@@ -7,24 +7,31 @@ description: "在爱达荷国家实验室，再度兴起的原子能热正与AI�
 author:
   - "[[Jennifer Hiller]]"
 topics:
-  - business
   - tech
+  - business
+  - finance
 ---
 
 # [揭秘美国一代人以来首座核反应堆的建设攻关](https://cn.wsj.com/articles/%E6%8F%AD%E7%A7%98%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BB%A3%E4%BA%BA%E4%BB%A5%E6%9D%A5%E9%A6%96%E5%BA%A7%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%9A%84%E5%BB%BA%E8%AE%BE%E6%94%BB%E5%85%B3-a9157198?mod=cn_hp_lead_pos8)
 
-SMR 被视为支撑 AI 革命电力需求的潜在核心方案。
+AI [[hubs/ai-infrastructure|数据中心]]的电力缺口正加速 SMR 的资本化与商业化进程。
 
 ## 要点
-- [[hubs/oklo|Oklo]] 正在爱达荷国家实验室建设 Aurora Powerhouse，标志着美国新一代小型模块化反应堆 (SMR) 从设计阶段进入实际建设模式。
-- AI 算力需求驱动能源转型：[[hubs/meta|Meta]]、谷歌和 [[hubs/amazon|Amazon]] 等科技巨头通过承购协议支持 SMR 开发，旨在解决[[hubs/ai-infrastructure|数据中心]]巨大的电力需求。
-- 资本市场呈现极高波动性：核裂变公司风投融资额激增（2023年达29亿美元），但投资者对[[hubs/cash-flow|现金流]]预期极长，且股价与 AI 发展轨迹高度绑定。
-- 行业生存压力巨大：尽管有 [[hubs/openai|OpenAI]] 的山姆·阿尔特曼等支持，但由于建设成本高昂且缺乏商业化先例，预计最终能生存下来的 SMR 公司仅为个位数。
-- [AI Synthesis] SMR 的[[hubs/business-model|商业模式]]正从单纯的电力供应转向与 AI 基础设施深度耦合的战略资产，其成功关键在于能否通过规模化降低单位建设成本。
+- 核能初创公司 [[business/oklo|Oklo]] 正在爱达荷国家实验室建设 Aurora Powerhouse，标志着美国新一代核反应堆从设计阶段进入建设模式。
+- AI 革命驱动的电力需求是核能复兴的核心催化剂。[[business/meta-platforms|Meta]]、谷歌和亚马逊等科技巨头正通过承购协议支持 [[business/smr-industry|小型模块化反应堆 (SMR)]] 的商业化进程。
+- 资本市场出现剧烈波动：核裂变公司风险投资从 2020 年的 1.03 亿美元激增至去年的 29 亿美元，但 SMR 公司股价与 AI 发展轨迹高度绑定，波动剧烈。
+- 行业面临严峻挑战：美国核电建设能力萎缩，历史项目（如西屋电气 AP1000）存在严重超支和进度滞后问题。
+- [AI Synthesis] SMR 的[[hubs/business-model|商业模式]]正从单纯的能源供应转向与 AI 算力基础设施深度耦合的战略资产，但其生存率预计较低，最终可能仅剩个位数公司。
+
+## 关键参与者与布局
+- Oklo：获得 Sam Altman 支持，计划在俄亥俄州建设多座反应堆，最高发电量 1.2 吉瓦。
+- TerraPower：由比尔·盖茨创立，已与 Meta 达成电力购买协议。
+- X-energy：获得亚马逊投资并成为其客户，已在公开市场上市。
+- [[hubs/microsoft|Microsoft]]：采取多元化策略，除关注 SMR 外，还签署协议重启三喱岛的常规大型反应堆。
 
 ## 相关文章
 
-- [[business/meta-q2-earnings-ai-spending-drop|Meta股价大跌10%，因AI支出增加且展望不及预期]]
-- [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
-- [[business/ibm-stock-crash-why-not-worried|股价单日暴跌25%，IBM首席执行官为何不担心?]]
+- [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
+- [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
+- [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]

@@ -24,6 +24,6 @@ topics:
 ## 相关文章
 
 - [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]]
-- [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
-- [[finance/berkshire-and-japanese-builders-see-opportunity-in-us-housing|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]
+- [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]
+- [[finance/wealth-management-cash-problem|财富管理行业面临3万亿美元难题：投资者持有太多现金]]

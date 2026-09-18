@@ -20,9 +20,9 @@ SaaS行业面临结构性颠覆：[[hubs/ai-agent|AI智能体]]从“辅助工�
 - 核心威胁：[[hubs/ai-agent|AI智能体]]可直接替人干活，而非仅辅助工作。Rattle（现Von）联合创始人阿加瓦尔坦言：“如果两个工程师几周就能复刻你的产品，你就活该出局。”
 - Insight Partners等头部VC推行“吓醒与鼓舞”策略：要求董事会层面推动AI将潜在营收机会翻倍，否则将被甩在后面。Insight为投资组合高管举办生存训练营，含Anthropic实战分享。
 - 转型分化：拥抱AI的公司（Gong ARR超5亿美元同比增55%、Intercom Fin ARR达4亿美元并被Salesforce以36亿美元收购、Lantern理赔流程从两周缩至一分钟）保持增长；未转型者陷入停滞。
-- Rattle/Von案例：从销售工具转型为AI原生营收操作系统，裁员70人→15人，停售旧产品，重构架构让AI智能体处于核心。新产品Von ARR已达100万美元。
+- Rattle/Von案例：从销售工具转型为AI原生营收操作系统，裁员70人→15人，停售旧产品，重构架构让[[hubs/ai-agent|AI智能体]]处于核心。新产品Von ARR已达100万美元。
 - 风投面临组合分层：向AI原生初创注资规避大模型实验室冲击，同时对存量SaS公司按优先级分类、准备拆分出售。SimpleClosure数据显示上半年倒闭的VC支持客户中软件/IT服务占比升至51%。
-- [AI Synthesis] SaaS护城河（高切换成本、数据积累、工作流嵌入）正被AI原生架构绕过：智能体直接操作底层系统（如Salesforce），无需中间层SaaS界面。
+- [AI Synthesis] SaaS护城河（高切换成本、数据积累、工作流嵌入）正被AI原生架构绕过：[[hubs/ai-agent|智能体]]直接操作底层系统（如Salesforce），无需中间层SaaS界面。
 
 ## 相关文章
 

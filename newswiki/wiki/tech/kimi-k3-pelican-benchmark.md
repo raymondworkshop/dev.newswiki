@@ -1,25 +1,32 @@
 ---
 title: "Kimi K3, and what we can still learn from the pelican benchmark"
 source: "https://simonwillison.net/2026/Jul/16/kimi-k3/"
-created: "2026-07-25"
+published: "2026-07-16"
+created: "2026-09-18"
 description: "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their “most capable model to date, with 2.8 trillion parameters”. It’s currently available via their website and …"
 author:
   - "[[Simon Willison]]"
 topics:
   - tech
+  - business
 ---
 
 # [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
 
-Kimi K3 represents a massive scale-up in parameters (2.8T), competing directly with the top-tier frontier models.
+Kimi K3 is a powerful but expensive 2.8T Chinese model with a single max reasoning effort that burns high token counts on simple tasks, and while the pelican benchmark remains a handy hands-on sanity check, it no longer reliably predicts real-world agentic performance.
 
 ## Key Points
-- Moonshot AI released Kimi K3, a 2.8 trillion parameter model, described as the first "open 3T-class model" with an open weight release promised by July 27, 2026.
-- Benchmarks indicate K3 generally outperforms [[tech/claude-opus-4.8|Claude Opus 4.8]] and [[tech/gpt-5.5|GPT-5.5]], but trails [[tech/claude-fable-5|Claude Fable 5]] and [[tech/gpt-5.6|GPT-5.6]].
-- Kimi K3 is currently the leading model on Arena.ai’s Frontend Code arena, surpassing [[tech/claude-fable-5|Claude Fable 5]].
-- Pricing has increased significantly to $3/million input and $15/million output tokens, aligning it with the [[tech/claude-sonnet|Claude Sonnet]] series and making it the most expensive model from a Chinese AI lab to date.
-- The "pelican benchmark" (generating an SVG of a pelican on a bicycle) reveals high reasoning overhead, with K3 consuming 13,241 reasoning tokens for a single task.
-- Analysis of token counts suggests Kimi K3 may utilize a hidden system prompt of approximately 85 tokens.
-- [AI Synthesis] The shift toward premium pricing suggests Moonshot AI is pivoting from a growth-at-all-costs user acquisition strategy to a value-capture model targeting high-end enterprise and developer workloads.
+- Moonshot AI released [[hubs/moonshot-ai|Kimi K3]], a 2.8 trillion parameter model priced at $3/M input and $15/M output tokens — the most expensive Chinese lab model to date, on par with [[hubs/anthropic|Anthropic]]'s Claude Sonnet series.
+- Self-reported benchmarks show K3 mostly beating [[hubs/anthropic|Claude Opus 4.8]] and [[hubs/openai|GPT-5.5 high]], while trailing [[hubs/anthropic|Claude Fable 5]] and [[hubs/openai|GPT-5.6 Sol]]; it leads the [[hubs/arena-ai|Arena.ai Frontend Code arena]].
+- The pelican benchmark (SVG generation) cost 25¢ via OpenRouter: 95 input tokens, 16,658 output tokens (13,241 reasoning tokens), exposing K3's single 'max' reasoning effort and high token consumption for simple tasks.
+- Prompt tokenization anomaly: 'Generate an SVG of a pelican riding a bicycle' counted as 95 tokens vs. ~10 for OpenAI/Anthropic tokenizers; 'hi' counted 86 tokens, suggesting an ~85-token hidden system prompt that the model refuses to leak.
+- Vision capability confirmed: K3 produced accurate alt text for the rendered pelican SVG at 0.6¢ cost.
+- [AI Synthesis] The pelican test's correlation with model quality has largely severed — [[hubs/zhipu-ai|GLM-5.2]] outperforms Fable-class models on it — and it does not measure agentic tool-calling reliability, the key differentiator for today's models.
+- [AI Synthesis] Despite limitations, the pelican remains a useful 'hello world' forcing function: it verifies API access, estimates cost/reasoning for a simple task, confirms SVG/geometry competence, enables intra-family release comparisons (K3 notably better than [[tech/kimi-k25|Kimi K2.5]]), and serves as a shareable artifact of hands-on evaluation.
 
+## Related Articles
 
+- [[tech/a-road-to-lisp-why-lisp|A road to Lisp: Why Lisp]]
+- [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[tech/sly-lexer-parser|SLY: lexer and parser - Playing with code]]
+- [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]]

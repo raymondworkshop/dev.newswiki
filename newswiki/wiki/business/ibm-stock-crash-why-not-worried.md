@@ -24,6 +24,6 @@ IBM的大型机系统是全球金融交易的基础设施，其价值远超硬�
 ## 相关文章
 
 - [[business/meta-q2-earnings-ai-spending-drop|Meta股价大跌10%，因AI支出增加且展望不及预期]]
-- [[business/us-nuclear-reactor-construction-oklo|揭秘美国一代人以来首座核反应堆的建设攻关]]
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
+- [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]

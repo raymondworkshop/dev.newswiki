@@ -17,7 +17,6 @@ Curated hub for the concept 「首次公开募股」.
 - [[finance/spacex-ipo-wealth-management|SpaceX员工紧急恶补：暴富后应如何理财]] · #finance
 - [[business/spacex-stocks-below-ipo-price|SpaceX股价首次跌破IPO发行价]] · #business
 - [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] · #tech
-- [[business/windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] · #business
 - [[business/windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] · #business
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] · #business
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance

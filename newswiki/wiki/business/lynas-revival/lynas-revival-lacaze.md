@@ -25,7 +25,7 @@ Lynas的成功是[[hubs/geopolitics|地缘政治]]需求与企业韧性相结合
 - 在关键时刻，成功获得了日本政府支持的债权人债务重组的认可，为公司度过了生死攸关的阶段。
 
 ## [[hubs/geopolitics|地缘政治]]与市场机遇
-- 随着全球对稀土（如用于电动汽车、无人机等）的需求激增，地缘政治紧张局势使得西方盟国企业如Lynas成为关键的供应方。
+- 随着全球对稀土（如用于电动汽车、无人机等）的需求激增，[[hubs/geopolitics|地缘政治]]紧张局势使得西方盟国企业如Lynas成为关键的供应方。
 - Lynas的成功转型使其成为少数能够大规模分离稀土元素的西方盟国主要企业之一，扮演了供应链“减压阀”的角色。
 - 近期，Lynas获得了向美国五角大楼出售稀土的初步协议，标志着其在西方供应链中的战略地位得到认可。
 
@@ -33,5 +33,5 @@ Lynas的成功是[[hubs/geopolitics|地缘政治]]需求与企业韧性相结合
 
 - [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]]
 - [[business/pentagon-missile-submarine-contracts|五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇]]
-- [[business/korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
+- [[business/2026-05-28-drone-investment|特朗普政府正就注资国内无人机公司进行谈判]]

@@ -27,7 +27,7 @@ AI 模型首次实现从基因序列预测到合成有效病毒的闭环，证�
 
 ## 相关文章
 
-- [[tech/ai-rogue-deception-2026|AI在测试中再次失控，这次还学会了欺骗]]
+- [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]
 - [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]
 - [[tech/rogue-ai-agents-guide|失控AI机器人世界的用户指南]]
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]]

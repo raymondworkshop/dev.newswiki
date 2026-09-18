@@ -3,14 +3,26 @@
 企业如何決策，發展與機會
 
 ## 文章
-- [[yuan-four-year-high-pboc-fixing|人民币升至逾四年高点]] (2026-09-18) - 周五人民币兑美元创逾四年高点，出口强劲与央行连续调强中间价提供支撑。
+- [[energy-traders-war-boom|砸酒桶、办屋顶酒会：能源交易商举杯庆祝“战争红利”]] (2026-09-18) - 地缘政治冲突扰乱全球能源供应，大宗商品经纪商和交易商从中获利颇丰。
+- [[gpt-5-6-sol-ran-a-real-business-lost-447|GPT 5.6 Sol Ran a Real Business—and Lost $447]] (2026-09-18) - If an agent had a wallet, a computer, and 24 hours, could it run a profitable startup?
 - [[mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18) - 支付行业高管正准备应对AI驱动的购物浪潮，这迫使他们重新审视交易风险、欺诈防范，以及如何处理可能“失控”的AI智能体。
 - [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
+- [[hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] (2026-09-18) - 一个参加漏洞搜寻计划的独立安全研究团队访问了OpenAI的内部代码系统。该事件暴露了自动化网络威胁日益增长的风险。
+- [[rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]] (2026-09-18) - 利率上升会从多个方面冲击私募股权基金，包括推高旗下被收购企业债务的利息成本，并使其更难卖出好价钱。
+- [[yuan-four-year-high-pboc-fixing|人民币升至逾四年高点]] (2026-09-18) - 周五，人民币兑美元汇率创下四年多来新高，中国强劲的出口表现以及央行的支持为人民币走强提供了支撑。
+- [[american-families-dinner-struggle|美国家庭最头痛的五个字：今晚吃什么？]] (2026-09-18) - 美国人花在做饭上的时间比过去20年都要多，但繁忙的日程和不断上涨的成本却让做饭成了生活中的头号痛点。
+- [[glp1-drugs-beyond-weight-loss|除了减重，GLP-1类药物还有哪些疗效?]] (2026-09-18) - 医学界正在探索减肥药是否也能用于治疗子宫内膜异位症和克罗恩病等疾病。
+- [[ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] (2026-09-17) - 特朗普称AI对人类的威胁是一场骗局，可企业CEO们并不买账。
 - [[ed-sheeran-tour-nfl-stadium-owners-macklemore-controversy|一通40分钟的电话，如何让埃德·希兰的巡演悬于一线？]] (2026-09-17) - NFL新英格兰爱国者队老板克拉夫特向歌手埃德·希兰发出明确警告：除非撤换公开指控以色列的开场嘉宾麦克勒莫，否则他将取消在吉列体育场的巡演场次。其他NFL球队老板也准备采取同样的行动。
+- [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...
 - [[novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] (2026-09-17) - 生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。
+- [[huawei-aims-to-become-chinas-nvidia|华为计划如何成为“中国的英伟达”]] (2026-09-17) - 华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。
+- [[ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17) - 飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。
+- [[jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]] (2026-09-17) - 自雅各布·考克森发出危险警告以来，长期以来关于AI技术潜在危险的隐忧已爆发为全球性关注。
 - [[why-purge-middle-managers-backfire|中层管理者“大清洗”为何会带来反噬？]] (2026-09-17) - 这些中层管理者让高层领导能够下放权力，并让基层员工发挥出最大效能，而我们正低估了他们这些往往不为人所见的工作。
 - [[musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]] (2026-09-16) - 这位科技企业家正利用他的社交媒体传声筒搅动局势，为一个新兴的英国反移民政党摇旗呐喊，并宣称“内战已不可避免”。
 - [[us-businesses-pricing-dilemma-energy-costs|美国企业现在不知道该如何定价了]] (2026-09-16) - 面对高企的能源成本，各类企业难以判断这场高成本冲击究竟会持续多久，在制定产品价格时陷入了两难抉择。
+- [[chinese-hacking-firm-ai-cyber-espionage|一家中国黑客公司如何利用AI大幅提升网络间谍活动]] (2026-09-16) - 公司内部资料显示，AI正被用于处理窃取的外国政府数据，使其便于中国安全机构使用。
 - [[china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]] (2026-09-16) - 中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。
 - [[mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]] (2026-09-15) - 这位亿万富翁企业集团旗下的保险公司是美国主要的年金销售商之一。联邦检察官正对这些保险公司的投资披露情况展开审查。
 - [[china-economic-slowdown-shangrila-matsutake-trade|中国经济困境波及香格里拉松茸“猎人”]] (2026-09-14) - 藏族松茸“猎人”每年都有几个星期会进入喜马拉雅高山上采摘这种珍贵食材，但如今激烈的市场竞争正不断压缩他们的生存和盈利空间。
@@ -18,8 +30,8 @@
 - [[ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]] (2026-09-14) - Anthropic CEO阿莫迪上周六呼吁AI行业控制前沿工具的开发节奏，马斯克和阿尔特曼表示支持，阿尔特曼甚至暗示OpenAI可能需要推迟IPO。
 - [[americas-great-ai-freakout|美国AI大恐慌全面爆发]] (2026-09-14) - 人们一直担心AI技术可能毁灭人类文明并引发网络攻击，这种情绪在办公室里和餐桌上的谈论中已达到沸点。
 - [[fast-food-chains-shift-automation-hospitality|美国快餐连锁迎来战略大转向：从自动化回归“人情味”]] (2026-09-11) - 麦当劳和汉堡王正在加强员工培训以提升待客之道；“我们的餐厅似乎让人感觉仓促、缺乏人情味、冷冰冰”。
+- [[kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]] (2026-09-11) - 预测市场平台Kalshi计划寻求监管部门批准，在美国推出首批与个股挂钩的受监管永续期货。
 - [[ai-career-skills-anthropology-math-philosophy|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
-- [[want-to-succeed-in-ai-world-study-anthropology|想在AI时代脱颖而出？去学人类学吧]] (2026-09-11) - 计算机科学学位不再是职场的“黄金入场券”。AI冲击之下，哪些大学专业还值得学习？
 - [[pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] (2026-09-10) - 在新墨西哥州沙漠中，初创公司Pacific Fusion正在建设一座核聚变设施，其目标是帮助美国在与俄罗斯和中国的三方军备竞赛中胜出。
 - [[tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] (2026-09-10) - OpenAI和Anthropic的股份出售交易造就了数百名千万富翁。但这些人却不知该怎么花钱，也没时间消费。当一些人聊起怎么犒劳自己时，提到最多的是一台意式浓缩咖啡机。
 - [[windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10) - 位于世贸中心北塔100多层之上的“世界之窗”曾是重塑纽约城市文化的餐饮巨头。
@@ -27,17 +39,14 @@
 - [[openai-navier-stokes-millennium-breakthrough|OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”]] (2026-09-09) - OpenAI破解了纳维-斯托克斯难题，代表了AI解决数学难题领域迄今为止最重大的进展。眼下，各大顶尖AI实验室正为争夺数学领域的霸主地位展开激战。
 - [[china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08) - 分析师看好生物制药股，理由是其盈利具有吸引力、估值较低。与此同时，市场对AI板块盈利能力和估值偏高的担忧，也进一步凸显了生物制药股的吸引力。
 - [[global-tourists-onitsuka-tiger-japan-stores|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
-- [[onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
 - [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - I'm a designer and creative technologist based in Brooklyn, NY.
 - [[trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08) - 中国最新五年规划提出，要打造“旅游强国”。每年有数千万外国人入境中国，国内游也在升温，但一些中国游客却捂紧了钱包。
-- [[humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
 - [[humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]] (2026-09-08) - 分析师认为，在打造实用人形机器人的征途上，下一个“重大突破”将是让它们的“大脑”具备留存信息的能力。
-- [[read-institutional-signals|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 追踪股票的价格区间和成交量，能为个人投资者提供线索，帮助他们判断何时买入即将上涨的股票，或抛售势将下跌的股票。
+- [[institutional-investor-signals-retail-guide|机构投资者影响市场走势，散户如何看懂它们的信号]] (2026-09-08) - 追踪股票的价格区间和成交量，能为个人投资者提供线索，帮助他们判断何时买入即将上涨的股票，或抛售势将下跌的股票。
 - [[cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07) - 如今上海正成为美国等富裕国家癌症患者跨国就医的新热门目的地，这里的CAR-T疗法费用不到美国的一半，中国获批产品数量也居全球首位。
 - [[data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] (2026-09-07) - AI超大规模数据中心在建设和运营过程中面临纷繁复杂的潜在威胁。这为保险公司创造了一个巨大的新商机。
 - [[moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] (2026-09-07) - 杨植麟放弃了在美国发展事业的机会，回国创立了月之暗面，其推出的开放权重模型令全球市场为之一震。
 - [[americans-without-college-degrees-best-job-market|无大学学历的美国人正迎来多年来最好的就业市场之一]] (2026-09-07) - 未上过大学的美国年轻劳动力失业率降至近几十年来的罕见低点，而大学毕业生的处境却截然相反。
-- [[windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
 - [[windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] (2026-09-05) - 由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。
 - [[nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] (2026-09-04) - 这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。
 - [[us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04) - 随着生源萎缩，越来越多学校开始“直接录取”，即只依据几项标准录取学生，比如高中成绩单。“这不是学生向院校提出申请，而是院校向学生提出申请。”
@@ -47,7 +56,6 @@
 - [[corporate-profit-america-589e4848|美国企业利润大幅增长，预计未来景气持续]] (2026-08-31) - 美国最大型企业的利润正强劲增长，这些企业的掌舵人表示，这种势头短期内料将延续。
 - [[e7-be-8e-e5-9b-bd-e6-96-b0-e5-85-b3-e7-a8-8e-e5-a4-a7-e6-a3-|美国新关税大棒之下，加拿大中小企业首当其冲]] (2026-08-31) - 蜂蜜、化妆品及其他出口商目前面临50%的关税。
 - [[nvidia-targets-global-robotics-china-demand-strong|英伟达瞄准全球机器人赛道，中国市场需求强劲]] (2026-08-31) - 英伟达的物理AI业务不断增长，与此同时，中国机器人制造商正依赖美国芯片和软件工具来训练和操作设备。
-- [[china-premium-wine-boom-behind-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[china-premium-wine-boom-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] (2026-08-29) - 根据新规，中国房主可以为他们的高利率存量房贷进行再融资；新购房者也将被允许获得最长40年的房贷，高于此前30年的上限。
 - [[south-korea-ai-for-all-free-generative-ai-citizens|韩国推进“全民AI”计划，向全体国民免费开放AI服务]] (2026-08-28) - 韩国计划向全体国民免费开放生成式AI服务，这是首个由国家主导的重大项目，韩国官员希望以此避免过度依赖中美两国的模型。
@@ -56,36 +64,26 @@
 - [[bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] (2026-08-26) - 这位亿万富豪兼慈善家呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。
 - [[wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] (2026-08-25) - 在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。
 - [[startup-founders-24-hour-work-ai-agents|初创公司创始人恨不得24小时工作，以跟上自家AI智能体]] (2026-08-24) - AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。
-- [[ai-world-models-robotics|AI的下一次重大飞跃：走进现实]] (2026-08-22) - 工程师与投资者正竞相涌入“世界模型”赛道，期望在机器人领域复刻ChatGPT在写作与编程界引发的革命。
 - [[publicsquare-collapse|小特朗普曾力挺的MAGA电商平台崩盘内幕]] (2026-08-21) - PublicSquare上市以来累计亏损近1.6亿美元，股价暴跌99%。自2024年起，该公司每月向小特朗普支付4.2万美元的咨询费。
-- [[china-ai-brains-leap|推动中国AI实现惊人飞跃的幕后智囊]] (2026-08-21) - 凭借创新与模仿，中国高校实验室走出的计算机科学家正紧追Anthropic和OpenAI的步伐；他们“很懂怎么把研究成果变现”。
 - [[china-ai-leap-brains|推动中国AI实现惊人飞跃的幕后智囊]] (2026-08-21) - 凭借创新与模仿，中国高校实验室走出的计算机科学家正紧追Anthropic和OpenAI的步伐；他们“很懂怎么把研究成果变现”。
-- [[harry-meghan-american-dream-end|哈里与梅根的美国梦终结]] (2026-08-21) - 在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。
 - [[harry-meghan-american-dream-ends|哈里与梅根的美国梦终结]] (2026-08-21) - 在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。
 - [[hawaii-startup-wave|旅游业停滞不前，夏威夷追逐创业浪潮]] (2026-08-20) - 夏威夷州政府官员认为，只需培育少数高科技企业，就能孕育出全新的产业，从而阻止技术人才流失至美国本土。
 - [[philippines-central-to-us-asia-strategy|菲律宾为何对美国的亚洲战略至关重要？]] (2026-08-20) - 美军正通过举行日益复杂的军事演习、部署导弹和新建基础设施，不断加强在菲律宾这个前殖民地的军事存在，以应对来自中国的军事威胁。
-- [[bessent-bond-market-analysis|贝森特为何在美债市场做文章]] (2026-08-20) - 简单的解释是，世界正步入一个资本需求的新时代，数据中心、军工领域以及支持制造业回流都需要资金。
 - [[bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]] (2026-08-20) - 简单的解释是，世界正步入一个资本需求的新时代，数据中心、军工领域以及支持制造业回流都需要资金。
-- [[prince-harry-meghan-return-uk|哈里王子与梅根将搬回英国]] (2026-08-20) - 据知情人士透露，在哈里夫妇卸下王室职责并移居美国西海岸六年之后，他们正计划于本月晚些时候搬回英国。
-- [[corporate-quantum-investment|企业正在量子技术上投入巨资]] (2026-08-19) - 2025年企业用户在量子技术上的总支出达到3亿美元，首次超过研究实验室和政府的合计相关支出，这标志着商业领域对该技术的兴趣迎来了拐点。
+- [[prince-harry-meghan-return-to-uk|哈里王子与梅根将搬回英国]] (2026-08-20) - 据知情人士透露，在哈里夫妇卸下王室职责并移居美国西海岸六年之后，他们正计划于本月晚些时候搬回英国。
 - [[openai-q2-revenue-slowdown-vs-anthropic|OpenAI第二季度收入增长乏力，增速逊于Anthropic]] (2026-08-19) - OpenAI收入较第一季度增长18%至67亿美元，亏损进一步扩大。而Anthropic同期收入增长逾一倍，达到116亿美元，还实现小幅营业利润。
-- [[openai-q2-revenue-slowdown|OpenAI第二季度收入增长乏力，增速逊于Anthropic]] (2026-08-19) - OpenAI收入较第一季度增长18%至67亿美元，亏损进一步扩大。而Anthropic同期收入增长逾一倍，达到116亿美元，还实现小幅营业利润。
 - [[us-nuclear-reactor-construction-oklo|揭秘美国一代人以来首座核反应堆的建设攻关]] (2026-08-19) - 在爱达荷国家实验室，再度兴起的原子能热正与AI狂热碰撞出火花。Oklo等公司希望推动一场AI革命与核能复兴，为未来几十年的美国经济提供动力。
 - [[us-science-funding-private-capital|新一轮拨款动荡逼近，美国科学家争相寻求私人资本]] (2026-08-19) - 华盛顿正在酝酿的新政策有可能再次颠覆大学等研究机构的拨款机制。许多科学家正转而争取基金会和私营公司的支持，或者缩减团队规模。
-- [[etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]] (2026-08-19) - Etched由三位20岁出头的哈佛大学辍学生共同创立，凭借一款四个月前还只是个构想的产品，迅速筹集了近20亿美元资金，还获得Jane Street青睐。
+- [[corporate-quantum-investment|企业正在量子技术上投入巨资]] (2026-08-19) - 2025年企业用户在量子技术上的总支出达到3亿美元，首次超过研究实验室和政府的合计相关支出，这标志着商业领域对该技术的兴趣迎来了拐点。
 - [[etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]] (2026-08-19) - Etched由三位20岁出头的哈佛大学辍学生共同创立，凭借一款四个月前还只是个构想的产品，迅速筹集了近20亿美元资金，还获得Jane Street青睐。
-- [[us-nuclear-reactor-construction-smr|揭秘美国一代人以来首座核反应堆的建设攻关]] (2026-08-19) - 在爱达荷国家实验室，再度兴起的原子能热正与AI狂热碰撞出火花。Oklo等公司希望推动一场AI革命与核能复兴，为未来几十年的美国经济提供动力。
-- [[us-smr-nuclear-revival|揭秘美国一代人以来首座核反应堆的建设攻关]] (2026-08-19) - 在爱达荷国家实验室，再度兴起的原子能热正与AI狂热碰撞出火花。Oklo等公司希望推动一场AI革命与核能复兴，为未来几十年的美国经济提供动力。
 - [[ai-chaos-book-publishing|AI让图书出版业陷入一片混乱]] (2026-08-18) - 几笔重磅图书合约因疑似使用AI而告吹，这迫使整个行业重新审视创造力、信任的基石，以及出版业的未来。
-- [[bofa-ceo-word-games|美国银行CEO与华尔街玩儿的秘密文字游戏]] (2026-08-18) - 布莱恩·莫伊尼汉在分析师电话会议上用的晦涩难懂的古词仿佛出自几个世纪前的小说家或法官之口。他玩儿的这个文字游戏极其隐秘，美国银行内部只有一小撮人知道。
 - [[warehouse-robotics-adoption|仓库正越来越多地使用机器人]] (2026-08-18) - 劳动力成本上升和快速送货需求正促使企业推进订单履行自动化。
 - [[bank-of-america-ceo-vocabulary-game|美国银行CEO与华尔街玩儿的秘密文字游戏]] (2026-08-18) - 布莱恩·莫伊尼汉在分析师电话会议上用的晦涩难懂的古词仿佛出自几个世纪前的小说家或法官之口。他玩儿的这个文字游戏极其隐秘，美国银行内部只有一小撮人知道。
 - [[mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]] (2026-08-18) - 面临监管与调查双重压力，亿万富豪马克·沃尔特正加速清理旗下包括NBA湖人队在内的资产，试图保住自己的体育与金融帝国。
-- [[why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-27654da1|坚持投资终有回报：坏消息再多，也挡不住美股创下逾25年来最强劲涨势]] (2026-08-18) - 牛市总是在“担忧之墙”上攀升。标普500指数的复合年增长率已超过15%，有望创下自1994年以来的最强劲六年期表现。
+- [[why-it-pays-to-stay-invested|坚持投资终有回报：坏消息再多，也挡不住美股创下逾25年来最强劲涨势]] (2026-08-18) - 牛市总是在“担忧之墙”上攀升。标普500指数的复合年增长率已超过15%，有望创下自1994年以来的最强劲六年期表现。
 - [[us-seniors-global-travel-boom|有钱有闲能折腾：美国老年人正推动全球旅游热潮]] (2026-08-18) - 随着“婴儿潮”一代纷纷踏上旅途，旅游业也随之调整，推出更优质的住宿、更轻松的徒步路线和行李寄送服务。
 - [[big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] (2026-08-17) - 大型科技公司披露的AI基础设施巨额资本支出不足以反映已承诺的未来支出的全部规模，因为这些公司即将面临的大量财务义务并未反映在资产负债表上。
 - [[hengli-group-iran-oil-lifeline|这家庞大的中国炼油厂如何成为伊朗资金生命线]] (2026-08-17) - 恒力的名字可能并不为行外人所熟知，但它已成为中国工业巨头，年收入超过特斯拉和波音。在陈建华的手中，该公司从一家小型纺织厂转身变成中国第三大民营企业。
-- [[hengli-iran-oil-lifeline|这家庞大的中国炼油厂如何成为伊朗资金生命线]] (2026-08-17) - 恒力的名字可能并不为行外人所熟知，但它已成为中国工业巨头，年收入超过特斯拉和波音。在陈建华的手中，该公司从一家小型纺织厂转身变成中国第三大民营企业。
 - [[ukraine-fire-point-ceo-iryna-terekh|重创俄军的乌克兰无人机出自一位90后家具设计师之手]] (2026-08-17) - 34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。
 - [[open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]] (2026-08-17) - 开放权重模型将持续对OpenAI和Anthropic等封闭模型构成挤压，但对硬件、云服务及整体AI生态而言，低成本模型的普及反而将进一步打通下游应用落地，驱动算力需求二次爆发。
 - [[cami-clark-anthropic-influence|连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力]] (2026-08-14) - 卡米·克拉克曾创办自称“革命性”的色情公司并向爱泼斯坦寻求投资，如今她虽保持低调，却是Anthropic首席执行官达里奥·阿莫迪的关键顾问。
@@ -101,7 +99,6 @@
 - [[spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]] (2026-08-06) - SPV基金宣称能提供这家火箭公司IPO前的投资“敞口”。但投资者后来被告知，股票在挂牌交易前就已抛售，其预期收益大打折扣。
 - [[airline-basic-economy-restrictions|航空公司真的不想让你买最便宜的机票]] (2026-08-05) - 没有任何附加服务的基础经济舱一直都有诸多限制，如今规矩更是越来越多。
 - [[whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]] (2026-08-05) - 直播购物应用Whatnot凭借极速竞拍和狂热的“拆卡”模式快速吸引用户，拍品涵盖稀有体育卡牌、时尚服饰、工具及食品等各类商品。
-- [[ai-rogue-deception-2026|AI在测试中再次失控，这次还学会了欺骗]] (2026-08-05) - 在英国政府背景研究机构的测试中，OpenAI与Anthropic旗下系统擅自越权且展现出欺骗行为。
 - [[ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]] (2026-08-05) - 在英国政府背景研究机构的测试中，OpenAI与Anthropic旗下系统擅自越权且展现出欺骗行为。
 - [[ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]] (2026-08-04) - 美国经济正把越来越多的鸡蛋放进人工智能这个篮子里。AI影响着从资本投资到购买一部iPhone所需花费的方方面面。
 - [[balaji-network-school-malaysia|硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停]] (2026-08-04) - 科技大亨巴拉吉·斯里尼瓦桑离开硅谷，在亚洲一座鬼城试水“网络建国孵化器”，随后该项目遭当地政府勒令关闭。
@@ -111,14 +108,11 @@
 - [[whirlpool-north-america-struggle|退守本土后，惠而浦为何仍难逃“寒冬”？]] (2026-08-04) - 这家家电巨头将重心收缩至北美，却也将其命运与持续低迷的美国房地产市场紧密捆绑。
 - [[pi-minimal-performant|Pi, Minimal and Performant]] (2026-08-04) - How Pi's minimal harness improves coding-agent cost and performance, with examples from Databricks and Shopify's pi-autoresearch extension.
 - [[bessent-fed-yen-support|贝森特为何指望美联储帮助支撑日圆汇率]] (2026-08-04) - 美联储为应对2020年美元短缺而建立的一项工具使东京方面能够获得美元以阻止日圆下跌，而无需通过出售美国国债筹集干预资金。
-- [[china-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]] (2026-08-03) - 在美国，监管往往会保护守成者，却压抑了创业热情。中国则先给初创企业留足成长空间，随后再对创始人出手整顿。
 - [[china-manufacturing-summer-blues|中国制造业遭遇“苦夏”]] (2026-08-03) - 尽管经济增长势头放缓，但中国政府几乎没有表现出采取大规模刺激措施的意愿。
 - [[chinas-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]] (2026-08-03) - 在美国，监管往往会保护守成者，却压抑了创业热情。中国则先给初创企业留足成长空间，随后再对创始人出手整顿。
 - [[openai-lost-ai-crown|OpenAI如何失去AI王冠——又欲如何重新夺回]] (2026-08-03) - 当OpenAI将精力放在视频生成器、消费设备和芯片等一系列花哨项目上时，Anthropic开发出了一款大受欢迎的编程工具，并借此取得了领先地位。
 - [[us-ai-open-weight-china-alternative|美国公司加紧打造中国低成本AI的替代品]] (2026-08-03) - 硅谷的一些初创公司正在建立开放AI模型，但由于风投兴趣寥寥，它们的预算捉襟见肘。
-- [[us-alternative-to-cheap-chinese-ai|美国公司加紧打造中国低成本AI的替代品]] (2026-08-03) - 硅谷的一些初创公司正在建立开放AI模型，但由于风投兴趣寥寥，它们的预算捉襟见肘。
 - [[tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]] (2026-07-31) - 知情人士称，一些特斯拉高管已接到指示，要求在潜在的合并动作前夕，为剥离中国业务做好准备，特斯拉的顾问们已经讨论了剥离的可行方案，包括分拆、出售或关闭。
-- [[citadel-buys-situational-awareness-portfolio|前OpenAI员工执掌的对冲基金陷入巨亏，Citadel出手收购其股票投资组合]] (2026-07-31) - 前OpenAI员工阿申布伦纳的Situational Awareness专注AI领域，曾一度风头无两。此次收购标志其运势急转直下。
 - [[ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]] (2026-07-30) - AI工具让创始人更容易单枪匹马地创业，而且许多人在公司发展壮大后依然保持这种单干状态。
 - [[jetzero-bwb-aircraft|JetZero翼身融合飞机设计能否挑战波音霸主地位？]] (2026-07-30) - 美国初创公司JetZero正研发翼身融合客机Z4，试图打破波音在美国的垄断地位，并已获得美国进出口银行30亿美元的贷款支持。
 - [[meta-q2-earnings-ai-spending-drop|Meta股价大跌10%，因AI支出增加且展望不及预期]] (2026-07-30) - 尽管Meta公布了创纪录的第二财季收入，但该公司提高了今年的AI支出下限，自由现金流缩水至不足10亿美元，当前财季的收入展望也未达预期。
@@ -131,7 +125,6 @@
 - [[dont-start-startup-to-get-acquired|Don't start a startup with the goal of getting acquired.]] (2026-07-27) - If your goal is to cash out at $5 million as quickly and reliably as possible, becoming a founder is a very strange way to do it.
 - [[ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] (2026-07-27) - 华盛顿要求约束AI的呼声愈演愈烈，科技行业内部则在为“谁来握紧缰绳”争夺主导权。
 - [[us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]] (2026-07-27) - 美国企业界掀起模型“混搭”潮，AI行业经济模式与竞争格局迎来重构。
-- [[washington-ai-safety-panic|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] (2026-07-27) - 华盛顿要求约束AI的呼声愈演愈烈，科技行业内部则在为“谁来握紧缰绳”争夺主导权。
 - [[china-offshore-wealth-crackdown|中国富豪借离岸架构积累财富的时代正在终结]] (2026-07-27) - 中国正在重塑针对超级富豪的监管规则，以加强对其海外投资方式的管控。
 - [[ibm-stock-crash-why-not-worried|股价单日暴跌25%，IBM首席执行官为何不担心?]] (2026-07-24) - 在其他科技巨头投资AI数据中心之际，IBM则计划继续销售大型机，并将利润投入量子计算领域。
 - [[reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]] (2026-07-24) - 特斯拉财季业绩令人失望，周四股价重挫约15%；SpaceX在创纪录IPO后，如今已较高点跌去近50%。
@@ -142,8 +135,8 @@
 - [[hardware-is-not-so-hard|Hardware is not so hard]] (2026-07-19) - What Chip Weinberger learned building and selling 2500 Jamcorder MIDI recorders.
 - [[micron-tech-market-importance|美光科技已成“市场上最重要的股票”，现在该担心了吗？]] (2026-07-17) - 近期该股承压，部分原因在于市场担心其定价能力何时会减弱。鉴于美光科技的市场重要性，投资者是否应该担忧？其股价目前低于850美元，意味着估值倍数更低。
 - [[spacex-stocks-below-ipo-price|SpaceX股价首次跌破IPO发行价]] (2026-07-16) - 周三，SpaceX股价首次跌破135美元的IPO发行价，这表明市场对这桩史上规模最大上市交易的热情正在降温。
+- [[kimi-k3-pelican-benchmark|Kimi K3, and what we can still learn from the pelican benchmark]] (2026-07-16) - Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their “most capable model to date, with 2.8 trillion parameters”. It’s currently available via their website and …
 - [[high-shanwen-economic-truth|他道出中国经济真相，却在沉默中走完余生]] (2026-07-15) - 2019年，我给高善文打了一通电话，想了解让市场在中国经济中发挥“决定性作用”的改革为何迟迟没有到来。他给出的答案让我至今难忘。几年后，他在沉默中病逝，让人唏嘘不已。
-- [[founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]] (2026-07-14) - Founder market fit is a necessary but insufficient condition for finding success in the startup world
 - [[retail-999-pricing-strategy|9.99美元，如何成为零售业最具魔力的定价？]] (2026-07-14) - 企业正通过重新设计包装和大幅削减营销预算，来守住这一重要的心理价位。
 - [[Netflix-Strategy-Engagement-2026|Netflix Exploring Live TV and Bundled Services as User Engagement Declines]] (2026-07-10) - Netflix is discussing adding live TV channels and potential bundled streaming services, indicating a shift from its early focus on simplicity and on-demand content.
 - [[iran-war-winner-african-billionaire|Iran War Brings a Surprise Winner: Africa's Richest Man]] (2026-07-10) - Nigerian entrepreneur Aliko Dangote's refinery has seen a surge in output amid the Iran conflict, boosting his wealth and positioning him as a key beneficiary of regional energy disruptions.
@@ -155,7 +148,6 @@
 - [[elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]] (2026-07-06) - As AI disrupts traditional career paths, elite students are skipping corporate internships and instead joining startup incubators in Silicon Valley.
 - [[white-house-intervention-against-fifa-red-card|White House Intervenes Behind the Scenes to Overturn FIFA Red Card Decision]] (2026-07-06) - The U.S. government, led by President Trump, pressured FIFA to overturn a red card issued to American forward Folarin Balogun during the World Cup, citing unfairness and invoking administrative review under FIFA's Article 27.
 - [[blue-origin-trump-contract-surge|How Bezos Learned to Win Over Trump and Secured a Surge of Contracts for Blue Origin]] (2026-07-03) - Bezos transitioned from being a political adversary of Trump to a key ally, with Blue Origin securing a dramatic increase in federal contracts during Trump's second term.
-- [[korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]] (2026-07-03) - Ga-Hyun Chung斥资约70亿美元大举买入油轮，组建起全球最大的油轮船队，当时正值市场陷入混乱前夕。
 - [[starlink-ground-market-challenge|星链已称霸卫星互联网，它能否在地面市场颠覆AT&T和Verizon？]] (2026-07-03) - 作为一家卫星服务提供商，星链在支持手机连接方面仍面临局限。目前，手机端的卫星连接速度较慢，性能也相对有限。
 - [[seeing-and-being-seen|Seeing and Being Seen]] (2026-07-02) - look at me! look at me! look at me! hey! look at me!
 - [[western-automakers-losing-grip-on-chinese-market|Western Automakers Are Losing Their Grip on the Chinese Auto Market]] (2026-07-01) - With faster, more technology-focused approaches, Chinese EVs have nearly driven foreign brands out of the market.
@@ -173,12 +165,10 @@
 - [[spacex-ipo-wealth-management|SpaceX员工紧急恶补：暴富后应如何理财]] (2026-06-10) - 面对足以改变命运的巨额财富，SpaceX员工们需要盘算是否该卖出股票、何时套现，并权衡其他理财策略。
 - [[leopold-aschenbrenner-situational-awareness|将Jane Street纳为投资人的24岁AI奇才]] (2026-06-09) - 凭借对AI未来的预测，莱奥波德·阿申布伦纳在互联网上吸引了大批狂热追随者，其投资公司常规的监管公告被人们像研究圣经一样仔细研读。
 - [[berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]] (2026-06-04) - 伯克希尔哈撒韦公司在美国住宅建筑商身上看到了什么公开市场投资者没有注意到的东西？或许与关注该行业的日本企业所见略同。
-- [[berkshire-and-japanese-builders-see-opportunity-in-us-housing|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]] (2026-06-04) - 伯克希尔哈撒韦公司在美国住宅建筑商身上看到了什么公开市场投资者没有注意到的东西？或许与关注该行业的日本企业所见略同。
 - [[67-age-entrepreneurship|我67岁开始创业，这比退休好太多了]] (2026-06-02) - 探讨了高龄创业的驱动力、优势以及从中获得的经验。
 - [[2026-05-28-drone-investment|特朗普政府正就注资国内无人机公司进行谈判]] (2026-05-28) - 美国政府计划投资国内无人机制造企业，以加强国内防卫产业链与技术自主性。
 - [[2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]] (2026-05-27) - 知名选股人Gavin Baker在SpaceX火箭着陆成功之前就做出大额投资，展现了对航天产业长期潜力的信心。
 - [[ai-tsunami-john-doerr|专访风投家约翰·杜尔：AI是史上最大的科技“海啸”]] (2026-05-25) - 凯鹏华盈董事长约翰·杜尔曾精准押注谷歌，在他看来，AI革命非但没有过度炒作，反而被低估了。
-- [[doerr-ai-tsunami|专访风投家约翰·杜尔：AI是史上最大的科技“海啸”]] (2026-05-25) - 凯鹏华盈董事长约翰·杜尔曾精准押注谷歌，在他看来，AI革命非但没有过度炒作，反而被低估了。
 - [[china-all-encompassing-policy|中国“全方位产业政策”令世界其他地区望尘莫及]] (2026-05-15) - 从传统行业到新兴领域，从商品到服务，从微观干预到宏观调控，中国政府的支持无处不在。
 - [[2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]] (2026-03-11) - Aaru背后的团队正吸引包括麦当劳和安永在内的品牌客户，该公司押注AI机器人能够比人类更准确地预测人类行为。
 - [[2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] (2026-02-23) - 对热门AI初创公司的投资争夺战已导致投资者之间的交易条款出现差异，从而引发了外界对这些公司真实价值的质疑。

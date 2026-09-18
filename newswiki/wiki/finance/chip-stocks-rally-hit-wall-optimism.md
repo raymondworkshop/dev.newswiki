@@ -23,7 +23,7 @@ topics:
 
 ## 相关文章
 
-- [[finance/semiconductor-stocks-correction|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]]
 - [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
 - [[tech/2026-highest-performing-stocks|盘点2026年上半年标普500指数表现最好的20只股票]]
+- [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]

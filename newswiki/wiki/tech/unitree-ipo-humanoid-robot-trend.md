@@ -18,7 +18,7 @@ topics:
 
 ## 要点
 - 宇树科技 (Unitree Robotics) 计划在上海证券交易所 [[hubs/ipo|IPO]]，寻求融资约 9 亿美元，散户认购超额达 8,000 倍，显示出资本市场对[[hubs/humanoid-robot|人形机器人]]极高热情。
-- 市场规模快速扩张：2026 年上半年人形机器人出货量增至近四倍，前五大供应商均为中国公司，主因是中国产品具备显著的价格竞争力。
+- 市场规模快速扩张：2026 年上半年[[hubs/humanoid-robot|人形机器人]]出货量增至近四倍，前五大供应商均为中国公司，主因是中国产品具备显著的价格竞争力。
 - 竞争格局：宇树曾是最大供应商，但 2026 年上半年销量被 [[tech/agibot|智元机器人]] 超越；两家公司销量同比分别增长 170% 和 562%。
 - 财务表现：宇树在行业内罕见地实现了盈利，收入近 17 亿元人民币，调整后净利润约 5.9 亿元人民币。
 - 生态合作：[[hubs/nvidia|英伟达]] 选择宇树 H2 作为首个向研究人员销售的机器人系统。
@@ -28,11 +28,11 @@ topics:
 - 中国企业密集寻求上市：除宇树外，[[tech/agibot|智元机器人]] (赴港)、自变量机器人、银河通用、[[tech/leju-robotics|乐聚机器人]] (深交所) 及逐际动力均有上市计划。
 - [[hubs/valuation|估值]]压力：分析师认为宇树 [[hubs/ipo|IPO]] 可能会降低 [[tech/ubtech|优必选]] 的“稀缺性溢价”，对其股价产生压力。
 - 国际竞争：美国 Agility Robotics 计划通过 SPAC 交易上市（[[hubs/valuation|估值]] 25 亿美元），其 Digit 机器人已在舍弗勒和 GXO 等商业环境运行。
-- 商业化挑战：尽管技术进展迅速，但 GXO 等企业表示人形机器人的投资回报 (ROI) 仍需数年时间才能实现。
+- 商业化挑战：尽管技术进展迅速，但 GXO 等企业表示[[hubs/humanoid-robot|人形机器人]]的投资回报 (ROI) 仍需数年时间才能实现。
 
 ## 相关文章
 
-- [[tech/humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]]
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
+- [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]

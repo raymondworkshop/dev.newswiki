@@ -16,7 +16,7 @@ Nokia is transitioning from a mobile device manufacturer to a key supplier of AI
 
 ## Key Points
 - Nokia, under CEO Justin Hotard, has pivoted from mobile phones to supplying critical AI infrastructure, including optical switches and routers that manage data flow in [[hubs/ai-infrastructure|data center]]s.
-- Nokia's products function as the 'logistics' of AI data centers—transferring data between servers, analogous to trucks and sorting hubs in a delivery network.
+- Nokia's products function as the 'logistics' of AI [[hubs/ai-infrastructure|data center]]s—transferring data between servers, analogous to trucks and sorting hubs in a delivery network.
 - The company's optical network division grew significantly, with market share rising from 6.3% to 27.3% in North America, placing it second behind Ciena (50.1% share).
 - Nokia acquired Infinera for $2.3 billion, enhancing its capabilities in optical transport technologies, including lasers, receivers, and chips.
 - Nokia's AI infrastructure revenue grew strongly in Q1, leading to a year-over-year growth forecast of 18–20%, up from prior expectations.
@@ -38,6 +38,6 @@ Nokia is transitioning from a mobile device manufacturer to a key supplier of AI
 ## Related Articles
 
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
-- [[tech/etched-ai-chip-startup|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]
+- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]

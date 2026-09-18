@@ -28,6 +28,6 @@ AI转型必须以业务成果为锚，而非技术部署为目标。
 ## 相关文章
 
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
+- [[business/microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]]
 - [[business/xbox-asha-sharma-turnaround|“游戏圈外人”夏尔马的使命：以残酷诚实整顿微软Xbox业务]]
 - [[business/microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]]
-- [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]

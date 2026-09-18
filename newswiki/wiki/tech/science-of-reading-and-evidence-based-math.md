@@ -31,7 +31,7 @@ Ello leverages the Science of Reading and evidence-based math to deliver persona
 
 ## Related Articles
 
-- [[tech/theres-no-such-thing-as-a-small-software-team|There's no such thing as a small software team anymore]]
 - [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]]
 - [[career/improve-pronunciation-day-5|5 days to improve your pronunciation / Day 5 - You've earned your certificate]]
 - [[design/Product-Design-Ello-Real-Time-Response|Ello Listens, Adapts & Responds in Real Time]]
+- [[business/founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]

@@ -3,6 +3,8 @@
 健康、关系与文化如何定义当下生活方式
 
 ## 文章
+- [[american-families-dinner-struggle|美国家庭最头痛的五个字：今晚吃什么？]] (2026-09-18) - 美国人花在做饭上的时间比过去20年都要多，但繁忙的日程和不断上涨的成本却让做饭成了生活中的头号痛点。
+- [[glp1-drugs-beyond-weight-loss|除了减重，GLP-1类药物还有哪些疗效?]] (2026-09-18) - 医学界正在探索减肥药是否也能用于治疗子宫内膜异位症和克罗恩病等疾病。
 - [[spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] (2026-09-17) - 布莱恩·阿格雷是SpaceX十多年的老员工，IPO使其个人财富急剧增长。他和妻子双双辞职，计划以每个月2.5万美元的预算周游世界，度过“疯狂之年”。
 - [[mountain-school-ivy-league-farm-work|一学期付4万美元干农活，这所另类学校如何成为常春藤敲门砖？]] (2026-09-15) - 就读于Mountain School项目的高中生们希望通过洗碗、放羊和收玉米，来获得远离科技产品的喘息之机，并为自己的大学申请加分。
 - [[china-economic-slowdown-shangrila-matsutake-trade|中国经济困境波及香格里拉松茸“猎人”]] (2026-09-14) - 藏族松茸“猎人”每年都有几个星期会进入喜马拉雅高山上采摘这种珍贵食材，但如今激烈的市场竞争正不断压缩他们的生存和盈利空间。
@@ -11,23 +13,17 @@
 - [[windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10) - 位于世贸中心北塔100多层之上的“世界之窗”曾是重塑纽约城市文化的餐饮巨头。
 - [[portugal-comporta-coastal-travel-guide|趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇]] (2026-09-09) - 孔波塔是葡萄牙最时髦的海滨度假胜地，这已不再是秘密。但它的魔力在于，这里依然给人一种秘境之感。
 - [[global-tourists-onitsuka-tiger-japan-stores|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
-- [[onitsuka-tiger-tourism-boom|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
 - [[trillion-dollar-tourism-bright-spot-china-economy|数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎]] (2026-09-08) - 中国最新五年规划提出，要打造“旅游强国”。每年有数千万外国人入境中国，国内游也在升温，但一些中国游客却捂紧了钱包。
 - [[cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] (2026-09-07) - 如今上海正成为美国等富裕国家癌症患者跨国就医的新热门目的地，这里的CAR-T疗法费用不到美国的一半，中国获批产品数量也居全球首位。
 - [[taiwan-temples-religious-freedom-vs-china|漫步于台湾庙宇，我窥见中国另一种可能的模样]] (2026-09-07) - 两岸分离七十余载，塑造了两地民众截然不同的宗教生活。在台北挤满信众的庙宇中，出生于中国的本报记者见证了中国大陆失去了什么。
-- [[taiwan-temples-religious-life-china-contrast|漫步于台湾庙宇，我窥见中国另一种可能的模样]] (2026-09-07) - 两岸分离七十余载，塑造了两地民众截然不同的宗教生活。在台北挤满信众的庙宇中，出生于中国的本报记者见证了中国大陆失去了什么。
 - [[us-colleges-direct-admission-no-application|美国数百所高校现在不用提交申请就“直接录取”]] (2026-09-04) - 随着生源萎缩，越来越多学校开始“直接录取”，即只依据几项标准录取学生，比如高中成绩单。“这不是学生向院校提出申请，而是院校向学生提出申请。”
 - [[lincoln-class-ship-deployment-pattaya|“林肯号”航母高强度部署告一段落，泰国芭提雅准备迎接船员]] (2026-09-02) - 大约5,000名手头阔绰、急需休整放松的水兵即将涌入泰国海滨度假胜地芭堤雅。
 - [[bent-over-dumbbell-row|俯身哑铃划船_Keep]] (2026-08-31) - 步骤 | 双脚分开，俯身约90°；双手对握哑铃，拳心相对；手肘微屈，双臂垂直于地面夹肘上拉哑铃至腹部两侧，在最高点时略作停顿，缓慢下放哑铃至起始位置动作全程保持肘部夹紧呼吸 | 上拉哑铃时呼气，下放哑铃时吸气动作感觉 | 上拉哑铃时，后背有明显收缩感；次数多之后可能会出现轻微灼烧感
-- [[china-premium-wine-boom-behind-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[china-premium-wine-boom-mystery-vineyard|中国精品葡萄酒热潮背后的神秘酒庄]] (2026-08-31) - 今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的宁夏酒庄。
 - [[e9-97-af-e5-85-a5-e6-88-91-e4-bb-ac-e5-ae-b6-e5-ba-ad-e5-81-|闯入我们家庭假期的不速之客：老妈的AI聊天机器人]] (2026-08-28) - 作为一个对AI心存怀疑和恐惧的千禧一代，当我发现年逾七旬的父母竟然迷上了Claude时，那份错愕可想而知。
-- [[older-worker-reentry-success|打破年龄魔咒：66岁老人重返职场之路]] (2026-08-21) - “我会告诉所有比我年轻的人，一定要存钱，以防遇到我这样的事，”将于12月迎来67岁生日的Lee说。“而如果你和我年纪一样大，那就千万别放弃。”
-- [[harry-meghan-american-dream-end|哈里与梅根的美国梦终结]] (2026-08-21) - 在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。
 - [[harry-meghan-american-dream-ends|哈里与梅根的美国梦终结]] (2026-08-21) - 在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。
 - [[linkedin-dating-trend|不顾“禁爱令”，领英意外成为约会神器]] (2026-08-20) - 凭借清晰的头像和详尽的个人履历，这个职场社交平台正成为单身人士寻觅伴侣的首选工具。
 - [[prince-harry-meghan-return-to-uk|哈里王子与梅根将搬回英国]] (2026-08-20) - 据知情人士透露，在哈里夫妇卸下王室职责并移居美国西海岸六年之后，他们正计划于本月晚些时候搬回英国。
-- [[prince-harry-meghan-return-uk|哈里王子与梅根将搬回英国]] (2026-08-20) - 据知情人士透露，在哈里夫妇卸下王室职责并移居美国西海岸六年之后，他们正计划于本月晚些时候搬回英国。
 - [[ai-chatbot-sycophancy|我为何要求聊天机器人别再对我过度谄媚]] (2026-08-18) - AI回答问题总是过于迎合、过于热情，而这在一定程度上是我们自己造成的。
 - [[us-seniors-global-travel-boom|有钱有闲能折腾：美国老年人正推动全球旅游热潮]] (2026-08-18) - 随着“婴儿潮”一代纷纷踏上旅途，旅游业也随之调整，推出更优质的住宿、更轻松的徒步路线和行李寄送服务。
 - [[ai-rare-disease-diagnosis|AI正助力罕见病患者破解医学谜团]] (2026-08-17) - 面对罕见病和疑难杂症，患者与医护人员正借助AI技术以寻根究底。
@@ -43,6 +39,7 @@
 - [[american-dialogues-loneliness-movement|排解孤独的个人试验如何演变成一场社会运动？]] (2026-08-05) - 他带着一块牌子来到公园，邀请人们聊聊自己今天过得怎么样。六年过去了，他们依然在聊。
 - [[fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]] (2026-08-04) - 在时尚界面临降低环境影响的压力之际，整个行业对二手服装的兴趣正日益浓厚。
 - [[ai-dating-chatbots|AI时代的爱情：聊天机器人接管线上约会]] (2026-08-04) - 一些厌倦了“左滑右滑”的单身人士，正将目光投向AI红娘。
+- [[ai-images-blurring-reality-guide|AI图片无处不在：它们如何影响大脑，我们又该如何应对？]] (2026-08-03) - 面对充斥着机器生成内容的社交动态，有哪些实用的建议。
 - [[fauci-pandemic-star-to-silent-witness|福奇如何从抗疫明星变为沉默证人]] (2026-07-31) - 作为美国新冠疫情期间最著名的医学专家，福奇正面临着对其个人声誉的最大挑战。
 - [[ai-social-proxy|年轻人正让AI替他们说话，甚至在面对面交流时]] (2026-07-27) - 有一项任务比做家庭作业更令人头疼，那就是与人打交道。如今，越来越多的年轻人正开始依赖AI来处理这件事。
 - [[developing-countries-aging-crisis|发展中国家正迅速老龄化，无力承担养老之重]] (2026-07-27) - 在泰国等发展中国家，老年人口正在激增，但这些国家的民间储蓄与政府资源却捉襟见肘。
@@ -72,7 +69,6 @@
 - [[navy-seal-parenting-webb|前海豹突击队员谈如何培养自信、具有冒险精神的孩子]] (2026-05-15) - 美国畅销书作家、前海豹突击队精英狙击手布兰登·韦伯在采访中谈到了过度保护孩子的危害、如何区别“管教”和“惩罚”，以及为什么有些高成就父母需要被泼冷水。
 - [[2026-05-11-divorce-financial-infidelity|婚姻破裂的关键导火索：“财务出轨”]] (2026-05-11) - 如今，对伴侣隐瞒财产或支出已是再简单不过的事情，但“财务不忠”不仅会酿成离婚的结局，还会给个人带来严重的财务后果。
 - [[upper-body-dumbbell-workout|為什麼你練上半身沒線條？一副啞鈴就能完成的4個訓練動作]] (2026-03-26) - 很多人上半身一直有在練，重量也不輕，但線條就是出不來。問題往往不在器材不夠，而是在訓練方式不夠完整。這支影片會帶你用一副啞鈴，完成4個上半身訓練動作，包含推、拉、肩膀與手臂的訓練，讓肌群能被平均刺激，線條自然更清楚。這組訓練特別適合：✅ 居家訓練、器材有限✅ 健身房器材排不太到✅ 不知道如何安排上肢課表的初學者每個動作建議每個做 3–4 組、每組 10–12 下，記得收藏起來
-- [[principles-for-living-an-operating-system-for-life|Principles For Living: An Operating System for Life]] (2018-06-05) - All that we write about, think about, and strive for at Farnam Street draws inspiration from one of these five principles: Direction Over Speed, Live Deliberately, Thoughtful Opinions Held Loosely, Principles Outlive Tactics, and Own Your Actions.
 - [[principles-for-living-operating-system-for-life|Principles For Living: An Operating System for Life]] (2018-06-05) - All that we write about, think about, and strive for at Farnam Street draws inspiration from one of these five principles: Direction Over Speed, Live Deliberately, Thoughtful Opinions Held Loosely, Principles Outlive Tactics, and Own Your Actions.
 
 ## 看点

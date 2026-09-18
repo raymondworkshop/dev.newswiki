@@ -33,4 +33,4 @@ Cami Clark 是 [[hubs/anthropic|Anthropic]] 幕后的关键影响力人物，负
 - [[business/spacex-ipo-validates-musks-extreme-strategy|SpaceX上市印证了马斯克“极致”战略的威力]]
 - [[business/openai-lost-ai-crown|OpenAI如何失去AI王冠——又欲如何重新夺回]]
 - [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]
-- [[business/windrose-technology-china-layoffs|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]]
+- [[business/windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]]

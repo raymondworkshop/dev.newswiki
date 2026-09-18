@@ -16,7 +16,7 @@ Small, specialized LLMs can be effectively fine-tuned for specific classificatio
 - A preprocessing step uses a small local [[hubs/llm|LLM]] to categorize incoming questions into known metadata tags (e.g., pool, car, hvac, cooking) to narrow the vector search space.
 - The experiment tests the hypothesis that a very small local [[hubs/llm|LLM]] can be reliably fine-tuned for this classification task.
 
-## LLM & Finetuning Details
+## [[hubs/llm|LLM]] & Finetuning Details
 - Models used: Qwen 3:4B (general QA) and Qwen 3:0.6B (classifier).
 - Finetuning framework: Unsloth, using QLoRA.
 - Initial dataset size: ~850 entries, split 70/15/15 (Train/Eval/Test).
@@ -35,5 +35,5 @@ Small, specialized LLMs can be effectively fine-tuned for specific classificatio
 
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[tech/how-i-use-llms-to-learn-complex-topics|How I use LLMs to learn complex topics]]
 - [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]]
-- [[tech/llm-mechanics-walkthrough|How LLMs Actually Work]]

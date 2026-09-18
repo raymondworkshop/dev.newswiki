@@ -42,4 +42,4 @@ AI在政府中的应用必须建立在明确的法律与伦理护栏之上，否
 - [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]]
 - [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]]
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]]
-- [[tech/dna-evidence-security-flaw|安全漏洞致使全美30年来的DNA证据面临黑客攻击风险]]
+- [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]

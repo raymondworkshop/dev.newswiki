@@ -14,13 +14,13 @@ Prolonged exposure to repetitive, patterned AI output can lead to cognitive fati
 
 ## Key Points
 - The author spends significant time daily reading and reviewing [[hubs/llm|LLM]]-generated output, transitioning from direct coding to designing code and reviewing [[hubs/llm|LLM]]-generated solutions.
-- LLM output patterns—false assumptions, hallucinations, excessive emojis, and staccato fragments—are increasingly fatiguing due to repetition and lack of variation.
+- [[hubs/llm|LLM]] output patterns—false assumptions, hallucinations, excessive emojis, and staccato fragments—are increasingly fatiguing due to repetition and lack of variation.
 - While the author finds LLMs useful for productivity and exposure to new approaches, the consistent style and errors create a sense of mental exhaustion.
 - [AI Synthesis] This reflects a broader concern about the long-term psychological and cognitive impact of relying on AI tools in professional workflows, especially when output patterns are uncontrolled or repetitive.
 
 ## Related Articles
 
-- [[career/ai-removing-middle-class-software-engineering|AI is removing the middle class of software engineering]]
 - [[career/how-i-use-llms-as-a-staff-engineer-in-2026|How I use LLMs as a staff engineer in 2026]]
+- [[career/ai-removing-middle-class-software-engineering|AI is removing the middle class of software engineering]]
 - [[career/llms-reward-expertise|LLMs reward expertise]]
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]

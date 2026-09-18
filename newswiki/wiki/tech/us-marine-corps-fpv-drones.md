@@ -26,5 +26,5 @@ FPV 无人机将打击权下放到小分队级别，显著缩短了 OODA 循环�
 ## 相关文章
 
 - [[tech/nvidia-targets-global-robotics-china-demand-strong|英伟达瞄准全球机器人赛道，中国市场需求强劲]]
-- [[tech/ai-world-models-robotics|AI的下一次重大飞跃：走进现实]]
+- [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实]]
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]

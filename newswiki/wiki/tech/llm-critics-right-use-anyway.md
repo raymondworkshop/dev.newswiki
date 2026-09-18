@@ -25,7 +25,7 @@ LLMs should be used to make fewer things of higher quality, rather than more thi
 - Practical Workflow Patterns: Using the '/grill-me' technique (relentless interviewing) and 'Ralph Wiggum loops' (sub-agents ripping apart plans) to force human rigor and eliminate hallucinations.
 
 ## Technical Strategies for Quality
-- Intuition Probing: Letting an LLM hallucinate an expected API or [[hubs/ux|UX]] before showing it the real design to test if the design matches common human expectations.
+- Intuition Probing: Letting an [[hubs/llm|LLM]] hallucinate an expected API or [[hubs/ux|UX]] before showing it the real design to test if the design matches common human expectations.
 - The 3-Sentence Problem Statement: Forcing a concise 'Problem', 'Shipping', and 'Not Shipping' statement to ensure human readability and factual accuracy.
 - Expertise Requirement: LLMs are most dangerous when used in fields where the user cannot distinguish 'good' from 'dogshit'; they are best used as learning tools when a clear feedback loop (e.g., code compiling) exists.
 
@@ -34,4 +34,4 @@ LLMs should be used to make fewer things of higher quality, rather than more thi
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
 - [[tech/local-llm-question-categorization|Fine Tuning a Local LLM to Categorize Questions]]
-- [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]]
+- [[tech/how-i-use-llms-to-learn-complex-topics|How I use LLMs to learn complex topics]]

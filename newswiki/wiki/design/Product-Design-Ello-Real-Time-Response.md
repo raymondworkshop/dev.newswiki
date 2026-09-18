@@ -36,5 +36,5 @@ Ello leverages real-time speech processing to create a responsive, child-adaptiv
 
 - [[career/improve-pronunciation-day-5|5 days to improve your pronunciation / Day 5 - You've earned your certificate]]
 - [[lifestyle/china-releases-pastor-ezra-jin|China Releases Imprisoned Pastor Ezra Jin After U.S. Pressure]]
-- [[career/founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
+- [[business/founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
 - [[career/how-to-choose-a-subproblem|How To Choose A Subproblem]]

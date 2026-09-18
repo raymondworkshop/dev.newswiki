@@ -31,7 +31,7 @@ topics:
 - Meta可能出租闲置算力，这可能证实其在基础设施建设上步子迈得太大。
 - Meta首席执行官马克·扎克伯格表示，如果公司认为建设过度，出租算力是一个选择。
 - Meta的AI投资野心最为膨胀，组建了Meta超级智能实验室(Meta Superintelligence Labs)以开发超强形态的AI。
-- Meta预计2026年将把远超一半的收入用于资本投资，可能导致自由现金流自上市以来首次跌入负值。
+- Meta预计2026年将把远超一半的收入用于资本投资，可能导致自由[[hubs/cash-flow|现金流]]自上市以来首次跌入负值。
 
 ## 市场反应与未来展望
 - 任何超大市值科技巨头缩减AI资本支出的可能性都让投资者担忧。
@@ -43,7 +43,7 @@ topics:
 
 ## 相关文章
 
-- [[tech/us-smr-nuclear-revival|揭秘美国一代人以来首座核反应堆的建设攻关]]
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
+- [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]

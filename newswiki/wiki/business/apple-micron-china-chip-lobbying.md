@@ -29,7 +29,7 @@ AI 需求驱动的供应短缺使存储芯片厂商从被动接受价格转为�
 
 ## 相关文章
 
-- [[finance/bessent-bond-market-analysis|贝森特为何在美债市场做文章]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]]
-- [[business/us-nuclear-reactor-construction-oklo|揭秘美国一代人以来首座核反应堆的建设攻关]]
+- [[business/45-million-donation-larry-ellison-trump-inner-circle|一笔4,500万美元的捐款如何让拉里·埃里森深入特朗普核心圈？]]
+- [[business/microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]]

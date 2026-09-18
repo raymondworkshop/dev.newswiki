@@ -29,7 +29,7 @@ topics:
 - [AI Synthesis] 该案例表明，单一参与者通过资本密集型布局和市场时机把握，可实现对大宗商品运输市场的结构性影响，具有显著的‘规模与控制’类摩尔效应。
 
 ## 风险与争议
-- 尽管Chung的押注短期内取得回报，但其模式存在显著风险：如市场波动、[[hubs/regulation|监管]]审查、反垄断调查及地缘政治变化。
+- 尽管Chung的押注短期内取得回报，但其模式存在显著风险：如市场波动、[[hubs/regulation|监管]]审查、反垄断调查及[[hubs/geopolitics|地缘政治]]变化。
 - 历史上类似操作（如台湾大亨苏信吉在2008年）在经济下行期遭遇惨败，提示此类策略存在高风险、低容错的特性。
 - 其与地中海航运（MSC）创始人吉安路易吉·阿庞特的合作关系仍不透明，存在潜在的合规与利益冲突风险。
 - [AI Synthesis] 该案例凸显了航运市场在[[hubs/regulation|监管]]与透明度方面的结构性缺陷，尤其是在二手船和非公开交易市场中，反垄断机构难以有效干预。
@@ -37,6 +37,6 @@ topics:
 ## 相关文章
 
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
+- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
-- [[business/korean-oil-tanker-magnate-irans-war-profit|Korean Oil Tanker Magnate Makes a Fortune from Iran War]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]

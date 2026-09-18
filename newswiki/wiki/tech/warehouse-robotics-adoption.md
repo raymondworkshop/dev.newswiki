@@ -20,14 +20,14 @@ topics:
 - 劳动力成本上涨与消费者对快速送货的需求，正驱动物流运营商加速仓储[[hubs/automation|自动化]]进程。
 - 北美市场需求强劲：今年上半年企业订购了近18,000台机器人，价值约12亿美元，较去年同期有所增长。
 - 巨头引领竞争：[[Amazon]] 和 [[Walmart]] 的大规模[[hubs/automation|自动化]]投资迫使其他企业必须跟进以维持竞争力。
-- 第三方物流转型：GXO Logistics 斥资近10亿美元为 [[Nike]]、[[Verizon]] 等客户提供自动化改造，包括自动叉车、库存扫描无人机及试点[[hubs/humanoid-robot|人形机器人]]。
-- 成本合理化：过去十年仓库工人工资上涨41%（6月平均时薪26.85美元），使得高昂的自动化设备投资在财务上更具合理性。
+- 第三方物流转型：GXO Logistics 斥资近10亿美元为 [[Nike]]、[[Verizon]] 等客户提供[[hubs/automation|自动化]]改造，包括自动叉车、库存扫描无人机及试点[[hubs/humanoid-robot|人形机器人]]。
+- 成本合理化：过去十年仓库工人工资上涨41%（6月平均时薪26.85美元），使得高昂的[[hubs/automation|自动化]]设备投资在财务上更具合理性。
 - 部署门槛降低：新一代技术更易于在老旧建筑中安装，且部分制造商推出订阅模式以降低前期成本。
-- [AI Synthesis] 自动化不仅是为了效率，更是为了在供应链不确定性中构建“韧性”，通过替代高强度体力劳动（如装卸、拣货）解决严重的劳动力短缺问题。
+- [AI Synthesis] [[hubs/automation|自动化]]不仅是为了效率，更是为了在供应链不确定性中构建“韧性”，通过替代高强度体力劳动（如装卸、拣货）解决严重的劳动力短缺问题。
 
 ## 相关文章
 
 - [[tech/2026-05-28-cheap-humanoid-robots|下一波中国冲击：比二手车还便宜的人形机器人]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
 - [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]]
-- [[tech/humanoid-robot-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]]
+- [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]

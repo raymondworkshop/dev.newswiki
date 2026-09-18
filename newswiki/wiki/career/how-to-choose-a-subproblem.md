@@ -31,7 +31,7 @@ Decompose monster problems into a fractal sequence of smaller tasks to maintain 
 
 ## Related Articles
 
-- [[career/founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
+- [[business/founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]]
 - [[career/improve-pronunciation-day-5|5 days to improve your pronunciation / Day 5 - You've earned your certificate]]
 - [[design/Product-Design-Ello-Real-Time-Response|Ello Listens, Adapts & Responds in Real Time]]
 - [[business/iran-war-winner-african-billionaire|Iran War Brings a Surprise Winner: Africa's Richest Man]]
