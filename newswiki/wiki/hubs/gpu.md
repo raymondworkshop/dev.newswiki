@@ -12,6 +12,7 @@ Curated hub for the concept 「GPU」.
 ## 相关文章
 
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]] · #tech
+- [[tech/gareth-price-ai-setup|Gareth Price’s AI setup]] · #tech
 - [[business/ai-software-company-moats|How does AI affect software company moats?]] · #business
 - [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]] · #tech
 - [[tech/local-models-will-not-win|No, local models will not win]] · #tech

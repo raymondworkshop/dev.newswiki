@@ -14,6 +14,7 @@ Curated hub for the concept 「interest rates」.
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]] · #finance
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] · #finance
 - [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]] · #finance
+- [[valuation-and-risk|估值與風險]] · #wiki
 - [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]] · #finance
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] · #business
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]] · #finance

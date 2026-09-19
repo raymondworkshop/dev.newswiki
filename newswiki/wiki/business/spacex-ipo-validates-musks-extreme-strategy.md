@@ -25,7 +25,7 @@ topics:
 - Musk's "extreme" strategy has not been without challenges, including missed deadlines, overstatements, detours, and financial losses.
 - His business strategies have extended into politics with mixed results, and he has frequently engaged in controversial social media discourse.
 - Despite criticisms, Musk's "most" achievements have solidified his supporters' belief in his ability to achieve the seemingly impossible.
-- SpaceX's success has inspired a new generation of hard-tech startups and contributed to the growth of the space economy, with companies dreaming of roles in lunar development and potential private rocket races.
+- [[hubs/spacex|SpaceX]]'s success has inspired a new generation of hard-tech startups and contributed to the growth of the space economy, with companies dreaming of roles in lunar development and potential private rocket races.
 - The success of SpaceX and Tesla has paved the way for other ambitious ventures, including AI labs like OpenAI and Anthropic, which are also planning major IPOs.
 - Musk's personal motivation stems from a near-death experience with malaria, leading him to conclude that humanity needs to become a multi-planetary species.
 - The pursuit of reusable rockets, initially dismissed by the industry, was a mathematically sound approach that eventually led to SpaceX's success, despite early failures.

@@ -1,6 +1,6 @@
 # Archive Status
 
-**Last Updated:** 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
+**Last Updated:** 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
 
 ## Compilation Batch: 2026-05-27 (5 articles)
 
@@ -103,6 +103,10 @@ All files compiled from raw/ to wiki/ and then archived here.
 
 | File | Topic | Wiki Location | Status |
 |------|-------|---------------|--------|
+| 2026-09-19-霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事.md | 商业 | `newswiki/wiki/business/howard-buffett-berkshire-chairman-succession.md` | Archived |
+| 2026-09-19-Science is open software.md | Tech | `newswiki/wiki/tech/science-is-open-software.md` | Archived |
+| 2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻.md | 商业 | `newswiki/wiki/business/jolin-ellison-michigan-sports-donor-influence.md` | Archived |
+| 2026-09-18-Gareth Price’s AI setup.md | Tech | `newswiki/wiki/tech/gareth-price-ai-setup.md` | Archived |
 | 2026-09-17-别管什么AI末日了，真正的威胁就在眼前.md | 科技 | `newswiki/wiki/tech/ai-doomsday-vs-real-threats.md` | Archived |
 | 2026-09-18-How To Write With An LLM.md | 科技 | `newswiki/wiki/tech/how-to-write-with-an-llm.md` | Archived |
 | 2026-09-18-黑客利用Anthropic的Claude入侵了OpenAI.md | 科技 | `newswiki/wiki/tech/hackers-use-claude-to-breach-openai.md` | Archived |

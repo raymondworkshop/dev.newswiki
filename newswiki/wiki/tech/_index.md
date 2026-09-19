@@ -6,6 +6,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[gpt-5-6-sol-ran-a-real-business-lost-447|GPT 5.6 Sol Ran a Real Business—and Lost $447]] (2026-09-18) - If an agent had a wallet, a computer, and 24 hours, could it run a profitable startup?
 - [[mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18) - 支付行业高管正准备应对AI驱动的购物浪潮，这迫使他们重新审视交易风险、欺诈防范，以及如何处理可能“失控”的AI智能体。
 - [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
+- [[gareth-price-ai-setup|Gareth Price’s AI setup]] (2026-09-18) - Cofounder and CTO of CorralData. tmux to a headless Linux workstation, llama.cpp on 4000 Ada SFF, \\\"glass factory\\\" automated production facility [screenshots attached] and wiki for context.
 - [[hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] (2026-09-18) - 一个参加漏洞搜寻计划的独立安全研究团队访问了OpenAI的内部代码系统。该事件暴露了自动化网络威胁日益增长的风险。
 - [[ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] (2026-09-17) - 特朗普称AI对人类的威胁是一场骗局，可企业CEO们并不买账。
 - [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...
@@ -178,6 +179,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[2026-05-29-ai-fact-checking|AI会犯错，但AI也能揪出错误]] (2026-05-20) - 由于聊天机器人会产生“幻觉”并编造事实，一个有效且便捷的方法是用第二个专门挑错的AI来审核结果并纠错。
 - [[2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]] (2026-05-19) - AI热潮各项押注的风险程度不尽相同，其中知名度不及竞争对手CoreWeave的AI云服务提供商Nebius蕴含着引人瞩目的上行潜力。
 - [[2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]] (2026-03-11) - Aaru背后的团队正吸引包括麦当劳和安永在内的品牌客户，该公司押注AI机器人能够比人类更准确地预测人类行为。
+- [[science-is-open-software|Science is open software]] (2025-05-24) - TL;DR I claim that modern science is synonymous with open source software. This post explains why, why it matters, and what you can (and should) do next.Why do …
 - [[best-simple-system-for-now|Best Simple System for Now]] (2025-02-03) - You can have your cake and eat it, as long as you bake it carefully. 'We can do this the quick way and pay later, or the thorough way and pay now.' This seems to be a fundamental dichotomy in software development, between 'perfectionism' and 'pragmatism', but I do not think it has to be a trade-off at all.
 
 ## 看点

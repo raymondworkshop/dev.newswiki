@@ -3,8 +3,10 @@
 企业如何決策，發展與機會
 
 ## 文章
+- [[howard-buffett-berkshire-chairman-succession|霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事]] (2026-09-19) - 霍华德·巴菲特最主要的资历：他的父亲是沃伦·巴菲特。
 - [[energy-traders-war-boom|砸酒桶、办屋顶酒会：能源交易商举杯庆祝“战争红利”]] (2026-09-18) - 地缘政治冲突扰乱全球能源供应，大宗商品经纪商和交易商从中获利颇丰。
 - [[gpt-5-6-sol-ran-a-real-business-lost-447|GPT 5.6 Sol Ran a Real Business—and Lost $447]] (2026-09-18) - If an agent had a wallet, a computer, and 24 hours, could it run a profitable startup?
+- [[jolin-ellison-michigan-sports-donor-influence|密歇根大学体育事务背后的超级金主：拉里·埃里森之妻]] (2026-09-18) - 密歇根大学校友乔琳·埃里森财力雄厚、颇具话语权，致力于资助该校橄榄球队和篮球队赢得比赛。
 - [[mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18) - 支付行业高管正准备应对AI驱动的购物浪潮，这迫使他们重新审视交易风险、欺诈防范，以及如何处理可能“失控”的AI智能体。
 - [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
 - [[hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] (2026-09-18) - 一个参加漏洞搜寻计划的独立安全研究团队访问了OpenAI的内部代码系统。该事件暴露了自动化网络威胁日益增长的风险。

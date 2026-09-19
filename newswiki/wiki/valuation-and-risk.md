@@ -1,27 +1,34 @@
 ---
 title: 估值與風險
-description: 看數字、估值，也看風險。
+description: 先問貴不貴，再問什麼會看錯。
 ---
 
 # [[hubs/valuation|估值]]與風險
 
-讀報道嗰陣同步問兩件事：價錢同質素對唔對齊，以及有咩會令判斷失效。
+讀到一家公司，先問兩句：現在的價錢配得上它嗎？什麼情況會讓這個判斷失效？
 
-## 原則
+## 怎麼讀
 
-- **[[hubs/valuation|估值]]**：睇 Margin、[[hubs/cash-flow|FCF]]（OCF − capex）、Debt/Equity、PEG（質素尚可且 PEG 低於 1 時更有吸引力）；將敘事壓返可核對嘅數字同口徑。
-- **護城河作質素濾鏡**：品牌、轉換成本、網絡效應、規模、數據、分銷——決定高[[hubs/valuation|估值]]可唔可以持續，而唔係取代[[hubs/valuation|估值]]本身。
-- **風險**：優先讀 MD&A、隱性負債、客戶/供應商集中、收入確認、監管同融資條件；分開系統性衝擊同個體基本面惡化。
-- 數字同日期要可以回溯到來源；推斷標 `[AI Synthesis]`。參見 [[verifiable-sources|來源核實]]。
+- 估值看四樣：賺多少、手上還剩多少現金、欠多少債、價錢相對成長貴不貴。故事要能對上這些數字。
+- 質素看品牌、換一家的成本、用的人越多越值錢、規模、數據和通路。這些決定高價能不能維持，不能代替估值本身。
+- 風險先看管理層怎麼講、有沒有藏起來的債、客戶或供應商是不是太集中、收入怎麼記、監管和借錢的條件。大環境變壞，和這家公司自己變差，要分開。
+- 數字和日期要查得到出處。推斷標 `[AI Synthesis]`。見 [[verifiable-sources|來源核實]]。
 
-## 喺本站
+## 在本站
 
-- 同公司/財報有關嘅稿，至少落一處[[hubs/valuation|估值]]口徑或風險點，避免得個故事線。
-- 多角度閱讀時：商業睇模式同資本，科技睇能力同成本——最後都要返到「貴唔貴、脆唔脆」。入口見 [[cross-domain-reporting|多角度報道]]、[[finance/_index|投资]]。
+- 跟公司或財報有關的稿，至少寫清一個 [[hubs/valuation|估值]] 口徑，或一個會讓判斷失效的點。不要只剩故事。
+- 最後都要回到：貴不貴，脆不脆。見 [[cross-domain-reporting|多角度報道]]、[[finance/_index|投資]]。
 
-## 相关文章
+## 相關文章
 
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
 - [[cross-domain-reporting|多角度報道]]
+
+## 相关文章
+
+- [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
+- [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
+- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
+- [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]

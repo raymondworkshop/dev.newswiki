@@ -21,7 +21,7 @@ topics:
 - [AI Synthesis] 马斯克在财报电话会中收回了对Robotaxi、Optimus[[hubs/humanoid-robot|人形机器人]]及电动半挂卡车的进度预期，引发市场对产品落地节奏的质疑。
 - [[hubs/spacex|SpaceX]]推迟[[hubs/spacex|星舰]]火箭试射，发射被取消，导致股价走弱，部分粉丝在社交媒体表达不满。
 - [AI Synthesis] 投资者担忧马斯克在AI领域的高投入是否构成过度支出，影响科技股整体[[hubs/valuation|估值]]。
-- [[hubs/spacex|SpaceX]]计划在下半年使用星舰部署升级版星链卫星，但其成功依赖于星舰火箭的可靠性和可重复使用性。
+- [[hubs/spacex|SpaceX]]计划在下半年使用[[hubs/spacex|星舰]]部署升级版星链卫星，但其成功依赖于星舰火箭的可靠性和可重复使用性。
 - [AI Synthesis] 有分析指出，马斯克可能推动特斯拉与[[hubs/spacex|SpaceX]]合并，聚焦AI基础设施，但目前尚未公开推进。
 - [[hubs/spacex|SpaceX]]和特斯拉仍分别以1.5万亿美元和1万亿美元的[[hubs/valuation|估值]]位列美国市值最高公司，市场仍给予其领导力溢价。
 

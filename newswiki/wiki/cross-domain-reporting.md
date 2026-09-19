@@ -1,26 +1,33 @@
 ---
 title: 多角度報道
-description: 同一件事，不同面向。
+description: 同一件事，別只讀一個欄目。
 ---
 
 # 多角度報道
 
-同一件事往往同時有商業、科技、設計同生活方式側面。主題係觀察角度，唔係六個互不往來嘅站點。
+同一件事，別只讀一個欄目。商業看到錢，科技看到做不做得到，設計看到好不好用，生活看到它進了誰的日常。
 
-## 原則
+## 怎麼讀
 
-- 先定「同一件事 / 同一主題」，再問四個側面各自見到咩、漏咗咩。
-- 公司同產品稿：商業睇模式同資本，科技睇能力同成本，設計睇形態同體驗，生活睇採用同文化後果。
-- 側面之間用 wiki 連結互見，避免讀者淨係落喺單一敘事入面。
+- 先確定是同一件事，再問每個角度看到什麼、漏了什麼。
+- 商業看怎麼賺錢、錢從哪來。科技看能力與成本。設計看形態與體驗。生活看誰在用、帶來什麼變化。
+- 這幾面要互相連到。讀完還停在一個說法裡，就不算換過角度。
 
-## 喺本站
+## 在本站
 
-- 入口：[[business/_index|商业]] · [[tech/_index|科技]] · [[design/_index|设计]] · [[lifestyle/_index|生活]]（以及 [[finance/_index|投资]]、[[career/_index|职场]] 嘅相鄰角）。
-- 例：AI 開支既係財報同[[hubs/valuation|估值]]問題，亦係算力同產品形態問題，仲可能改寫工作同日常生活——三篇或以上互連，先算多角度讀完。
+- 從 [[business/_index|商業]]、[[tech/_index|科技]]、[[design/_index|設計]]、[[lifestyle/_index|生活]] 進去。[[finance/_index|投資]] 和 [[career/_index|職場]] 是旁邊的角度。
+- 例如 AI 花錢：既是財報和 [[hubs/valuation|估值]] 的事，也是算力和產品的事，還可能改掉工作和日常。至少連上三篇，才算換過角度。
 
-## 相关文章
+## 相關文章
 
 - [[valuation-and-risk|估值與風險]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]
+
+## 相关文章
+
+- [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
+- [[business/china-ai-autonomy-market-reality|中国追求AI自主，股市却呈现另一种现实]]
+- [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
+- [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]

@@ -11,10 +11,14 @@
             "id": "6a7b653fee71aa65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/2026-09-19-Science is open software.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-09-19-Science is open software"
             }
           }
         ]
@@ -182,6 +186,23 @@
   },
   "active": "6a7b653fee71aa65",
   "lastOpenFiles": [
+    "raw/2026-09-19-霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事.md",
+    "raw/2026-09-19-Science is open software.md",
+    "_resources/2026-09-19-霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事/858a4a2ca094ccd5a736de35b1d33aaa_MD5.jpg",
+    "_resources/2026-09-19-霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事",
+    "raw/2026-09-18-Gareth Price’s AI setup.md",
+    "_resources/2026-09-18-Gareth Price’s AI setup/69a2e4a61fbaed337fea162adc5412a5_MD5.webp",
+    "_resources/2026-09-18-Gareth Price’s AI setup/13207558c4f06b495d502ffd00fe051b_MD5.webp",
+    "_resources/2026-09-18-Gareth Price’s AI setup/2c23ad4fd92c952a1a8a0674e4638e2f_MD5.webp",
+    "_resources/2026-09-18-Gareth Price’s AI setup/966c4019bed7f5a990b2d8cf365f2d51_MD5.webp",
+    "_resources/2026-09-18-Gareth Price’s AI setup",
+    "raw/2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻.md",
+    "_resources/2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻/bf7ecc6c23463311b5a21d135f75ad7a_MD5.jpg",
+    "_resources/2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻/25e5ba9528dcbd3ee2fe052721fab6f9_MD5.jpg",
+    "_resources/2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻/04b2c5fb5a00607d44759eff7ac03dab_MD5.jpg",
+    "_resources/2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻/6bb105aa7ef9bf372d3b0cc696733f14_MD5.jpg",
+    "_resources/2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻/ff214adc5af1e48545b1e6ccc60baa7f_MD5.jpg",
+    "_resources/2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻",
     "raw/2026-09-18-How To Write With An LLM.md",
     "raw/archive/2026-09-18-How To Write With An LLM.md",
     "wiki/tech/how-to-write-with-an-llm.md",
@@ -201,32 +222,15 @@
     "wiki/tech/ignore-ai-doomsday-real-threat.md",
     "raw/archive/2026-09-18-利率上升将使私募股权行业糟糕的一年雪上加霜.md",
     "wiki/finance/rising-rates-worsen-private-equity-crisis.md",
-    "_resources/2026-09-18-How To Write With An LLM/4bcb5032e15c1b640402715eccf136dd_MD5.jpg",
     "_resources/2026-09-18-How To Write With An LLM",
     "raw/archive/2026-09-18-他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”.md",
     "wiki/tech/jacob-coxon-anthropic-resignation-ai-safety.md",
     "raw/archive/2026-09-18-一家中国黑客公司如何利用AI大幅提升网络间谍活动.md",
-    "wiki/tech/chinese-hacking-firm-ai-cyber-espionage.md",
-    "raw/archive/2026-09-18-What we’ve learned from Microsoft's own AI transformation.md",
-    "wiki/business/microsoft-ai-transformation-lessons.md",
-    "raw/2026-09-18-Kimi K3, and what we can still learn from the pelican benchmark.md",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/dc71b65237f910dec5539d996a26821e_MD5.png",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/72f0175650a222f39c6bb8c63996e2e9_MD5.png",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/4572f7460ab98e9dc2e27f2721c814d6_MD5.png",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/84fe39ec89e648c275b7ab4c57a1b2b1_MD5.png",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/a60d523a0f495f903c40fde517f18809_MD5.png",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/bb375eb527e3072899b6c603aaed8743_MD5.png",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/82149fea2d4a7d8e12c471603e535df9_MD5.png",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/5a1a84da3722d71a39ff16d7113c2025_MD5.png",
-    "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447/8b7862a8bedc4a89ec9db4febae881c1_MD5.png",
     "_resources/2026-09-18-GPT 5.6 Sol Ran a Real Business—and Lost $447",
     "_resources/2026-09-18-AI图片无处不在：它们如何影响大脑，我们又该如何应对？",
     "_resources/2026-09-18-How I use LLMs to learn complex topics",
     "_resources/2026-09-18-别管什么AI末日了，真正的威胁就在眼前",
     "_resources/2026-09-18-利率上升将使私募股权行业糟糕的一年雪上加霜",
-    "_resources/2026-09-18-华为计划如何成为“中国的英伟达”",
-    "_resources/2026-09-18-美国家庭最头痛的五个字：今晚吃什么？",
-    "_resources/2026-09-18-币安入欧计划泡汤背后：拉加德亲自出面干预 1",
-    "_resources/2026-09-18-他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”"
+    "_resources/2026-09-18-华为计划如何成为“中国的英伟达”"
   ]
 }

@@ -14,6 +14,7 @@ Curated hub for articles related to NVIDIA.
 - [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]] · #tech
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]] · #tech
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]] · #tech
+- [[tech/gareth-price-ai-setup|Gareth Price’s AI setup]] · #tech
 - [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]] · #tech
 - [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]] · #finance
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]] · #tech
@@ -25,12 +26,13 @@ Curated hub for articles related to NVIDIA.
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance
 - [[tech/huawei-aims-to-become-chinas-nvidia|华为计划如何成为“中国的英伟达”]] · #tech
 - [[finance/2026-05-21-nvda-undervalued|即使市值高达5万亿美元，英伟达依然被低估]] · #finance
+- [[cross-domain-reporting|多角度報道]] · #wiki
 - [[tech/ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] · #tech
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]] · #tech
 - [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]] · #tech
 - [[finance/wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] · #finance
 - [[tech/china-ai-chip-advancement-2026|揭秘中国全力追赶美国AI芯片的攻坚内幕]] · #tech
-- [[connected-stories|敘事與來源]] · #wiki
+- [[connected-stories|沿主題讀]] · #wiki
 - [[tech/us-ai-open-weight-china-alternative|美国公司加紧打造中国低成本AI的替代品]] · #tech
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]] · #finance
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]] · #design

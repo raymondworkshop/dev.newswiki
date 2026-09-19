@@ -24,4 +24,4 @@ topics:
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
-- [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
+- [[valuation-and-risk|估值與風險]]

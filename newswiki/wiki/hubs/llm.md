@@ -17,6 +17,7 @@ Curated hub for the concept 「大语言模型」.
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]] · #tech
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]] · #tech
 - [[tech/local-llm-question-categorization|Fine Tuning a Local LLM to Categorize Questions]] · #tech
+- [[tech/gareth-price-ai-setup|Gareth Price’s AI setup]] · #tech
 - [[career/how-i-use-llms-as-a-staff-engineer-in-2026|How I use LLMs as a staff engineer in 2026]] · #career
 - [[tech/how-i-use-llms-to-learn-complex-topics|How I use LLMs to learn complex topics]] · #tech
 - [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]] · #tech

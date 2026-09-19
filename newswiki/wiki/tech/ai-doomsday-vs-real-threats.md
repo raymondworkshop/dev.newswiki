@@ -20,13 +20,13 @@ topics:
 - 业界部分人士（如Anthropic CEO阿莫迪）警告递归自我改进将引发「快速起飞」末日，提议全球协议放缓模型发布。
 - 圣塔菲研究所教授梅兰妮·米切尔等学者质疑末日论：当前AI无法完成推动前沿所需的原创性研究，递归自我改进说法经不起审视。
 - 普林斯顿、斯坦福等20多位学者论文指出，Hugging Face攻击源于基础技术护栏缺失，而非AI能力失控爆发。
-- 主张常规监管派认为AI应像飞机、电梯一样接受同等安全标准：设计时内置危害最小化、建立行为红线、开发者承担责任。
+- 主张常规[[hubs/regulation|监管]]派认为AI应像飞机、电梯一样接受同等安全标准：设计时内置危害最小化、建立行为红线、开发者承担责任。
 - 斯图尔特·拉塞尔教授提议「行为红线」：入侵系统、窃取信息、指导制造生物武器等对人类非法的行为，对AI系统也应非法。
 - 类FDA的AI专门监管机构提议在国会停滞，但两党支持限制AI公司的声浪上升，监管格局可能改变。
 
 ## 相关文章
 
-- [[tech/ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]]
 - [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]]
 - [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]
+- [[tech/ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]]
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]]

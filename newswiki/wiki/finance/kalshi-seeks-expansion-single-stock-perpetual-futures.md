@@ -23,7 +23,7 @@ Kalshi与Coinbase正推动在美国推出首批受[[hubs/regulation|监管]]的�
 - 永续合约（perps）支持7×24小时交易、高[[hubs/leverage|杠杆]]、无到期日，通过资金费率锚定现货价格；Hyperliquid等离岸平台个股永续合约名义交易额年内从40亿美元飙升至2120亿美元。
 - 批评者（如Better Markets）警示：此类产品风险远高于[[hubs/leverage|杠杆]]ETF，全天候高[[hubs/leverage|杠杆]]易放大散户亏损，且在市场承压时可能加剧下跌。
 - [[hubs/regulation|监管]]层面存在争议：[[finance/cftc|CFTC]]将Kalshi永续合约归类为期货而非互换，[[finance/cme-group|芝商所]]已起诉CFTC指控越权；CFTC申请驳回诉讼，Kalshi/Coinbase/CFTC均称诉讼旨在打压竞争。
-- Kalshi称其提供杠杆与传统期货相当、低于离岸永续合约，且免除展期成本；Crypto.com CEO主张监管机构应合作引导交易回归受监管在岸环境以保护消费者。
+- Kalshi称其提供[[hubs/leverage|杠杆]]与传统期货相当、低于离岸永续合约，且免除展期成本；Crypto.com CEO主张[[hubs/regulation|监管]]机构应合作引导交易回归受监管在岸环境以保护消费者。
 
 ## 相关文章
 

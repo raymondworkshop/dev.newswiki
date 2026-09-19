@@ -15,7 +15,6 @@ Curated hub for the concept 「cash flow」.
 - [[business/meta-q2-earnings-ai-spending-drop|Meta股价大跌10%，因AI支出增加且展望不及预期]] · #business
 - [[business/windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] · #business
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]] · #tech
-- [[valuation-and-risk|估值與風險]] · #wiki
 - [[finance/ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]] · #finance
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]] · #finance
 - [[finance/wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] · #finance

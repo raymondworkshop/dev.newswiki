@@ -63,6 +63,6 @@ topics:
 ## 相关文章
 
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
+- [[connected-stories|沿主題讀]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
-- [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]

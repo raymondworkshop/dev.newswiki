@@ -31,6 +31,7 @@ Curated hub for articles related to 数据中心.
 - [[business/us-nuclear-reactor-construction-oklo|揭秘美国一代人以来首座核反应堆的建设攻关]] · #tech
 - [[business/data-center-insurance-opportunity|数据中心领域的下一个重大机遇：保险业务]] · #business
 - [[finance/warsh-ai-renaissance-diagnosis|新任美联储主席沃什的首场大考：如何判读AI繁荣？]] · #finance
+- [[connected-stories|沿主題讀]] · #wiki
 - [[tech/2026-highest-performing-stocks|盘点2026年上半年标普500指数表现最好的20只股票]] · #tech
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] · #business
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]] · #finance

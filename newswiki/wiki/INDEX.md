@@ -1,6 +1,9 @@
 
 
 ## Recent Articles
+- [[business/howard-buffett-berkshire-chairman-succession|霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事]] (2026-09-19)
+- [[business/jolin-ellison-michigan-sports-donor-influence|密歇根大学体育事务背后的超级金主：拉里·埃里森之妻]] (2026-09-18)
+- [[tech/gareth-price-ai-setup|Gareth Price’s AI setup]] (2026-09-18)
 - [[tech/hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] (2026-09-18)
 - [[lifestyle/glp1-drugs-beyond-weight-loss|除了减重，GLP-1类药物还有哪些疗效?]] (2026-09-18)
 - [[lifestyle/american-families-dinner-struggle|美国家庭最头痛的五个字：今晚吃什么？]] (2026-09-18)
@@ -347,8 +350,9 @@
 - [[career/dont-become-an-engineering-manager|Don't become an Engineering Manager]] (2026-03-03)
 - [[business/2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] (2026-02-23)
 - [[business/doing-something-never-done-before|Doing Something That’s Never Been Done Before]] (2025-11-14)
+- [[tech/science-is-open-software|Science is open software]] (2025-05-24)
 
 ## 編輯原則
-- [[connected-stories|敘事與來源]]: 用主題把報道串起來，說法都能查到出處
-- [[cross-domain-reporting|多角度報道]]: 同一件事，不同面向
-- [[valuation-and-risk|估值與風險]]: 看數字、估值，也看風險
+- [[connected-stories|沿主題讀]]: 一篇不夠，同一件事再讀幾篇
+- [[cross-domain-reporting|多角度報道]]: 同一件事，別只讀一個欄目
+- [[valuation-and-risk|估值與風險]]: 先問貴不貴，再問什麼會看錯
