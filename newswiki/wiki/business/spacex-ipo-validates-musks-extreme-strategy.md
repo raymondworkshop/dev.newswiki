@@ -20,7 +20,7 @@ topics:
 - Elon Musk's strategy, characterized by pursuing "the most" (biggest, fastest, best), has been a cornerstone of his business empire, driving unprecedented success for [[hubs/spacex|SpaceX]] and Tesla.
 - Musk's initial goal for [[hubs/spacex|SpaceX]] was to reignite public interest in space exploration, exemplified by his early idea of sending plant seeds to Mars.
 - The high cost of single-use rockets led Musk to found [[hubs/spacex|SpaceX]] in 2002 with the aim of creating reusable rockets.
-- SpaceX has achieved numerous "firsts," including being the first private company to launch liquid-fuel rockets into Earth orbit and the first to successfully recover a launched rocket.
+- [[hubs/spacex|SpaceX]] has achieved numerous "firsts," including being the first private company to launch liquid-fuel rockets into Earth orbit and the first to successfully recover a launched rocket.
 - Tesla also boasts "firsts," such as being the first electric car company to win MotorTrend's Car of the Year and the first to have an electric car become the world's best-selling vehicle.
 - Musk's "extreme" strategy has not been without challenges, including missed deadlines, overstatements, detours, and financial losses.
 - His business strategies have extended into politics with mixed results, and he has frequently engaged in controversial social media discourse.

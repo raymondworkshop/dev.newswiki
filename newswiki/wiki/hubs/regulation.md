@@ -27,6 +27,7 @@ Curated hub for the concept 「regulatory」.
 - [[business/chinas-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]] · #business
 - [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] · #tech
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance
+- [[tech/ai-doomsday-vs-real-threats|别管什么AI末日了，真正的威胁就在眼前]] · #tech
 - [[tech/ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]] · #tech
 - [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]] · #career
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]] · #business

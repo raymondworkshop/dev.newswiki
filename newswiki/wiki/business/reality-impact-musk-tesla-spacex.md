@@ -19,7 +19,7 @@ topics:
 - 特斯拉股价周四下跌15%，市值蒸发2,000亿美元，为两年来首次出现负[[hubs/cash-flow|现金流]]。
 - [[hubs/spacex|SpaceX]]股价在[[hubs/ipo|IPO]]后一度升至225美元，现较峰值下跌近50%，已跌破[[hubs/ipo|IPO]]价格，市值缩水超1万亿美元。
 - [AI Synthesis] 马斯克在财报电话会中收回了对Robotaxi、Optimus[[hubs/humanoid-robot|人形机器人]]及电动半挂卡车的进度预期，引发市场对产品落地节奏的质疑。
-- [[hubs/spacex|SpaceX]]推迟星舰火箭试射，发射被取消，导致股价走弱，部分粉丝在社交媒体表达不满。
+- [[hubs/spacex|SpaceX]]推迟[[hubs/spacex|星舰]]火箭试射，发射被取消，导致股价走弱，部分粉丝在社交媒体表达不满。
 - [AI Synthesis] 投资者担忧马斯克在AI领域的高投入是否构成过度支出，影响科技股整体[[hubs/valuation|估值]]。
 - [[hubs/spacex|SpaceX]]计划在下半年使用星舰部署升级版星链卫星，但其成功依赖于星舰火箭的可靠性和可重复使用性。
 - [AI Synthesis] 有分析指出，马斯克可能推动特斯拉与[[hubs/spacex|SpaceX]]合并，聚焦AI基础设施，但目前尚未公开推进。

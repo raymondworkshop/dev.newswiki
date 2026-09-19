@@ -23,7 +23,7 @@
     > li {
       position: relative;
       display: grid;
-      grid-template-columns: 6.75rem minmax(0, 1fr) 1.15rem;
+      grid-template-columns: 5.75rem minmax(0, 1fr);
       align-items: start;
       gap: 0.65rem 0.75rem;
       margin: 0;
@@ -71,14 +71,7 @@
       }
 
       &::after {
-        content: "›";
-        grid-column: 3;
-        grid-row: 1;
-        color: var(--gray);
-        font-size: 1.15rem;
-        justify-self: end;
-        line-height: 1;
-        padding-top: 0.1rem;
+        content: none;
       }
     }
 

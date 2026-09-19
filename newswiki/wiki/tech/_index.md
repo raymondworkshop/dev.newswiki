@@ -10,6 +10,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] (2026-09-17) - 特朗普称AI对人类的威胁是一场骗局，可企业CEO们并不买账。
 - [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...
 - [[novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] (2026-09-17) - 生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。
+- [[ai-doomsday-vs-real-threats|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17) - 飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。
 - [[how-to-write-with-an-llm|How To Write With An LLM]] (2026-09-17) - Two rules keep an LLM from pasteurizing your writing: never take a word it suggests, and never let it encourage you. Then hand it all the tedious work.
 - [[huawei-aims-to-become-chinas-nvidia|华为计划如何成为“中国的英伟达”]] (2026-09-17) - 华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。
 - [[ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17) - 飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。

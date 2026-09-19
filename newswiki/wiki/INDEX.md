@@ -12,6 +12,7 @@
 - [[finance/yuan-four-year-high-pboc-fixing|人民币升至逾四年高点]] (2026-09-18)
 - [[business/mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18)
 - [[business/microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18)
+- [[tech/ai-doomsday-vs-real-threats|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17)
 - [[tech/how-to-write-with-an-llm|How To Write With An LLM]] (2026-09-17)
 - [[tech/ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17)
 - [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]] (2026-09-17)

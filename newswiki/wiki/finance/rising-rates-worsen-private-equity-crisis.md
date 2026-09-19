@@ -21,7 +21,7 @@ topics:
 - [[hubs/interest-rates|利率]]上升推高旗下企业浮动[[hubs/interest-rates|利率]]债务成本，同时压低潜在买家出价意愿，导致退出交易冻结、基金难以按时回笼资金。
 - Apollo联席总裁Scott Kleinman预警基金管理人数量将减少，过去十年快速扩张的机构或被迫收缩规模。
 - 软件赛道成重灾区：PE过去十年平均配置14%资金于软件，低[[hubs/interest-rates|利率]]期密集收购的项目今面临AI颠覆与贷款到期双重压力，Thoma Bravo、Clearlake Capital等头部机构已出现违约与[[hubs/valuation|估值]]大幅下调案例。
-- 私募信贷业务亦受冲击：高利率加剧借款企业[[hubs/cash-flow|现金流]]压力，Benefit Street Partners预警违约率将上升。
+- 私募信贷业务亦受冲击：高[[hubs/interest-rates|利率]]加剧借款企业[[hubs/cash-flow|现金流]]压力，Benefit Street Partners预警违约率将上升。
 - 募资陷入至少自2020年以来最差年份，截至9月11日仅募集2,119亿美元，机构投资者仅愿向极少数建立深度关系且表现优异的GP续投。
 - [AI Synthesis] 行业正进入淘汰周期：缺乏差异化回报记录的中小GP面临清盘或归零风险，头部机构通过多元化业务线（如Apollo的信贷/保险生态）维持募资优势。
 

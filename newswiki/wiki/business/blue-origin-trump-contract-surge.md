@@ -32,7 +32,7 @@ Blue Origin's contract growth under Trump was driven by strategic positioning ag
 
 ## Strategic Rationale and Competitive Dynamics
 - [AI Synthesis] Bezos recognized that [[hubs/spacex|SpaceX]]'s dominance under Elon Musk, especially during the 2024 election cycle, created a significant competitive threat. To prevent being excluded from key government contracts, Bezos personally engaged with the Trump administration to secure a foothold in the federal space market.
-- Trump reportedly expressed a desire to see more space contracts go to companies other than SpaceX, citing concerns about monopolistic practices and the need for a competitive ecosystem.
+- Trump reportedly expressed a desire to see more space contracts go to companies other than [[hubs/spacex|SpaceX]], citing concerns about monopolistic practices and the need for a competitive ecosystem.
 - Bezos' personal relationship with Trump evolved from hostility to trust, with Trump reportedly calling Bezos 'a good guy' and expressing admiration for his leadership in space.
 - The company's new 'New Glenn' rocket faced a launch failure in May 2025, but the incident led to a significant government commitment to support recovery and future launches, reinforcing the partnership.
 

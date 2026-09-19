@@ -28,7 +28,7 @@ SpaceX's [[hubs/spacex|Starlink]] is exploring a move into the terrestrial mobil
 - As of March, [[hubs/spacex|Starlink]] had over 10,000 satellites and more than 10 million home broadband subscribers.
 - The core business has been home broadband, popular in rural areas lacking fiber networks, with growing applications in maritime and aviation connectivity.
 - [[hubs/spacex|Starlink]] is developing mobile services, with agreements to provide limited satellite connectivity to partner carriers' users in remote areas (e.g., with [[T-Mobile US]] in the U.S.).
-- Engineers are developing upgraded Starlink satellites for mobile connectivity.
+- Engineers are developing upgraded [[hubs/spacex|Starlink]] satellites for mobile connectivity.
 - SpaceX is actively acquiring wireless spectrum, including $8.5 million for two cellular network licenses in an FCC auction and a $20 billion deal to acquire spectrum from another satellite company.
 
 ## 市场机遇与挑战
