@@ -36,4 +36,4 @@ topics:
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
 - [[business/musk-confidant-gracias-set-for-spacex-windfall|马斯克密友格拉西亚斯有望因SpaceX斩获680亿美元收益]]
-- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]

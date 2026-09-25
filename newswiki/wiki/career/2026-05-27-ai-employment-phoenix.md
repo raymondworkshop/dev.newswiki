@@ -112,6 +112,6 @@ topics:
 ## 相关文章
 
 - [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]]
+- [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]]
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]]
 - [[career/ai-employment-impact|AI会导致就业末日吗？三位经济学家各抒己见]]
-- [[career/bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]]

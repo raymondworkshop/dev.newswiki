@@ -40,4 +40,4 @@ The case demonstrates the financial and reputational risk of being a counterpart
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
 - [[lifestyle/passive-income-new-american-dream|Forget Working: Passive Income Is the New American Dream]]
 - [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]]
-- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]
+- [[finance/kalshi-5b-identical-trades-cftc-scrutiny|50亿美元同金额交易扎堆出现，Kalshi平台引发监管关注]]

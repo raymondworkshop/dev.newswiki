@@ -12,7 +12,9 @@ Curated hub for the concept 「开源与自建」.
 ## 相关文章
 
 - [[business/ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]] · #business
+- [[tech/ai-chess-unsolved-creativity|AI攻克了最棘手的数学难题，为何却无法破解国际象棋？]] · #tech
 - [[tech/ai-cost-control|Token使用量激增，企业如何控制AI成本？]] · #tech
+- [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]] · #tech
 - [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] · #tech
 - [[finance/situational-awareness-crisis|华尔街如何嗅到了Situational Awareness危机爆发的气息]] · #finance
 - [[tech/ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] · #tech

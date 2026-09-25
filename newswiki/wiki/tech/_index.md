@@ -3,11 +3,21 @@
 AI模型、機器人与智能体如何重塑基础设施與生產力
 
 ## 文章
+- [[ai-chess-unsolved-creativity|AI攻克了最棘手的数学难题，为何却无法破解国际象棋？]] (2026-09-24) - 国际象棋引擎能击败特级大师，但它们在什么是万无一失的绝对策略上却无法达成共识。而且，AI非但没有毁掉这项运动，反而正在发掘新的下法。
+- [[zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]] (2026-09-24) - 扎克伯格发布一款新型手持人工智能设备及科技产品，称其可以拉近消费者与“个人超级智能”的距离。
+- [[ai-salary-setting-hidden-ways|企业利用AI设定薪酬的隐秘方式]] (2026-09-24) - 你最终是落在涨薪区间的高端还是低端，可能取决于某个机器学习模型认为你值多少钱。新服务能让雇主精准找出哪些员工薪酬过高或过低。
+- [[meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]] (2026-09-23) - 亚马逊已阻止Muse应用在其网站购物，隐私和安全担忧正在升温。
+- [[cornell-report-us-higher-education-crisis|康奈尔大学发布200页报告，正视美国高等教育危机]] (2026-09-23) - 眼下，美国高等教育正经历其历史上最艰难的时期之一。此前，耶鲁大学和范德堡大学也发表了类似的反思报告，相比之下，康奈尔大学给出的方案更为温和。
+- [[micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]] (2026-09-22) - 通过暂缓招聘，有时甚至裁撤现有岗位，创业者们在扩充产品的同时，并未扩大员工规模。
+- [[trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]] (2026-09-21) - 随着选民中对AI的反对声浪日益高涨，美国总统特朗普呼吁联邦政府介入人工智能产业。
+- [[adam-grant-ai-era-white-collar-adaptability|亚当·格兰特谈AI时代白领靠什么立足]] (2026-09-21) - 组织心理学家亚当·格兰特探讨了AI正在颠覆白领在知识型工作中典型的职业优势，以及他们可以如何应对。
+- [[working-in-us-data-center|在美国数据中心工作是怎样一种体验]] (2026-09-21) - 支撑全美AI基础设施大扩建的，是每日高强度的步行巡检、嗅探设备的烧焦气味，以及防范鸟类造成的破坏。
 - [[gpt-5-6-sol-ran-a-real-business-lost-447|GPT 5.6 Sol Ran a Real Business—and Lost $447]] (2026-09-18) - If an agent had a wallet, a computer, and 24 hours, could it run a profitable startup?
 - [[mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18) - 支付行业高管正准备应对AI驱动的购物浪潮，这迫使他们重新审视交易风险、欺诈防范，以及如何处理可能“失控”的AI智能体。
 - [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
 - [[gareth-price-ai-setup|Gareth Price’s AI setup]] (2026-09-18) - Cofounder and CTO of CorralData. tmux to a headless Linux workstation, llama.cpp on 4000 Ada SFF, \\\"glass factory\\\" automated production facility [screenshots attached] and wiki for context.
 - [[hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] (2026-09-18) - 一个参加漏洞搜寻计划的独立安全研究团队访问了OpenAI的内部代码系统。该事件暴露了自动化网络威胁日益增长的风险。
+- [[us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]] (2026-09-18) - 美国的讨论重点在于保护人类免受技术反噬，而北京的首要关切则是维护共产党的统治地位。
 - [[ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] (2026-09-17) - 特朗普称AI对人类的威胁是一场骗局，可企业CEO们并不买账。
 - [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...
 - [[novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] (2026-09-17) - 生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。

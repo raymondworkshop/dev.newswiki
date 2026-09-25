@@ -18,6 +18,7 @@ Curated hub for the concept 「AI Agent」.
 - [[business/founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]] · #career
 - [[tech/ai-ml-engineering/langgraph-stateful-ai-agents|LangGraph: Build Stateful AI Agents in Python]] · #tech
 - [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]] · #tech
+- [[tech/meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]] · #tech
 - [[tech/openai-navier-stokes-millennium-breakthrough|OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”]] · #tech
 - [[business/openai-q2-revenue-slowdown-vs-anthropic|OpenAI第二季度收入增长乏力，增速逊于Anthropic]] · #business
 - [[tech/theres-no-such-thing-as-a-small-software-team|There's no such thing as a small software team anymore]] · #tech
@@ -27,6 +28,7 @@ Curated hub for the concept 「AI Agent」.
 - [[business/startup-founders-24-hour-work-ai-agents|初创公司创始人恨不得24小时工作，以跟上自家AI智能体]] · #business
 - [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]] · #tech
 - [[tech/rogue-ai-agents-guide|失控AI机器人世界的用户指南]] · #tech
+- [[tech/zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]] · #tech
 - [[tech/ai-password-handover-experiment|把密码交给AI是一种什么体验？我做了一次实测]] · #tech
 - [[tech/openai-ai-hack-hugging-face|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]] · #tech
 - [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]] · #business
@@ -35,6 +37,7 @@ Curated hub for the concept 「AI Agent」.
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] · #finance
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]] · #design
 - [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]] · #business
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]] · #business
 - [[business/2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]] · #business
 
 ---

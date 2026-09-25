@@ -17,6 +17,7 @@ Curated hub for the concept 「估值」.
 - [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]] · #tech
 - [[finance/us-stocks-double-bubble-warning|Analyst: US Stock Market Faces 'Double Bubble' Risk, Potential for Crash]] · #finance
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]] · #tech
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] · #business
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]] · #business
 - [[career/how-i-use-llms-as-a-staff-engineer-in-2026|How I use LLMs as a staff engineer in 2026]] · #career
 - [[business/iran-war-winner-african-billionaire|Iran War Brings a Surprise Winner: Africa's Richest Man]] · #business
@@ -28,6 +29,7 @@ Curated hub for the concept 「估值」.
 - [[finance/john-overdeck-divorce|一位对冲基金巨头的离婚案曝光华尔街惊人财富]] · #finance
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]] · #finance
 - [[business/china-ai-autonomy-market-reality|中国追求AI自主，股市却呈现另一种现实]] · #business
+- [[finance/rob-vinall-china-stocks-buffett-inspired|为何这位受巴菲特启发的基金经理大举押注中国股票]] · #finance
 - [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]] · #finance
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]] · #tech
 - [[valuation-and-risk|估值與風險]] · #wiki
@@ -44,6 +46,7 @@ Curated hub for the concept 「估值」.
 - [[finance/2026-05-26-office-residential-conversion-denver|抄底全美最空荡市中心：他能说服人们住进写字楼吗？]] · #finance
 - [[business/2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] · #business
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] · #business
+- [[finance/wealthy-europeans-moving-north-climate|欧洲越来越热，富人开始向北迁居]] · #finance
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]] · #business
 - [[tech/2026-highest-performing-stocks|盘点2026年上半年标普500指数表现最好的20只股票]] · #tech
 - [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]] · #business
@@ -54,6 +57,7 @@ Curated hub for the concept 「估值」.
 - [[tech/ai-infrastructure-transaction|美国数据中心开发商计划出售价值数百亿美元的股权]] · #tech
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]] · #finance
 - [[finance/chip-stocks-rally-hit-wall-optimism|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]] · #finance
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]] · #business
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]] · #finance
 - [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]] · #finance
 - [[business/2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]] · #business

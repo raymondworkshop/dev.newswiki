@@ -23,7 +23,7 @@ topics:
 
 ## 相关文章
 
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
 - [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]
-- [[business/korean-chip-leader-s-century-divorce-ai-boom|韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]]
-- [[tech/2026-highest-performing-stocks|盘点2026年上半年标普500指数表现最好的20只股票]]
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]

@@ -36,4 +36,4 @@ SA凭借对AI的先见之明和精准的投资执行，实现了惊人的复合�
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
-- [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]

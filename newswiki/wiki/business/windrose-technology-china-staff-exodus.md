@@ -30,5 +30,5 @@ topics:
 
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
 - [[business/ibm-stock-crash-why-not-worried|股价单日暴跌25%，IBM首席执行官为何不担心?]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/meta-q2-earnings-ai-spending-drop|Meta股价大跌10%，因AI支出增加且展望不及预期]]
-- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]

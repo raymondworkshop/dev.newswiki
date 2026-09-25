@@ -26,10 +26,10 @@ topics:
 - His business strategies have extended into politics with mixed results, and he has frequently engaged in controversial social media discourse.
 - Despite criticisms, Musk's "most" achievements have solidified his supporters' belief in his ability to achieve the seemingly impossible.
 - [[hubs/spacex|SpaceX]]'s success has inspired a new generation of hard-tech startups and contributed to the growth of the space economy, with companies dreaming of roles in lunar development and potential private rocket races.
-- The success of SpaceX and Tesla has paved the way for other ambitious ventures, including AI labs like OpenAI and Anthropic, which are also planning major IPOs.
+- The success of [[hubs/spacex|SpaceX]] and Tesla has paved the way for other ambitious ventures, including AI labs like OpenAI and Anthropic, which are also planning major IPOs.
 - Musk's personal motivation stems from a near-death experience with malaria, leading him to conclude that humanity needs to become a multi-planetary species.
-- The pursuit of reusable rockets, initially dismissed by the industry, was a mathematically sound approach that eventually led to SpaceX's success, despite early failures.
-- SpaceX's [[hubs/ipo|IPO]] demonstrated the power of Musk's "extreme" strategy, leading to a significant surge in its stock and making Musk the world's first trillionaire.
+- The pursuit of reusable rockets, initially dismissed by the industry, was a mathematically sound approach that eventually led to [[hubs/spacex|SpaceX]]'s success, despite early failures.
+- [[hubs/spacex|SpaceX]]'s [[hubs/ipo|IPO]] demonstrated the power of Musk's "extreme" strategy, leading to a significant surge in its stock and making Musk the world's first trillionaire.
 - While some of SpaceX's grander dreams, like a city on Mars, may never materialize, its true legacy lies in inspiring a new generation to imagine and pursue limitless possibilities.
 
 ## 相关文章

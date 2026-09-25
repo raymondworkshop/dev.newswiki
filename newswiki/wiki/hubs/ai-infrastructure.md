@@ -26,6 +26,7 @@ Curated hub for articles related to 数据中心.
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]] · #tech
 - [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] · #tech
 - [[finance/2026-05-21-nvda-undervalued|即使市值高达5万亿美元，英伟达依然被低估]] · #finance
+- [[career/working-in-us-data-center|在美国数据中心工作是怎样一种体验]] · #career
 - [[business/microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]] · #business
 - [[tech/china-ai-chip-advancement-2026|揭秘中国全力追赶美国AI芯片的攻坚内幕]] · #tech
 - [[business/us-nuclear-reactor-construction-oklo|揭秘美国一代人以来首座核反应堆的建设攻关]] · #tech
@@ -43,6 +44,7 @@ Curated hub for articles related to 数据中心.
 - [[finance/chip-stocks-rally-hit-wall-optimism|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]] · #finance
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]] · #design
 - [[business/apple-micron-china-chip-lobbying|苹果与美光掀起中国芯片游说战，特朗普陷入两难]] · #business
+- [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]] · #business
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] · #career
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]] · #finance
 - [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]] · #finance

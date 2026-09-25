@@ -24,7 +24,7 @@ AI[[hubs/regulation|监管]]的博弈不仅关乎安全，更是 [[tech/openai|O
 
 ## 相关文章
 
+- [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]
 - [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]]
+- [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]]
 - [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]
-- [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
-- [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]]

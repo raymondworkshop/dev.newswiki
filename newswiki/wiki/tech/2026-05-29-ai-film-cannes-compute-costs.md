@@ -27,5 +27,5 @@ topics:
 
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]
-- [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]

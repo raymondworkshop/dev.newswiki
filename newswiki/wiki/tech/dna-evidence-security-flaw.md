@@ -24,6 +24,6 @@ AI 软件（如 LLMs）已成为攻击专业科学数据完整性的有力工具
 ## 相关文章
 
 - [[tech/ai-gov-escalation|邮件揭秘：Anthropic与五角大楼的关系是如何破裂的]]
+- [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]]
-- [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]
-- [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]]
+- [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]]

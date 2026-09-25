@@ -25,6 +25,6 @@ Aaru通过[[hubs/ai-agent|AI智能体]]（Synthetic Agents）模拟真实人类�
 ## 相关文章
 
 - [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
 - [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]]
-- [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]

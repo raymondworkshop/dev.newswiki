@@ -26,7 +26,7 @@ SaaS行业面临结构性颠覆：[[hubs/ai-agent|AI智能体]]从“辅助工�
 
 ## 相关文章
 
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]
 - [[business/2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]]
 - [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]]
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
-- [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]

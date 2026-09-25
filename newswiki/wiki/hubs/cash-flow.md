@@ -11,6 +11,7 @@ Curated hub for the concept 「cash flow」.
 
 ## 相关文章
 
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] · #business
 - [[career/retirement-reentry-experiences|In America, What Is the Experience of Retiring and Starting a Business Later in Life?]] · #career
 - [[business/meta-q2-earnings-ai-spending-drop|Meta股价大跌10%，因AI支出增加且展望不及预期]] · #business
 - [[business/windrose-technology-china-staff-exodus|中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]] · #business

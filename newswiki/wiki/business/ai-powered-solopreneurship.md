@@ -34,6 +34,6 @@ AI 使得“一人公司”能够实现百万甚至千万美元级别的年营�
 ## 相关文章
 
 - [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
-- [[business/base-power-energy-storage|戴尔之子进军储能业，欲将电池装进你家后院]]
-- [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]]
+- [[business/jolin-ellison-michigan-sports-donor-influence|密歇根大学体育事务背后的超级金主：拉里·埃里森之妻]]

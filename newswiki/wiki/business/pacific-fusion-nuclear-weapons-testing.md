@@ -24,6 +24,6 @@ Pacific Fusion聚变装置将为美核武器测试提供无爆炸的高温高压
 ## 相关文章
 
 - [[business/2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
 - [[business/base-power-energy-storage|戴尔之子进军储能业，欲将电池装进你家后院]]
-- [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]

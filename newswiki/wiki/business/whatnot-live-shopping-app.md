@@ -25,7 +25,7 @@ Whatnot 通过将社交媒体的成瘾性与实时竞拍结合，在北美建立
 
 ## 相关文章
 
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/publicsquare-collapse|小特朗普曾力挺的MAGA电商平台崩盘内幕]]
 - [[business/base-power-energy-storage|戴尔之子进军储能业，欲将电池装进你家后院]]
 - [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]]
-- [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]

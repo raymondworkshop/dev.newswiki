@@ -27,5 +27,5 @@ topics:
 
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
 - [[finance/tiktok-financial-advice-analysis|盘点TikTok上满天飞的理财“秘籍”]]
-- [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
-- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
+- [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]]
+- [[finance/kalshi-5b-identical-trades-cftc-scrutiny|50亿美元同金额交易扎堆出现，Kalshi平台引发监管关注]]

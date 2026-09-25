@@ -28,5 +28,5 @@ topics:
 
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
 - [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]]
-- [[business/base-power-energy-storage|戴尔之子进军储能业，欲将电池装进你家后院]]
-- [[business/ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
+- [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]

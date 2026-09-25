@@ -24,12 +24,12 @@ topics:
 
 ## [[hubs/regulation|监管]]模式对比
 - 美国模式：[[hubs/regulation|监管]]前置 → 增加固定成本 → 保护规模化企业（如辉瑞） → 抑制新入局者。
-- 中国模式：监管后置 → 创造临时创新空间 → 规模化后集中整顿（如蚂蚁集团、滴滴） → 产生行业冠军但缺乏长期制度承诺。
-- AI 领域现状：当前的 AI 实验室（如 [[hubs/anthropic|Anthropic]]）之所以能诞生，是因为其成立之初处于监管宽松期，类似于爱迪生时代的门洛帕克实验室。
+- 中国模式：[[hubs/regulation|监管]]后置 → 创造临时创新空间 → 规模化后集中整顿（如蚂蚁集团、滴滴） → 产生行业冠军但缺乏长期制度承诺。
+- AI 领域现状：当前的 AI 实验室（如 [[hubs/anthropic|Anthropic]]）之所以能诞生，是因为其成立之初处于[[hubs/regulation|监管]]宽松期，类似于爱迪生时代的门洛帕克实验室。
 
 ## 相关文章
 
 - [[business/ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
 - [[business/theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]]
-- [[business/cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]]

@@ -35,7 +35,7 @@ Students are increasingly choosing to pursue AI entrepreneurship over traditiona
 
 ## Related Articles
 
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
 - [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]]
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]
-- [[business/iran-war-winner-african-billionaire|Iran War Brings a Surprise Winner: Africa's Richest Man]]

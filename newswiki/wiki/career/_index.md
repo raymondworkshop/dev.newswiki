@@ -3,6 +3,12 @@
 技能、就业与组织如何在AI时代重塑职业路径
 
 ## 文章
+- [[bob-chapek-disney-fired-memoir|被迪士尼解雇，包正博至今仍意难平]] (2026-09-25) - 包正博首次正式接受采访、谈及他执掌迪士尼的动荡33个月。他讲述了自己被解除CEO职务的经历，以及为何将责任归咎于艾格。
+- [[ai-salary-setting-hidden-ways|企业利用AI设定薪酬的隐秘方式]] (2026-09-24) - 你最终是落在涨薪区间的高端还是低端，可能取决于某个机器学习模型认为你值多少钱。新服务能让雇主精准找出哪些员工薪酬过高或过低。
+- [[cornell-report-us-higher-education-crisis|康奈尔大学发布200页报告，正视美国高等教育危机]] (2026-09-23) - 眼下，美国高等教育正经历其历史上最艰难的时期之一。此前，耶鲁大学和范德堡大学也发表了类似的反思报告，相比之下，康奈尔大学给出的方案更为温和。
+- [[adam-grant-ai-era-white-collar-adaptability|亚当·格兰特谈AI时代白领靠什么立足]] (2026-09-21) - 组织心理学家亚当·格兰特探讨了AI正在颠覆白领在知识型工作中典型的职业优势，以及他们可以如何应对。
+- [[china-youth-one-person-ai-startups|面对内卷和失业，中国年轻人纷纷创办一人AI公司]] (2026-09-21) - 厌倦了职场内卷，人们试图通过创办一人AI公司碰碰运气，但他们面临的却是一个残酷的市场。
+- [[working-in-us-data-center|在美国数据中心工作是怎样一种体验]] (2026-09-21) - 支撑全美AI基础设施大扩建的，是每日高强度的步行巡检、嗅探设备的烧焦气味，以及防范鸟类造成的破坏。
 - [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
 - [[ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] (2026-09-17) - 特朗普称AI对人类的威胁是一场骗局，可企业CEO们并不买账。
 - [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...

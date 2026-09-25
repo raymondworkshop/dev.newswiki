@@ -34,4 +34,4 @@ AI [[hubs/ai-infrastructure|数据中心]]的电力缺口正加速 SMR 的资本
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
-- [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
+- [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]

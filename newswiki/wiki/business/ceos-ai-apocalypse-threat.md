@@ -26,7 +26,7 @@ topics:
 
 ## 相关文章
 
+- [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]]
 - [[business/chinas-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]]
+- [[business/david-ellison-warner-bros-discovery-california|大卫·埃里森如何在华纳兄弟探索交易上打破与加州的僵局]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
-- [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]]
-- [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]

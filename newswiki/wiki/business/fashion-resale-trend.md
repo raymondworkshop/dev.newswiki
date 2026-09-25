@@ -30,7 +30,7 @@ topics:
 
 ## 相关文章
 
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
 - [[business/publicsquare-collapse|小特朗普曾力挺的MAGA电商平台崩盘内幕]]
-- [[business/base-power-energy-storage|戴尔之子进军储能业，欲将电池装进你家后院]]
-- [[business/ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]]
+- [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]

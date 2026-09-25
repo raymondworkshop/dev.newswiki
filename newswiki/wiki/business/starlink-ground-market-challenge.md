@@ -14,10 +14,10 @@ topics:
 
 # [星链已称霸卫星互联网，它能否在地面市场颠覆AT&T和Verizon？](https://cn.wsj.com/articles/%E6%98%9F%E9%93%BE%E5%B7%B2%E7%A7%B0%E9%9C%B8%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91-%E5%AE%83%E8%83%BD%E5%90%A6%E5%9C%A8%E5%9C%B0%E9%9D%A2%E5%B8%82%E5%9C%BA%E9%A2%A0%E8%A6%86at-t%E5%92%8Cverizon-05742edc?mod=cn_hp_featst_pos2)
 
-SpaceX's [[hubs/spacex|Starlink]] is exploring a move into the terrestrial mobile market, challenging established players like AT&T and Verizon.
+[[hubs/spacex|SpaceX]]'s [[hubs/spacex|Starlink]] is exploring a move into the terrestrial mobile market, challenging established players like AT&T and Verizon.
 
 ## 星链进军地面电信市场
-- SpaceX's [[hubs/spacex|Starlink]] division is reportedly exploring the possibility of building a terrestrial network to offer mobile communication services.
+- [[hubs/spacex|SpaceX]]'s [[hubs/spacex|Starlink]] division is reportedly exploring the possibility of building a terrestrial network to offer mobile communication services.
 - Discussions have involved combining ground systems with satellites to enter the mobile market.
 - SpaceX has previously considered partnering with a U.S. telecom company with ground infrastructure or developing its own ground system.
 - A prototype phone has been developed and shown to investors, fueling speculation about direct satellite-connected phones.
@@ -38,7 +38,7 @@ SpaceX's [[hubs/spacex|Starlink]] is exploring a move into the terrestrial mobil
 - Analysts suggest SpaceX needs ground networks to provide connectivity in areas where satellite signals are weak, such as inside buildings or tunnels.
 - Verizon CEO Dan Schulman highlighted the superiority of ground infrastructure in network connectivity and speed.
 - SpaceX's disruption of the rocket launch industry and expansion of satellite communications have already caused anxiety among competitors.
-- Investors anticipate similar disruption in the telecom sector, with Starlink's expansion causing volatility in satellite stocks.
+- Investors anticipate similar disruption in the telecom sector, with [[hubs/spacex|Starlink]]'s expansion causing volatility in satellite stocks.
 
 ## 马斯克的颠覆者形象
 - Elon Musk is known for entering industries he perceives as stagnant or lacking innovation.

@@ -24,7 +24,7 @@ topics:
 
 ## 相关文章
 
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]
 - [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]]
 - [[business/2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]]
 - [[finance/ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]]
-- [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]]

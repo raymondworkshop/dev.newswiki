@@ -3,6 +3,17 @@
 企业如何決策，發展與機會
 
 ## 文章
+- [[bob-chapek-disney-fired-memoir|被迪士尼解雇，包正博至今仍意难平]] (2026-09-25) - 包正博首次正式接受采访、谈及他执掌迪士尼的动荡33个月。他讲述了自己被解除CEO职务的经历，以及为何将责任归咎于艾格。
+- [[zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]] (2026-09-24) - 扎克伯格发布一款新型手持人工智能设备及科技产品，称其可以拉近消费者与“个人超级智能”的距离。
+- [[meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]] (2026-09-23) - 亚马逊已阻止Muse应用在其网站购物，隐私和安全担忧正在升温。
+- [[centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] (2026-09-22) - 市场上有许多疯狂的核能押注。铀浓缩公司Centrus占据了有利地位。
+- [[david-ellison-warner-bros-discovery-california|大卫·埃里森如何在华纳兄弟探索交易上打破与加州的僵局]] (2026-09-22) - 对本土制作的投资、加文·纽森的低调斡旋以及搬迁威胁帮助派拉蒙达成了和解。
+- [[micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]] (2026-09-22) - 通过暂缓招聘，有时甚至裁撤现有岗位，创业者们在扩充产品的同时，并未扩大员工规模。
+- [[rob-vinall-china-stocks-buffett-inspired|为何这位受巴菲特启发的基金经理大举押注中国股票]] (2026-09-22) - 中国股票的低估值是吸引RV Capital创始人罗布·维诺尔的主要因素。此外，这些公司仍由创始人管理，业务也有宽阔的护城河。
+- [[trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]] (2026-09-21) - 随着选民中对AI的反对声浪日益高涨，美国总统特朗普呼吁联邦政府介入人工智能产业。
+- [[crypto-industry-missed-legislative-opportunity-scapegoating-war|加密货币行业错失立法良机，甩锅大战随即爆发]] (2026-09-21) - 关于数字资产在主流金融体系中应扮演何种角色，长期以来纷争不断，而Coinbase首席执行官布莱恩·阿姆斯特朗处在这场争论的中心。
+- [[china-youth-one-person-ai-startups|面对内卷和失业，中国年轻人纷纷创办一人AI公司]] (2026-09-21) - 厌倦了职场内卷，人们试图通过创办一人AI公司碰碰运气，但他们面临的却是一个残酷的市场。
+- [[working-in-us-data-center|在美国数据中心工作是怎样一种体验]] (2026-09-21) - 支撑全美AI基础设施大扩建的，是每日高强度的步行巡检、嗅探设备的烧焦气味，以及防范鸟类造成的破坏。
 - [[howard-buffett-berkshire-chairman-succession|霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事]] (2026-09-19) - 霍华德·巴菲特最主要的资历：他的父亲是沃伦·巴菲特。
 - [[energy-traders-war-boom|砸酒桶、办屋顶酒会：能源交易商举杯庆祝“战争红利”]] (2026-09-18) - 地缘政治冲突扰乱全球能源供应，大宗商品经纪商和交易商从中获利颇丰。
 - [[gpt-5-6-sol-ran-a-real-business-lost-447|GPT 5.6 Sol Ran a Real Business—and Lost $447]] (2026-09-18) - If an agent had a wallet, a computer, and 24 hours, could it run a profitable startup?
@@ -10,6 +21,7 @@
 - [[mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] (2026-09-18) - 支付行业高管正准备应对AI驱动的购物浪潮，这迫使他们重新审视交易风险、欺诈防范，以及如何处理可能“失控”的AI智能体。
 - [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
 - [[hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] (2026-09-18) - 一个参加漏洞搜寻计划的独立安全研究团队访问了OpenAI的内部代码系统。该事件暴露了自动化网络威胁日益增长的风险。
+- [[us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]] (2026-09-18) - 美国的讨论重点在于保护人类免受技术反噬，而北京的首要关切则是维护共产党的统治地位。
 - [[rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]] (2026-09-18) - 利率上升会从多个方面冲击私募股权基金，包括推高旗下被收购企业债务的利息成本，并使其更难卖出好价钱。
 - [[yuan-four-year-high-pboc-fixing|人民币升至逾四年高点]] (2026-09-18) - 周五，人民币兑美元汇率创下四年多来新高，中国强劲的出口表现以及央行的支持为人民币走强提供了支撑。
 - [[american-families-dinner-struggle|美国家庭最头痛的五个字：今晚吃什么？]] (2026-09-18) - 美国人花在做饭上的时间比过去20年都要多，但繁忙的日程和不断上涨的成本却让做饭成了生活中的头号痛点。
@@ -40,6 +52,7 @@
 - [[windows-on-the-world-nyc-culture|世贸中心顶楼的一家餐厅如何改变了纽约]] (2026-09-10) - 位于世贸中心北塔100多层之上的“世界之窗”曾是重塑纽约城市文化的餐饮巨头。
 - [[anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] (2026-09-09) - 预计今秋华尔街的重头戏将是Anthropic的首次公开募股。投资者正翘首以盼，希望能一窥该公司的内部财务状况；而对Anthropic来说，也仍有一些关键决策亟待敲定。
 - [[openai-navier-stokes-millennium-breakthrough|OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”]] (2026-09-09) - OpenAI破解了纳维-斯托克斯难题，代表了AI解决数学难题领域迄今为止最重大的进展。眼下，各大顶尖AI实验室正为争夺数学领域的霸主地位展开激战。
+- [[ai-impact-software-companies-slow|AI正在冲击软件公司，但速度并没许多人担心的那么快]] (2026-09-08) - 即便股价此前遭遇重挫，Salesforce与Workday等公司依然展现出强劲的财务实力。
 - [[china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] (2026-09-08) - 分析师看好生物制药股，理由是其盈利具有吸引力、估值较低。与此同时，市场对AI板块盈利能力和估值偏高的担忧，也进一步凸显了生物制药股的吸引力。
 - [[global-tourists-onitsuka-tiger-japan-stores|全球游客为何涌向日本鬼冢虎门店]] (2026-09-08) - 前往东京的游客有几个必打卡的景点：浅草的浅草寺、涩谷十字路口，以及日本首都的至少一家鬼冢虎门店。
 - [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - I'm a designer and creative technologist based in Brooklyn, NY.

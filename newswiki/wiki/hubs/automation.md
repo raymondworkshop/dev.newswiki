@@ -19,6 +19,7 @@ Curated hub for the concept 「automation」.
 - [[career/ai-career-preparedness|Facing AI-Driven Job Disruption: A New Initiative Aims to Prepare Millions of Americans]] · #career
 - [[tech/2026-05-28-cheap-humanoid-robots|下一波中国冲击：比二手车还便宜的人形机器人]] · #tech
 - [[business/chinas-new-export-engine|中国的新出口引擎：为全球工厂供货]] · #business
+- [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]] · #tech
 - [[tech/warehouse-robotics-adoption|仓库正越来越多地使用机器人]] · #tech
 - [[tech/ai-deanonymization-social-media|以为你的匿名账号很安全？AI或许能查出你是谁]] · #tech
 - [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]] · #career
@@ -26,6 +27,7 @@ Curated hub for the concept 「automation」.
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] · #finance
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] · #career
 - [[business/novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] · #business
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]] · #business
 - [[tech/hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] · #tech
 
 ---

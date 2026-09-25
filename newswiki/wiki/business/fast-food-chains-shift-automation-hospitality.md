@@ -28,4 +28,4 @@ topics:
 - [[business/chinas-new-export-engine|中国的新出口引擎：为全球工厂供货]]
 - [[business/novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]]
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]
-- [[career/ai-employment-impact|AI会导致就业末日吗？三位经济学家各抒己见]]
+- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]

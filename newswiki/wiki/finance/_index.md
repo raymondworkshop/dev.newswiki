@@ -3,6 +3,14 @@
 资本如何定价与配置——市場、流动性与风险
 
 ## 文章
+- [[wealthy-europeans-moving-north-climate|欧洲越来越热，富人开始向北迁居]] (2026-09-24) - 随着干旱和野火侵袭西班牙、法国和意大利的南部热门地区，这些国家的北部地区对购房者越来越有吸引力。
+- [[kalshi-5b-identical-trades-cftc-scrutiny|50亿美元同金额交易扎堆出现，Kalshi平台引发监管关注]] (2026-09-23) - 近100万笔快速下单的交易均发生在Kalshi市场上，金额都接近5,500美元。该预测市场表示，这些交易属于正常活动，不是所谓的“虚假交易”。
+- [[centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] (2026-09-22) - 市场上有许多疯狂的核能押注。铀浓缩公司Centrus占据了有利地位。
+- [[irs-cracks-down-grat-wealth-transfer|美国国税局正严查超级富豪最青睐的财富传承方式]] (2026-09-22) - 多年来，美国富人一直借助一种备受青睐的信托工具将巨额财富转移给子女，从而规避高昂的赠与税和遗产税。如今，他们正高度戒备。
+- [[rob-vinall-china-stocks-buffett-inspired|为何这位受巴菲特启发的基金经理大举押注中国股票]] (2026-09-22) - 中国股票的低估值是吸引RV Capital创始人罗布·维诺尔的主要因素。此外，这些公司仍由创始人管理，业务也有宽阔的护城河。
+- [[coast-fi-retirement-formula-trend|年轻人迷上了这个简单的退休储蓄公式]] (2026-09-21) - 攒够多少钱才算达到了财务自由？如今，美国年轻人爱用一个名为“Coast FI”的公式来计算。不过，我们要注意避开一些“坑”。
+- [[crypto-industry-missed-legislative-opportunity-scapegoating-war|加密货币行业错失立法良机，甩锅大战随即爆发]] (2026-09-21) - 关于数字资产在主流金融体系中应扮演何种角色，长期以来纷争不断，而Coinbase首席执行官布莱恩·阿姆斯特朗处在这场争论的中心。
+- [[hierarchy-of-money|The Hierarchy of Money]] (2026-09-20) - A conceptual walkthrough of how money evolves from physical commodities through layered promises—banknotes, deposits, central bank reserves, and reserve currencies—into today's fiat system where value rests on institutional trust rather than convertibility.
 - [[energy-traders-war-boom|砸酒桶、办屋顶酒会：能源交易商举杯庆祝“战争红利”]] (2026-09-18) - 地缘政治冲突扰乱全球能源供应，大宗商品经纪商和交易商从中获利颇丰。
 - [[jolin-ellison-michigan-sports-donor-influence|密歇根大学体育事务背后的超级金主：拉里·埃里森之妻]] (2026-09-18) - 密歇根大学校友乔琳·埃里森财力雄厚、颇具话语权，致力于资助该校橄榄球队和篮球队赢得比赛。
 - [[binance-eu-entry-blocked-lagarde-intervention|币安入欧计划泡汤背后：拉加德亲自出面干预]] (2026-09-18) - 欧洲央行掌门人亲自干预，将这家曾在美国承认犯有金融罪的全球最大加密货币交易所挡在了欧盟大门之外。
@@ -45,6 +53,7 @@
 - [[why-it-pays-to-stay-invested|坚持投资终有回报：坏消息再多，也挡不住美股创下逾25年来最强劲涨势]] (2026-08-18) - 牛市总是在“担忧之墙”上攀升。标普500指数的复合年增长率已超过15%，有望创下自1994年以来的最强劲六年期表现。
 - [[big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] (2026-08-17) - 大型科技公司披露的AI基础设施巨额资本支出不足以反映已承诺的未来支出的全部规模，因为这些公司即将面临的大量财务义务并未反映在资产负债表上。
 - [[hengli-group-iran-oil-lifeline|这家庞大的中国炼油厂如何成为伊朗资金生命线]] (2026-08-17) - 恒力的名字可能并不为行外人所熟知，但它已成为中国工业巨头，年收入超过特斯拉和波音。在陈建华的手中，该公司从一家小型纺织厂转身变成中国第三大民营企业。
+- [[open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]] (2026-08-17) - 开放权重模型将持续对OpenAI和Anthropic等封闭模型构成挤压，但对硬件、云服务及整体AI生态而言，低成本模型的普及反而将进一步打通下游应用落地，驱动算力需求二次爆发。
 - [[central-bank-crisis-cycle|央行陷入周而复始的危机循环]] (2026-08-17) - 决策者充当起“最后做市商”，却也在不断放大杠杆与风险。
 - [[tiktok-financial-advice-analysis|盘点TikTok上满天飞的理财“秘籍”]] (2026-08-17) - 我们查看了212个提供理财建议的账号，累计观看内容近50个小时。梳理出了几类典型账号。
 - [[wealth-management-cash-problem|财富管理行业面临3万亿美元难题：投资者持有太多现金]] (2026-08-13) - 顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。

@@ -1,6 +1,6 @@
 # Archive Status
 
-**Last Updated:** 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
+**Last Updated:** 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
 
 ## Compilation Batch: 2026-05-27 (5 articles)
 
@@ -103,6 +103,29 @@ All files compiled from raw/ to wiki/ and then archived here.
 
 | File | Topic | Wiki Location | Status |
 |------|-------|---------------|--------|
+| 2026-09-25-被迪士尼解雇，包正博至今仍意难平.md | 商业 | `newswiki/wiki/business/bob-chapek-disney-fired-memoir.md` | Archived |
+| 2026-09-24-欧洲越来越热，富人开始向北迁居.md | 投资 | `newswiki/wiki/finance/wealthy-europeans-moving-north-climate.md` | Archived |
+| 2026-09-24-扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合.md | 科技 | `newswiki/wiki/tech/zuckerberg-muse-ai-smart-glasses-integration-2026.md` | Archived |
+| 2026-09-24-企业利用AI设定薪酬的隐秘方式.md | 职场 | `newswiki/wiki/career/ai-salary-setting-hidden-ways.md` | Archived |
+| 2026-09-24-AI攻克了最棘手的数学难题，为何却无法破解国际象棋？.md | 科技 | `newswiki/wiki/tech/ai-chess-unsolved-creativity.md` | Archived |
+| 2026-09-23-美国国税局正严查超级富豪最青睐的财富传承方式.md | 金融 | `newswiki/wiki/finance/irs-cracks-down-grat-wealth-transfer.md` | Archived |
+| 2026-09-23-康奈尔大学发布200页报告，正视美国高等教育危机.md | 职场 | `newswiki/wiki/career/cornell-report-us-higher-education-crisis.md` | Archived |
+| 2026-09-23-Meta新AI智能体迅速走红，但反对声已经响起.md | 科技 | `newswiki/wiki/tech/meta-muse-popular-opposition.md` | Archived |
+| 2026-09-23-50亿美元同金额交易扎堆出现，Kalshi平台引发监管关注.md | 金融 | `newswiki/wiki/finance/kalshi-5b-identical-trades-cftc-scrutiny.md` | Archived |
+| 2026-09-22-这些微型初创公司借助AI变得更小了.md | 商业 | `newswiki/wiki/business/micro-startups-ai-smaller.md` | Archived |
+| 2026-09-22-开放权重AI不会削弱算力基础设施需求.md | 科技 | `newswiki/wiki/tech/open-weight-ai-compute-demand.md` | Archived |
+| 2026-09-22-年轻人迷上了这个简单的退休储蓄公式.md | 投资 | `newswiki/wiki/finance/coast-fi-retirement-formula-trend.md` | Archived |
+| 2026-09-22-大卫·埃里森如何在华纳兄弟探索交易上打破与加州的僵局.md | 商业 | `newswiki/wiki/business/david-ellison-warner-bros-discovery-california.md` | Archived |
+| 2026-09-22-亚当·格兰特谈AI时代白领靠什么立足.md | 职场 | `newswiki/wiki/career/adam-grant-ai-era-white-collar-adaptability.md` | Archived |
+| 2026-09-22-为何这位受巴菲特启发的基金经理大举押注中国股票.md | 金融 | `newswiki/wiki/finance/rob-vinall-china-stocks-buffett-inspired.md` | Archived |
+| 2026-09-22-Centrus或是押注核能的较安全对象.md | 商业 | `newswiki/wiki/business/centrus-safer-nuclear-bet.md` | Archived |
+| 2026-09-22-AI正在冲击软件公司，但速度并没许多人担心的那么快.md | 商业 | `newswiki/wiki/business/ai-impact-software-companies-slow.md` | Archived |
+| 2026-09-21-面对内卷和失业，中国年轻人纷纷创办一人AI公司.md | 职场 | `newswiki/wiki/career/china-youth-one-person-ai-startups.md` | Archived |
+| 2026-09-21-行业敲响警钟后，特朗普宣布组建“AI部队”.md | 商业 | `newswiki/wiki/business/trump-announces-ai-force-after-industry-warnings.md` | Archived |
+| 2026-09-21-在美国数据中心工作是怎样一种体验.md | 职场 | `newswiki/wiki/career/working-in-us-data-center.md` | Archived |
+| 2026-09-21-加密货币行业错失立法良机，甩锅大战随即爆发.md | 金融 | `newswiki/wiki/finance/crypto-industry-missed-legislative-opportunity-scapegoating-war.md` | Archived |
+| 2026-09-21-The Hierarchy of Money.md | Finance | `newswiki/wiki/finance/hierarchy-of-money.md` | Archived |
+| 2026-09-19-中美均认同AI需要安全护栏，但安全诉求南辕北辙.md | 科技 | `newswiki/wiki/tech/us-china-ai-safety-divergence.md` | Archived |
 | 2026-09-19-霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事.md | 商业 | `newswiki/wiki/business/howard-buffett-berkshire-chairman-succession.md` | Archived |
 | 2026-09-19-Science is open software.md | Tech | `newswiki/wiki/tech/science-is-open-software.md` | Archived |
 | 2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻.md | 商业 | `newswiki/wiki/business/jolin-ellison-michigan-sports-donor-influence.md` | Archived |

@@ -30,6 +30,7 @@ Curated hub for articles related to Microsoft.
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] · #business
 - [[tech/residential-proxy-attack-2026|美国家庭网络如何沦为黑客隐身衣？]] · #tech
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]] · #design
+- [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]] · #business
 
 ---
 **Topics**: [[business/_index|Business]]  

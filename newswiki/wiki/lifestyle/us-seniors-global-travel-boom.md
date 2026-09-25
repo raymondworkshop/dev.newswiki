@@ -25,6 +25,6 @@ topics:
 ## 相关文章
 
 - [[lifestyle/ai-dating-chatbots|AI时代的爱情：聊天机器人接管线上约会]]
+- [[business/jolin-ellison-michigan-sports-donor-influence|密歇根大学体育事务背后的超级金主：拉里·埃里森之妻]]
 - [[business/ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]]
-- [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
-- [[business/publicsquare-collapse|小特朗普曾力挺的MAGA电商平台崩盘内幕]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]

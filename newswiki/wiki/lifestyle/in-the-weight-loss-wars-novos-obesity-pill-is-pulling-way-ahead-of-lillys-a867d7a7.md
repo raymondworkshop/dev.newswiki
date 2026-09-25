@@ -26,4 +26,4 @@ topics:
 - [[lifestyle/ai-dating-chatbots|AI时代的爱情：聊天机器人接管线上约会]]
 - [[lifestyle/us-seniors-global-travel-boom|有钱有闲能折腾：美国老年人正推动全球旅游热潮]]
 - [[business/publicsquare-collapse|小特朗普曾力挺的MAGA电商平台崩盘内幕]]
-- [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]

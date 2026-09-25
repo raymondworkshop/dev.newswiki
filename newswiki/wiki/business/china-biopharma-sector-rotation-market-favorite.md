@@ -27,7 +27,7 @@ topics:
 
 ## 相关文章
 
+- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]
 - [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]]
-- [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]

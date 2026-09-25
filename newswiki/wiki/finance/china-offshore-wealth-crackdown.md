@@ -27,6 +27,6 @@ topics:
 ## 相关文章
 
 - [[finance/binance-eu-entry-blocked-lagarde-intervention|币安入欧计划泡汤背后：拉加德亲自出面干预]]
+- [[finance/kalshi-5b-identical-trades-cftc-scrutiny|50亿美元同金额交易扎堆出现，Kalshi平台引发监管关注]]
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
 - [[finance/spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]]
-- [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]
