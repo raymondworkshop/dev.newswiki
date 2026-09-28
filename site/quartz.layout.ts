@@ -13,10 +13,9 @@ const isArticlePage = (page: QuartzComponentProps) => !isHome(page) && !isTopicI
 
 const leftChrome = [
   Component.PageTitle(),
-  Component.MobileOnly(Component.Spacer()),
+  Component.TopicNav(),
   Component.Search(),
   Component.Darkmode(),
-  Component.TopicNav(),
 ]
 
 // components shared across all pages
@@ -55,13 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: isArticlePage,
     }),
   ],
-  left: [
-    ...leftChrome,
-    Component.ConditionalRender({
-      component: Component.ReaderMode(),
-      condition: isArticlePage,
-    }),
-  ],
+  left: leftChrome,
   // Keep article pages two-column (no graph rail) for a cleaner read.
   right: [],
   // Article pages: Backlinks after body; client moves it above「相關文章」when present.

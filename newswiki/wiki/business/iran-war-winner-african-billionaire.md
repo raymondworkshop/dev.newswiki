@@ -33,7 +33,7 @@ Dangote's refinery is a strategic response to regional energy instability, turni
 
 ## Related Articles
 
+- [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]]
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
 - [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]]
-- [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]

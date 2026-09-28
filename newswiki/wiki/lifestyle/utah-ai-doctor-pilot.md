@@ -33,5 +33,5 @@ topics:
 
 - [[tech/dna-evidence-security-flaw|安全漏洞致使全美30年来的DNA证据面临黑客攻击风险]]
 - [[finance/tiktok-financial-advice-analysis|盘点TikTok上满天飞的理财“秘籍”]]
+- [[finance/kalshi-5b-identical-trades-cftc-scrutiny|50亿美元同金额交易扎堆出现，Kalshi平台引发监管关注]]
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]]
-- [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]

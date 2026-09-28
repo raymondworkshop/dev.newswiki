@@ -19,17 +19,17 @@ topics:
 ## 星链进军地面电信市场
 - [[hubs/spacex|SpaceX]]'s [[hubs/spacex|Starlink]] division is reportedly exploring the possibility of building a terrestrial network to offer mobile communication services.
 - Discussions have involved combining ground systems with satellites to enter the mobile market.
-- SpaceX has previously considered partnering with a U.S. telecom company with ground infrastructure or developing its own ground system.
+- [[hubs/spacex|SpaceX]] has previously considered partnering with a U.S. telecom company with ground infrastructure or developing its own ground system.
 - A prototype phone has been developed and shown to investors, fueling speculation about direct satellite-connected phones.
-- This move is in its early stages, and SpaceX faces significant challenges from established carriers like [[AT&T]], [[Verizon]], and [[T-Mobile US]] with their strong brand recognition and extensive ground infrastructure.
+- This move is in its early stages, and [[hubs/spacex|SpaceX]] faces significant challenges from established carriers like [[AT&T]], [[Verizon]], and [[T-Mobile US]] with their strong brand recognition and extensive ground infrastructure.
 
 ## 星链的现状与战略
-- [[hubs/spacex|Starlink]] is SpaceX's financial engine, funding its ambitious projects.
+- [[hubs/spacex|Starlink]] is [[hubs/spacex|SpaceX]]'s financial engine, funding its ambitious projects.
 - As of March, [[hubs/spacex|Starlink]] had over 10,000 satellites and more than 10 million home broadband subscribers.
 - The core business has been home broadband, popular in rural areas lacking fiber networks, with growing applications in maritime and aviation connectivity.
 - [[hubs/spacex|Starlink]] is developing mobile services, with agreements to provide limited satellite connectivity to partner carriers' users in remote areas (e.g., with [[T-Mobile US]] in the U.S.).
 - Engineers are developing upgraded [[hubs/spacex|Starlink]] satellites for mobile connectivity.
-- SpaceX is actively acquiring wireless spectrum, including $8.5 million for two cellular network licenses in an FCC auction and a $20 billion deal to acquire spectrum from another satellite company.
+- [[hubs/spacex|SpaceX]] is actively acquiring wireless spectrum, including $8.5 million for two cellular network licenses in an FCC auction and a $20 billion deal to acquire spectrum from another satellite company.
 
 ## 市场机遇与挑战
 - SpaceX's leadership believes the mobile market opportunity is even larger than home Wi-Fi.

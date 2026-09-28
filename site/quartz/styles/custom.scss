@@ -5,10 +5,6 @@ $font-stack: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display",
   "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 $code-stack: "SF Mono", "SFMono-Regular", Menlo, Monaco, Consolas, monospace;
 
-@mixin topic-icon($paths...) {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234a675d' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'%3E#{$paths}%3C/svg%3E");
-}
-
 body {
   --titleFont: #{$font-stack};
   --headerFont: #{$font-stack};
@@ -25,12 +21,7 @@ body {
   --headerFont: #{$font-stack};
   --bodyFont: #{$font-stack};
   --codeFont: #{$code-stack};
-  --link: #2b5d4e;
-}
-
-:root[saved-theme="dark"],
-html[data-theme="dark"] {
-  --link: #9ec7b6;
+  --link: var(--secondary);
 }
 
 html {
@@ -41,197 +32,162 @@ html {
   }
 }
 
-// One reading column shared by header / body / 訂閱 / ©.
-.page > #quartz-body {
-  --reading-width: 42rem;
-}
-
-body[data-slug="index"] .page > #quartz-body {
-  --reading-width: 48rem;
-}
-
-// Fill the reading column — do not re-center with a different max-width.
-.page > #quartz-body .center article,
-.page > #quartz-body .center > .page-header,
-.page > #quartz-body .center > .popover-hint {
+// Full-width masthead, then one centered reading column. Same at every width.
+.page {
   max-width: none;
   width: 100%;
-  margin-left: 0;
-  margin-right: 0;
-  box-sizing: border-box;
 }
 
-.page-title {
-  font-size: 1.12rem;
-  font-weight: 600;
-  letter-spacing: -0.015em;
-  line-height: 1.2;
-  margin-bottom: 1.15rem;
+.page > #quartz-body {
+  --reading-width: 42rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto auto auto;
+  column-gap: 0;
+  row-gap: 0;
+  grid-template-areas:
+    "grid-sidebar-left"
+    "grid-center"
+    "grid-footer";
+  padding: 0;
 
-  a {
-    text-decoration: none;
-    color: var(--dark);
-
-    &:hover,
-    &:focus-visible {
-      color: var(--secondary);
-      background-color: transparent;
-    }
+  > .sidebar.right {
+    display: none;
   }
-}
 
-.left.sidebar {
-  border-right: none;
-  padding-right: 0;
-}
+  > .sidebar.left {
+    grid-area: grid-sidebar-left;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    height: auto;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0.95rem 1.75rem;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto auto;
+    grid-template-areas: "title nav search theme";
+    align-items: center;
+    column-gap: 1.35rem;
+    flex-direction: unset;
+    gap: 0 1.35rem;
+    border: none;
+    border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 88%, transparent);
+    background: var(--light);
 
-.right.sidebar {
-  border-left: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
-  padding-left: 0.75rem;
-}
+    > .spacer,
+    > .readermode {
+      display: none;
+    }
 
-// Article right rail: graph needs usable width.
-@media all and (min-width: 900px) {
-  .page > #quartz-body > .sidebar.right {
-    padding-left: 0.85rem;
-    padding-right: 1rem;
-    min-width: 0;
+    > .page-title {
+      grid-area: title;
+      margin: 0;
+      padding: 0;
+      border: none;
+      font-size: 1.05rem;
+      font-weight: 650;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+      justify-self: start;
 
-    .graph {
+      a {
+        text-decoration: none;
+        color: var(--dark);
+        background: transparent;
+
+        &:hover,
+        &:focus-visible {
+          color: var(--secondary);
+          background: transparent;
+        }
+      }
+    }
+
+    > .topic-nav {
+      grid-area: nav;
+      justify-self: center;
       width: 100%;
       min-width: 0;
     }
-  }
-}
 
-// Phone + tablet (<900px): single column, readable measure.
-// Quartz's narrow "tablet" band (800–900) kept a 260px left rail and let
-// article text span the rest of an iPad — lines felt too wide / unadjusted.
-@media all and (max-width: 899px) {
-  .page > #quartz-body {
-    grid-template-columns: minmax(0, 1fr);
-    grid-template-rows: auto auto auto auto auto;
-    column-gap: 0;
-    row-gap: 0.35rem;
-    grid-template-areas:
-      "grid-sidebar-left"
-      "grid-header"
-      "grid-center"
-      "grid-sidebar-right"
-      "grid-footer";
-    padding-left: 1.25rem;
-    padding-right: 1.25rem;
+    > .search {
+      grid-area: search;
+      justify-self: end;
+      margin: 0;
+    }
+
+    > .darkmode {
+      grid-area: theme;
+      justify-self: end;
+      margin: 0;
+    }
+  }
+
+  > .center {
+    grid-area: grid-center;
+    justify-self: center;
+    width: min(var(--reading-width), calc(100% - 2.5rem));
+    max-width: var(--reading-width);
+    min-width: 0;
+    margin: 0 auto;
+    padding: 3.4rem 0 0;
     box-sizing: border-box;
 
-    > .sidebar.right {
-      display: none;
-    }
-
-    > .center,
-    > footer {
-      min-width: 0;
-      max-width: 36rem;
+    > .page-header,
+    > .popover-hint,
+    > article,
+    article {
+      grid-area: auto;
+      max-width: none;
       width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-      box-sizing: border-box;
-    }
-
-    > .sidebar.left {
-      position: initial;
-      height: unset;
-      width: 100%;
-      max-width: 36rem;
-      margin-left: auto;
-      margin-right: auto;
-      flex-direction: column;
-      align-items: stretch;
-      gap: 0.55rem;
-      padding: 1rem 0 0.85rem;
-      border-right: none;
-      border-bottom: none;
-      background: transparent;
-      box-sizing: border-box;
-
-      > .spacer {
-        display: none;
-      }
-
-      > .page-title {
-        margin-bottom: 0;
-      }
-
-      > .search {
-        margin-bottom: 0;
-      }
-
-      > .darkmode {
-        margin: 0;
-      }
-
-      > .readermode {
-        display: none;
-      }
-    }
-
-    .center > article,
-    .center > .popover-hint > article {
-      max-width: 100%;
       margin-left: 0;
       margin-right: 0;
+      box-sizing: border-box;
     }
 
-    > .center > .page-header,
-    > .center > .popover-hint {
-      max-width: 100%;
+    > .page-header {
+      margin-top: 0;
+      margin-bottom: 0.35rem;
     }
+  }
 
-    .center > .page-footer .backlinks {
-      max-width: 100%;
-    }
+  > footer {
+    grid-area: grid-footer;
+    justify-self: center;
+    width: min(var(--reading-width), calc(100% - 2.5rem));
+    max-width: var(--reading-width);
+    min-width: 0;
+    margin: 0.5rem auto 2.25rem;
+    padding: 0;
+    box-sizing: border-box;
   }
 }
 
-// Two-column desktop everywhere (no empty / graph right rail).
-.page > #quartz-body {
-  @media all and (min-width: 900px) {
-    grid-template-columns: 220px minmax(0, 1fr);
-    column-gap: 3.25rem;
+@media all and (max-width: 720px) {
+  .page > #quartz-body > .sidebar.left {
+    grid-template-columns: minmax(0, 1fr) auto auto;
     grid-template-areas:
-      "grid-sidebar-left grid-header"
-      "grid-sidebar-left grid-center"
-      "grid-sidebar-left grid-footer";
+      "title search theme"
+      "nav nav nav";
+    row-gap: 0.45rem;
+    column-gap: 0.35rem;
+    padding: 0.7rem 1.15rem 0.55rem;
 
-    > .sidebar.right {
-      display: none;
+    > .topic-nav {
+      justify-self: stretch;
     }
+  }
 
-    // .center must own the content column (Quartz only grid-areas the
-    // nested article/header, so without this it auto-places and drifts).
-    > .center {
-      grid-row: 1 / 3;
-      grid-column: 2;
-      justify-self: center;
-      width: 100%;
-      max-width: var(--reading-width);
-      min-width: 0;
-      box-sizing: border-box;
-      padding-top: 0.35rem;
+  .page > #quartz-body > .center {
+    width: min(var(--reading-width), calc(100% - 2rem));
+    padding-top: 1.75rem;
+  }
 
-      > .page-header,
-      article {
-        grid-area: auto;
-      }
-    }
-
-    > footer {
-      justify-self: center;
-      width: 100%;
-      max-width: var(--reading-width);
-      margin-left: 0;
-      margin-right: 0;
-      box-sizing: border-box;
-    }
+  .page > #quartz-body > footer {
+    width: min(var(--reading-width), calc(100% - 2rem));
   }
 }
 
@@ -241,29 +197,43 @@ body[data-slug="index"] .page > #quartz-body {
   width: 100%;
 }
 
-// Search: quiet text control, not a pill.
+// Search: icon only. The overlay stays viewport-fixed.
 .left.sidebar .search {
   max-width: none;
   width: auto;
-  margin-bottom: 0.15rem;
+  min-width: 0;
+  margin: 0;
 
   > .search-button {
-    width: auto;
-    height: auto;
+    width: 2rem;
+    height: 2rem;
     border: none;
     border-radius: 0;
     background: transparent;
-    padding: 0.1rem 0;
+    padding: 0;
     box-shadow: none;
+    justify-content: center;
+    color: var(--gray);
 
     > p {
-      color: var(--gray);
-      font-size: 0.9rem;
+      display: none;
     }
 
-    &:hover > p,
-    &:focus-visible > p {
+    svg {
+      margin: 0;
+      width: 1.05rem;
+      min-width: 1.05rem;
+
+      .search-path {
+        stroke: currentColor;
+        stroke-width: 1.6px;
+      }
+    }
+
+    &:hover,
+    &:focus-visible {
       color: var(--dark);
+      background: transparent;
     }
   }
 }
@@ -272,22 +242,6 @@ body[data-slug="index"] .page > #quartz-body {
 .breadcrumb-container {
   display: none;
 }
-
-.left.sidebar .darkmode {
-  margin: 0.05rem 0 0.15rem;
-  width: auto;
-  height: auto;
-
-  .darkmode-label {
-    display: none;
-  }
-
-  .darkmode-track {
-    background: color-mix(in srgb, var(--gray) 42%, var(--lightgray));
-  }
-}
-
-// Left chrome stack for phone/tablet is handled in the <900px block above.
 
 p,
 li,
@@ -307,7 +261,7 @@ pre {
 a,
 a.internal {
   text-decoration: none;
-  color: var(--link);
+  color: var(--secondary);
   background-color: transparent;
   border-radius: 0;
   transition: color 0.15s ease;
@@ -325,14 +279,14 @@ a.internal {
 
 .sidebar a:hover,
 .toc a:hover {
-  background-color: var(--highlight);
+  background-color: transparent;
 }
 
 a:hover,
 a:focus-visible,
 a.internal:hover,
 a.internal:focus-visible {
-  color: color-mix(in srgb, var(--link) 72%, var(--dark));
+  color: color-mix(in srgb, var(--secondary) 70%, var(--dark));
   background-color: transparent;
   text-decoration: none;
 }
@@ -392,9 +346,9 @@ footer {
   opacity: 1;
 }
 
-// Align footer block with reading column (override base footer margin-left: 0).
+// Align footer block with the reading column.
 .page > #quartz-body > footer {
-  width: 100%;
+  width: min(var(--reading-width), calc(100% - 2.5rem));
   min-width: 0;
   max-width: var(--reading-width);
   margin-left: auto;
@@ -595,7 +549,7 @@ body[data-slug="articles"] {
     }
   }
 
-  // 文章 (topic list; legacy 相关文章) — same title size as 看点
+  // 文章 — same list rhythm as the homepage (title, dek, date).
   article > h2[id="文章"],
   article > h2[id="相关文章"],
   article > h2[id="相關文章"],
@@ -606,8 +560,8 @@ body[data-slug="articles"] {
     padding-bottom: 0;
     font-size: 0.78rem;
     font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    text-transform: none;
     color: var(--gray);
   }
 
@@ -620,28 +574,31 @@ body[data-slug="articles"] {
     margin: 0.15rem 0 1.25rem;
 
     > li {
-      display: block;
+      display: flex;
+      flex-direction: column;
       margin: 0;
-      padding: 0 0 1.35rem;
+      padding: 0 0 1.85rem;
       border: none;
       line-height: 1.45;
 
       .recent-date {
+        order: 3;
         display: block;
-        margin-bottom: 0.2rem;
+        margin: 0.35rem 0 0;
         font-size: 0.75rem;
         color: var(--gray);
         font-variant-numeric: tabular-nums;
       }
 
       > a.internal {
+        order: 1;
         display: block;
         text-decoration: none;
         background: transparent;
         padding: 0;
         font-weight: 600;
         color: var(--dark);
-        font-size: 1.05rem;
+        font-size: 1.08rem;
         line-height: 1.4;
         letter-spacing: -0.02em;
 
@@ -655,14 +612,15 @@ body[data-slug="articles"] {
       }
 
       .topic-blurb {
+        order: 2;
         display: -webkit-box;
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;
         overflow: hidden;
         margin-top: 0.28rem;
-        font-size: 0.9rem;
+        font-size: 0.92rem;
         font-weight: 400;
-        line-height: 1.55;
+        line-height: 1.6;
         color: var(--gray);
       }
 
@@ -671,12 +629,12 @@ body[data-slug="articles"] {
       &:has(a[href="articles"]),
       &:has(a[href="../articles"]),
       &:has(a[href="./articles"]) {
-        padding-top: 0.35rem;
-        padding-bottom: 0.15rem;
+        padding-top: 0.15rem;
+        padding-bottom: 0;
 
         > a.internal {
           font-weight: 500;
-          color: var(--gray);
+          color: var(--secondary);
           font-size: 0.92rem;
         }
       }
@@ -827,141 +785,18 @@ body[data-slug="index"] {
     display: none;
   }
 
-  article > h2#topics {
-    margin-top: 0.25rem;
-    margin-bottom: 0.85rem;
-    border-bottom: none;
-    padding-bottom: 0;
-    font-size: 1.05rem;
-    font-weight: 650;
-    letter-spacing: -0.015em;
-    text-transform: none;
-    color: var(--dark);
-  }
-
-  article > h2#topics + ul {
-    list-style: none;
-    padding: 0;
-    margin: 0 0 2.5rem;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 0.85rem;
-
-    @media all and (max-width: 800px) {
-      grid-template-columns: 1fr;
-    }
-
-    > li {
-      position: relative;
-      margin: 0;
-      padding: 1.05rem 1.1rem 1.05rem 3.35rem;
-      min-height: 4.75rem;
-      border: 1px solid color-mix(in srgb, var(--lightgray) 88%, transparent);
-      border-radius: 10px;
-      background: color-mix(in srgb, var(--light) 96%, white);
-      line-height: 1.5;
-      color: color-mix(in srgb, var(--darkgray) 85%, var(--gray));
-      cursor: pointer;
-      transition:
-        border-color 0.18s ease,
-        background-color 0.18s ease,
-        box-shadow 0.18s ease;
-
-      &::before {
-        content: "";
-        position: absolute;
-        left: 1rem;
-        top: 1.15rem;
-        width: 1.55rem;
-        height: 1.55rem;
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position: center;
-        opacity: 0.92;
-      }
-
-      &:nth-child(1)::before {
-        @include topic-icon(
-          "%3Crect x='3' y='4' width='18' height='12' rx='1.5'/%3E%3Cpath d='M8 20h8M12 16v4'/%3E"
-        );
-      }
-
-      &:nth-child(2)::before {
-        @include topic-icon("%3Cpath d='M4 16l8-12 3 5 5 1-8 12-3-5-5-1z'/%3E");
-      }
-
-      &:nth-child(3)::before {
-        @include topic-icon(
-          "%3Crect x='3' y='7' width='18' height='13' rx='1.5'/%3E%3Cpath d='M8 7V5.5A1.5 1.5 0 019.5 4h5A1.5 1.5 0 0116 5.5V7'/%3E"
-        );
-      }
-
-      &:nth-child(4)::before {
-        @include topic-icon("%3Cpath d='M4 19V10M10 19V5M16 19v-7M22 19H2'/%3E");
-      }
-
-      &:nth-child(5)::before {
-        @include topic-icon(
-          "%3Ccircle cx='12' cy='8' r='3.25'/%3E%3Cpath d='M5 19c1.5-3.5 4-5 7-5s5.5 1.5 7 5'/%3E"
-        );
-      }
-
-      &:nth-child(6)::before {
-        @include topic-icon(
-          "%3Cpath d='M12 21s-7-4.5-7-10a4 4 0 017-2.5A4 4 0 0119 11c0 5.5-7 10-7 10z'/%3E"
-        );
-      }
-
-      &:hover {
-        border-color: color-mix(in srgb, var(--secondary) 35%, var(--lightgray));
-        background: color-mix(in srgb, var(--light) 88%, var(--highlight));
-        box-shadow: 0 1px 0 color-mix(in srgb, var(--secondary) 10%, transparent);
-      }
-
-      > a.internal {
-        display: inline;
-        font-weight: 700;
-        font-size: 1.02rem;
-        text-decoration: none;
-        background: transparent;
-        padding: 0;
-        color: var(--dark);
-
-        // Stretch the topic link across the whole card.
-        &::after {
-          content: "";
-          position: absolute;
-          inset: 0;
-          border-radius: inherit;
-          z-index: 1;
-        }
-
-        &:hover,
-        &:focus-visible {
-          color: var(--secondary);
-          background: transparent;
-        }
-
-        &:focus-visible::after {
-          outline: 2px solid var(--tertiary);
-          outline-offset: 2px;
-        }
-      }
-    }
-  }
-
   article > h2#recent-articles,
   article > h2#近期文章,
   article > h2#近排文章 {
-    margin-top: 0.15rem;
-    margin-bottom: 1.15rem;
-    border-bottom: none;
-    padding-bottom: 0;
-    font-size: 0.95rem;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: none;
-    color: var(--gray);
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
   }
 
   article > h2#recent-articles + ul,
@@ -969,18 +804,20 @@ body[data-slug="index"] {
   article > h2#近排文章 + ul {
     list-style: none;
     padding: 0;
-    margin: 0 0 1.25rem;
+    margin: 0 0 0.5rem;
 
     > li {
-      display: block;
+      display: flex;
+      flex-direction: column;
       margin: 0;
-      padding: 0 0 1.55rem;
+      padding: 0 0 1.85rem;
       border: none;
       line-height: 1.45;
 
       .recent-date {
+        order: 3;
         display: block;
-        margin-bottom: 0.22rem;
+        margin: 0.4rem 0 0;
         font-size: 0.75rem;
         color: var(--gray);
         font-variant-numeric: tabular-nums;
@@ -988,15 +825,16 @@ body[data-slug="index"] {
       }
 
       > a.internal {
+        order: 1;
         display: block;
         text-decoration: none;
         background: transparent;
         padding: 0;
         font-weight: 600;
         color: var(--dark);
-        font-size: 1.12rem;
+        font-size: 1.08rem;
         line-height: 1.4;
-        letter-spacing: -0.015em;
+        letter-spacing: -0.02em;
 
         &:hover,
         &:focus-visible {
@@ -1008,15 +846,38 @@ body[data-slug="index"] {
       }
 
       .topic-blurb {
+        order: 2;
         display: -webkit-box;
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;
         overflow: hidden;
-        margin-top: 0.35rem;
-        font-size: 0.95rem;
+        margin-top: 0.28rem;
+        font-size: 0.92rem;
         font-weight: 400;
         line-height: 1.6;
         color: var(--gray);
+      }
+
+      &:first-child {
+        padding: 0 0 2rem;
+        margin-bottom: 0.15rem;
+
+        > a.internal {
+          font-size: 1.28rem;
+          font-weight: 650;
+          line-height: 1.35;
+          letter-spacing: -0.02em;
+        }
+
+        .topic-blurb {
+          -webkit-line-clamp: unset;
+          display: block;
+          max-width: 38rem;
+          margin-top: 0.4rem;
+          font-size: 0.98rem;
+          line-height: 1.65;
+          color: color-mix(in srgb, var(--darkgray) 72%, var(--gray));
+        }
       }
 
       &:has(a[href$="/articles"]),
@@ -1025,13 +886,23 @@ body[data-slug="index"] {
       &:has(a[href="./articles"]) {
         padding-top: 0.15rem;
         padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: none;
 
         > a.internal {
           font-weight: 500;
-          color: var(--link);
-          font-size: 0.95rem;
+          color: var(--secondary);
+          font-size: 0.92rem;
         }
       }
+    }
+  }
+
+  @media all and (max-width: 720px) {
+    article > h2#recent-articles + ul > li:first-child > a.internal,
+    article > h2#近期文章 + ul > li:first-child > a.internal,
+    article > h2#近排文章 + ul > li:first-child > a.internal {
+      font-size: 1.18rem;
     }
   }
 
@@ -1092,12 +963,18 @@ body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="article
     }
 
     .article-title {
-      margin: 0.55rem 0 0.55rem;
-      font-size: 1.65rem;
+      margin: 0.15rem 0 0.45rem;
+      font-size: 2rem;
       font-weight: 650;
-      line-height: 1.28;
+      line-height: 1.22;
       letter-spacing: -0.03em;
       color: var(--dark);
+    }
+
+    @media all and (max-width: 720px) {
+      .article-title {
+        font-size: 1.55rem;
+      }
     }
 
     .content-meta {
@@ -1189,7 +1066,7 @@ article li:has(span.ai-synthesis)::marker {
 :root[saved-theme="dark"] span.ai-synthesis,
 html[data-theme="dark"] span.ai-synthesis {
   background: rgba(255, 255, 255, 0.08);
-  color: #e8e6e1;
+  color: #e8e8e6;
 }
 
 :root[saved-theme="dark"] article li:has(span.ai-synthesis)::marker,
@@ -1216,4 +1093,5 @@ body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="article
     }
   }
 }
+
 

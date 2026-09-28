@@ -83,6 +83,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[ai-rare-disease-diagnosis|AI正助力罕见病患者破解医学谜团]] (2026-08-17) - 面对罕见病和疑难杂症，患者与医护人员正借助AI技术以寻根究底。
 - [[open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]] (2026-08-17) - 开放权重模型将持续对OpenAI和Anthropic等封闭模型构成挤压，但对硬件、云服务及整体AI生态而言，低成本模型的普及反而将进一步打通下游应用落地，驱动算力需求二次爆发。
 - [[seven-books-i-keep-close|Seven books I keep close because I love them]] (2026-08-17) - From the highly eclectic blog of Mark Dominus
+- [[software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] (2026-08-16) - The manifestation of my imposter syndrome, for me and today, is what does it mean to be a software engineer. There's a lot more noise than signal on the Internet about agentic engineering, what can be accomplished, and its implications for the future. The title I chose rather gives it away; it's about choosing —…
 - [[cami-clark-anthropic-influence|连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力]] (2026-08-14) - 卡米·克拉克曾创办自称“革命性”的色情公司并向爱泼斯坦寻求投资，如今她虽保持低调，却是Anthropic首席执行官达里奥·阿莫迪的关键顾问。
 - [[interns-running-the-show|告别端茶倒水，实习生今夏开始挑大梁]] (2026-08-13) - 随着AI接管琐碎任务，实习生们正肩负起牵头项目等更大责任。
 - [[coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]] (2026-08-12) - 云计算公司CoreWeave公布，收入连续第五个财季创下新高，储备订单达1,040亿美元，这反映出人工智能算力需求持续强劲。

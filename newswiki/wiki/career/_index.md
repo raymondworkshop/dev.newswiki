@@ -9,6 +9,7 @@
 - [[adam-grant-ai-era-white-collar-adaptability|亚当·格兰特谈AI时代白领靠什么立足]] (2026-09-21) - 组织心理学家亚当·格兰特探讨了AI正在颠覆白领在知识型工作中典型的职业优势，以及他们可以如何应对。
 - [[china-youth-one-person-ai-startups|面对内卷和失业，中国年轻人纷纷创办一人AI公司]] (2026-09-21) - 厌倦了职场内卷，人们试图通过创办一人AI公司碰碰运气，但他们面临的却是一个残酷的市场。
 - [[working-in-us-data-center|在美国数据中心工作是怎样一种体验]] (2026-09-21) - 支撑全美AI基础设施大扩建的，是每日高强度的步行巡检、嗅探设备的烧焦气味，以及防范鸟类造成的破坏。
+- [[dont-be-nice|Don't be nice]] (2026-09-20) - Sometimes, it's more important to be good than it is to be nice.
 - [[microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]] (2026-09-18) - 这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。
 - [[ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] (2026-09-17) - 特朗普称AI对人类的威胁是一场骗局，可企业CEO们并不买账。
 - [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...
@@ -28,6 +29,7 @@
 - [[ai-chaos-book-publishing|AI让图书出版业陷入一片混乱]] (2026-08-18) - 几笔重磅图书合约因疑似使用AI而告吹，这迫使整个行业重新审视创造力、信任的基石，以及出版业的未来。
 - [[warehouse-robotics-adoption|仓库正越来越多地使用机器人]] (2026-08-18) - 劳动力成本上升和快速送货需求正促使企业推进订单履行自动化。
 - [[ukraine-fire-point-ceo-iryna-terekh|重创俄军的乌克兰无人机出自一位90后家具设计师之手]] (2026-08-17) - 34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。
+- [[software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] (2026-08-16) - The manifestation of my imposter syndrome, for me and today, is what does it mean to be a software engineer. There's a lot more noise than signal on the Internet about agentic engineering, what can be accomplished, and its implications for the future. The title I chose rather gives it away; it's about choosing —…
 - [[interns-running-the-show|告别端茶倒水，实习生今夏开始挑大梁]] (2026-08-13) - 随着AI接管琐碎任务，实习生们正肩负起牵头项目等更大责任。
 - [[jobless-boom-era|“无就业”繁荣时代已经到来]] (2026-08-13) - 股市认为美国经济正在加速，但招聘活动并未跟上。
 - [[2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]] (2026-08-11) - Calibrate your enthusiasm
@@ -68,6 +70,7 @@
 - [[2026-05-29-ai-fact-checking|AI会犯错，但AI也能揪出错误]] (2026-05-20) - 由于聊天机器人会产生“幻觉”并编造事实，一个有效且便捷的方法是用第二个专门挑错的AI来审核结果并纠错。
 - [[2026-05-29-ai-era-soft-skills|AI时代的软技能：“科技男”开始上礼仪课了]] (2026-05-19) - 那些凭借编程能力 and 强硬领导力成名的创始人正逐渐意识到，在如今的人工智能时代，社交礼仪与人际沟通等软实力已变得比以往任何时候都更加重要。
 - [[2026-04-30-highest-earning-women-lessons|与美国最高收入女性交谈带来的意外启示]] (2026-04-30) - “脸皮厚”定律被高估了，而“冒名顶替综合征”也并不总是一件坏事。这些是笔者在与美国一些最高收入女性交谈后得出的反直觉结论。
+- [[one-book-a-year|You should read at least one job-related book a year]] (2026-04-23) - Getting better at your job is satisfying. One book per year isn't much, but I've been surprised by how few people do at least that.
 - [[linkedin-ai-employment-irrationality|领英高管揭示职场AI应用的最大误区]] (2026-04-13) - “如果对AI过度依赖，那意味着在整个工作流程中，你丧失了作为人类的独特价值。”
 - [[2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] (2026-04-03) - 尽管AI引发了大规模失业恐慌，但它同时也催生了大量工程和培训岗位。
 - [[2026-03-25-how-top-companies-develop-talent|这些公司更能成就人才，它们是这样做的]] (2026-03-25) - 在排行榜上排名靠前的公司往往大量招聘大学应届毕业生，让他们在不同岗位上历练，同时注重软技能的传授。

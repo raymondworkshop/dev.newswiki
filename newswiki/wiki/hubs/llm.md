@@ -27,6 +27,7 @@ Curated hub for the concept 「大语言模型」.
 - [[career/llms-reward-expertise|LLMs reward expertise]] · #career
 - [[tech/ai-ml-engineering/langgraph-stateful-ai-agents|LangGraph: Build Stateful AI Agents in Python]] · #tech
 - [[tech/my-agent-md-improve-llm-code-quality|My agent.md to improve LLM-assisted code quality]] · #tech
+- [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] · #tech
 - [[tech/llm-critics-right-use-anyway|The LLM Critics Are Right. I Use LLMs Anyway.]] · #tech
 - [[tech/theres-no-such-thing-as-a-small-software-team|There's no such thing as a small software team anymore]] · #tech
 - [[tech/ai-deanonymization-social-media|以为你的匿名账号很安全？AI或许能查出你是谁]] · #tech

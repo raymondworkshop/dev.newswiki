@@ -29,4 +29,4 @@ Kimi K3 is a powerful but expensive 2.8T Chinese model with a single max reasoni
 - [[tech/a-road-to-lisp-why-lisp|A road to Lisp: Why Lisp]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
 - [[tech/sly-lexer-parser|SLY: lexer and parser - Playing with code]]
-- [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]]
+- [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]]

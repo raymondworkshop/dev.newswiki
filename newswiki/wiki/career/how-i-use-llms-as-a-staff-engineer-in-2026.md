@@ -33,6 +33,6 @@ LLMs are now trusted for full PR generation in familiar domains, reducing manual
 ## Related Articles
 
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]]
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]
 - [[career/ai-removing-middle-class-software-engineering|AI is removing the middle class of software engineering]]
-- [[career/llm-burnout-impact|I Think I Have LLM Burnout]]

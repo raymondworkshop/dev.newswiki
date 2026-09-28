@@ -25,7 +25,7 @@ Meta CEO Mark Zuckerberg unveiled a unified vision at Connect 2026 that fuses th
 
 ## 相关文章
 
-- [[tech/meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]]
 - [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]]
+- [[tech/meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]]
 - [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]
 - [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]

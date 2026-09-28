@@ -20,7 +20,7 @@ topics:
 - 维诺尔采用“所有者回报”框架：现金收益率 + 长期盈利增速 ≥ 15%，偏好创始人掌舵、护城河正在拓宽而非静态宽阔的企业。
 - 自 2024 年起将中国股票配置至组合约三分之一，核心持仓为 [[business/luckin-coffee|瑞幸咖啡 (LKNCY)]]、[[business/tencent|腾讯 (TCEHY)]]、[[business/h-world-group|华住集团 (HTHT)]]、[[business/yum-china|百胜中国 (YUMC)]]。
 - 四只核心标的均为创始人主导、护城河宽阔，预期盈利增速 ≥10% 且股息/回购回馈 ≥5%，合成“所有者回报”轻松达标 15%。
-- 关键买入理由：中美[[hubs/valuation|估值]]倒挂显著——MSCI 中国指数 2026 年底预估市盈率 11.4 倍，远低于标普 500 的 21.1 倍，估值吸引力是信心核心来源。
+- 关键买入理由：中美[[hubs/valuation|估值]]倒挂显著——MSCI 中国指数 2026 年底预估市盈率 11.4 倍，远低于标普 500 的 21.1 倍，[[hubs/valuation|估值]]吸引力是信心核心来源。
 - 同期维诺尔亦因 AI 驱动抛售低吸 [[finance/constellation-software|Constellation Software (加拿大上市)]]，认可其创始人文化延续性。
 - [AI Synthesis] 维诺尔的配置逻辑体现‘便宜+质量+创始人治理’的经典价值投资组合，但地缘政策与汇率风险仍为隐性变量。
 

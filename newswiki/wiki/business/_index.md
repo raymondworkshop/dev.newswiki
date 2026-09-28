@@ -14,6 +14,7 @@
 - [[crypto-industry-missed-legislative-opportunity-scapegoating-war|加密货币行业错失立法良机，甩锅大战随即爆发]] (2026-09-21) - 关于数字资产在主流金融体系中应扮演何种角色，长期以来纷争不断，而Coinbase首席执行官布莱恩·阿姆斯特朗处在这场争论的中心。
 - [[china-youth-one-person-ai-startups|面对内卷和失业，中国年轻人纷纷创办一人AI公司]] (2026-09-21) - 厌倦了职场内卷，人们试图通过创办一人AI公司碰碰运气，但他们面临的却是一个残酷的市场。
 - [[working-in-us-data-center|在美国数据中心工作是怎样一种体验]] (2026-09-21) - 支撑全美AI基础设施大扩建的，是每日高强度的步行巡检、嗅探设备的烧焦气味，以及防范鸟类造成的破坏。
+- [[dont-be-nice|Don't be nice]] (2026-09-20) - Sometimes, it's more important to be good than it is to be nice.
 - [[howard-buffett-berkshire-chairman-succession|霍华德·巴菲特是谁？关于伯克希尔新任董事长的五件事]] (2026-09-19) - 霍华德·巴菲特最主要的资历：他的父亲是沃伦·巴菲特。
 - [[energy-traders-war-boom|砸酒桶、办屋顶酒会：能源交易商举杯庆祝“战争红利”]] (2026-09-18) - 地缘政治冲突扰乱全球能源供应，大宗商品经纪商和交易商从中获利颇丰。
 - [[gpt-5-6-sol-ran-a-real-business-lost-447|GPT 5.6 Sol Ran a Real Business—and Lost $447]] (2026-09-18) - If an agent had a wallet, a computer, and 24 hours, could it run a profitable startup?
@@ -69,6 +70,7 @@
 - [[ai-proof-assets-investors-turn-to-sports-casinos-and-tourism|“抗AI”资产有哪些？投资人目光投向体育、赌场和旅游业]] (2026-09-03) - 风险投资人正寻觅不易受到AI快速发展冲击的领域，他们转向线下体验领域：体育团队、标志性地产，甚至儿童玩具。
 - [[theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]] (2026-09-02) - 水清沙白的度假胜地马尔代夫已然成为一条关键暗道，源源不断地将价值数亿美元的西方物资输送到莫斯科。
 - [[lincoln-class-ship-deployment-pattaya|“林肯号”航母高强度部署告一段落，泰国芭提雅准备迎接船员]] (2026-09-02) - 大约5,000名手头阔绰、急需休整放松的水兵即将涌入泰国海滨度假胜地芭堤雅。
+- [[making-startups-powerful|Making Startups Powerful]] (2026-09-01) - Paul Graham's essay on heuristic strategies for making startups more powerful, covering customer ownership, network effects, full-stack approaches, long-term thinking, generosity, and the constraint that all moves must improve customer outcomes.
 - [[corporate-profit-america-589e4848|美国企业利润大幅增长，预计未来景气持续]] (2026-08-31) - 美国最大型企业的利润正强劲增长，这些企业的掌舵人表示，这种势头短期内料将延续。
 - [[e7-be-8e-e5-9b-bd-e6-96-b0-e5-85-b3-e7-a8-8e-e5-a4-a7-e6-a3-|美国新关税大棒之下，加拿大中小企业首当其冲]] (2026-08-31) - 蜂蜜、化妆品及其他出口商目前面临50%的关税。
 - [[nvidia-targets-global-robotics-china-demand-strong|英伟达瞄准全球机器人赛道，中国市场需求强劲]] (2026-08-31) - 英伟达的物理AI业务不断增长，与此同时，中国机器人制造商正依赖美国芯片和软件工具来训练和操作设备。
@@ -186,6 +188,7 @@
 - [[2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]] (2026-05-27) - 知名选股人Gavin Baker在SpaceX火箭着陆成功之前就做出大额投资，展现了对航天产业长期潜力的信心。
 - [[ai-tsunami-john-doerr|专访风投家约翰·杜尔：AI是史上最大的科技“海啸”]] (2026-05-25) - 凯鹏华盈董事长约翰·杜尔曾精准押注谷歌，在他看来，AI革命非但没有过度炒作，反而被低估了。
 - [[china-all-encompassing-policy|中国“全方位产业政策”令世界其他地区望尘莫及]] (2026-05-15) - 从传统行业到新兴领域，从商品到服务，从微观干预到宏观调控，中国政府的支持无处不在。
+- [[one-book-a-year|You should read at least one job-related book a year]] (2026-04-23) - Getting better at your job is satisfying. One book per year isn't much, but I've been surprised by how few people do at least that.
 - [[2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]] (2026-03-11) - Aaru背后的团队正吸引包括麦当劳和安永在内的品牌客户，该公司押注AI机器人能够比人类更准确地预测人类行为。
 - [[2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] (2026-02-23) - 对热门AI初创公司的投资争夺战已导致投资者之间的交易条款出现差异，从而引发了外界对这些公司真实价值的质疑。
 - [[doing-something-never-done-before|Doing Something That’s Never Been Done Before]] (2025-11-14) - I’ve found recently that I’ve been a bit hesitant to take on new projects, especially of the interesting variety, largely out of a fear that I’m doing something unoriginal. As anyone who has spent any substantial amount of time in the markets will tell you, being second to an idea isn’t necessarily terrible, but being 50th generally is, and I’d really rather avoid being 50th whenever possible. How do you guarantee, or at least maximize the odds, that whatever you’re doing, you’re the first?

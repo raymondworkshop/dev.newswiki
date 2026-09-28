@@ -25,6 +25,7 @@ Curated hub for the concept 「估值」.
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]] · #tech
 - [[business/openai-lost-ai-crown|OpenAI如何失去AI王冠——又欲如何重新夺回]] · #business
 - [[tech/sly-lexer-parser|SLY: lexer and parser - Playing with code]] · #tech
+- [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] · #tech
 - [[career/jobless-boom-era|“无就业”繁荣时代已经到来]] · #career
 - [[finance/john-overdeck-divorce|一位对冲基金巨头的离婚案曝光华尔街惊人财富]] · #finance
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]] · #finance

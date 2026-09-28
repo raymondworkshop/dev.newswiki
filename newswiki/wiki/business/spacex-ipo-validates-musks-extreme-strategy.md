@@ -30,7 +30,7 @@ topics:
 - Musk's personal motivation stems from a near-death experience with malaria, leading him to conclude that humanity needs to become a multi-planetary species.
 - The pursuit of reusable rockets, initially dismissed by the industry, was a mathematically sound approach that eventually led to [[hubs/spacex|SpaceX]]'s success, despite early failures.
 - [[hubs/spacex|SpaceX]]'s [[hubs/ipo|IPO]] demonstrated the power of Musk's "extreme" strategy, leading to a significant surge in its stock and making Musk the world's first trillionaire.
-- While some of SpaceX's grander dreams, like a city on Mars, may never materialize, its true legacy lies in inspiring a new generation to imagine and pursue limitless possibilities.
+- While some of [[hubs/spacex|SpaceX]]'s grander dreams, like a city on Mars, may never materialize, its true legacy lies in inspiring a new generation to imagine and pursue limitless possibilities.
 
 ## 相关文章
 

@@ -36,7 +36,7 @@ Multimodal AI systems can achieve high accuracy and scalability when built with 
 
 ## Related Articles
 
+- [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]]
 - [[career/how-i-use-llms-as-a-staff-engineer-in-2026|How I use LLMs as a staff engineer in 2026]]
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
-- [[tech/a-road-to-lisp-why-lisp|A road to Lisp: Why Lisp]]

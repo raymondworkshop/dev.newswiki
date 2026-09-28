@@ -24,6 +24,6 @@ Meta的Muse[[hubs/ai-agent|智能体]]虽然在下载量和股价上取得初期
 ## 相关文章
 
 - [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]]
+- [[tech/zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]
 - [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]
 - [[tech/ai-calculation-competition|AI巨头派发大量免费算力，争夺初创公司市场份额]]
-- [[tech/openai-navier-stokes-millennium-breakthrough|OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”]]
