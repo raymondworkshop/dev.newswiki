@@ -21,6 +21,7 @@ Curated hub for the concept 「首次公开募股」.
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] · #business
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance
 - [[lifestyle/spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] · #lifestyle
+- [[finance/how-to-know-when-ai-boom-goes-bust|如何判断AI热潮何时走向破灭]] · #finance
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]] · #tech
 - [[business/moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] · #business
 - [[finance/ai-funding-warning-sign|巨额资金涌入AI，这是一个巨大的危险信号]] · #finance

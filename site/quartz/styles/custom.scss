@@ -64,18 +64,20 @@ html {
     width: 100%;
     max-width: none;
     margin: 0;
-    padding: 0.95rem 1.75rem;
+    padding: 0.85rem 1.75rem;
     box-sizing: border-box;
     display: grid;
     grid-template-columns: auto minmax(0, 1fr) auto auto;
     grid-template-areas: "title nav search theme";
     align-items: center;
-    column-gap: 1.35rem;
+    column-gap: 1.25rem;
     flex-direction: unset;
-    gap: 0 1.35rem;
+    gap: 0 1.25rem;
     border: none;
     border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 88%, transparent);
-    background: var(--light);
+    background: color-mix(in srgb, var(--light) 92%, transparent);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 
     > .spacer,
     > .readermode {
@@ -133,7 +135,7 @@ html {
     max-width: var(--reading-width);
     min-width: 0;
     margin: 0 auto;
-    padding: 3.4rem 0 0;
+    padding: 2.75rem 0 0;
     box-sizing: border-box;
 
     > .page-header,
@@ -172,9 +174,9 @@ html {
     grid-template-areas:
       "title search theme"
       "nav nav nav";
-    row-gap: 0.45rem;
-    column-gap: 0.35rem;
-    padding: 0.7rem 1.15rem 0.55rem;
+    row-gap: 0.35rem;
+    column-gap: 0.3rem;
+    padding: 0.65rem 1.1rem 0.5rem;
 
     > .topic-nav {
       justify-self: stretch;
@@ -183,7 +185,7 @@ html {
 
   .page > #quartz-body > .center {
     width: min(var(--reading-width), calc(100% - 2rem));
-    padding-top: 1.75rem;
+    padding-top: 1.5rem;
   }
 
   .page > #quartz-body > footer {
@@ -779,7 +781,7 @@ body[data-slug="articles"] {
   }
 }
 
-// Homepage — match editorial demo mockup
+// Homepage — quiet reading list
 body[data-slug="index"] {
   article a[role="anchor"] {
     display: none;
@@ -788,15 +790,14 @@ body[data-slug="index"] {
   article > h2#recent-articles,
   article > h2#近期文章,
   article > h2#近排文章 {
-    position: absolute;
-    width: 1px;
-    height: 1px;
+    margin: 0 0 1.15rem;
     padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
+    border: none;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray);
   }
 
   article > h2#recent-articles + ul,
@@ -804,37 +805,50 @@ body[data-slug="index"] {
   article > h2#近排文章 + ul {
     list-style: none;
     padding: 0;
-    margin: 0 0 0.5rem;
+    margin: 0;
 
     > li {
-      display: flex;
-      flex-direction: column;
+      display: grid;
+      grid-template-columns: 5.6rem minmax(0, 1fr);
+      column-gap: 1rem;
+      align-items: baseline;
       margin: 0;
-      padding: 0 0 1.85rem;
+      padding: 1.15rem 0;
       border: none;
+      border-top: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
       line-height: 1.45;
 
+      &:first-child {
+        border-top: none;
+        padding-top: 0.15rem;
+      }
+
       .recent-date {
-        order: 3;
+        grid-column: 1;
+        grid-row: 1;
         display: block;
-        margin: 0.4rem 0 0;
-        font-size: 0.75rem;
+        margin: 0;
+        padding-top: 0.18rem;
+        font-size: 0.78rem;
+        font-weight: 500;
         color: var(--gray);
         font-variant-numeric: tabular-nums;
         letter-spacing: 0.01em;
+        white-space: nowrap;
       }
 
       > a.internal {
-        order: 1;
+        grid-column: 2;
+        grid-row: 1;
         display: block;
         text-decoration: none;
         background: transparent;
         padding: 0;
         font-weight: 600;
         color: var(--dark);
-        font-size: 1.08rem;
+        font-size: 1.05rem;
         line-height: 1.4;
-        letter-spacing: -0.02em;
+        letter-spacing: -0.015em;
 
         &:hover,
         &:focus-visible {
@@ -842,82 +856,101 @@ body[data-slug="index"] {
           background: transparent;
           text-decoration: underline;
           text-underline-offset: 0.14em;
+          text-decoration-thickness: 1px;
         }
       }
 
       .topic-blurb {
-        order: 2;
+        grid-column: 2;
+        grid-row: 2;
         display: -webkit-box;
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;
         overflow: hidden;
-        margin-top: 0.28rem;
-        font-size: 0.92rem;
+        margin: 0.28rem 0 0;
+        font-size: 0.9rem;
         font-weight: 400;
-        line-height: 1.6;
-        color: var(--gray);
-      }
-
-      &:first-child {
-        padding: 0 0 2rem;
-        margin-bottom: 0.15rem;
-
-        > a.internal {
-          font-size: 1.28rem;
-          font-weight: 650;
-          line-height: 1.35;
-          letter-spacing: -0.02em;
-        }
-
-        .topic-blurb {
-          -webkit-line-clamp: unset;
-          display: block;
-          max-width: 38rem;
-          margin-top: 0.4rem;
-          font-size: 0.98rem;
-          line-height: 1.65;
-          color: color-mix(in srgb, var(--darkgray) 72%, var(--gray));
-        }
+        line-height: 1.55;
+        color: color-mix(in srgb, var(--darkgray) 55%, var(--gray));
       }
 
       &:has(a[href$="/articles"]),
       &:has(a[href$="/articles/"]),
       &:has(a[href="articles"]),
       &:has(a[href="./articles"]) {
-        padding-top: 0.15rem;
-        padding-bottom: 0;
-        margin-bottom: 0;
-        border-bottom: none;
+        display: block;
+        padding: 1.15rem 0 0;
+        border-top: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
 
         > a.internal {
           font-weight: 500;
-          color: var(--secondary);
-          font-size: 0.92rem;
+          color: var(--gray);
+          font-size: 0.9rem;
+          letter-spacing: 0;
+
+          &:hover,
+          &:focus-visible {
+            color: var(--dark);
+          }
         }
       }
     }
   }
 
   @media all and (max-width: 720px) {
-    article > h2#recent-articles + ul > li:first-child > a.internal,
-    article > h2#近期文章 + ul > li:first-child > a.internal,
-    article > h2#近排文章 + ul > li:first-child > a.internal {
-      font-size: 1.18rem;
+    article > h2#recent-articles + ul > li,
+    article > h2#近期文章 + ul > li,
+    article > h2#近排文章 + ul > li {
+      grid-template-columns: minmax(0, 1fr);
+      row-gap: 0;
+      padding: 1rem 0;
+
+      .recent-date {
+        grid-column: 1;
+        grid-row: 1;
+        order: 0;
+        margin: 0 0 0.28rem;
+        padding-top: 0;
+        font-size: 0.72rem;
+      }
+
+      > a.internal {
+        grid-column: 1;
+        grid-row: 2;
+        font-size: 1.02rem;
+      }
+
+      .topic-blurb {
+        grid-column: 1;
+        grid-row: 3;
+        margin-top: 0.22rem;
+        font-size: 0.88rem;
+        -webkit-line-clamp: 2;
+      }
+
+      &:has(a[href$="/articles"]),
+      &:has(a[href$="/articles/"]),
+      &:has(a[href="articles"]),
+      &:has(a[href="./articles"]) {
+        padding-top: 1rem;
+      }
     }
   }
 
-  // 編輯原則 — after subscribe band on home
+  // 編輯原則 — quiet colophon
   article > h2#philosophy,
   article > h2#編輯方針,
   article > h2#編輯原則 {
-    margin-top: 2.5rem;
-    margin-bottom: 0.85rem;
+    margin-top: 2.75rem;
+    margin-bottom: 0.7rem;
+    padding-top: 1.35rem;
+    border-top: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
     border-bottom: none;
     padding-bottom: 0;
-    font-size: 0.95rem;
+    font-size: 0.72rem;
     font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: none;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
     color: var(--gray);
   }
 
@@ -926,25 +959,26 @@ body[data-slug="index"] {
   article > h2#編輯原則 + ul {
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin: 0 0 0.5rem;
 
     > li {
       margin: 0;
-      padding: 0.55rem 0;
+      padding: 0.35rem 0;
       border-bottom: none;
-      line-height: 1.55;
-      color: color-mix(in srgb, var(--darkgray) 78%, var(--gray));
+      line-height: 1.5;
+      font-size: 0.9rem;
+      color: color-mix(in srgb, var(--darkgray) 62%, var(--gray));
 
       > a.internal {
         text-decoration: none;
         background: transparent;
         padding: 0;
-        font-weight: 600;
+        font-weight: 550;
         color: var(--dark);
 
         &:hover,
         &:focus-visible {
-          color: var(--secondary);
+          color: var(--gray);
           background: transparent;
         }
       }
@@ -1091,6 +1125,209 @@ body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="article
     > h1:first-of-type + p + p {
       margin-bottom: 1.5rem;
     }
+  }
+}
+
+// Dark theme — softer charcoal, quieter chrome, clearer hierarchy
+:root[saved-theme="dark"] {
+  body {
+    background-color: var(--light);
+    color: var(--darkgray);
+  }
+
+  .page > #quartz-body > .sidebar.left {
+    background: color-mix(in srgb, var(--light) 94%, transparent);
+    border-bottom-color: rgba(255, 255, 255, 0.08);
+  }
+
+  .topic-nav a {
+    color: color-mix(in srgb, var(--gray) 95%, transparent);
+
+    &:hover,
+    &:focus-visible {
+      color: var(--dark);
+    }
+
+    &.is-active {
+      color: var(--dark);
+    }
+  }
+
+  .left.sidebar .search > .search-button,
+  .darkmode {
+    color: color-mix(in srgb, var(--gray) 95%, transparent);
+
+    &:hover,
+    &:focus-visible {
+      color: var(--dark);
+    }
+  }
+
+  body[data-slug="index"] {
+    article > h2#recent-articles + ul > li,
+    article > h2#近期文章 + ul > li,
+    article > h2#近排文章 + ul > li {
+      border-top-color: rgba(255, 255, 255, 0.08);
+
+      .recent-date {
+        color: var(--gray);
+      }
+
+      .topic-blurb {
+        color: color-mix(in srgb, var(--darkgray) 72%, var(--gray));
+      }
+
+      > a.internal {
+        color: var(--dark);
+      }
+
+      &:has(a[href$="/articles"]),
+      &:has(a[href$="/articles/"]),
+      &:has(a[href="articles"]),
+      &:has(a[href="./articles"]) {
+        border-top-color: rgba(255, 255, 255, 0.08);
+
+        > a.internal {
+          color: var(--gray);
+        }
+      }
+    }
+
+    article > h2#philosophy,
+    article > h2#編輯方針,
+    article > h2#編輯原則 {
+      border-top-color: rgba(255, 255, 255, 0.08);
+      color: var(--gray);
+    }
+
+    article > h2#philosophy + ul > li,
+    article > h2#編輯方針 + ul > li,
+    article > h2#編輯原則 + ul > li {
+      color: color-mix(in srgb, var(--darkgray) 72%, var(--gray));
+
+      > a.internal {
+        color: var(--dark);
+      }
+    }
+  }
+
+  footer .stay-updated {
+    border-top-color: rgba(255, 255, 255, 0.08);
+
+    .stay-updated-email {
+      border-bottom-color: rgba(255, 255, 255, 0.14);
+
+      &:focus-visible {
+        border-bottom-color: rgba(255, 255, 255, 0.32);
+      }
+    }
+  }
+
+  ::selection {
+    background: rgba(255, 255, 255, 0.14);
+    color: var(--dark);
+  }
+}
+
+// Light theme — brighter paper, quieter chrome, clearer hierarchy
+:root[saved-theme="light"],
+:root:not([saved-theme]) {
+  body {
+    background-color: var(--light);
+    color: var(--darkgray);
+  }
+
+  .page > #quartz-body > .sidebar.left {
+    background: color-mix(in srgb, var(--light) 92%, transparent);
+    border-bottom-color: rgba(0, 0, 0, 0.06);
+  }
+
+  .topic-nav a {
+    color: var(--gray);
+
+    &:hover,
+    &:focus-visible {
+      color: var(--dark);
+    }
+
+    &.is-active {
+      color: var(--dark);
+    }
+  }
+
+  .left.sidebar .search > .search-button,
+  .darkmode {
+    color: var(--gray);
+
+    &:hover,
+    &:focus-visible {
+      color: var(--dark);
+    }
+  }
+
+  body[data-slug="index"] {
+    article > h2#recent-articles + ul > li,
+    article > h2#近期文章 + ul > li,
+    article > h2#近排文章 + ul > li {
+      border-top-color: rgba(0, 0, 0, 0.06);
+
+      .recent-date {
+        color: var(--gray);
+      }
+
+      .topic-blurb {
+        color: color-mix(in srgb, var(--darkgray) 58%, var(--gray));
+      }
+
+      > a.internal {
+        color: var(--dark);
+      }
+
+      &:has(a[href$="/articles"]),
+      &:has(a[href$="/articles/"]),
+      &:has(a[href="articles"]),
+      &:has(a[href="./articles"]) {
+        border-top-color: rgba(0, 0, 0, 0.06);
+
+        > a.internal {
+          color: var(--gray);
+        }
+      }
+    }
+
+    article > h2#philosophy,
+    article > h2#編輯方針,
+    article > h2#編輯原則 {
+      border-top-color: rgba(0, 0, 0, 0.06);
+      color: var(--gray);
+    }
+
+    article > h2#philosophy + ul > li,
+    article > h2#編輯方針 + ul > li,
+    article > h2#編輯原則 + ul > li {
+      color: color-mix(in srgb, var(--darkgray) 58%, var(--gray));
+
+      > a.internal {
+        color: var(--dark);
+      }
+    }
+  }
+
+  footer .stay-updated {
+    border-top-color: rgba(0, 0, 0, 0.06);
+
+    .stay-updated-email {
+      border-bottom-color: rgba(0, 0, 0, 0.12);
+
+      &:focus-visible {
+        border-bottom-color: rgba(0, 0, 0, 0.28);
+      }
+    }
+  }
+
+  ::selection {
+    background: rgba(0, 0, 0, 0.1);
+    color: var(--dark);
   }
 }
 

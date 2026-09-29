@@ -3,6 +3,16 @@
 AI模型、機器人与智能体如何重塑基础设施與生產力
 
 ## 文章
+- [[meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]] (2026-09-29) - 你提供的数据越多，这位才华横溢的私人助理就能为你做更多的事情。
+- [[top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] (2026-09-29) - OpenAI、Anthropic、Meta 和微软的研究主管正呼吁决策者调查各自公司在多大程度上实现了AI研究自动化，加入了整个行业要求对这项快速发展技术加强监管的呼声。
+- [[meta-muse-ai-agent-viral-hit-challenges-ahead|Meta的AI智能体Muse爆火，真正的考验才刚开始]] (2026-09-28) - Meta的Muse AI助手下载量正在迅速攀升，但对马克·扎克伯格来说，下一步是让用户把这款智能助手融入日常生活。
+- [[red-queen-bio-ai-biosecurity|这家初创公司利用AI防范未来的AI大流行病]] (2026-09-28) - 生物安全初创公司Red Queen Bio利用AI技术预先设计抗体药物，旨在抵御未来可能由AI系统设计或改造的未知新型病原体。
+- [[ai-replaces-grunt-work-juniors-miss-experience|职场“苦活累活”被AI包揽了，为什么我们反而怀念它？]] (2026-09-28) - 在公司重组和AI应用推进之下，许多过去由初级员工承担的重复性任务已经被自动化取代。这让他们摆脱了不少苦活累活，但也让他们失去了一条长期以来用于积累经验本领的路径。
+- [[ai-labs-funding-historical-research|AI labs need to start funding historical research]] (2026-09-25) - Using GPT-6 and Opus 5.5 to trace alchemical knowledge and decode 17th century letters
+- [[restaurants-ai-generated-food-ads-backfire|餐厅利用AI生成美食广告，食客却直呼反胃]] (2026-09-25) - 某些图像生成器在勾起食客食欲方面表现得极为糟糕，它们生成的鸡翅看起来简直像是“从反应堆堆芯里捞出来的”。
+- [[what-will-make-personal-ai-go-big|What will make personal AI go big?]] (2026-09-25) - Muse launched earlier this month, and it’s the first consumer agent I've used that makes me think people might actually change their habits ...
+- [[boomers-ai-dependence-readers-disagree|美国老年人过于依赖AI？读者并不认同]] (2026-09-25) - Anthropic的聊天机器人Claude主导了一位作者与父母的度假之旅，引发了关于其用途的更广泛探讨。
+- [[linkedin-tightens-verification-fake-recruiters|领英收紧认证规则，打击假冒招聘人员]] (2026-09-24) - 领英将推出新工具，帮助用户辨别真伪，避免将钱财或简历交到诈骗者手中。
 - [[ai-chess-unsolved-creativity|AI攻克了最棘手的数学难题，为何却无法破解国际象棋？]] (2026-09-24) - 国际象棋引擎能击败特级大师，但它们在什么是万无一失的绝对策略上却无法达成共识。而且，AI非但没有毁掉这项运动，反而正在发掘新的下法。
 - [[zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]] (2026-09-24) - 扎克伯格发布一款新型手持人工智能设备及科技产品，称其可以拉近消费者与“个人超级智能”的距离。
 - [[ai-salary-setting-hidden-ways|企业利用AI设定薪酬的隐秘方式]] (2026-09-24) - 你最终是落在涨薪区间的高端还是低端，可能取决于某个机器学习模型认为你值多少钱。新服务能让雇主精准找出哪些员工薪酬过高或过低。
@@ -126,6 +136,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]] (2026-07-30) - 在截至6月份的财季，微软收入增长18%，达到900亿美元。这标志着该公司AI收入增长正在提速，并将继续在数据中心方面投入资金。
 - [[ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]] (2026-07-30) - 在经历历史性的股价暴跌后，“蓝色巨人”正加紧行动，以证明其量子计算业务能够实现盈利。
 - [[starter-kit-ai-design-apps|Starter kit for AI design apps]] (2026-07-29) - Toolcraft is an open-source starter kit and UI library for building custom design apps with AI.
+- [[how-to-research-technical-topics-with-ai|How to Research Technical Topics With AI]] (2026-07-28) - How I go from a technical question I cannot answer to an explanation I can reconstruct without the model
 - [[apple-micron-china-chip-lobbying|苹果与美光掀起中国芯片游说战，特朗普陷入两难]] (2026-07-27) - 降低美国消费物价和提高国内半导体产量，这两项美国总统特朗普的优先事项相互冲突。
 - [[ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] (2026-07-27) - 华盛顿要求约束AI的呼声愈演愈烈，科技行业内部则在为“谁来握紧缰绳”争夺主导权。
 - [[us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]] (2026-07-27) - 美国企业界掀起模型“混搭”潮，AI行业经济模式与竞争格局迎来重构。

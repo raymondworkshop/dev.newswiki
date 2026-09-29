@@ -18,6 +18,7 @@ Curated hub for the concept 「geopolitics」.
 - [[business/lynas-revival/lynas-revival-lacaze|从濒临崩盘到西方稀土支柱：Lynas掌门人拉卡兹如何撼动中国主导地位]] · #business
 - [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]] · #finance
 - [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]] · #finance
+- [[business/leica-european-manufacturing-success|售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]] · #business
 - [[finance/investment-global-crises|如何在全球危机不断的环境下投资]] · #finance
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]] · #tech
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] · #business

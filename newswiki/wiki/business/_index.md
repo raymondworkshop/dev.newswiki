@@ -3,7 +3,17 @@
 企业如何決策，發展與機會
 
 ## 文章
+- [[goldman-sachs-ceo-succession-john-waldron|高盛董事会已讨论任命温泽恩为下一任CEO的计划]] (2026-09-29) - 根据该计划，自2018年以来一直领导该行的苏德巍最快将于明年卸任，由首席运营官温泽恩接任。
+- [[meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]] (2026-09-29) - 你提供的数据越多，这位才华横溢的私人助理就能为你做更多的事情。
+- [[top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] (2026-09-29) - OpenAI、Anthropic、Meta 和微软的研究主管正呼吁决策者调查各自公司在多大程度上实现了AI研究自动化，加入了整个行业要求对这项快速发展技术加强监管的呼声。
+- [[larry-ellison-staff-housing-gated-community|一探拉里·埃里森为家教等员工买下八套房产的封闭式社区]] (2026-09-29) - 这位掌控着甲骨文公司的亿万富豪花费近1,000万美元购置住房，供子女家教等工作人员使用；这些房子距离他在佛罗里达州的庄园约30分钟车程。
+- [[leica-european-manufacturing-success|售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]] (2026-09-28) - 徕卡的复古设计挺过了多次危机，但它的成功模式未必适用于所有企业。
+- [[meta-muse-ai-agent-viral-hit-challenges-ahead|Meta的AI智能体Muse爆火，真正的考验才刚开始]] (2026-09-28) - Meta的Muse AI助手下载量正在迅速攀升，但对马克·扎克伯格来说，下一步是让用户把这款智能助手融入日常生活。
+- [[red-queen-bio-ai-biosecurity|这家初创公司利用AI防范未来的AI大流行病]] (2026-09-28) - 生物安全初创公司Red Queen Bio利用AI技术预先设计抗体药物，旨在抵御未来可能由AI系统设计或改造的未知新型病原体。
 - [[bob-chapek-disney-fired-memoir|被迪士尼解雇，包正博至今仍意难平]] (2026-09-25) - 包正博首次正式接受采访、谈及他执掌迪士尼的动荡33个月。他讲述了自己被解除CEO职务的经历，以及为何将责任归咎于艾格。
+- [[ai-labs-funding-historical-research|AI labs need to start funding historical research]] (2026-09-25) - Using GPT-6 and Opus 5.5 to trace alchemical knowledge and decode 17th century letters
+- [[restaurants-ai-generated-food-ads-backfire|餐厅利用AI生成美食广告，食客却直呼反胃]] (2026-09-25) - 某些图像生成器在勾起食客食欲方面表现得极为糟糕，它们生成的鸡翅看起来简直像是“从反应堆堆芯里捞出来的”。
+- [[linkedin-tightens-verification-fake-recruiters|领英收紧认证规则，打击假冒招聘人员]] (2026-09-24) - 领英将推出新工具，帮助用户辨别真伪，避免将钱财或简历交到诈骗者手中。
 - [[zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]] (2026-09-24) - 扎克伯格发布一款新型手持人工智能设备及科技产品，称其可以拉近消费者与“个人超级智能”的距离。
 - [[meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]] (2026-09-23) - 亚马逊已阻止Muse应用在其网站购物，隐私和安全担忧正在升温。
 - [[centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] (2026-09-22) - 市场上有许多疯狂的核能押注。铀浓缩公司Centrus占据了有利地位。

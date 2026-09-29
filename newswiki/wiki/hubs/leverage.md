@@ -24,6 +24,7 @@ Curated hub for the concept 「leverage」.
 - [[tech/science-of-reading-and-evidence-based-math|Science of Reading & Evidence-Based Math]] · #tech
 - [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] · #tech
 - [[business/western-automakers-losing-grip-on-chinese-market|Western Automakers Are Losing Their Grip on the Chinese Auto Market]] · #business
+- [[tech/what-will-make-personal-ai-go-big|What will make personal AI go big?]] · #tech
 - [[business/white-house-intervention-against-fifa-red-card|White House Intervenes Behind the Scenes to Overturn FIFA Red Card Decision]] · #business
 - [[business/ai-giants-office-ai-application|一览AI巨头如何在自家办公室应用AI]] · #business
 - [[finance/leopold-aschenbrenner-ai-prophet|从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网]] · #finance

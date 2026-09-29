@@ -3,6 +3,7 @@
 产品如何被设计，被感知，被使用
 
 ## 文章
+- [[what-will-make-personal-ai-go-big|What will make personal AI go big?]] (2026-09-25) - Muse launched earlier this month, and it’s the first consumer agent I've used that makes me think people might actually change their habits ...
 - [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - I'm a designer and creative technologist based in Brooklyn, NY.
 - [[ukraine-fire-point-ceo-iryna-terekh|重创俄军的乌克兰无人机出自一位90后家具设计师之手]] (2026-08-17) - 34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。
 - [[seven-books-i-keep-close|Seven books I keep close because I love them]] (2026-08-17) - From the highly eclectic blog of Mark Dominus

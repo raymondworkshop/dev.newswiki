@@ -28,4 +28,4 @@ topics:
 - [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]]
 - [[tech/openai-ai-hack-hugging-face|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]]
 - [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]]
-- [[tech/ai-cost-control|Token使用量激增，企业如何控制AI成本？]]
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]

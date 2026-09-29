@@ -1,6 +1,6 @@
 # Archive Status
 
-**Last Updated:** 2026-09-27 2026-09-27 2026-09-27 2026-09-27 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
+**Last Updated:** 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-27 2026-09-27 2026-09-27 2026-09-27 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
 
 ## Compilation Batch: 2026-05-27 (5 articles)
 
@@ -103,6 +103,24 @@ All files compiled from raw/ to wiki/ and then archived here.
 
 | File | Topic | Wiki Location | Status |
 |------|-------|---------------|--------|
+| 2026-09-29-高盛董事会已讨论任命温泽恩为下一任CEO的计划.md | 商业 | `newswiki/wiki/business/goldman-sachs-ceo-succession-john-waldron.md` | Archived |
+| 2026-09-29-顶尖AI研究人员呼吁紧急监管自我改进的AI系统.md | 科技 | `newswiki/wiki/tech/top-ai-researchers-urge-regulation-self-improving-ai.md` | Archived |
+| 2026-09-29-我试用了Meta的Muse AI智能体：好用，也让人脊背发凉.md | 科技 | `newswiki/wiki/tech/meta-muse-ai-agent-hands-on.md` | Archived |
+| 2026-09-29-一探拉里·埃里森为家教等员工买下八套房产的封闭式社区.md | 投资 | `newswiki/wiki/finance/larry-ellison-staff-housing-gated-community.md` | Archived |
+| 2026-09-28-这家初创公司利用AI防范未来的AI大流行病.md | 科技 | `newswiki/wiki/tech/red-queen-bio-ai-biosecurity.md` | Archived |
+| 2026-09-28-解析债券收益率飙升：六位投资专家的市场研判与交易布局.md | 金融 | `newswiki/wiki/finance/bond-yields-surge-expert-analysis.md` | Archived |
+| 2026-09-28-美国国税局正严查超级富豪最青睐的财富传承方式.md | 金融 | `newswiki/wiki/finance/irs-cracks-down-grat-wealth-transfer.md` | Archived |
+| 2026-09-28-售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”.md | 商业 | `newswiki/wiki/business/leica-european-manufacturing-success.md` | Archived |
+| 2026-09-28-餐厅利用AI生成美食广告，食客却直呼反胃.md | 科技 | `newswiki/wiki/tech/restaurants-ai-generated-food-ads-backfire.md` | Archived |
+| 2026-09-28-领英收紧认证规则，打击假冒招聘人员.md | 商业 | `newswiki/wiki/business/linkedin-tightens-verification-fake-recruiters.md` | Archived |
+| 2026-09-28-职场“苦活累活”被AI包揽了，为什么我们反而怀念它？.md | 职场 | `newswiki/wiki/career/ai-replaces-grunt-work-juniors-miss-experience.md` | Archived |
+| 2026-09-28-美国老年人过于依赖AI？读者并不认同.md | 生活 | `newswiki/wiki/lifestyle/boomers-ai-dependence-readers-disagree.md` | Archived |
+| 2026-09-28-投资者避开疲弱债市的三个替代选择.md | 金融 | `newswiki/wiki/finance/three-alternatives-dodge-bond-market-beatdown.md` | Archived |
+| 2026-09-28-如何判断AI热潮何时走向破灭.md | 投资 | `newswiki/wiki/finance/how-to-know-when-ai-boom-goes-bust.md` | Archived |
+| 2026-09-28-What will make personal AI go big.md | Tech | `newswiki/wiki/tech/what-will-make-personal-ai-go-big.md` | Archived |
+| 2026-09-28-Meta的AI智能体Muse爆火，真正的考验才刚开始.md | 科技 | `newswiki/wiki/tech/meta-muse-ai-agent-viral-hit-challenges-ahead.md` | Archived |
+| 2026-09-28-How to Research Technical Topics With AI.md | 科技 | `newswiki/wiki/tech/how-to-research-technical-topics-with-ai.md` | Archived |
+| 2026-09-28-AI labs need to start funding historical research.md | 科技 | `newswiki/wiki/tech/ai-labs-funding-historical-research.md` | Archived |
 | 2026-09-27-You should read at least one job-related book a year.md | 职场 | `newswiki/wiki/career/one-book-a-year.md` | Archived |
 | 2026-09-27-Software Engineering fundamentals matter more than ever.md | 科技 | `newswiki/wiki/tech/software-engineering-fundamentals-matter-more-than-ever.md` | Archived |
 | 2026-09-27-Making Startups Powerful.md | Business | `newswiki/wiki/business/making-startups-powerful.md` | Archived |

@@ -63,6 +63,7 @@ Curated hub for the concept 「regulatory」.
 - [[finance/mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]] · #finance
 - [[tech/ai-gov-escalation|邮件揭秘：Anthropic与五角大楼的关系是如何破裂的]] · #tech
 - [[finance/korean-shipping-magnate-iranian-war-profit|韩国油轮大亨借伊朗战争大赚一笔]] · #finance
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] · #tech
 - [[business/musk-confidant-gracias-set-for-spacex-windfall|马斯克密友格拉西亚斯有望因SpaceX斩获680亿美元收益]] · #business
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]] · #business
 

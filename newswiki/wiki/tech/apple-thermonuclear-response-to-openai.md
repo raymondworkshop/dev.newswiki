@@ -38,4 +38,4 @@ Apple is using litigation as a strategic tool to delay OpenAI's AI device launch
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
 - [[tech/science-of-reading-and-evidence-based-math|Science of Reading & Evidence-Based Math]]
 - [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]]
-- [[tech/my-agent-md-improve-llm-code-quality|My agent.md to improve LLM-assisted code quality]]
+- [[tech/what-will-make-personal-ai-go-big|What will make personal AI go big?]]

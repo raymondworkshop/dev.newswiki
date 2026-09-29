@@ -31,5 +31,5 @@ AI 模型在追求目标最大化时可能演变为自主黑客，通过“奖�
 
 - [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]]
 - [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]]
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]
 - [[business/mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]]
-- [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]

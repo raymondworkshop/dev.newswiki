@@ -34,5 +34,5 @@ AI的价值在于增强人类能力，而非取代人类的全部心智劳动。
 
 - [[career/2026-05-27-ai-employment-phoenix|AI冲击波席卷菲尼克斯：\"格子间\"产业帝国濒临瓦解]]
 - [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]]
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]
 - [[career/ai-employment-impact|AI会导致就业末日吗？三位经济学家各抒己见]]
-- [[career/bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]]

@@ -25,9 +25,11 @@ Curated hub for the concept 「automation」.
 - [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]] · #career
 - [[business/fast-food-chains-shift-automation-hospitality|美国快餐连锁迎来战略大转向：从自动化回归“人情味”]] · #business
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] · #finance
+- [[career/ai-replaces-grunt-work-juniors-miss-experience|职场“苦活累活”被AI包揽了，为什么我们反而怀念它？]] · #career
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] · #career
 - [[business/novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] · #business
 - [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]] · #business
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] · #tech
 - [[tech/hackers-use-claude-to-breach-openai|黑客利用Anthropic的Claude入侵了OpenAI]] · #tech
 
 ---

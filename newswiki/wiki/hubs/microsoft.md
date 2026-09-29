@@ -31,6 +31,8 @@ Curated hub for articles related to Microsoft.
 - [[tech/residential-proxy-attack-2026|美国家庭网络如何沦为黑客隐身衣？]] · #tech
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]] · #design
 - [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]] · #business
+- [[finance/bond-yields-surge-expert-analysis|解析债券收益率飙升：六位投资专家的市场研判与交易布局]] · #finance
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] · #tech
 
 ---
 **Topics**: [[business/_index|Business]]  

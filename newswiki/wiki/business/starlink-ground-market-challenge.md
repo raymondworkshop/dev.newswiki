@@ -32,7 +32,7 @@ topics:
 - [[hubs/spacex|SpaceX]] is actively acquiring wireless spectrum, including $8.5 million for two cellular network licenses in an FCC auction and a $20 billion deal to acquire spectrum from another satellite company.
 
 ## 市场机遇与挑战
-- SpaceX's leadership believes the mobile market opportunity is even larger than home Wi-Fi.
+- [[hubs/spacex|SpaceX]]'s leadership believes the mobile market opportunity is even larger than home Wi-Fi.
 - Gwynne Shotwell stated that over half the world's population has a mobile phone, and [[hubs/spacex|Starlink]] mobile users could significantly exceed broadband users.
 - Traditional telecom providers rely on cell towers and fiber optics, offering lower costs and high bandwidth for frequent users.
 - Analysts suggest SpaceX needs ground networks to provide connectivity in areas where satellite signals are weak, such as inside buildings or tunnels.

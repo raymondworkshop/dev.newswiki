@@ -23,6 +23,7 @@ Curated hub for the concept 「大语言模型」.
 - [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]] · #tech
 - [[tech/llm-mechanics-walkthrough|How LLMs Actually Work]] · #tech
 - [[tech/how-to-write-with-an-llm|How To Write With An LLM]] · #tech
+- [[tech/how-to-research-technical-topics-with-ai|How to Research Technical Topics With AI]] · #tech
 - [[career/llm-burnout-impact|I Think I Have LLM Burnout]] · #career
 - [[career/llms-reward-expertise|LLMs reward expertise]] · #career
 - [[tech/ai-ml-engineering/langgraph-stateful-ai-agents|LangGraph: Build Stateful AI Agents in Python]] · #tech

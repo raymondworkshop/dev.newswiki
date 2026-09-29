@@ -30,4 +30,4 @@ topics:
 - [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]]
 - [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]]
 - [[tech/openai-ai-hack-hugging-face|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]]
-- [[business/mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]]
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]

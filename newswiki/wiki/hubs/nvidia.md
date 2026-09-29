@@ -28,6 +28,7 @@ Curated hub for articles related to NVIDIA.
 - [[finance/2026-05-21-nvda-undervalued|即使市值高达5万亿美元，英伟达依然被低估]] · #finance
 - [[cross-domain-reporting|多角度報道]] · #wiki
 - [[tech/ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] · #tech
+- [[finance/how-to-know-when-ai-boom-goes-bust|如何判断AI热潮何时走向破灭]] · #finance
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]] · #tech
 - [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]] · #tech
 - [[finance/wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] · #finance

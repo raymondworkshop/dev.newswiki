@@ -219,7 +219,7 @@ def _display_archive_entry(entry: str, wiki_dir: Path | None) -> str | None:
             max_len=ARCHIVE_BLURB_MAX_LEN,
         )
         blurb = _escape_inline_math(blurb)
-    blurb_html = f'<span class="topic-blurb"> — {blurb}</span>' if blurb else ""
+    blurb_html = f'<span class="topic-blurb">{blurb}</span>' if blurb else ""
     return f"- {topic_html}{link}{blurb_html}"
 
 
@@ -251,7 +251,7 @@ def _display_related_entry(line: str) -> str:
     if blurb:
         return (
             f'- <span class="recent-date">{date}</span> {link}'
-            f'<span class="topic-blurb"> — {blurb}</span>'
+            f'<span class="topic-blurb">{blurb}</span>'
         )
     return f'- <span class="recent-date">{date}</span> {link}'
 

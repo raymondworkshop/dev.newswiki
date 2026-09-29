@@ -113,5 +113,5 @@ topics:
 
 - [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]]
 - [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]]
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]]
-- [[career/ai-employment-impact|AI会导致就业末日吗？三位经济学家各抒己见]]

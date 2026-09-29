@@ -33,7 +33,7 @@ AI is disrupting white-collar jobs at an unprecedented scale, requiring coordina
 
 ## Related Articles
 
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
 - [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]]
-- [[business/microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]]

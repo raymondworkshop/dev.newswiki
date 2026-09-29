@@ -24,7 +24,9 @@ Curated hub for the concept 「interest rates」.
 - [[finance/2026-05-26-office-residential-conversion-denver|抄底全美最空荡市中心：他能说服人们住进写字楼吗？]] · #finance
 - [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]] · #finance
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]] · #finance
+- [[finance/irs-cracks-down-grat-wealth-transfer|美国国税局正严查超级富豪最青睐的财富传承方式]] · #finance
 - [[business/apple-micron-china-chip-lobbying|苹果与美光掀起中国芯片游说战，特朗普陷入两难]] · #business
+- [[finance/bond-yields-surge-expert-analysis|解析债券收益率飙升：六位投资专家的市场研判与交易布局]] · #finance
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]] · #finance
 - [[finance/wealth-management-cash-problem|财富管理行业面临3万亿美元难题：投资者持有太多现金]] · #finance
 - [[business/whirlpool-north-america-struggle|退守本土后，惠而浦为何仍难逃“寒冬”？]] · #business

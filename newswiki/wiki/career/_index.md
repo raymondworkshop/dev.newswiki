@@ -3,7 +3,9 @@
 技能、就业与组织如何在AI时代重塑职业路径
 
 ## 文章
+- [[ai-replaces-grunt-work-juniors-miss-experience|职场“苦活累活”被AI包揽了，为什么我们反而怀念它？]] (2026-09-28) - 在公司重组和AI应用推进之下，许多过去由初级员工承担的重复性任务已经被自动化取代。这让他们摆脱了不少苦活累活，但也让他们失去了一条长期以来用于积累经验本领的路径。
 - [[bob-chapek-disney-fired-memoir|被迪士尼解雇，包正博至今仍意难平]] (2026-09-25) - 包正博首次正式接受采访、谈及他执掌迪士尼的动荡33个月。他讲述了自己被解除CEO职务的经历，以及为何将责任归咎于艾格。
+- [[linkedin-tightens-verification-fake-recruiters|领英收紧认证规则，打击假冒招聘人员]] (2026-09-24) - 领英将推出新工具，帮助用户辨别真伪，避免将钱财或简历交到诈骗者手中。
 - [[ai-salary-setting-hidden-ways|企业利用AI设定薪酬的隐秘方式]] (2026-09-24) - 你最终是落在涨薪区间的高端还是低端，可能取决于某个机器学习模型认为你值多少钱。新服务能让雇主精准找出哪些员工薪酬过高或过低。
 - [[cornell-report-us-higher-education-crisis|康奈尔大学发布200页报告，正视美国高等教育危机]] (2026-09-23) - 眼下，美国高等教育正经历其历史上最艰难的时期之一。此前，耶鲁大学和范德堡大学也发表了类似的反思报告，相比之下，康奈尔大学给出的方案更为温和。
 - [[adam-grant-ai-era-white-collar-adaptability|亚当·格兰特谈AI时代白领靠什么立足]] (2026-09-21) - 组织心理学家亚当·格兰特探讨了AI正在颠覆白领在知识型工作中典型的职业优势，以及他们可以如何应对。
@@ -38,6 +40,7 @@
 - [[hidden-skills-of-top-talent|顶尖人才的隐藏技能：把玩耍和“不作为”当作必修课-返朴的财新博客-财新网]] (2026-08-09) - 探讨“无所事事”与玩耍对大脑默认网络（DMN）的激活作用，以及过度工作对前额叶皮质和心理健康的损害。
 - [[llms-reward-expertise|LLMs reward expertise]] (2026-08-06) - An analysis of why domain expertise remains the most critical skill for effective LLM prompting and high-value output.
 - [[ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]] (2026-07-30) - AI工具让创始人更容易单枪匹马地创业，而且许多人在公司发展壮大后依然保持这种单干状态。
+- [[how-to-research-technical-topics-with-ai|How to Research Technical Topics With AI]] (2026-07-28) - How I go from a technical question I cannot answer to an explanation I can reconstruct without the model
 - [[dont-start-startup-to-get-acquired|Don't start a startup with the goal of getting acquired.]] (2026-07-27) - If your goal is to cash out at $5 million as quickly and reliably as possible, becoming a founder is a very strange way to do it.
 - [[big-companies-resume-hiring-ai-employment|大企业重新开始招聘，打破“AI将消灭就业”的预测]] (2026-07-27) - 在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。
 - [[fake-job-interview-git-hook-malware|I Inspected My Take-Home Interview Project. It Was a Whole Operation.]] (2026-07-23) - A LinkedIn recruitment scam delivered malware via a take-home FastAPI project’s git pre-commit hook.

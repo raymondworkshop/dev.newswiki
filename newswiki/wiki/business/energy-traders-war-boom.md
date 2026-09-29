@@ -27,7 +27,7 @@ topics:
 
 ## 相关文章
 
+- [[business/leica-european-manufacturing-success|售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]]
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/pentagon-missile-submarine-contracts|五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇]]
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]
-- [[business/lynas-revival/lynas-revival-lacaze|从濒临崩盘到西方稀土支柱：Lynas掌门人拉卡兹如何撼动中国主导地位]]

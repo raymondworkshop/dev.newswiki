@@ -5,11 +5,11 @@ created: "2026-05-30"
 
 ## 近期文章
 
-- <span class="recent-date">2026-09-25</span> [[business/bob-chapek-disney-fired-memoir|被迪士尼解僱，包正博至今仍意難平]]<span class="topic-blurb"> — 包正博首次正式接受採訪、談及他執掌迪士尼的動盪33個月。他講述了自己被解除CEO職務的經歷，以及爲何將責任歸咎於艾格。</span>
-- <span class="recent-date">2026-09-24</span> [[finance/wealthy-europeans-moving-north-climate|歐洲越來越熱，富人開始向北遷居]]<span class="topic-blurb"> — 隨着乾旱和野火侵襲西班牙、法國和意大利的南部熱門地區，這些國家的北部地區對購房者越來越有吸引力。</span>
-- <span class="recent-date">2026-09-24</span> [[tech/zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新願景：將Muse AI智能體與智能眼鏡深度融合]]<span class="topic-blurb"> — 扎克伯格發佈一款新型手持人工智能設備及科技產品，稱其可以拉近消費者與“個人超級智能”的距離。</span>
-- <span class="recent-date">2026-09-24</span> [[career/ai-salary-setting-hidden-ways|企業利用AI設定薪酬的隱祕方式]]<span class="topic-blurb"> — 你最終是落在漲薪區間的高端還是低端，可能取決於某個機器學習模型認爲你值多少錢。新服務能讓僱主精準找出哪些員工薪酬過高或過低。</span>
-- <span class="recent-date">2026-09-24</span> [[tech/ai-chess-unsolved-creativity|AI攻克了最棘手的數學難題，爲何卻無法破解國際象棋？]]<span class="topic-blurb"> — 國際象棋引擎能擊敗特級大師，但它們在什麼是萬無一失的絕對策略上卻無法達成共識。而且，AI非但沒有毀掉這項運動，反而正在發掘新的下法。</span>
+- <span class="recent-date">2026-09-29</span> [[business/goldman-sachs-ceo-succession-john-waldron|高盛董事會已討論任命溫澤恩爲下一任CEO的計劃]]<span class="topic-blurb">根據該計劃，自2018年以來一直領導該行的蘇德巍最快將於明年卸任，由首席運營官溫澤恩接任。</span>
+- <span class="recent-date">2026-09-29</span> [[tech/top-ai-researchers-urge-regulation-self-improving-ai|頂尖AI研究人員呼籲緊急監管自我改進的AI系統]]<span class="topic-blurb">OpenAI、Anthropic、Meta 和微軟的研究主管正呼籲決策者調查各自公司在多大程度上實現了AI研究自動化…</span>
+- <span class="recent-date">2026-09-29</span> [[tech/meta-muse-ai-agent-hands-on|我試用了Meta的Muse AI智能體：好用，也讓人脊背發涼]]<span class="topic-blurb">你提供的數據越多，這位才華橫溢的私人助理就能爲你做更多的事情。</span>
+- <span class="recent-date">2026-09-29</span> [[finance/larry-ellison-staff-housing-gated-community|一探拉里·埃裏森爲家教等員工買下八套房產的封閉式社區]]<span class="topic-blurb">這位掌控着甲骨文公司的億萬富豪花費近1,000萬美元購置住房，供子女家教等工作人員使用；這些房子距離他在佛羅里達州的莊園約30分鐘車程。</span>
+- <span class="recent-date">2026-09-28</span> [[tech/red-queen-bio-ai-biosecurity|這家初創公司利用AI防範未來的AI大流行病]]<span class="topic-blurb">生物安全初創公司Red Queen Bio利用AI技術預先設計抗體藥物，旨在抵禦未來可能由AI系統設計或改造的未知新型病原體。</span>
 - [[articles|查看更多]]
 
 ## 編輯原則
