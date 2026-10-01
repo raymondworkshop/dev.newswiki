@@ -33,12 +33,12 @@ Curated hub for the concept 「估值」.
 - [[finance/rob-vinall-china-stocks-buffett-inspired|为何这位受巴菲特启发的基金经理大举押注中国股票]] · #finance
 - [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]] · #finance
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]] · #tech
-- [[valuation-and-risk|估值與風險]] · #wiki
+- [[valuation-and-risk|先看貴不貴]] · #wiki
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] · #business
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]] · #finance
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]] · #business
-- [[cross-domain-reporting|多角度報道]] · #wiki
+- [[cross-domain-reporting|多角度看]] · #wiki
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]] · #tech
 - [[finance/leopold-aschenbrenner-situational-awareness|将Jane Street纳为投资人的24岁AI奇才]] · #finance
 - [[business/moonshot-ai-yang-zhilin-profile|将“硅谷范儿”带回北京的33岁AI风云人物]] · #business
@@ -51,6 +51,7 @@ Curated hub for the concept 「估值」.
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]] · #business
 - [[tech/2026-highest-performing-stocks|盘点2026年上半年标普500指数表现最好的20只股票]] · #tech
 - [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]] · #business
+- [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]] · #tech
 - [[business/micron-tech-market-importance|美光科技已成“市场上最重要的股票”，现在该担心了吗？]] · #business
 - [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]] · #tech
 - [[business/pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] · #business

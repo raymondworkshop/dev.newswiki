@@ -25,5 +25,5 @@ AI原生企业通过[[hubs/ai-agent|AI智能体]]实现组织扁平化，大幅�
 
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]
 - [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]
 - [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]]
-- [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]]

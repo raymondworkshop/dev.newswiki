@@ -24,6 +24,6 @@ AI安全担忧正促使研究员离职，凸显行业内部对失控风险的紧
 ## 相关文章
 
 - [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]]
+- [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]]
 - [[finance/spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]]
 - [[business/musk-confidant-gracias-set-for-spacex-windfall|马斯克密友格拉西亚斯有望因SpaceX斩获680亿美元收益]]
-- [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]

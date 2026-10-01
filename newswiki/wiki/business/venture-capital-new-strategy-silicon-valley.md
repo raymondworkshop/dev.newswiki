@@ -27,5 +27,5 @@ topics:
 
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
+- [[valuation-and-risk|先看貴不貴]]
 - [[finance/ai-funding-warning-sign|巨额资金涌入AI，这是一个巨大的危险信号]]
-- [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]

@@ -10,10 +10,13 @@ body {
   --headerFont: #{$font-stack};
   --bodyFont: #{$font-stack};
   --codeFont: #{$code-stack};
+  --rule: color-mix(in srgb, var(--lightgray) 70%, transparent);
+  --muted: color-mix(in srgb, var(--darkgray) 58%, var(--gray));
 
-  // Use theme token so Dark mode can switch (--light is #fff / #121816).
   background-color: var(--light);
   background-image: none;
+  color: var(--darkgray);
+  -webkit-font-smoothing: antialiased;
 }
 
 :root {
@@ -25,7 +28,7 @@ body {
 }
 
 html {
-  font-size: 16px;
+  font-size: 17px;
 
   @media all and (max-width: 800px) {
     font-size: 16px;
@@ -64,20 +67,18 @@ html {
     width: 100%;
     max-width: none;
     margin: 0;
-    padding: 0.85rem 1.75rem;
+    padding: 0.7rem 1.5rem;
     box-sizing: border-box;
     display: grid;
     grid-template-columns: auto minmax(0, 1fr) auto auto;
     grid-template-areas: "title nav search theme";
     align-items: center;
-    column-gap: 1.25rem;
+    column-gap: 1rem;
     flex-direction: unset;
-    gap: 0 1.25rem;
+    gap: 0 1rem;
     border: none;
-    border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 88%, transparent);
-    background: color-mix(in srgb, var(--light) 92%, transparent);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--rule);
+    background: var(--light);
 
     > .spacer,
     > .readermode {
@@ -89,8 +90,8 @@ html {
       margin: 0;
       padding: 0;
       border: none;
-      font-size: 1.05rem;
-      font-weight: 650;
+      font-size: 1rem;
+      font-weight: 600;
       letter-spacing: -0.02em;
       line-height: 1.2;
       justify-self: start;
@@ -135,7 +136,7 @@ html {
     max-width: var(--reading-width);
     min-width: 0;
     margin: 0 auto;
-    padding: 2.75rem 0 0;
+    padding: 2.25rem 0 0;
     box-sizing: border-box;
 
     > .page-header,
@@ -248,11 +249,11 @@ html {
 p,
 li,
 td {
-  line-height: 1.75;
+  line-height: 1.7;
 }
 
 p + p {
-  margin-top: 0.8em;
+  margin-top: 0.75em;
 }
 
 code,
@@ -266,7 +267,7 @@ a.internal {
   color: var(--secondary);
   background-color: transparent;
   border-radius: 0;
-  transition: color 0.15s ease;
+  transition: color 0.12s ease;
 }
 
 .sidebar a,
@@ -288,7 +289,7 @@ a:hover,
 a:focus-visible,
 a.internal:hover,
 a.internal:focus-visible {
-  color: color-mix(in srgb, var(--secondary) 70%, var(--dark));
+  color: color-mix(in srgb, var(--secondary) 78%, var(--dark));
   background-color: transparent;
   text-decoration: none;
 }
@@ -300,46 +301,46 @@ a:focus-visible {
 }
 
 blockquote {
-  border-left-color: color-mix(in srgb, var(--secondary) 55%, var(--gray));
-  border-left-width: 3px;
+  border-left-color: color-mix(in srgb, var(--secondary) 40%, var(--lightgray));
+  border-left-width: 2px;
 }
 
 h1,
 h2,
 h3 {
   font-family: var(--headerFont);
-  font-weight: 650;
-  color: color-mix(in srgb, var(--dark) 94%, var(--secondary));
+  font-weight: 600;
+  color: var(--dark);
   letter-spacing: -0.02em;
-  line-height: 1.28;
+  line-height: 1.3;
 }
 
 article > h1 > a[role="anchor"],
 article > h2 > a[role="anchor"],
 article > h3 > a[role="anchor"] {
-  color: color-mix(in srgb, var(--secondary) 45%, var(--gray));
+  color: var(--gray);
 }
 
 h1 {
-  margin-top: 2.2rem;
-  font-size: 1.85rem;
+  margin-top: 2rem;
+  font-size: 1.75rem;
 }
 
 h2 {
-  margin-top: 2rem;
-  padding-bottom: 0.35rem;
-  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 80%, transparent);
-  font-size: 1.28rem;
-  font-weight: 650;
+  margin-top: 1.85rem;
+  padding-bottom: 0;
+  border-bottom: none;
+  font-size: 1.15rem;
+  font-weight: 600;
 }
 
 h3 {
-  margin-top: 1.65rem;
-  font-size: 1.1rem;
+  margin-top: 1.5rem;
+  font-size: 1.05rem;
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--secondary) 24%, transparent);
+  background: var(--highlight);
   color: var(--dark);
 }
 
@@ -391,8 +392,8 @@ footer {
 
   > li {
     margin: 0;
-    padding: 0.78rem 0;
-    border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 75%, transparent);
+    padding: 0.7rem 0;
+    border-bottom: 1px solid var(--rule);
     line-height: 1.5;
 
     &:last-child {
@@ -493,15 +494,15 @@ body[data-slug="articles"] {
   article > h2[id="核心指標"],
   article > h2[id="core-metrics"],
   article > h2[id="key-metrics"] {
-    margin-top: 2.75rem;
-    margin-bottom: 0.85rem;
+    margin-top: 2.25rem;
+    margin-bottom: 0.75rem;
     border-bottom: none;
     padding-bottom: 0;
-    font-size: 1.2rem;
-    font-weight: 650;
-    letter-spacing: -0.02em;
+    font-size: 1.05rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
     text-transform: none;
-    color: color-mix(in srgb, var(--dark) 94%, var(--secondary));
+    color: var(--dark);
   }
 
   article > h2[id="看点"] + ul,
@@ -560,9 +561,9 @@ body[data-slug="articles"] {
     margin-bottom: 1rem;
     border-bottom: none;
     padding-bottom: 0;
-    font-size: 0.78rem;
-    font-weight: 600;
-    letter-spacing: 0.04em;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0;
     text-transform: none;
     color: var(--gray);
   }
@@ -579,7 +580,7 @@ body[data-slug="articles"] {
       display: flex;
       flex-direction: column;
       margin: 0;
-      padding: 0 0 1.85rem;
+      padding: 0 0 1.5rem;
       border: none;
       line-height: 1.45;
 
@@ -598,18 +599,17 @@ body[data-slug="articles"] {
         text-decoration: none;
         background: transparent;
         padding: 0;
-        font-weight: 600;
+        font-weight: 550;
         color: var(--dark);
-        font-size: 1.08rem;
+        font-size: 1.05rem;
         line-height: 1.4;
-        letter-spacing: -0.02em;
+        letter-spacing: -0.015em;
 
         &:hover,
         &:focus-visible {
-          color: var(--dark);
+          color: var(--secondary);
           background: transparent;
-          text-decoration: underline;
-          text-underline-offset: 0.14em;
+          text-decoration: none;
         }
       }
 
@@ -620,10 +620,10 @@ body[data-slug="articles"] {
         -webkit-box-orient: vertical;
         overflow: hidden;
         margin-top: 0.28rem;
-        font-size: 0.92rem;
+        font-size: 0.9rem;
         font-weight: 400;
-        line-height: 1.6;
-        color: var(--gray);
+        line-height: 1.55;
+        color: var(--muted);
       }
 
       &:has(a[href$="/articles"]),
@@ -635,9 +635,9 @@ body[data-slug="articles"] {
         padding-bottom: 0;
 
         > a.internal {
-          font-weight: 500;
-          color: var(--secondary);
-          font-size: 0.92rem;
+          font-weight: 450;
+          color: var(--gray);
+          font-size: 0.9rem;
         }
       }
     }
@@ -790,13 +790,13 @@ body[data-slug="index"] {
   article > h2#recent-articles,
   article > h2#近期文章,
   article > h2#近排文章 {
-    margin: 0 0 1.15rem;
+    margin: 0 0 1.5rem;
     padding: 0;
     border: none;
-    font-size: 0.72rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: none;
     color: var(--gray);
   }
 
@@ -808,89 +808,73 @@ body[data-slug="index"] {
     margin: 0;
 
     > li {
-      display: grid;
-      grid-template-columns: 5.6rem minmax(0, 1fr);
-      column-gap: 1rem;
-      align-items: baseline;
+      display: flex;
+      flex-direction: column;
       margin: 0;
-      padding: 1.15rem 0;
+      padding: 0 0 1.65rem;
       border: none;
-      border-top: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
       line-height: 1.45;
 
-      &:first-child {
-        border-top: none;
-        padding-top: 0.15rem;
-      }
-
       .recent-date {
-        grid-column: 1;
-        grid-row: 1;
+        order: 3;
         display: block;
-        margin: 0;
-        padding-top: 0.18rem;
+        margin: 0.4rem 0 0;
         font-size: 0.78rem;
-        font-weight: 500;
+        font-weight: 400;
         color: var(--gray);
         font-variant-numeric: tabular-nums;
-        letter-spacing: 0.01em;
+        letter-spacing: 0;
         white-space: nowrap;
       }
 
       > a.internal {
-        grid-column: 2;
-        grid-row: 1;
+        order: 1;
         display: block;
         text-decoration: none;
         background: transparent;
         padding: 0;
-        font-weight: 600;
+        font-weight: 550;
         color: var(--dark);
-        font-size: 1.05rem;
+        font-size: 1.08rem;
         line-height: 1.4;
         letter-spacing: -0.015em;
 
         &:hover,
         &:focus-visible {
-          color: var(--dark);
+          color: var(--secondary);
           background: transparent;
-          text-decoration: underline;
-          text-underline-offset: 0.14em;
-          text-decoration-thickness: 1px;
+          text-decoration: none;
         }
       }
 
       .topic-blurb {
-        grid-column: 2;
-        grid-row: 2;
+        order: 2;
         display: -webkit-box;
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;
         overflow: hidden;
-        margin: 0.28rem 0 0;
-        font-size: 0.9rem;
+        margin: 0.3rem 0 0;
+        font-size: 0.92rem;
         font-weight: 400;
         line-height: 1.55;
-        color: color-mix(in srgb, var(--darkgray) 55%, var(--gray));
+        color: var(--muted);
       }
 
       &:has(a[href$="/articles"]),
       &:has(a[href$="/articles/"]),
       &:has(a[href="articles"]),
       &:has(a[href="./articles"]) {
-        display: block;
-        padding: 1.15rem 0 0;
-        border-top: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
+        padding: 0.35rem 0 0;
 
         > a.internal {
-          font-weight: 500;
+          font-weight: 450;
           color: var(--gray);
           font-size: 0.9rem;
           letter-spacing: 0;
 
           &:hover,
           &:focus-visible {
-            color: var(--dark);
+            color: var(--secondary);
           }
         }
       }
@@ -901,62 +885,41 @@ body[data-slug="index"] {
     article > h2#recent-articles + ul > li,
     article > h2#近期文章 + ul > li,
     article > h2#近排文章 + ul > li {
-      grid-template-columns: minmax(0, 1fr);
-      row-gap: 0;
-      padding: 1rem 0;
-
-      .recent-date {
-        grid-column: 1;
-        grid-row: 1;
-        order: 0;
-        margin: 0 0 0.28rem;
-        padding-top: 0;
-        font-size: 0.72rem;
-      }
+      padding-bottom: 1.4rem;
 
       > a.internal {
-        grid-column: 1;
-        grid-row: 2;
-        font-size: 1.02rem;
+        font-size: 1.05rem;
       }
 
       .topic-blurb {
-        grid-column: 1;
-        grid-row: 3;
-        margin-top: 0.22rem;
-        font-size: 0.88rem;
+        font-size: 0.9rem;
         -webkit-line-clamp: 2;
-      }
-
-      &:has(a[href$="/articles"]),
-      &:has(a[href$="/articles/"]),
-      &:has(a[href="articles"]),
-      &:has(a[href="./articles"]) {
-        padding-top: 1rem;
       }
     }
   }
 
-  // 編輯原則 — quiet colophon
+  // 讀法 — quiet colophon
   article > h2#philosophy,
   article > h2#編輯方針,
-  article > h2#編輯原則 {
-    margin-top: 2.75rem;
-    margin-bottom: 0.7rem;
-    padding-top: 1.35rem;
-    border-top: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
+  article > h2#編輯原則,
+  article > h2#讀法 {
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
     border-bottom: none;
     padding-bottom: 0;
-    font-size: 0.72rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: none;
     color: var(--gray);
   }
 
   article > h2#philosophy + ul,
   article > h2#編輯方針 + ul,
-  article > h2#編輯原則 + ul {
+  article > h2#編輯原則 + ul,
+  article > h2#讀法 + ul {
     list-style: none;
     padding: 0;
     margin: 0 0 0.5rem;
@@ -965,61 +928,66 @@ body[data-slug="index"] {
       margin: 0;
       padding: 0.35rem 0;
       border-bottom: none;
-      line-height: 1.5;
-      font-size: 0.9rem;
-      color: color-mix(in srgb, var(--darkgray) 62%, var(--gray));
+      line-height: 1.55;
+      font-size: 0.92rem;
+      color: var(--muted);
 
       > a.internal {
-        text-decoration: none;
+        text-decoration: underline;
+        text-underline-offset: 0.16em;
+        text-decoration-thickness: 1px;
+        text-decoration-color: color-mix(in srgb, var(--secondary) 45%, transparent);
         background: transparent;
         padding: 0;
         font-weight: 550;
-        color: var(--dark);
+        color: var(--secondary);
 
         &:hover,
         &:focus-visible {
-          color: var(--gray);
+          color: color-mix(in srgb, var(--secondary) 75%, var(--dark));
           background: transparent;
+          text-decoration: underline;
+          text-decoration-color: currentColor;
         }
       }
     }
   }
 }
 
-// Article pages — breathe: drop duplicate chrome, open vertical rhythm
+// Article pages — quieter chrome, open rhythm
 body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="articles"]):not([data-slug^="tags/"]) {
   .page > #quartz-body .center > .page-header {
-    margin-bottom: 1.25rem;
+    margin-bottom: 1.5rem;
 
     .breadcrumb-container {
-      opacity: 0.78;
-      font-size: 0.88rem;
+      opacity: 0.7;
+      font-size: 0.85rem;
     }
 
     .article-title {
-      margin: 0.15rem 0 0.45rem;
-      font-size: 2rem;
-      font-weight: 650;
-      line-height: 1.22;
-      letter-spacing: -0.03em;
+      margin: 0.1rem 0 0.55rem;
+      font-size: 1.85rem;
+      font-weight: 600;
+      line-height: 1.25;
+      letter-spacing: -0.025em;
       color: var(--dark);
     }
 
     @media all and (max-width: 720px) {
       .article-title {
-        font-size: 1.55rem;
+        font-size: 1.45rem;
       }
     }
 
     .content-meta {
-      margin: 0 0 0.7rem;
+      margin: 0 0 0.55rem;
       font-size: 0.82rem;
       line-height: 1.45;
       color: var(--gray);
     }
 
     .article-topics {
-      margin: 0.15rem 0 0.15rem;
+      margin: 0.1rem 0 0;
     }
 
     .tags {
@@ -1035,31 +1003,31 @@ body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="article
 
   .page > #quartz-body .center > article {
     > h2 {
-      margin-top: 1.85rem;
-      margin-bottom: 0.65rem;
-      font-size: 1.08rem;
-      font-weight: 650;
-      letter-spacing: -0.015em;
+      margin-top: 1.75rem;
+      margin-bottom: 0.55rem;
+      font-size: 1.05rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
       line-height: 1.3;
       border-bottom: none;
       padding-bottom: 0;
-      color: color-mix(in srgb, var(--dark) 94%, var(--secondary));
+      color: var(--dark);
     }
 
     > h2:first-of-type {
-      margin-top: 0.25rem;
+      margin-top: 0.35rem;
     }
 
     > ul {
-      margin: 0.15rem 0 1.85rem;
-      padding-left: 1.15rem;
+      margin: 0.1rem 0 1.65rem;
+      padding-left: 1.1rem;
 
       > li {
         margin: 0;
-        padding: 0.28rem 0;
-        line-height: 1.72;
+        padding: 0.32rem 0;
+        line-height: 1.7;
         font-size: 0.98rem;
-        color: color-mix(in srgb, var(--darkgray) 88%, var(--gray));
+        color: var(--darkgray);
 
         & + li {
           border-top: none;
@@ -1068,266 +1036,88 @@ body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="article
     }
 
     > p {
-      margin: 0.85rem 0;
-      line-height: 1.75;
+      margin: 0.8rem 0;
+      line-height: 1.7;
       font-size: 1rem;
     }
-  }
 
-  // Column gap is owned by the shared desktop grid rule above.
+    // Lead: key_takeaways as 1 sentence before 要点
+    > h1:first-of-type + p,
+    > h1:first-of-type + p + p {
+      margin: 0 0 1.65rem;
+      max-width: 38rem;
+      font-size: 1.08rem;
+      line-height: 1.6;
+      font-weight: 400;
+      color: var(--muted);
+    }
+
+    > h1:first-of-type + p + p {
+      margin-bottom: 1.35rem;
+    }
+  }
 }
 
-// [AI Synthesis] — same reading size as the bullet, marked by tone not by shrinking.
+// [AI Synthesis] — tinted label (inferred content)
 span.ai-synthesis {
   display: inline;
-  margin-right: 0.35em;
-  padding: 0.04em 0.38em 0.08em;
+  margin-right: 0.4em;
+  padding: 0.12em 0.5em 0.14em;
   border-radius: 4px;
-  background: #e8e4dc;
-  color: #3a3834;
-  font-size: 0.92em;
+  border: 1px solid color-mix(in srgb, var(--secondary) 32%, transparent);
+  background: color-mix(in srgb, var(--secondary) 18%, transparent);
+  color: color-mix(in srgb, var(--secondary) 92%, var(--dark));
+  font-size: 0.88em;
   font-weight: 650;
-  letter-spacing: 0;
-  line-height: inherit;
+  letter-spacing: 0.01em;
+  line-height: 1.35;
   white-space: nowrap;
   vertical-align: baseline;
 }
 
+article li:has(span.ai-synthesis) {
+  padding-left: 0.15rem;
+  border-left: 2px solid color-mix(in srgb, var(--secondary) 45%, transparent);
+  margin-left: -0.15rem;
+  padding-bottom: 0.15rem;
+}
+
 article li:has(span.ai-synthesis)::marker {
+  color: var(--secondary);
+  font-weight: 600;
+}
+
+// Shared chrome tweaks (light + dark use the same tokens)
+.topic-nav a {
   color: var(--gray);
-}
 
-:root[saved-theme="dark"] span.ai-synthesis,
-html[data-theme="dark"] span.ai-synthesis {
-  background: rgba(255, 255, 255, 0.08);
-  color: #e8e8e6;
-}
-
-:root[saved-theme="dark"] article li:has(span.ai-synthesis)::marker,
-html[data-theme="dark"] article li:has(span.ai-synthesis)::marker {
-  color: var(--gray);
-}
-
-// Article lead: key_takeaways as 1 sentence before 要点
-body:not([data-slug="index"]):not([data-slug$="/index"]):not([data-slug="articles"]):not([data-slug^="tags/"]) {
-  .page > #quartz-body .center > article {
-    // Lead: slightly above body, well below title
-    > h1:first-of-type + p,
-    > h1:first-of-type + p + p {
-      margin: 0 0 1.75rem;
-      max-width: 38rem;
-      font-size: 1.12rem;
-      line-height: 1.6;
-      font-weight: 450;
-      color: color-mix(in srgb, var(--darkgray) 72%, var(--gray));
-    }
-
-    > h1:first-of-type + p + p {
-      margin-bottom: 1.5rem;
-    }
-  }
-}
-
-// Dark theme — softer charcoal, quieter chrome, clearer hierarchy
-:root[saved-theme="dark"] {
-  body {
-    background-color: var(--light);
-    color: var(--darkgray);
-  }
-
-  .page > #quartz-body > .sidebar.left {
-    background: color-mix(in srgb, var(--light) 94%, transparent);
-    border-bottom-color: rgba(255, 255, 255, 0.08);
-  }
-
-  .topic-nav a {
-    color: color-mix(in srgb, var(--gray) 95%, transparent);
-
-    &:hover,
-    &:focus-visible {
-      color: var(--dark);
-    }
-
-    &.is-active {
-      color: var(--dark);
-    }
-  }
-
-  .left.sidebar .search > .search-button,
-  .darkmode {
-    color: color-mix(in srgb, var(--gray) 95%, transparent);
-
-    &:hover,
-    &:focus-visible {
-      color: var(--dark);
-    }
-  }
-
-  body[data-slug="index"] {
-    article > h2#recent-articles + ul > li,
-    article > h2#近期文章 + ul > li,
-    article > h2#近排文章 + ul > li {
-      border-top-color: rgba(255, 255, 255, 0.08);
-
-      .recent-date {
-        color: var(--gray);
-      }
-
-      .topic-blurb {
-        color: color-mix(in srgb, var(--darkgray) 72%, var(--gray));
-      }
-
-      > a.internal {
-        color: var(--dark);
-      }
-
-      &:has(a[href$="/articles"]),
-      &:has(a[href$="/articles/"]),
-      &:has(a[href="articles"]),
-      &:has(a[href="./articles"]) {
-        border-top-color: rgba(255, 255, 255, 0.08);
-
-        > a.internal {
-          color: var(--gray);
-        }
-      }
-    }
-
-    article > h2#philosophy,
-    article > h2#編輯方針,
-    article > h2#編輯原則 {
-      border-top-color: rgba(255, 255, 255, 0.08);
-      color: var(--gray);
-    }
-
-    article > h2#philosophy + ul > li,
-    article > h2#編輯方針 + ul > li,
-    article > h2#編輯原則 + ul > li {
-      color: color-mix(in srgb, var(--darkgray) 72%, var(--gray));
-
-      > a.internal {
-        color: var(--dark);
-      }
-    }
-  }
-
-  footer .stay-updated {
-    border-top-color: rgba(255, 255, 255, 0.08);
-
-    .stay-updated-email {
-      border-bottom-color: rgba(255, 255, 255, 0.14);
-
-      &:focus-visible {
-        border-bottom-color: rgba(255, 255, 255, 0.32);
-      }
-    }
-  }
-
-  ::selection {
-    background: rgba(255, 255, 255, 0.14);
+  &:hover,
+  &:focus-visible,
+  &.is-active,
+  &[aria-current="page"] {
     color: var(--dark);
   }
 }
 
-// Light theme — brighter paper, quieter chrome, clearer hierarchy
-:root[saved-theme="light"],
-:root:not([saved-theme]) {
-  body {
-    background-color: var(--light);
-    color: var(--darkgray);
-  }
+.left.sidebar .search > .search-button,
+.darkmode {
+  color: var(--gray);
 
-  .page > #quartz-body > .sidebar.left {
-    background: color-mix(in srgb, var(--light) 92%, transparent);
-    border-bottom-color: rgba(0, 0, 0, 0.06);
-  }
-
-  .topic-nav a {
-    color: var(--gray);
-
-    &:hover,
-    &:focus-visible {
-      color: var(--dark);
-    }
-
-    &.is-active {
-      color: var(--dark);
-    }
-  }
-
-  .left.sidebar .search > .search-button,
-  .darkmode {
-    color: var(--gray);
-
-    &:hover,
-    &:focus-visible {
-      color: var(--dark);
-    }
-  }
-
-  body[data-slug="index"] {
-    article > h2#recent-articles + ul > li,
-    article > h2#近期文章 + ul > li,
-    article > h2#近排文章 + ul > li {
-      border-top-color: rgba(0, 0, 0, 0.06);
-
-      .recent-date {
-        color: var(--gray);
-      }
-
-      .topic-blurb {
-        color: color-mix(in srgb, var(--darkgray) 58%, var(--gray));
-      }
-
-      > a.internal {
-        color: var(--dark);
-      }
-
-      &:has(a[href$="/articles"]),
-      &:has(a[href$="/articles/"]),
-      &:has(a[href="articles"]),
-      &:has(a[href="./articles"]) {
-        border-top-color: rgba(0, 0, 0, 0.06);
-
-        > a.internal {
-          color: var(--gray);
-        }
-      }
-    }
-
-    article > h2#philosophy,
-    article > h2#編輯方針,
-    article > h2#編輯原則 {
-      border-top-color: rgba(0, 0, 0, 0.06);
-      color: var(--gray);
-    }
-
-    article > h2#philosophy + ul > li,
-    article > h2#編輯方針 + ul > li,
-    article > h2#編輯原則 + ul > li {
-      color: color-mix(in srgb, var(--darkgray) 58%, var(--gray));
-
-      > a.internal {
-        color: var(--dark);
-      }
-    }
-  }
-
-  footer .stay-updated {
-    border-top-color: rgba(0, 0, 0, 0.06);
-
-    .stay-updated-email {
-      border-bottom-color: rgba(0, 0, 0, 0.12);
-
-      &:focus-visible {
-        border-bottom-color: rgba(0, 0, 0, 0.28);
-      }
-    }
-  }
-
-  ::selection {
-    background: rgba(0, 0, 0, 0.1);
+  &:hover,
+  &:focus-visible {
     color: var(--dark);
+  }
+}
+
+footer .stay-updated {
+  border-top-color: var(--rule);
+
+  .stay-updated-email {
+    border-bottom-color: color-mix(in srgb, var(--lightgray) 80%, var(--gray));
+
+    &:focus-visible {
+      border-bottom-color: var(--secondary);
+    }
   }
 }
 

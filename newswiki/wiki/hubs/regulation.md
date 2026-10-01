@@ -54,6 +54,7 @@ Curated hub for the concept 「regulatory」.
 - [[business/cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]] · #business
 - [[finance/tiktok-financial-advice-analysis|盘点TikTok上满天飞的理财“秘籍”]] · #finance
 - [[finance/jane-street-ai-spotlight|神秘华尔街巨头Jane Street步入AI聚光灯下]] · #finance
+- [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]] · #tech
 - [[finance/2026-05-27-stablecoin-risks|稳定币为何会给经济带来风险]] · #finance
 - [[business/mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] · #business
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]] · #tech

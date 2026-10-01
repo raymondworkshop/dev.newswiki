@@ -1,11 +1,11 @@
 ---
-title: 多角度報道
-description: 同一件事，別只讀一個欄目。
+title: 多角度看
+description: 同一件事，換幾個角度再看。
 ---
 
-# 多角度報道
+# 多角度看
 
-同一件事，別只讀一個欄目。商業看到錢，科技看到做不做得到，設計看到好不好用，生活看到它進了誰的日常。
+同一件事，換幾個角度再看。商業看到錢，科技看到做不做得到，設計看到好不好用，生活看到它進了誰的日常。
 
 ## 怎麼讀
 
@@ -20,14 +20,17 @@ description: 同一件事，別只讀一個欄目。
 
 ## 相關文章
 
-- [[valuation-and-risk|估值與風險]]
+- [[valuation-and-risk|先看貴不貴]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]]
-
-## 相关文章
-
-- [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
 - [[business/china-ai-autonomy-market-reality|中国追求AI自主，股市却呈现另一种现实]]
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
+
+## 相关文章
+
+- [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
+- [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
+- [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
+- [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]]

@@ -22,7 +22,7 @@ topics:
 
 ## 相关文章
 
+- [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
+- [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]
+- [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
-- [[finance/central-bank-crisis-cycle|央行陷入周而复始的危机循环]]
-- [[finance/2026-05-26-office-residential-conversion-denver|抄底全美最空荡市中心：他能说服人们住进写字楼吗？]]
-- [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]]

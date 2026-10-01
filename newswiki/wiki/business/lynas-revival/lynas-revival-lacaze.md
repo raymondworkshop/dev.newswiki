@@ -31,7 +31,7 @@ Lynas的成功是[[hubs/geopolitics|地缘政治]]需求与企业韧性相结合
 
 ## 相关文章
 
+- [[business/leica-european-manufacturing-success|售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]]
 - [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]]
 - [[business/pentagon-missile-submarine-contracts|五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇]]
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
-- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]

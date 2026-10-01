@@ -29,5 +29,5 @@ topics:
 
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
 - [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]
+- [[valuation-and-risk|先看貴不貴]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
-- [[finance/ai-funding-warning-sign|巨额资金涌入AI，这是一个巨大的危险信号]]

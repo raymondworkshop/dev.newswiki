@@ -18,13 +18,13 @@ AI 热潮的存续取决于顶尖初创公司能否持续融资；一旦"资金�
 - 繁荣的维系依赖源源不断的新资本流入；历史表明，一旦筹集新资本的窗口关闭，热潮即开始走向破灭。
 - 互联网泡沫时期（2000年），"资金缺口"与"烧钱率"成为口头禅，Pets.com 在审计师未发警告、纳斯达克创新高时仍能融资，市场崩盘后资金枯竭于11月倒闭。
 - 2007年金融危机中，房地美大幅削减股息、发行优先股拼凑资本，却无法增发普通股吸收损失，释放出金融体系融资窗口关闭的信号，数月后房利美/房地美被接管。
-- 当前 AI 热潮初步紧张情绪浮现：OpenAI 排除年内上市，Holtec Nuclear 暂停 [[hubs/ipo|IPO]]，Anthropic 将 IPO 推迟至 11 月，但私募市场融资尚未受阻。
+- 当前 AI 热潮初步紧张情绪浮现：OpenAI 排除年内上市，Holtec Nuclear 暂停 [[hubs/ipo|IPO]]，Anthropic 将 [[hubs/ipo|IPO]] 推迟至 11 月，但私募市场融资尚未受阻。
 - [AI Synthesis] OpenAI 与 Anthropic 财务不公开、持续巨额烧钱且无盈利曙光，其融资能力由[[hubs/nvidia|英伟达]]、软银等巨头注资维系，进而支撑甲骨文等下游资本支出的自洽逻辑。
 - 核心风险：若融资窗口收窄至任一顶尖 AI 初创公司出现"资金缺口"，AI 题材交易动能可能迅速逆转，事态演变难以预料。
 
 ## 相关文章
 
-- [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
-- [[business/cami-clark-anthropic-influence|连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力]]
-- [[finance/spacex-ipo-wealth-management|SpaceX员工紧急恶补：暴富后应如何理财]]
+- [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
+- [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]]
+- [[cross-domain-reporting|多角度看]]

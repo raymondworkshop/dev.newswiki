@@ -26,7 +26,7 @@ topics:
 
 ## 相关文章
 
+- [[finance/how-to-know-when-ai-boom-goes-bust|如何判断AI热潮何时走向破灭]]
 - [[finance/ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]]
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
-- [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
-- [[business/openai-q2-revenue-slowdown-vs-anthropic|OpenAI第二季度收入增长乏力，增速逊于Anthropic]]
+- [[finance/three-alternatives-dodge-bond-market-beatdown|投资者避开疲弱债市的三个替代选择]]

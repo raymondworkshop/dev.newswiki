@@ -25,5 +25,5 @@ topics:
 
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
+- [[cross-domain-reporting|多角度看]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
-- [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]]

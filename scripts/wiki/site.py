@@ -324,8 +324,9 @@ def localize_homepage_for_site(content: str) -> str:
     content = re.sub(r"\n{3,}", "\n\n", content)
     content = content.replace("## Recent Articles", "## 近期文章", 1)
     content = content.replace("## 近排文章", "## 近期文章", 1)
-    content = content.replace("## Philosophy", "## 編輯原則", 1)
-    content = content.replace("## 編輯方針", "## 編輯原則", 1)
+    content = content.replace("## Philosophy", "## 讀法", 1)
+    content = content.replace("## 編輯方針", "## 讀法", 1)
+    content = content.replace("## 編輯原則", "## 讀法", 1)
     return content.lstrip()
 
 

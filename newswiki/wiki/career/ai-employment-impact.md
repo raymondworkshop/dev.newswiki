@@ -41,7 +41,7 @@ AI不会导致全面失业，但将重塑就业结构，尤其影响白领和信
 
 ## 相关文章
 
+- [[career/ai-replaces-grunt-work-juniors-miss-experience|职场“苦活累活”被AI包揽了，为什么我们反而怀念它？]]
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]]
 - [[business/chinas-new-export-engine|中国的新出口引擎：为全球工厂供货]]
 - [[career/2026-05-27-ai-employment-phoenix|AI冲击波席卷菲尼克斯：\"格子间\"产业帝国濒临瓦解]]
-- [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]]

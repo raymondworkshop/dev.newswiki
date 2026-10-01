@@ -51,6 +51,6 @@ Late-life entrepreneurship is growing, driven by a desire for autonomy and purpo
 ## Related Articles
 
 - [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]]
+- [[finance/three-alternatives-dodge-bond-market-beatdown|投资者避开疲弱债市的三个替代选择]]
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
 - [[finance/ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]]
-- [[finance/three-alternatives-dodge-bond-market-beatdown|投资者避开疲弱债市的三个替代选择]]

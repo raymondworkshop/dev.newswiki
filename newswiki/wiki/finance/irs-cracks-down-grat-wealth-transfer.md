@@ -24,7 +24,7 @@ topics:
 
 ## 相关文章
 
-- [[finance/bond-yields-surge-expert-analysis|解析债券收益率飙升：六位投资专家的市场研判与交易布局]]
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]]
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
+- [[finance/us-japan-yen-intervention-2026|图解美日联手提振日圆的五大原因]]

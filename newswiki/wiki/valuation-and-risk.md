@@ -1,11 +1,11 @@
 ---
-title: 估值與風險
-description: 先問貴不貴，再問什麼會看錯。
+title: 先看貴不貴
+description: 價錢合不合理？什麼情況會讓判斷失效？
 ---
 
-# [[hubs/valuation|估值]]與風險
+# 先看貴不貴
 
-讀到一家公司，先問兩句：現在的價錢配得上它嗎？什麼情況會讓這個判斷失效？
+讀到一家公司，先問兩句：價錢合不合理？什麼情況會讓這個判斷失效？
 
 ## 怎麼讀
 
@@ -17,18 +17,20 @@ description: 先問貴不貴，再問什麼會看錯。
 ## 在本站
 
 - 跟公司或財報有關的稿，至少寫清一個 [[hubs/valuation|估值]] 口徑，或一個會讓判斷失效的點。不要只剩故事。
-- 最後都要回到：貴不貴，脆不脆。見 [[cross-domain-reporting|多角度報道]]、[[finance/_index|投資]]。
+- 最後都要回到：貴不貴，脆不脆。見 [[cross-domain-reporting|多角度看]]、[[finance/_index|投資]]。
 
 ## 相關文章
 
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
-- [[cross-domain-reporting|多角度報道]]
+- [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
+- [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]
+- [[cross-domain-reporting|多角度看]]
 
 ## 相关文章
 
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
-- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]
+- [[finance/ai-funding-warning-sign|巨额资金涌入AI，这是一个巨大的危险信号]]

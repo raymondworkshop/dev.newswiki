@@ -1,6 +1,8 @@
 
 
 ## Recent Articles
+
+- [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]] (2026-10-01)
 - [[business/goldman-sachs-ceo-succession-john-waldron|高盛董事会已讨论任命温泽恩为下一任CEO的计划]] (2026-09-29)
 - [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] (2026-09-29)
 - [[tech/meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]] (2026-09-29)
@@ -395,7 +397,7 @@
 - [[business/doing-something-never-done-before|Doing Something That’s Never Been Done Before]] (2025-11-14)
 - [[tech/science-is-open-software|Science is open software]] (2025-05-24)
 
-## 編輯原則
-- [[connected-stories|沿主題讀]]: 一篇不夠，同一件事再讀幾篇
-- [[cross-domain-reporting|多角度報道]]: 同一件事，別只讀一個欄目
-- [[valuation-and-risk|估值與風險]]: 先問貴不貴，再問什麼會看錯
+## 讀法
+- [[connected-stories|順著主題讀]]: 一篇不夠，同一件事再讀幾篇
+- [[cross-domain-reporting|多角度看]]: 同一件事，換幾個角度再看
+- [[valuation-and-risk|先看貴不貴]]: 價錢合不合理？什麼情況會讓判斷失效？

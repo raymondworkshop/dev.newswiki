@@ -29,5 +29,5 @@ topics:
 
 - [[tech/ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]]
 - [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]]
+- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]
 - [[career/2026-05-27-ai-employment-phoenix|AI冲击波席卷菲尼克斯：\"格子间\"产业帝国濒临瓦解]]
-- [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]]

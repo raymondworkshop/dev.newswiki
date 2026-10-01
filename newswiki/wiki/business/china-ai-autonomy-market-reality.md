@@ -27,4 +27,4 @@ topics:
 - [[business/korean-chip-leader-s-century-divorce-ai-boom|韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]
-- [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
+- [[cross-domain-reporting|多角度看]]

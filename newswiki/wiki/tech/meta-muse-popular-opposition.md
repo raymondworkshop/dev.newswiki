@@ -25,5 +25,5 @@ Meta的Muse[[hubs/ai-agent|智能体]]虽然在下载量和股价上取得初期
 
 - [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]]
 - [[tech/meta-muse-ai-agent-viral-hit-challenges-ahead|Meta的AI智能体Muse爆火，真正的考验才刚开始]]
+- [[tech/meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]]
 - [[tech/zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]
-- [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]

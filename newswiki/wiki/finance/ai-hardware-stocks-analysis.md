@@ -23,7 +23,7 @@ AI 硬件支出正带动存储与网络设备供应商的强劲增长。
 
 ## 相关文章
 
+- [[finance/three-alternatives-dodge-bond-market-beatdown|投资者避开疲弱债市的三个替代选择]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]]
-- [[finance/three-alternatives-dodge-bond-market-beatdown|投资者避开疲弱债市的三个替代选择]]

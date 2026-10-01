@@ -27,4 +27,4 @@ AI不仅是就业杀手，更是庞大白领就业岗位的新生态供给者（
 - [[career/working-in-us-data-center|在美国数据中心工作是怎样一种体验]]
 - [[career/ai-employment-impact|AI会导致就业末日吗？三位经济学家各抒己见]]
 - [[career/2026-05-27-ai-employment-phoenix|AI冲击波席卷菲尼克斯：\"格子间\"产业帝国濒临瓦解]]
-- [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]]
+- [[career/ai-replaces-grunt-work-juniors-miss-experience|职场“苦活累活”被AI包揽了，为什么我们反而怀念它？]]

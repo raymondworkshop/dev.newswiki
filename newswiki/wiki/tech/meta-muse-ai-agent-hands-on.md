@@ -16,7 +16,7 @@ topics:
 Meta的Muse [[hubs/ai-agent|AI智能体]]展示了令人印象深刻的消费级自主能力，但其运作所需的广泛数据访问结合Meta的隐私历史，引发了严重的安全与信任担忧。
 
 ## 要点
-- Muse AI智能体能像行政助理一样处理购物、日程预约、账单支付等任务，通过安全虚拟机操作浏览器并接入Gmail、Google Calendar等服务。[[tech/muse-ai|Muse AI]] [[tech/ai-agents|AI智能体]]
+- Muse [[hubs/ai-agent|AI智能体]]能像行政助理一样处理购物、日程预约、账单支付等任务，通过安全虚拟机操作浏览器并接入Gmail、Google Calendar等服务。[[tech/muse-ai|Muse AI]] [[tech/ai-agents|AI智能体]]
 - 测试中Muse成功寻找替代商品、预约儿童看护、提取牙医账单信息并填写Global Entry申请，但也出现推荐错误健身房优惠、汽车保险报价不准等失误。[[tech/ai-agents|AI智能体]]
 - Meta承诺不将用户数据用于广告投放，但可能用于训练AI模型；用户可选择退出，且未来将推出保密虚拟机加密数据。[[business/meta|Meta]] [[tech/ai-privacy|AI隐私]]
 - 安全专家警告：集中授权多个账户给单一服务创造单点故障风险，提示词注入攻击可能窃取数据，建议限制连接器、使用密码管理器并接管敏感操作。[[tech/ai-security|AI安全]] [[tech/password-managers|密码管理器]]

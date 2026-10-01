@@ -35,7 +35,7 @@ topics:
 - [[hubs/spacex|SpaceX]]'s leadership believes the mobile market opportunity is even larger than home Wi-Fi.
 - Gwynne Shotwell stated that over half the world's population has a mobile phone, and [[hubs/spacex|Starlink]] mobile users could significantly exceed broadband users.
 - Traditional telecom providers rely on cell towers and fiber optics, offering lower costs and high bandwidth for frequent users.
-- Analysts suggest SpaceX needs ground networks to provide connectivity in areas where satellite signals are weak, such as inside buildings or tunnels.
+- Analysts suggest [[hubs/spacex|SpaceX]] needs ground networks to provide connectivity in areas where satellite signals are weak, such as inside buildings or tunnels.
 - Verizon CEO Dan Schulman highlighted the superiority of ground infrastructure in network connectivity and speed.
 - SpaceX's disruption of the rocket launch industry and expansion of satellite communications have already caused anxiety among competitors.
 - Investors anticipate similar disruption in the telecom sector, with [[hubs/spacex|Starlink]]'s expansion causing volatility in satellite stocks.

@@ -25,6 +25,6 @@ topics:
 ## 相关文章
 
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
+- [[business/leica-european-manufacturing-success|售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
 - [[business/lynas-revival/lynas-revival-lacaze|从濒临崩盘到西方稀土支柱：Lynas掌门人拉卡兹如何撼动中国主导地位]]
-- [[business/balaji-network-school-malaysia|硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停]]

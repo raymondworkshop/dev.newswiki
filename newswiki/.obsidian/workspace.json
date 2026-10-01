@@ -11,10 +11,14 @@
             "id": "6a7b653fee71aa65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/2026-10-01-科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-10-01-科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做"
             }
           }
         ]
@@ -182,6 +186,9 @@
   },
   "active": "6a7b653fee71aa65",
   "lastOpenFiles": [
+    "_resources/2026-10-01-科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做/5de19a69148892ebe4bc1fcf3afd0d71_MD5.jpg",
+    "_resources/2026-10-01-科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做",
+    "raw/2026-10-01-科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做.md",
     "raw/2026-09-29-高盛董事会已讨论任命温泽恩为下一任CEO的计划.md",
     "raw/archive/2026-09-29-高盛董事会已讨论任命温泽恩为下一任CEO的计划.md",
     "wiki/business/goldman-sachs-ceo-succession-john-waldron.md",
@@ -220,13 +227,10 @@
     "wiki/tech/restaurants-ai-generated-food-ads-backfire.md",
     "raw/archive/2026-09-28-领英收紧认证规则，打击假冒招聘人员.md",
     "wiki/business/linkedin-tightens-verification-fake-recruiters.md",
-    "raw/archive/2026-09-28-职场“苦活累活”被AI包揽了，为什么我们反而怀念它？.md",
-    "wiki/career/ai-replaces-grunt-work-juniors-miss-experience.md",
     "_resources/2026-09-28-美国国税局正严查超级富豪最青睐的财富传承方式",
     "_resources/2026-09-28-这家初创公司利用AI防范未来的AI大流行病",
     "_resources/2026-09-28-售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”",
     "_resources/2026-09-28-解析债券收益率飙升：六位投资专家的市场研判与交易布局",
-    "_resources/2026-09-28-What will make personal AI go big",
-    "_resources/2026-09-28-How to Research Technical Topics With AI"
+    "_resources/2026-09-28-What will make personal AI go big"
   ]
 }

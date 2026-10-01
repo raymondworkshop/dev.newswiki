@@ -3,6 +3,7 @@
 企业如何決策，發展與機會
 
 ## 文章
+- [[tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]] (2026-10-01) - 包括英伟达的黄仁勋在内的行业领袖，就Anthropic的阿莫迪有关AI危险的种种警告向他发难。
 - [[goldman-sachs-ceo-succession-john-waldron|高盛董事会已讨论任命温泽恩为下一任CEO的计划]] (2026-09-29) - 根据该计划，自2018年以来一直领导该行的苏德巍最快将于明年卸任，由首席运营官温泽恩接任。
 - [[meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]] (2026-09-29) - 你提供的数据越多，这位才华横溢的私人助理就能为你做更多的事情。
 - [[top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] (2026-09-29) - OpenAI、Anthropic、Meta 和微软的研究主管正呼吁决策者调查各自公司在多大程度上实现了AI研究自动化，加入了整个行业要求对这项快速发展技术加强监管的呼声。

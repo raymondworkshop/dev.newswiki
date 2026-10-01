@@ -33,7 +33,7 @@ topics:
 
 ## 相关文章
 
+- [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]]
 - [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
-- [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
