@@ -25,6 +25,6 @@ Meta 的 Muse AI [[hubs/ai-agent|智能体]]凭借硬件生态与社交分发优
 ## 相关文章
 
 - [[tech/meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]]
+- [[tech/ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]]
 - [[tech/zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]
 - [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]]
-- [[tech/meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]]

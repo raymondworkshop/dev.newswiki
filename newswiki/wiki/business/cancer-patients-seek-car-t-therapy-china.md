@@ -26,6 +26,6 @@ topics:
 ## 相关文章
 
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]
+- [[business/chinese-fentanyl-precursor-makers-pivot-gray-market-peptides|中国芬太尼原料商如今转而向美国人出售“灰色”多肽]]
 - [[business/theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]]
 - [[business/chinas-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]]
-- [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]

@@ -26,7 +26,7 @@ Gareth Price runs a headless local-AI workstation with custom agent orchestratio
 
 ## Related Articles
 
+- [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]]
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
 - [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]]
-- [[tech/humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]]

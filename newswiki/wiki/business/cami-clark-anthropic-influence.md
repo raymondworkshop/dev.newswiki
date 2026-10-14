@@ -30,7 +30,7 @@ Cami Clark 是 [[hubs/anthropic|Anthropic]] 幕后的关键影响力人物，负
 
 ## 相关文章
 
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[business/spacex-ipo-validates-musks-extreme-strategy|SpaceX上市印证了马斯克“极致”战略的威力]]
 - [[business/openai-lost-ai-crown|OpenAI如何失去AI王冠——又欲如何重新夺回]]
 - [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]
-- [[finance/how-to-know-when-ai-boom-goes-bust|如何判断AI热潮何时走向破灭]]

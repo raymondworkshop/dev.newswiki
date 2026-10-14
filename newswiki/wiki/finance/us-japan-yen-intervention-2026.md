@@ -23,7 +23,7 @@ topics:
 
 ## 相关文章
 
+- [[finance/bond-market-ai-debt-signals|债券市场正释放哪些有关AI热潮和股市的隐藏信号？]]
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
-- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]

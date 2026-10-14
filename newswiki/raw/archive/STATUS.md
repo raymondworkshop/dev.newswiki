@@ -1,6 +1,6 @@
 # Archive Status
 
-**Last Updated:** 2026-10-01 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-27 2026-09-27 2026-09-27 2026-09-27 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
+**Last Updated:** 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-07 2026-10-07 2026-10-07 2026-10-07 2026-10-07 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-02 2026-10-02 2026-10-02 2026-10-02 2026-10-02 2026-10-01 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-27 2026-09-27 2026-09-27 2026-09-27 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
 
 ## Compilation Batch: 2026-05-27 (5 articles)
 
@@ -103,6 +103,49 @@ All files compiled from raw/ to wiki/ and then archived here.
 
 | File | Topic | Wiki Location | Status |
 |------|-------|---------------|--------|
+| 2026-10-13-福利体系正在压垮英国.md | 投资 | `newswiki/wiki/finance/uk-welfare-disability-crisis.md` | Archived |
+| 2026-10-13-在Robinhood交易者大会上，人人都有致富故事.md | 金融 | `newswiki/wiki/finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16.md` | Archived |
+| 2026-10-13-I Spent 120M Tokens Building a Figma Clone With an AI Agent.md | 科技 | `newswiki/wiki/tech/figma-clone-ai-agent.md` | Archived |
+| 2026-10-13-Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象.md | 商业 | `newswiki/wiki/business/anthropic-cofounder-brown-political-compute-strategy.md` | Archived |
+| 2026-10-13-AI算力争夺战愈演愈烈，硅谷格局面临重塑.md | 科技 | `newswiki/wiki/tech/ai-compute-scramble-reshapes-silicon-valley.md` | Archived |
+| 2026-10-13-AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家.md | 商业 | `newswiki/wiki/business/ai-agents-threaten-travel-but-airbnb-could-win.md` | Archived |
+| 2026-10-12-英伟达调整现金流表述方式，这对股票回购意味着什么.md | 投资 | `newswiki/wiki/finance/nvidia-cash-flow-buybacks-strategic-investments.md` | Archived |
+| 2026-10-12-美军沙漠技术演练暴露短板，迈向AI作战依然任重道远.md | 科技 | `newswiki/wiki/tech/us-army-desert-tech-exercise-ai-warfare-challenges.md` | Archived |
+| 2026-10-12-指数型年金成私募信贷崛起的引擎.md | 金融 | `newswiki/wiki/finance/index-annuities-drive-private-credit-growth.md` | Archived |
+| 2026-10-12-一家西方消费品巨头如何靠社交电商在中国破局.md | 商业 | `newswiki/wiki/business/reckitt-social-commerce-china-breakthrough.md` | Archived |
+| 2026-10-10-马克·扎克伯格为何在Facebook电影续作《社交清算》中沦为配角？.md | 商业 | `newswiki/wiki/business/zuckerberg-social-network-sequel-supporting-role.md` | Archived |
+| 2026-10-10-遭受重创的债券市场为何终迎喘息之机.md | 投资 | `newswiki/wiki/finance/us-bond-market-breather.md` | Archived |
+| 2026-10-10-扔掉1升的水壶吧，你摄入的水分够多了.md | 生活 | `newswiki/wiki/lifestyle/throw-away-1l-water-bottle-hydration-enough.md` | Archived |
+| 2026-10-10-当前高收益率环境下，你该如何选择合适的债券策略.md | 金融 | `newswiki/wiki/finance/choosing-bond-strategy-high-yield-environment.md` | Archived |
+| 2026-10-10-币安一名“高价值客户”如何为伊朗打通资金生命线.md | 金融 | `newswiki/wiki/finance/binance-high-value-client-iran-sanctions-evasion.md` | Archived |
+| 2026-10-10-全球国债收益率攀升，中国为何成为例外.md | 金融 | `newswiki/wiki/finance/china-bond-yields-exception-global-rise.md` | Archived |
+| 2026-10-10-体验无人驾驶出租车接送机：惬意，但太慢了.md | 商业 | `newswiki/wiki/business/waymo-robotaxi-airport-experience.md` | Archived |
+| 2026-10-10-5万美元夏季实习岗位开招，华尔街人才争夺战提前上演.md | 职场 | `newswiki/wiki/career/wall-street-internship-recruiting-early-50k.md` | Archived |
+| 2026-10-09-收益率上升之际应该如何购买债券.md | 金融 | `newswiki/wiki/finance/how-to-buy-bonds-as-yields-rise.md` | Archived |
+| 2026-10-09-个人AI智能体很好用，却也有可能把你的银行账单发到工作群.md | 科技 | `newswiki/wiki/tech/ai-agents-privacy-unauthorized-actions.md` | Archived |
+| 2026-10-08-支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？.md | 商业 | `newswiki/wiki/business/tesla-roadster-nine-year-delay-customer-deposits.md` | Archived |
+| 2026-10-08-如何谨慎应对火热的铜价.md | 投资 | `newswiki/wiki/finance/cautious-approach-hot-copper-prices.md` | Archived |
+| 2026-10-08-关于代币化股票你需要知道的五件事.md | 金融 | `newswiki/wiki/finance/tokenized-stocks-explained.md` | Archived |
+| 2026-10-08-中国芬太尼原料商如今转而向美国人出售“灰色”多肽.md | 商业 | `newswiki/wiki/business/chinese-fentanyl-precursor-makers-pivot-gray-market-peptides.md` | Archived |
+| 2026-10-07-贝森特治下的财政部内部：关系紧张、人员流失、经济目标失守.md | 金融 | `newswiki/wiki/finance/bessent-treasury-tension-turnover-unmet-goals.md` | Archived |
+| 2026-10-07-派拉蒙靠一招险棋拿下华纳并购大单.md | 商业 | `newswiki/wiki/business/paramount-warner-bros-merger-ellison-skydance.md` | Archived |
+| 2026-10-07-走近掘金预测市场的Z世代“巨鲸”.md | 商业 | `newswiki/wiki/business/alcedine-prediction-market-traders.md` | Archived |
+| 2026-10-07-Oura上市搁浅背后：“单品爆款”企业的估值困境.md | 商业 | `newswiki/wiki/business/oura-ipo-stalled-single-product-valuation-challenge.md` | Archived |
+| 2026-10-07-My Homelab Two Years Later, Every Upgrade and What It Cost.md | 科技 | `newswiki/wiki/tech/homelab-two-years-later.md` | Archived |
+| 2026-10-07-How to Research Technical Topics With AI.md | 科技 | `newswiki/wiki/tech/how-to-research-technical-topics-with-ai.md` | Archived |
+| 2026-10-06-走近掘金预测市场的Z世代“巨鲸”.md | 金融 | `newswiki/wiki/finance/z-gen-prediction-market-whales.md` | Archived |
+| 2026-10-06-美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈.md | 科技 | `newswiki/wiki/tech/humanoid-robot-actuator-supply-bottleneck.md` | Archived |
+| 2026-10-06-拿下华纳兄弟探索，埃里森面临整合810亿美元媒体帝国的新考验.md | 商业 | `newswiki/wiki/business/paramount-warner-bros-discovery-810b.md` | Archived |
+| 2026-10-06-AI智能体要替你打理生活，你该让它们接手吗？.md | 科技 | `newswiki/wiki/tech/ai-agents-guide.md` | Archived |
+| 2026-10-05-美国会把GDP的9%花在AI上吗？整个行业正寄望于此.md | 金融 | `newswiki/wiki/finance/will-us-spend-9-percent-gdp-on-ai.md` | Archived |
+| 2026-10-05-叫板特斯拉：现代汽车瞄准机器人新赛道.md | 商业 | `newswiki/wiki/business/hyundai-robot-new-track.md` | Archived |
+| 2026-10-05-Meta爆款AI应用背后关键人物：29岁的亿万富翁汪滔.md | 科技 | `newswiki/wiki/tech/meta-ai-application-key-person-wang-tao.md` | Archived |
+| 2026-10-02-这九只股票或将引领AI主题交易的下一波行情.md | 投资 | `newswiki/wiki/finance/nine-stocks-lead-next-wave-ai-thematic-trading.md` | Archived |
+| 2026-10-02-握力能反映出哪些健康状况.md | 生活 | `newswiki/wiki/lifestyle/grip-strength-health-biomarker.md` | Archived |
+| 2026-10-02-“万物皆可微缩”：他靠缩小经典产品成了玩具大亨.md | 商业 | `newswiki/wiki/business/alan-dorfman-miniature-toy-empire.md` | Archived |
+| 2026-09-30-Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人.md | 投资 | `newswiki/wiki/finance/robinhood-ai-trading-agents-sleep.md` | Archived |
+| 2026-09-30-Inside McDonald’s push to have AI price your Big Mac.md | 商业 | `newswiki/wiki/business/inside-mcdonalds-ai-pricing-big-mac.md` | Archived |
+| 2026-09-30-Deciphering Glyph         What Would A Serious AI Product Look Like.md | 科技 | `newswiki/wiki/tech/serious-ai-product.md` | Archived |
 | 2026-10-01-科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做.md | 科技 | `newswiki/wiki/tech/tech-ceos-question-amodei-ai-alarm.md` | Archived |
 | 2026-09-29-高盛董事会已讨论任命温泽恩为下一任CEO的计划.md | 商业 | `newswiki/wiki/business/goldman-sachs-ceo-succession-john-waldron.md` | Archived |
 | 2026-09-29-顶尖AI研究人员呼吁紧急监管自我改进的AI系统.md | 科技 | `newswiki/wiki/tech/top-ai-researchers-urge-regulation-self-improving-ai.md` | Archived |

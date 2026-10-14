@@ -29,7 +29,7 @@ topics:
 
 ## 相关文章
 
+- [[finance/index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]]
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
 - [[finance/gold-silver-bitcoin-plunge-warsh|黄金、白银和比特币大跌，愤怒投资者可以怪罪凯文·沃什]]
-- [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]]

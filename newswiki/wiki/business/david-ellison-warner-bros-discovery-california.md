@@ -22,7 +22,7 @@ topics:
 
 ## 相关文章
 
+- [[business/paramount-warner-bros-discovery-810b|拿下华纳兄弟探索，埃里森面临整合810亿美元媒体帝国的新考验]]
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
 - [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]]
 - [[business/ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]]
-- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]

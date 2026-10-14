@@ -27,5 +27,5 @@ topics:
 
 - [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
+- [[tech/humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]]
 - [[tech/nvidia-targets-global-robotics-china-demand-strong|英伟达瞄准全球机器人赛道，中国市场需求强劲]]
-- [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]

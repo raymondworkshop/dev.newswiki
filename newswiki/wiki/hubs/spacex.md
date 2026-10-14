@@ -12,6 +12,7 @@ Curated hub for articles related to SpaceX.
 ## 相关文章
 
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]] · #business
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] · #business
 - [[business/blue-origin-trump-contract-surge|How Bezos Learned to Win Over Trump and Secured a Surge of Contracts for Blue Origin]] · #business
 - [[business/spacex-ipo-validates-musks-extreme-strategy|SpaceX上市印证了马斯克“极致”战略的威力]] · #business
 - [[finance/spacex-ipo-wealth-management|SpaceX员工紧急恶补：暴富后应如何理财]] · #finance
@@ -22,11 +23,13 @@ Curated hub for articles related to SpaceX.
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] · #business
 - [[lifestyle/spacex-ipo-couple-year-of-freak|因SpaceX上市暴富，这对夫妇踏上追梦之旅]] · #lifestyle
 - [[finance/ai-funding-warning-sign|巨额资金涌入AI，这是一个巨大的危险信号]] · #finance
+- [[business/tesla-roadster-nine-year-delay-customer-deposits|支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？]] · #business
 - [[business/starlink-ground-market-challenge|星链已称霸卫星互联网，它能否在地面市场颠覆AT&T和Verizon？]] · #business
 - [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]] · #business
 - [[business/trump-musk-reconciliation|特朗普与马斯克如何修复了曾看似无可挽回的关系]] · #business
 - [[business/trump-space-environmental-review-exemption|特朗普政府拟豁免航天公司的环境评估]] · #business
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]] · #business
+- [[tech/us-army-desert-tech-exercise-ai-warfare-challenges|美军沙漠技术演练暴露短板，迈向AI作战依然任重道远]] · #tech
 - [[finance/spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]] · #finance
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]] · #finance
 - [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]] · #business

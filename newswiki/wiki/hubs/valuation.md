@@ -13,9 +13,11 @@ Curated hub for the concept 「估值」.
 
 - [[tech/a-road-to-lisp-why-lisp|A road to Lisp: Why Lisp]] · #tech
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]] · #tech
+- [[business/ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] · #business
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]] · #tech
 - [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]] · #tech
 - [[finance/us-stocks-double-bubble-warning|Analyst: US Stock Market Faces 'Double Bubble' Risk, Potential for Crash]] · #finance
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] · #business
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]] · #tech
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] · #business
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]] · #business
@@ -24,6 +26,7 @@ Curated hub for the concept 「估值」.
 - [[tech/kimi-k3-pelican-benchmark|Kimi K3, and what we can still learn from the pelican benchmark]] · #tech
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]] · #tech
 - [[business/openai-lost-ai-crown|OpenAI如何失去AI王冠——又欲如何重新夺回]] · #business
+- [[business/oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]] · #business
 - [[tech/sly-lexer-parser|SLY: lexer and parser - Playing with code]] · #tech
 - [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] · #tech
 - [[career/jobless-boom-era|“无就业”繁荣时代已经到来]] · #career
@@ -55,6 +58,7 @@ Curated hub for the concept 「估值」.
 - [[business/micron-tech-market-importance|美光科技已成“市场上最重要的股票”，现在该担心了吗？]] · #business
 - [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]] · #tech
 - [[business/pacific-fusion-nuclear-weapons-testing|美国借力核聚变突破，升级核武库以抗衡中俄]] · #business
+- [[tech/humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]] · #tech
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]] · #finance
 - [[tech/ai-infrastructure-transaction|美国数据中心开发商计划出售价值数百亿美元的股权]] · #tech
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]] · #finance

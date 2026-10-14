@@ -32,6 +32,6 @@ AI驱动的繁荣是当前经济的核心议题，美联储的政策制定必须
 ## 相关文章
 
 - [[finance/us-stock-market-bubbles|美股擅长制造泡沫，也能从容化解]]
+- [[finance/nine-stocks-lead-next-wave-ai-thematic-trading|这九只股票或将引领AI主题交易的下一波行情]]
+- [[finance/cautious-approach-hot-copper-prices|如何谨慎应对火热的铜价]]
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]]
-- [[finance/chip-stocks-rally-hit-wall-optimism|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]]
-- [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]

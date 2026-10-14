@@ -29,5 +29,5 @@ AI [[hubs/ai-agent|智能体]]让散户以自然语言部署量化级日内交�
 
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
 - [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]
-- [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]]
-- [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]
+- [[finance/robinhood-ai-trading-agents-sleep|Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]]
+- [[tech/ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]]

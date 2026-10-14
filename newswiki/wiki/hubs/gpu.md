@@ -11,10 +11,12 @@ Curated hub for the concept 「GPU」.
 
 ## 相关文章
 
+- [[tech/ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]] · #tech
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]] · #tech
 - [[tech/gareth-price-ai-setup|Gareth Price’s AI setup]] · #tech
 - [[business/ai-software-company-moats|How does AI affect software company moats?]] · #business
 - [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]] · #tech
+- [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]] · #tech
 - [[tech/local-models-will-not-win|No, local models will not win]] · #tech
 - [[tech/ai-cost-control|Token使用量激增，企业如何控制AI成本？]] · #tech
 - [[finance/2026-05-21-nvda-undervalued|即使市值高达5万亿美元，英伟达依然被低估]] · #finance

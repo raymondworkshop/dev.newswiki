@@ -26,7 +26,7 @@ topics:
 
 ## 相关文章
 
+- [[finance/nvidia-cash-flow-buybacks-strategic-investments|英伟达调整现金流表述方式，这对股票回购意味着什么?]]
 - [[finance/how-to-know-when-ai-boom-goes-bust|如何判断AI热潮何时走向破灭]]
+- [[finance/will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]]
 - [[finance/ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]]
-- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
-- [[finance/three-alternatives-dodge-bond-market-beatdown|投资者避开疲弱债市的三个替代选择]]

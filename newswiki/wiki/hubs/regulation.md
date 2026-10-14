@@ -13,6 +13,7 @@ Curated hub for the concept 「regulatory」.
 
 - [[finance/kalshi-5b-identical-trades-cftc-scrutiny|50亿美元同金额交易扎堆出现，Kalshi平台引发监管关注]] · #finance
 - [[career/2026-05-27-ai-employment-phoenix|AI冲击波席卷菲尼克斯：\"格子间\"产业帝国濒临瓦解]] · #career
+- [[tech/ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]] · #tech
 - [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]] · #tech
 - [[business/ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] · #business
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] · #business
@@ -25,9 +26,11 @@ Curated hub for the concept 「regulatory」.
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]] · #finance
 - [[finance/china-offshore-wealth-crackdown|中国富豪借离岸架构积累财富的时代正在终结]] · #finance
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] · #finance
+- [[business/chinese-fentanyl-precursor-makers-pivot-gray-market-peptides|中国芬太尼原料商如今转而向美国人出售“灰色”多肽]] · #business
 - [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]] · #tech
 - [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]] · #tech
 - [[business/chinas-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]] · #business
+- [[finance/tokenized-stocks-explained|关于代币化股票你需要知道的五件事]] · #finance
 - [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] · #tech
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance
 - [[tech/ai-doomsday-vs-real-threats|别管什么AI末日了，真正的威胁就在眼前]] · #tech
@@ -41,8 +44,11 @@ Curated hub for the concept 「regulatory」.
 - [[tech/dna-evidence-security-flaw|安全漏洞致使全美30年来的DNA证据面临黑客攻击风险]] · #tech
 - [[finance/leopold-aschenbrenner-situational-awareness|将Jane Street纳为投资人的24岁AI奇才]] · #finance
 - [[business/publicsquare-collapse|小特朗普曾力挺的MAGA电商平台崩盘内幕]] · #business
+- [[finance/binance-high-value-client-iran-sanctions-evasion|币安一名“高价值客户”如何为伊朗打通资金生命线]] · #finance
 - [[finance/binance-eu-entry-blocked-lagarde-intervention|币安入欧计划泡汤背后：拉加德亲自出面干预]] · #finance
 - [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]] · #tech
+- [[business/paramount-warner-bros-discovery-810b|拿下华纳兄弟探索，埃里森面临整合810亿美元媒体帝国的新考验]] · #business
+- [[finance/index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]] · #finance
 - [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]] · #business
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] · #business
 - [[tech/openai-ai-hack-hugging-face|极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末]] · #tech
@@ -58,7 +64,10 @@ Curated hub for the concept 「regulatory」.
 - [[finance/2026-05-27-stablecoin-risks|稳定币为何会给经济带来风险]] · #finance
 - [[business/mastercard-alchemy-ai-agent-payments|继Visa之后，万事达卡也将允许AI机器人代客购物]] · #business
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]] · #tech
+- [[tech/humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]] · #tech
 - [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]] · #business
+- [[business/alcedine-prediction-market-traders|走近掘金预测市场的Z世代“巨鲸”]] · #business
+- [[finance/z-gen-prediction-market-whales|走近掘金预测市场的Z世代“巨鲸”]] · #finance
 - [[finance/spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]] · #finance
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]] · #finance
 - [[finance/mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]] · #finance

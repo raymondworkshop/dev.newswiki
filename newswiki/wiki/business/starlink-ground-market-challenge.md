@@ -16,14 +16,14 @@ topics:
 
 [[hubs/spacex|SpaceX]]'s [[hubs/spacex|Starlink]] is exploring a move into the terrestrial mobile market, challenging established players like AT&T and Verizon.
 
-## 星链进军地面电信市场
+## [[hubs/spacex|星链]]进军地面电信市场
 - [[hubs/spacex|SpaceX]]'s [[hubs/spacex|Starlink]] division is reportedly exploring the possibility of building a terrestrial network to offer mobile communication services.
 - Discussions have involved combining ground systems with satellites to enter the mobile market.
 - [[hubs/spacex|SpaceX]] has previously considered partnering with a U.S. telecom company with ground infrastructure or developing its own ground system.
 - A prototype phone has been developed and shown to investors, fueling speculation about direct satellite-connected phones.
 - This move is in its early stages, and [[hubs/spacex|SpaceX]] faces significant challenges from established carriers like [[AT&T]], [[Verizon]], and [[T-Mobile US]] with their strong brand recognition and extensive ground infrastructure.
 
-## 星链的现状与战略
+## [[hubs/spacex|星链]]的现状与战略
 - [[hubs/spacex|Starlink]] is [[hubs/spacex|SpaceX]]'s financial engine, funding its ambitious projects.
 - As of March, [[hubs/spacex|Starlink]] had over 10,000 satellites and more than 10 million home broadband subscribers.
 - The core business has been home broadband, popular in rural areas lacking fiber networks, with growing applications in maritime and aviation connectivity.
@@ -37,17 +37,17 @@ topics:
 - Traditional telecom providers rely on cell towers and fiber optics, offering lower costs and high bandwidth for frequent users.
 - Analysts suggest [[hubs/spacex|SpaceX]] needs ground networks to provide connectivity in areas where satellite signals are weak, such as inside buildings or tunnels.
 - Verizon CEO Dan Schulman highlighted the superiority of ground infrastructure in network connectivity and speed.
-- SpaceX's disruption of the rocket launch industry and expansion of satellite communications have already caused anxiety among competitors.
+- [[hubs/spacex|SpaceX]]'s disruption of the rocket launch industry and expansion of satellite communications have already caused anxiety among competitors.
 - Investors anticipate similar disruption in the telecom sector, with [[hubs/spacex|Starlink]]'s expansion causing volatility in satellite stocks.
 
 ## 马斯克的颠覆者形象
 - Elon Musk is known for entering industries he perceives as stagnant or lacking innovation.
-- The transformation of the rocket launch industry by SpaceX serves as a precedent.
-- Analyst Walt Piecyk compared SpaceX's approach to [[Tesla]], stating they build their own components if they can't find suitable ones from suppliers.
+- The transformation of the rocket launch industry by [[hubs/spacex|SpaceX]] serves as a precedent.
+- Analyst Walt Piecyk compared [[hubs/spacex|SpaceX]]'s approach to [[Tesla]], stating they build their own components if they can't find suitable ones from suppliers.
 
 ## 相关文章
 
 - [[business/blue-origin-trump-contract-surge|How Bezos Learned to Win Over Trump and Secured a Surge of Contracts for Blue Origin]]
 - [[business/spacex-ipo-validates-musks-extreme-strategy|SpaceX上市印证了马斯克“极致”战略的威力]]
 - [[business/trump-space-environmental-review-exemption|特朗普政府拟豁免航天公司的环境评估]]
-- [[tech/ai-warfare-evolution|Warfare Mode is Changing: Is It Gradual Evolution or a Total Revolution?]]
+- [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]

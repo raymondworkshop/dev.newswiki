@@ -3,12 +3,35 @@
 AI模型、機器人与智能体如何重塑基础设施與生產力
 
 ## 文章
+- [[ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] (2026-10-13) - 爱彼迎若想让股价在AI智能体时代表现强劲，就必须想办法将回头客转化为忠实客户。
+- [[anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] (2026-10-13) - 布朗正利用自己与共和党的关系以及商业谈判能力，争取华盛顿方面的支持，并为Anthropic获取发展AI所需的算力资源。
+- [[ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]] (2026-10-12) - AI热潮引发算力争夺战，昔日竞争对手纷纷联手，企业高管也不得不亲自出面争抢资源。
+- [[us-army-desert-tech-exercise-ai-warfare-challenges|美军沙漠技术演练暴露短板，迈向AI作战依然任重道远]] (2026-10-12) - 一场沙漠演练暴露了装备缺陷与体制阻碍，凸显出美军在推动部队现代化、追赶精通AI技术的对手时面临的重重挑战。
+- [[nvidia-cash-flow-buybacks-strategic-investments|英伟达调整现金流表述方式，这对股票回购意味着什么?]] (2026-10-12) - 对于资本回报和构建AI生态系统之间相互冲突的需求，这家芯片制造商悄然展现了一种新的思维方式。
+- [[ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]] (2026-10-09) - 一些个人AI智能体用户遭遇了无法预期的失控表现，例如私自泄露个人敏感数据以及触发未授权交易等。
+- [[tesla-roadster-nine-year-delay-customer-deposits|支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？]] (2026-10-08) - 特斯拉一再跳票的超级跑车Roadster定于下周在得州发布。数年前豪掷高达25万美元订金的消费者们会满意吗？
+- [[waymo-robotaxi-airport-experience|体验无人驾驶出租车接送机：惬意，但太慢了]] (2026-10-08) - 如今往返更多机场有了全新的出行选择，只要你能习惯驾驶座上空无一人。9月份在菲尼克斯，笔者体验了三次Waymo的无人驾驶机场接送服务。
+- [[tokenized-stocks-explained|关于代币化股票你需要知道的五件事]] (2026-10-08) - SEC近期的一项命令启动了将代币化股票引入美国的计划，后者有潜力彻底重塑整个股市。
+- [[oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]] (2026-10-07) - Oura将自己包装成一家科技平台，但投资者看穿了这一点。
+- [[ai-agents-guide|AI智能体要替你打理生活，你该让它们接手吗？]] (2026-10-06) - 像Meta的Muse、OpenAI的Dots和Instinct这样的个人AI智能体，已经准备好接管你的待办事项清单了。
+- [[humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]] (2026-10-06) - 人形机器人有可能给人们熟悉的生活方式带来革命性的变化，但美国缺乏能够生产关键部件的供应链。
+- [[z-gen-prediction-market-whales|走近掘金预测市场的Z世代“巨鲸”]] (2026-10-06) - 两名前数学竞赛选手掌舵着一家鲜为人知的交易公司Alcedine，这类初创公司处于Kalshi等预测市场新型超级用户崛起的潮流最前沿，并考虑从传统华尔街公司等处筹资。
+- [[hyundai-robot-new-track|叫板特斯拉：现代汽车瞄准机器人新赛道]] (2026-10-05) - 现代汽车计划推出数十款由人类驾驶的新车，而特斯拉正在转头放弃方向盘。
+- [[meta-ai-application-key-person-wang-tao|Meta爆款AI应用背后关键人物：29岁的亿万富翁汪滔]] (2026-10-05) - 汪滔推动Muse登上APP排行榜榜首，让Meta重返AI竞赛的中心地带，尽管他的一些做法在这家科技巨头内部招致不满。
+- [[will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]] (2026-10-05) - 9%是美国企业和消费者最终每年必须在AI服务上花费的金额占GDP的比例，只有达到这个水平，眼下正投向这项技术的惊人资金规模才说得过去。
+- [[nine-stocks-lead-next-wave-ai-thematic-trading|这九只股票或将引领AI主题交易的下一波行情]] (2026-10-02) - AI主题交易已经不再只是买入头部公司，或不加区分地买入芯片股。德银分析师分享了他们对今年剩余时间里科技板块的首选股票。
 - [[tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]] (2026-10-01) - 包括英伟达的黄仁勋在内的行业领袖，就Anthropic的阿莫迪有关AI危险的种种警告向他发难。
+- [[inside-mcdonalds-ai-pricing-big-mac|Inside McDonald’s push to have AI price your Big Mac]] (2026-09-30) - McDonald's is increasingly using artificial intelligence to guide menu prices across the US and some global markets, a plan that aims to boost headquarters' profit but risks alienating customers and attracting antitrust scrutiny.
+- [[ai-threatens-bank-deposits|客户“懒”，银行乐。AI会打破这个局面吗？]] (2026-09-30) - 人们可能会借助机器人，自动将资金划转至利率更高的账户。这可能对银行的低息存款构成威胁。
+- [[bond-market-ai-debt-signals|债券市场正释放哪些有关AI热潮和股市的隐藏信号？]] (2026-09-30) - 《金融时报》记者罗宾·威格尔斯沃思分享债券市场正在释放哪些股票投资者错过的信号，AI热潮是如何通过债务而非股权来融资的，以及他对美国政府债务最担心的问题。
+- [[robinhood-ai-trading-agents-sleep|Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]] (2026-09-30) - Robinhood的应用程序曾让在智能手机上交易股票变得简单。如今，Robinhood预见AI智能体将走进散户的未来。
+- [[amd-acquires-world-labs-8-2-billion|AMD将以82亿美元收购World Labs]] (2026-09-29) - AMD表示，此次交易将为其引入顶尖的AI研发人才，助力开发更出色的AI硬件、软件和系统，尤其是在物理AI和机器人领域。
 - [[meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]] (2026-09-29) - 你提供的数据越多，这位才华横溢的私人助理就能为你做更多的事情。
 - [[top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] (2026-09-29) - OpenAI、Anthropic、Meta 和微软的研究主管正呼吁决策者调查各自公司在多大程度上实现了AI研究自动化，加入了整个行业要求对这项快速发展技术加强监管的呼声。
 - [[meta-muse-ai-agent-viral-hit-challenges-ahead|Meta的AI智能体Muse爆火，真正的考验才刚开始]] (2026-09-28) - Meta的Muse AI助手下载量正在迅速攀升，但对马克·扎克伯格来说，下一步是让用户把这款智能助手融入日常生活。
 - [[red-queen-bio-ai-biosecurity|这家初创公司利用AI防范未来的AI大流行病]] (2026-09-28) - 生物安全初创公司Red Queen Bio利用AI技术预先设计抗体药物，旨在抵御未来可能由AI系统设计或改造的未知新型病原体。
 - [[ai-replaces-grunt-work-juniors-miss-experience|职场“苦活累活”被AI包揽了，为什么我们反而怀念它？]] (2026-09-28) - 在公司重组和AI应用推进之下，许多过去由初级员工承担的重复性任务已经被自动化取代。这让他们摆脱了不少苦活累活，但也让他们失去了一条长期以来用于积累经验本领的路径。
+- [[serious-ai-product|Deciphering Glyph ::        What Would A Serious AI Product Look Like?]] (2026-09-27) - Deciphering Glyph, the blog of Glyph Lefkowitz.
 - [[ai-labs-funding-historical-research|AI labs need to start funding historical research]] (2026-09-25) - Using GPT-6 and Opus 5.5 to trace alchemical knowledge and decode 17th century letters
 - [[restaurants-ai-generated-food-ads-backfire|餐厅利用AI生成美食广告，食客却直呼反胃]] (2026-09-25) - 某些图像生成器在勾起食客食欲方面表现得极为糟糕，它们生成的鸡翅看起来简直像是“从反应堆堆芯里捞出来的”。
 - [[what-will-make-personal-ai-go-big|What will make personal AI go big?]] (2026-09-25) - Muse launched earlier this month, and it’s the first consumer agent I've used that makes me think people might actually change their habits ...
@@ -71,6 +94,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] (2026-08-26) - 这位亿万富豪兼慈善家呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。
 - [[wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] (2026-08-25) - 在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。
 - [[startup-founders-24-hour-work-ai-agents|初创公司创始人恨不得24小时工作，以跟上自家AI智能体]] (2026-08-24) - AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。
+- [[figma-clone-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] (2026-08-24) - What I learned about feedback loops, tests, skills, taste, and product decisions while building a Figma clone with Cursor CLI and Composer 2.5.
 - [[world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]] (2026-08-22) - 工程师与投资者正竞相涌入“世界模型”赛道，期望在机器人领域复刻ChatGPT在写作与编程界引发的革命。
 - [[ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]] (2026-08-22) - 今年以来，Western Digital的股价已飙升近170%。一位分析师预计，存储设备制造商、网络设备提供商以及苹果公司将迎来强劲增长。
 - [[china-ai-leap-brains|推动中国AI实现惊人飞跃的幕后智囊]] (2026-08-21) - 凭借创新与模仿，中国高校实验室走出的计算机科学家正紧追Anthropic和OpenAI的步伐；他们“很懂怎么把研究成果变现”。
@@ -202,6 +226,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[2026-05-29-ai-fact-checking|AI会犯错，但AI也能揪出错误]] (2026-05-20) - 由于聊天机器人会产生“幻觉”并编造事实，一个有效且便捷的方法是用第二个专门挑错的AI来审核结果并纠错。
 - [[2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]] (2026-05-19) - AI热潮各项押注的风险程度不尽相同，其中知名度不及竞争对手CoreWeave的AI云服务提供商Nebius蕴含着引人瞩目的上行潜力。
 - [[2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]] (2026-03-11) - Aaru背后的团队正吸引包括麦当劳和安永在内的品牌客户，该公司押注AI机器人能够比人类更准确地预测人类行为。
+- [[homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]] (2026-03-05) - Two years after a $200 ThinkServer: two Dell R730s, 73 containers, metered power data, and an honest look at whether a homelab pays for itself.
 - [[science-is-open-software|Science is open software]] (2025-05-24) - TL;DR I claim that modern science is synonymous with open source software. This post explains why, why it matters, and what you can (and should) do next.Why do …
 - [[best-simple-system-for-now|Best Simple System for Now]] (2025-02-03) - You can have your cake and eat it, as long as you bake it carefully. 'We can do this the quick way and pay later, or the thorough way and pay now.' This seems to be a fundamental dichotomy in software development, between 'perfectionism' and 'pragmatism', but I do not think it has to be a trade-off at all.
 

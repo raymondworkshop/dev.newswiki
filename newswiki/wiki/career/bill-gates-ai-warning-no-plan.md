@@ -29,4 +29,4 @@ AI对就业的冲击将是全方位的且极速的，社会需提前准备应对
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]]
 - [[career/2026-05-27-ai-employment-phoenix|AI冲击波席卷菲尼克斯：\"格子间\"产业帝国濒临瓦解]]
 - [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]]
-- [[finance/mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]]
+- [[finance/index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]]

@@ -28,5 +28,5 @@ topics:
 
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
 - [[business/apple-micron-china-chip-lobbying|苹果与美光掀起中国芯片游说战，特朗普陷入两难]]
+- [[finance/bond-market-ai-debt-signals|债券市场正释放哪些有关AI热潮和股市的隐藏信号？]]
 - [[finance/us-japan-yen-intervention-2026|图解美日联手提振日圆的五大原因]]
-- [[finance/why-it-pays-to-stay-invested|坚持投资终有回报：坏消息再多，也挡不住美股创下逾25年来最强劲涨势]]

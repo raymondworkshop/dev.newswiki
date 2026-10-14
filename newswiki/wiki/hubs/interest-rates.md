@@ -11,9 +11,11 @@ Curated hub for the concept 「interest rates」.
 
 ## 相关文章
 
+- [[business/oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]] · #business
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]] · #finance
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] · #finance
 - [[business/berkshire-japan-us-housing-opportunity|伯克希尔哈撒韦和日本建筑商都在美国住宅市场看到机遇]] · #finance
+- [[finance/bond-market-ai-debt-signals|债券市场正释放哪些有关AI热潮和股市的隐藏信号？]] · #finance
 - [[finance/2026-09-02-bond-market-fails-global-leaders|债券市场给全球领导人打出不及格分数]] · #finance
 - [[valuation-and-risk|先看貴不貴]] · #wiki
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]] · #business
@@ -21,7 +23,10 @@ Curated hub for the concept 「interest rates」.
 - [[finance/us-japan-yen-intervention-2026|图解美日联手提振日圆的五大原因]] · #finance
 - [[finance/why-it-pays-to-stay-invested|坚持投资终有回报：坏消息再多，也挡不住美股创下逾25年来最强劲涨势]] · #finance
 - [[finance/central-bank-crisis-cycle|央行陷入周而复始的危机循环]] · #finance
+- [[finance/ai-threatens-bank-deposits|客户“懒”，银行乐。AI会打破这个局面吗？]] · #finance
+- [[finance/choosing-bond-strategy-high-yield-environment|当前高收益率环境下，你该如何选择合适的债券策略]] · #finance
 - [[finance/2026-05-26-office-residential-conversion-denver|抄底全美最空荡市中心：他能说服人们住进写字楼吗？]] · #finance
+- [[finance/index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]] · #finance
 - [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]] · #finance
 - [[finance/us-treasury-yield-surge-impact|美债收益率飙升，对消费者和市场意味着什么？]] · #finance
 - [[finance/irs-cracks-down-grat-wealth-transfer|美国国税局正严查超级富豪最青睐的财富传承方式]] · #finance
@@ -30,6 +35,7 @@ Curated hub for the concept 「interest rates」.
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]] · #finance
 - [[finance/wealth-management-cash-problem|财富管理行业面临3万亿美元难题：投资者持有太多现金]] · #finance
 - [[business/whirlpool-north-america-struggle|退守本土后，惠而浦为何仍难逃“寒冬”？]] · #business
+- [[finance/us-bond-market-breather|遭受重创的债券市场为何终迎喘息之机]] · #finance
 - [[finance/gold-silver-bitcoin-plunge-warsh|黄金、白银和比特币大跌，愤怒投资者可以怪罪凯文·沃什]] · #finance
 
 ---

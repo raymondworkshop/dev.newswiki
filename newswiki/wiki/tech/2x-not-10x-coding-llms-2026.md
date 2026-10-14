@@ -24,6 +24,6 @@ LLMs provide a ~2x productivity boost rather than 10x because they cannot yet au
 ## Related Articles
 
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[tech/serious-ai-product|Deciphering Glyph ::        What Would A Serious AI Product Look Like?]]
 - [[tech/local-llm-question-categorization|Fine Tuning a Local LLM to Categorize Questions]]
 - [[tech/gareth-price-ai-setup|Gareth Price’s AI setup]]
-- [[tech/how-i-use-llms-to-learn-complex-topics|How I use LLMs to learn complex topics]]

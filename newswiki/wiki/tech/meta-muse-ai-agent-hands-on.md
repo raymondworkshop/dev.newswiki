@@ -23,7 +23,7 @@ Meta的Muse [[hubs/ai-agent|AI智能体]]展示了令人印象深刻的消费级
 
 ## 相关文章
 
+- [[tech/ai-agents-guide|AI智能体要替你打理生活，你该让它们接手吗？]]
 - [[tech/meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]]
 - [[tech/meta-muse-ai-agent-viral-hit-challenges-ahead|Meta的AI智能体Muse爆火，真正的考验才刚开始]]
 - [[tech/ai-password-handover-experiment|把密码交给AI是一种什么体验？我做了一次实测]]
-- [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]]

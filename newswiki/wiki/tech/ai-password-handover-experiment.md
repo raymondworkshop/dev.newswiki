@@ -23,6 +23,6 @@ AI代理在执行登录任务时，需严格限制权限与操作范围，避免
 ## 相关文章
 
 - [[tech/meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]]
+- [[tech/ai-agents-guide|AI智能体要替你打理生活，你该让它们接手吗？]]
 - [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]
 - [[tech/ai-cost-control|Token使用量激增，企业如何控制AI成本？]]
-- [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]

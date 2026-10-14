@@ -33,5 +33,5 @@ LLMs should be used to make fewer things of higher quality, rather than more thi
 
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
+- [[tech/serious-ai-product|Deciphering Glyph ::        What Would A Serious AI Product Look Like?]]
 - [[tech/local-llm-question-categorization|Fine Tuning a Local LLM to Categorize Questions]]
-- [[tech/gareth-price-ai-setup|Gareth Price’s AI setup]]

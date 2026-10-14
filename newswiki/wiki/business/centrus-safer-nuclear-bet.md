@@ -27,5 +27,5 @@ Centrus 凭借唯一的 HALEU 许可证、[[hubs/geopolitics|地缘政治]]驱�
 
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
+- [[tech/humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
-- [[business/base-power-energy-storage|戴尔之子进军储能业，欲将电池装进你家后院]]

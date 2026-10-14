@@ -27,6 +27,6 @@ topics:
 ## 相关文章
 
 - [[business/fast-food-chains-shift-automation-hospitality|美国快餐连锁迎来战略大转向：从自动化回归“人情味”]]
+- [[tech/ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]]
 - [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]
 - [[business/chinas-new-export-engine|中国的新出口引擎：为全球工厂供货]]
-- [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]

@@ -3,7 +3,13 @@
 技能、就业与组织如何在AI时代重塑职业路径
 
 ## 文章
+- [[at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16|在Robinhood交易者大会上，人人都有致富故事]] (2026-10-13) - 在华尔街，投资者正为油价上涨和全球债券抛售潮而担忧。但在Robinhood的Hood Summit大会上，聚会依旧热火朝天。
+- [[uk-welfare-disability-crisis|福利体系正在压垮英国]] (2026-10-12) - 英国领取残障和疾病福利的人数激增，导致福利支出大幅增加，并危及长期财政稳定。
+- [[ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]] (2026-10-09) - 一些个人AI智能体用户遭遇了无法预期的失控表现，例如私自泄露个人敏感数据以及触发未授权交易等。
+- [[wall-street-internship-recruiting-early-50k|5万美元夏季实习岗位开招，华尔街人才争夺战提前上演]] (2026-10-09) - 顶尖金融机构正越来越早启动招聘，并为潜在人才开出丰厚薪酬。
+- [[waldron-goldman-sachs-ceo-succession|他大学毕业求职高盛曾遭拒，如今即将执掌这家华尔街巨头]] (2026-09-30) - 温泽恩曾说，几十年前他应聘高盛职位时，财务建模测试考的不理想。
 - [[ai-replaces-grunt-work-juniors-miss-experience|职场“苦活累活”被AI包揽了，为什么我们反而怀念它？]] (2026-09-28) - 在公司重组和AI应用推进之下，许多过去由初级员工承担的重复性任务已经被自动化取代。这让他们摆脱了不少苦活累活，但也让他们失去了一条长期以来用于积累经验本领的路径。
+- [[serious-ai-product|Deciphering Glyph ::        What Would A Serious AI Product Look Like?]] (2026-09-27) - Deciphering Glyph, the blog of Glyph Lefkowitz.
 - [[bob-chapek-disney-fired-memoir|被迪士尼解雇，包正博至今仍意难平]] (2026-09-25) - 包正博首次正式接受采访、谈及他执掌迪士尼的动荡33个月。他讲述了自己被解除CEO职务的经历，以及为何将责任归咎于艾格。
 - [[linkedin-tightens-verification-fake-recruiters|领英收紧认证规则，打击假冒招聘人员]] (2026-09-24) - 领英将推出新工具，帮助用户辨别真伪，避免将钱财或简历交到诈骗者手中。
 - [[ai-salary-setting-hidden-ways|企业利用AI设定薪酬的隐秘方式]] (2026-09-24) - 你最终是落在涨薪区间的高端还是低端，可能取决于某个机器学习模型认为你值多少钱。新服务能让雇主精准找出哪些员工薪酬过高或过低。
@@ -40,7 +46,6 @@
 - [[hidden-skills-of-top-talent|顶尖人才的隐藏技能：把玩耍和“不作为”当作必修课-返朴的财新博客-财新网]] (2026-08-09) - 探讨“无所事事”与玩耍对大脑默认网络（DMN）的激活作用，以及过度工作对前额叶皮质和心理健康的损害。
 - [[llms-reward-expertise|LLMs reward expertise]] (2026-08-06) - An analysis of why domain expertise remains the most critical skill for effective LLM prompting and high-value output.
 - [[ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]] (2026-07-30) - AI工具让创始人更容易单枪匹马地创业，而且许多人在公司发展壮大后依然保持这种单干状态。
-- [[how-to-research-technical-topics-with-ai|How to Research Technical Topics With AI]] (2026-07-28) - How I go from a technical question I cannot answer to an explanation I can reconstruct without the model
 - [[dont-start-startup-to-get-acquired|Don't start a startup with the goal of getting acquired.]] (2026-07-27) - If your goal is to cash out at $5 million as quickly and reliably as possible, becoming a founder is a very strange way to do it.
 - [[big-companies-resume-hiring-ai-employment|大企业重新开始招聘，打破“AI将消灭就业”的预测]] (2026-07-27) - 在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。
 - [[fake-job-interview-git-hook-malware|I Inspected My Take-Home Interview Project. It Was a Whole Operation.]] (2026-07-23) - A LinkedIn recruitment scam delivered malware via a take-home FastAPI project’s git pre-commit hook.

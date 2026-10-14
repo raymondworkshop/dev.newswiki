@@ -26,7 +26,7 @@ User preference for the 'strongest model' creates a ceiling for the adoption of 
 
 ## Related Articles
 
+- [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]]
 - [[business/ai-software-company-moats|How does AI affect software company moats?]]
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
-- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
-- [[finance/2026-05-21-nvda-undervalued|即使市值高达5万亿美元，英伟达依然被低估]]
+- [[tech/ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]]

@@ -25,6 +25,6 @@ Muse Code 定位为廉价替代品，直接切入编程[[hubs/ai-agent|智能体
 ## 相关文章
 
 - [[tech/ai-calculation-competition|AI巨头派发大量免费算力，争夺初创公司市场份额]]
+- [[tech/ai-agents-guide|AI智能体要替你打理生活，你该让它们接手吗？]]
 - [[tech/meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]]
-- [[tech/zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]
-- [[tech/us-companies-ai-cost-shift|美国企业观念突变，不再为AI大肆烧钱]]
+- [[tech/ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]]

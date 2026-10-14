@@ -26,7 +26,7 @@ topics:
 
 ## 相关文章
 
+- [[business/alan-dorfman-miniature-toy-empire|“万物皆可微缩”：他靠缩小经典产品成了玩具大亨]]
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
 - [[business/publicsquare-collapse|小特朗普曾力挺的MAGA电商平台崩盘内幕]]
 - [[business/base-power-energy-storage|戴尔之子进军储能业，欲将电池装进你家后院]]
-- [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]]

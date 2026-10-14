@@ -31,5 +31,5 @@ topics:
 
 - [[business/ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]]
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
+- [[business/chinese-fentanyl-precursor-makers-pivot-gray-market-peptides|中国芬太尼原料商如今转而向美国人出售“灰色”多肽]]
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]]
-- [[business/theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594|海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽]]

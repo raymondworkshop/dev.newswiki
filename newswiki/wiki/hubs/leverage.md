@@ -21,19 +21,23 @@ Curated hub for the concept 「leverage」.
 - [[business/iran-war-winner-african-billionaire|Iran War Brings a Surprise Winner: Africa's Richest Man]] · #business
 - [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]] · #finance
 - [[tech/my-agent-md-improve-llm-code-quality|My agent.md to improve LLM-assisted code quality]] · #tech
+- [[finance/robinhood-ai-trading-agents-sleep|Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]] · #finance
 - [[tech/science-of-reading-and-evidence-based-math|Science of Reading & Evidence-Based Math]] · #tech
 - [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] · #tech
 - [[business/western-automakers-losing-grip-on-chinese-market|Western Automakers Are Losing Their Grip on the Chinese Auto Market]] · #business
 - [[tech/what-will-make-personal-ai-go-big|What will make personal AI go big?]] · #tech
 - [[business/white-house-intervention-against-fifa-red-card|White House Intervenes Behind the Scenes to Overturn FIFA Red Card Decision]] · #business
+- [[business/reckitt-social-commerce-china-breakthrough|一家西方消费品巨头如何靠社交电商在中国破局]] · #business
 - [[business/ai-giants-office-ai-application|一览AI巨头如何在自家办公室应用AI]] · #business
 - [[finance/leopold-aschenbrenner-ai-prophet|从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网]] · #finance
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance
 - [[finance/situational-awareness-citadel-acquisition|前OpenAI员工执掌的对冲基金陷入巨亏，Citadel出手收购其股票投资组合]] · #finance
 - [[finance/situational-awareness-crisis|华尔街如何嗅到了Situational Awareness危机爆发的气息]] · #finance
+- [[finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16|在Robinhood交易者大会上，人人都有致富故事]] · #finance
 - [[finance/central-bank-crisis-cycle|央行陷入周而复始的危机循环]] · #finance
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] · #business
 - [[lifestyle/tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] · #lifestyle
+- [[finance/will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]] · #finance
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]] · #finance
 - [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]] · #tech
 - [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]] · #finance

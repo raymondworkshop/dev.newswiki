@@ -24,7 +24,7 @@ topics:
 
 ## 相关文章
 
+- [[finance/index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]]
 - [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]]
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
-- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
-- [[finance/us-japan-yen-intervention-2026|图解美日联手提振日圆的五大原因]]
+- [[finance/bond-market-ai-debt-signals|债券市场正释放哪些有关AI热潮和股市的隐藏信号？]]

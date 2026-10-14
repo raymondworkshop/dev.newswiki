@@ -29,4 +29,4 @@ topics:
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
 - [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]]
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
-- [[tech/open-weight-ai-compute-demand|开放权重AI不会削弱算力基础设施需求]]
+- [[tech/humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]]

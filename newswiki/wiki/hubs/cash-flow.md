@@ -18,12 +18,16 @@ Curated hub for the concept 「cash flow」.
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]] · #tech
 - [[finance/ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]] · #finance
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]] · #finance
+- [[finance/choosing-bond-strategy-high-yield-environment|当前高收益率环境下，你该如何选择合适的债券策略]] · #finance
 - [[finance/three-alternatives-dodge-bond-market-beatdown|投资者避开疲弱债市的三个替代选择]] · #finance
 - [[finance/wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] · #finance
+- [[business/tesla-roadster-nine-year-delay-customer-deposits|支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？]] · #business
 - [[business/china-biopharma-sector-rotation-market-favorite|暂别AI，中国生物制药板块成市场新宠]] · #business
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]] · #business
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] · #business
+- [[finance/will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]] · #finance
 - [[business/ibm-stock-crash-why-not-worried|股价单日暴跌25%，IBM首席执行官为何不担心?]] · #business
+- [[finance/nvidia-cash-flow-buybacks-strategic-investments|英伟达调整现金流表述方式，这对股票回购意味着什么?]] · #finance
 - [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]] · #tech
 - [[tech/google-cloud-revenue-growth-82-ai-spending-impact|谷歌云业务收入增长82%，但巨额AI支出致股价大跌]] · #tech
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]] · #finance

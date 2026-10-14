@@ -23,7 +23,7 @@ Meta的Muse[[hubs/ai-agent|智能体]]虽然在下载量和股价上取得初期
 
 ## 相关文章
 
+- [[tech/ai-agents-guide|AI智能体要替你打理生活，你该让它们接手吗？]]
 - [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]]
 - [[tech/meta-muse-ai-agent-viral-hit-challenges-ahead|Meta的AI智能体Muse爆火，真正的考验才刚开始]]
-- [[tech/meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]]
-- [[tech/zuckerberg-muse-ai-smart-glasses-integration-2026|扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]
+- [[tech/ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]]

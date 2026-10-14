@@ -5,11 +5,11 @@ created: "2026-05-30"
 
 ## 近期文章
 
-- <span class="recent-date">2026-10-01</span> [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下質疑阿莫迪敲響AI警鐘是否小題大做]]<span class="topic-blurb">包括英偉達的黃仁勳在內的行業領袖，就Anthropic的阿莫迪有關AI危險的種種警告向他發難。</span>
-- <span class="recent-date">2026-09-29</span> [[business/goldman-sachs-ceo-succession-john-waldron|高盛董事會已討論任命溫澤恩爲下一任CEO的計劃]]<span class="topic-blurb">根據該計劃，自2018年以來一直領導該行的蘇德巍最快將於明年卸任，由首席運營官溫澤恩接任。</span>
-- <span class="recent-date">2026-09-29</span> [[tech/top-ai-researchers-urge-regulation-self-improving-ai|頂尖AI研究人員呼籲緊急監管自我改進的AI系統]]<span class="topic-blurb">OpenAI、Anthropic、Meta 和微軟的研究主管正呼籲決策者調查各自公司在多大程度上實現了AI研究自動化…</span>
-- <span class="recent-date">2026-09-29</span> [[tech/meta-muse-ai-agent-hands-on|我試用了Meta的Muse AI智能體：好用，也讓人脊背發涼]]<span class="topic-blurb">你提供的數據越多，這位才華橫溢的私人助理就能爲你做更多的事情。</span>
-- <span class="recent-date">2026-09-29</span> [[finance/larry-ellison-staff-housing-gated-community|一探拉里·埃裏森爲家教等員工買下八套房產的封閉式社區]]<span class="topic-blurb">這位掌控着甲骨文公司的億萬富豪花費近1,000萬美元購置住房，供子女家教等工作人員使用；這些房子距離他在佛羅里達州的莊園約30分鐘車程。</span>
+- <span class="recent-date">2026-10-13</span> [[finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16|在Robinhood交易者大會上，人人都有致富故事]]<span class="topic-blurb">在華爾街，投資者正爲油價上漲和全球債券拋售潮而擔憂。但在Robinhood的Hood Summit大會上，聚會依舊熱火朝天。</span>
+- <span class="recent-date">2026-10-13</span> [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一聯合創始人布朗：試圖扭轉公司“覺醒派”形象]]<span class="topic-blurb">布朗正利用自己與共和黨的關係以及商業談判能力，爭取華盛頓方面的支持，併爲Anthropic獲取發展AI所需的算力資源。</span>
+- <span class="recent-date">2026-10-13</span> [[business/ai-agents-threaten-travel-but-airbnb-could-win|AI智能體正威脅旅遊企業，但愛彼迎仍有望成爲贏家]]<span class="topic-blurb">愛彼迎若想讓股價在AI智能體時代表現強勁，就必須想辦法將回頭客轉化爲忠實客戶。</span>
+- <span class="recent-date">2026-10-12</span> [[finance/uk-welfare-disability-crisis|福利體系正在壓垮英國]]<span class="topic-blurb">英國領取殘障和疾病福利的人數激增，導致福利支出大幅增加，並危及長期財政穩定。</span>
+- <span class="recent-date">2026-10-12</span> [[tech/ai-compute-scramble-reshapes-silicon-valley|AI算力爭奪戰愈演愈烈，硅谷格局面臨重塑]]<span class="topic-blurb">AI熱潮引發算力爭奪戰，昔日競爭對手紛紛聯手，企業高管也不得不親自出面爭搶資源。</span>
 - [[articles|查看更多]]
 
 ## 讀法

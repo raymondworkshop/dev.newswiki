@@ -11,6 +11,7 @@ Curated hub for the concept 「geopolitics」.
 
 ## 相关文章
 
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] · #business
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] · #business
 - [[tech/2026-05-28-cheap-humanoid-robots|下一波中国冲击：比二手车还便宜的人形机器人]] · #tech
 - [[finance/xi-strong-yuan-economic-drag|习近平想要强势人民币，中国经济却在拖后腿]] · #finance

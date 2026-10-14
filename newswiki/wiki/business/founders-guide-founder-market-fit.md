@@ -35,6 +35,6 @@ Founder market fit is not about product success but about personal and cultural 
 ## Related Articles
 
 - [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]
+- [[finance/robinhood-ai-trading-agents-sleep|Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]]
+- [[finance/will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]]
 - [[career/how-to-choose-a-subproblem|How To Choose A Subproblem]]
-- [[lifestyle/china-releases-pastor-ezra-jin|China Releases Imprisoned Pastor Ezra Jin After U.S. Pressure]]
-- [[design/Product-Design-Ello-Real-Time-Response|Ello Listens, Adapts & Responds in Real Time]]

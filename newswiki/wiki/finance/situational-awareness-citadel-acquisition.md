@@ -29,4 +29,4 @@ AI 投资热潮中的高[[hubs/leverage|杠杆]]策略在市场情绪转向时�
 - [[finance/situational-awareness-crisis|华尔街如何嗅到了Situational Awareness危机爆发的气息]]
 - [[finance/leopold-aschenbrenner-ai-prophet|从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网]]
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
-- [[lifestyle/tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]]
+- [[finance/will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]]

@@ -28,6 +28,6 @@ topics:
 ## 相关文章
 
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
+- [[business/tesla-roadster-nine-year-delay-customer-deposits|支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？]]
 - [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]
 - [[valuation-and-risk|先看貴不貴]]
-- [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]

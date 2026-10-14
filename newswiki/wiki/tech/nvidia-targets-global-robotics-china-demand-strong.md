@@ -26,5 +26,5 @@ topics:
 
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
 - [[tech/humanoid-robots-brain-memory-challenge|要颠覆现实世界，人形机器人需解决“大脑”短板]]
+- [[tech/humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]]
 - [[cross-domain-reporting|多角度看]]
-- [[tech/huawei-aims-to-become-chinas-nvidia|华为计划如何成为“中国的英伟达”]]

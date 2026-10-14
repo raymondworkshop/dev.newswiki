@@ -3,8 +3,11 @@
 产品如何被设计，被感知，被使用
 
 ## 文章
+- [[alan-dorfman-miniature-toy-empire|“万物皆可微缩”：他靠缩小经典产品成了玩具大亨]] (2026-10-02) - 从3英寸的“超级水枪”到迷你魔方，艾伦·多夫曼痴迷于把经典产品做成小巧却能实际使用的微缩版。
+- [[serious-ai-product|Deciphering Glyph ::        What Would A Serious AI Product Look Like?]] (2026-09-27) - Deciphering Glyph, the blog of Glyph Lefkowitz.
 - [[what-will-make-personal-ai-go-big|What will make personal AI go big?]] (2026-09-25) - Muse launched earlier this month, and it’s the first consumer agent I've used that makes me think people might actually change their habits ...
 - [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - I'm a designer and creative technologist based in Brooklyn, NY.
+- [[figma-clone-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] (2026-08-24) - What I learned about feedback loops, tests, skills, taste, and product decisions while building a Figma clone with Cursor CLI and Composer 2.5.
 - [[ukraine-fire-point-ceo-iryna-terekh|重创俄军的乌克兰无人机出自一位90后家具设计师之手]] (2026-08-17) - 34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。
 - [[seven-books-i-keep-close|Seven books I keep close because I love them]] (2026-08-17) - From the highly eclectic blog of Mark Dominus
 - [[pentaton-lp|Pentaton LP • Pentaton]] (2026-08-11) - A vinyl-sleeve-sized music streamer designed to make digital music feel analog again through a high-resolution display for cover art.

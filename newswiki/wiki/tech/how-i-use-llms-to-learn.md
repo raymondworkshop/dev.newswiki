@@ -26,7 +26,7 @@ Visual, simulation-based learning via [[hubs/llm|LLM]]-generated code is more ef
 
 ## Related Articles
 
+- [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]]
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
 - [[tech/2x-not-10x-coding-llms-2026|2x, not 10x: coding with LLMs in 2026]]
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]]
-- [[tech/local-llm-question-categorization|Fine Tuning a Local LLM to Categorize Questions]]

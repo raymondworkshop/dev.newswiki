@@ -28,5 +28,5 @@ Base Power 试图通过分布式住宅储能重塑电力供应模式，将家庭
 
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]
-- [[business/2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]]
-- [[business/fashion-resale-trend|时尚巨头试水新潮流：销售二手服装]]
+- [[tech/humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]]
+- [[business/oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]]

@@ -16,6 +16,7 @@ Curated hub for the concept 「大语言模型」.
 - [[career/ai-removing-middle-class-software-engineering|AI is removing the middle class of software engineering]] · #career
 - [[tech/world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]] · #tech
 - [[tech/ai-food-metadata|Building Food Metadata with LLM Juries, Context Optimization & Multimodal AI]] · #tech
+- [[tech/serious-ai-product|Deciphering Glyph ::        What Would A Serious AI Product Look Like?]] · #tech
 - [[tech/local-llm-question-categorization|Fine Tuning a Local LLM to Categorize Questions]] · #tech
 - [[tech/gareth-price-ai-setup|Gareth Price’s AI setup]] · #tech
 - [[career/how-i-use-llms-as-a-staff-engineer-in-2026|How I use LLMs as a staff engineer in 2026]] · #career
@@ -23,10 +24,10 @@ Curated hub for the concept 「大语言模型」.
 - [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]] · #tech
 - [[tech/llm-mechanics-walkthrough|How LLMs Actually Work]] · #tech
 - [[tech/how-to-write-with-an-llm|How To Write With An LLM]] · #tech
-- [[tech/how-to-research-technical-topics-with-ai|How to Research Technical Topics With AI]] · #tech
 - [[career/llm-burnout-impact|I Think I Have LLM Burnout]] · #career
 - [[career/llms-reward-expertise|LLMs reward expertise]] · #career
 - [[tech/ai-ml-engineering/langgraph-stateful-ai-agents|LangGraph: Build Stateful AI Agents in Python]] · #tech
+- [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]] · #tech
 - [[tech/my-agent-md-improve-llm-code-quality|My agent.md to improve LLM-assisted code quality]] · #tech
 - [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] · #tech
 - [[tech/llm-critics-right-use-anyway|The LLM Critics Are Right. I Use LLMs Anyway.]] · #tech

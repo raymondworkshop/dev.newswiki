@@ -27,5 +27,5 @@ topics:
 
 - [[business/cancer-patients-seek-car-t-therapy-china|癌症患者们正飞往中国寻求前沿疗法]]
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]
+- [[business/chinese-fentanyl-precursor-makers-pivot-gray-market-peptides|中国芬太尼原料商如今转而向美国人出售“灰色”多肽]]
 - [[business/chinas-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]]
-- [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]]

@@ -3,8 +3,40 @@
 企业如何決策，發展與機會
 
 ## 文章
+- [[ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] (2026-10-13) - 爱彼迎若想让股价在AI智能体时代表现强劲，就必须想办法将回头客转化为忠实客户。
+- [[anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] (2026-10-13) - 布朗正利用自己与共和党的关系以及商业谈判能力，争取华盛顿方面的支持，并为Anthropic获取发展AI所需的算力资源。
+- [[reckitt-social-commerce-china-breakthrough|一家西方消费品巨头如何靠社交电商在中国破局]] (2026-10-12) - 利洁时调整销售策略后，在中国连续12个季度实现两位数销售增长。
+- [[ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]] (2026-10-12) - AI热潮引发算力争夺战，昔日竞争对手纷纷联手，企业高管也不得不亲自出面争抢资源。
+- [[index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]] (2026-10-12) - 指数型年金保证不会出现亏损，但保险公司可以定期调整收益计算公式。
+- [[nvidia-cash-flow-buybacks-strategic-investments|英伟达调整现金流表述方式，这对股票回购意味着什么?]] (2026-10-12) - 对于资本回报和构建AI生态系统之间相互冲突的需求，这家芯片制造商悄然展现了一种新的思维方式。
+- [[uk-welfare-disability-crisis|福利体系正在压垮英国]] (2026-10-12) - 英国领取残障和疾病福利的人数激增，导致福利支出大幅增加，并危及长期财政稳定。
+- [[zuckerberg-social-network-sequel-supporting-role|马克·扎克伯格为何在Facebook电影续作《社交清算》中沦为配角？]] (2026-10-09) - 在《社交网络》后续作品《社交清算》中，编剧兼导演亚伦·索尔金并未沿用原路线，而是将镜头聚焦于一位Facebook吹哨人和一名《华尔街日报》记者。
+- [[tesla-roadster-nine-year-delay-customer-deposits|支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？]] (2026-10-08) - 特斯拉一再跳票的超级跑车Roadster定于下周在得州发布。数年前豪掷高达25万美元订金的消费者们会满意吗？
+- [[waymo-robotaxi-airport-experience|体验无人驾驶出租车接送机：惬意，但太慢了]] (2026-10-08) - 如今往返更多机场有了全新的出行选择，只要你能习惯驾驶座上空无一人。9月份在菲尼克斯，笔者体验了三次Waymo的无人驾驶机场接送服务。
+- [[cautious-approach-hot-copper-prices|如何谨慎应对火热的铜价]] (2026-10-08) - 铜是今年表现最强劲的金属之一，今年迄今已上涨17%，接近历史高位。美国关税威胁已造成铜市场扭曲，这带来了一些风险。
+- [[china-bond-yields-exception-global-rise|全球国债收益率攀升，中国为何成为例外]] (2026-10-08) - 中国国债收益率今年以来持续下行，折射出经济疲软与储蓄过剩的现状。
+- [[tokenized-stocks-explained|关于代币化股票你需要知道的五件事]] (2026-10-08) - SEC近期的一项命令启动了将代币化股票引入美国的计划，后者有潜力彻底重塑整个股市。
+- [[chinese-fentanyl-precursor-makers-pivot-gray-market-peptides|中国芬太尼原料商如今转而向美国人出售“灰色”多肽]] (2026-10-07) - 黑市制造商正在兜售号称能美黑皮肤、修复组织和辅助减肥的无监管物质。
+- [[oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]] (2026-10-07) - Oura将自己包装成一家科技平台，但投资者看穿了这一点。
+- [[paramount-warner-bros-merger-ellison-skydance|派拉蒙靠一招险棋拿下华纳并购大单]] (2026-10-07) - 大卫·埃里森将派拉蒙与华纳兄弟合并的巨额交易于周二完成交割，好莱坞由此迈入新纪元。
+- [[bessent-treasury-tension-turnover-unmet-goals|贝森特治下的财政部内部：关系紧张、人员流失、经济目标失守]] (2026-10-07) - 高物价和借贷成本或将左右中期选举选情，在此之际美国财长严厉训斥下属官员。
+- [[alcedine-prediction-market-traders|走近掘金预测市场的Z世代“巨鲸”]] (2026-10-06) - 两名前数学竞赛选手掌舵着一家鲜为人知的交易公司Alcedine，这类初创公司处于Kalshi等预测市场新型超级用户崛起的潮流最前沿，并考虑从传统华尔街公司等处筹资。
+- [[paramount-warner-bros-discovery-810b|拿下华纳兄弟探索，埃里森面临整合810亿美元媒体帝国的新考验]] (2026-10-06) - 赢得华纳兄弟探索竞购战是相对容易的一步。如今，派拉蒙CEO大卫·埃里森必须让这笔810亿美元的交易取得成功。
+- [[humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]] (2026-10-06) - 人形机器人有可能给人们熟悉的生活方式带来革命性的变化，但美国缺乏能够生产关键部件的供应链。
+- [[z-gen-prediction-market-whales|走近掘金预测市场的Z世代“巨鲸”]] (2026-10-06) - 两名前数学竞赛选手掌舵着一家鲜为人知的交易公司Alcedine，这类初创公司处于Kalshi等预测市场新型超级用户崛起的潮流最前沿，并考虑从传统华尔街公司等处筹资。
+- [[hyundai-robot-new-track|叫板特斯拉：现代汽车瞄准机器人新赛道]] (2026-10-05) - 现代汽车计划推出数十款由人类驾驶的新车，而特斯拉正在转头放弃方向盘。
+- [[meta-ai-application-key-person-wang-tao|Meta爆款AI应用背后关键人物：29岁的亿万富翁汪滔]] (2026-10-05) - 汪滔推动Muse登上APP排行榜榜首，让Meta重返AI竞赛的中心地带，尽管他的一些做法在这家科技巨头内部招致不满。
+- [[will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]] (2026-10-05) - 9%是美国企业和消费者最终每年必须在AI服务上花费的金额占GDP的比例，只有达到这个水平，眼下正投向这项技术的惊人资金规模才说得过去。
+- [[alan-dorfman-miniature-toy-empire|“万物皆可微缩”：他靠缩小经典产品成了玩具大亨]] (2026-10-02) - 从3英寸的“超级水枪”到迷你魔方，艾伦·多夫曼痴迷于把经典产品做成小巧却能实际使用的微缩版。
 - [[tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]] (2026-10-01) - 包括英伟达的黄仁勋在内的行业领袖，就Anthropic的阿莫迪有关AI危险的种种警告向他发难。
+- [[inside-mcdonalds-ai-pricing-big-mac|Inside McDonald’s push to have AI price your Big Mac]] (2026-09-30) - McDonald's is increasingly using artificial intelligence to guide menu prices across the US and some global markets, a plan that aims to boost headquarters' profit but risks alienating customers and attracting antitrust scrutiny.
+- [[ai-threatens-bank-deposits|客户“懒”，银行乐。AI会打破这个局面吗？]] (2026-09-30) - 人们可能会借助机器人，自动将资金划转至利率更高的账户。这可能对银行的低息存款构成威胁。
+- [[bond-market-ai-debt-signals|债券市场正释放哪些有关AI热潮和股市的隐藏信号？]] (2026-09-30) - 《金融时报》记者罗宾·威格尔斯沃思分享债券市场正在释放哪些股票投资者错过的信号，AI热潮是如何通过债务而非股权来融资的，以及他对美国政府债务最担心的问题。
+- [[amd-acquires-world-labs-8-2-billion|AMD将以82亿美元收购World Labs]] (2026-09-29) - AMD表示，此次交易将为其引入顶尖的AI研发人才，助力开发更出色的AI硬件、软件和系统，尤其是在物理AI和机器人领域。
 - [[goldman-sachs-ceo-succession-john-waldron|高盛董事会已讨论任命温泽恩为下一任CEO的计划]] (2026-09-29) - 根据该计划，自2018年以来一直领导该行的苏德巍最快将于明年卸任，由首席运营官温泽恩接任。
+- [[nike-china-turnaround-sparks|耐克中国区新帅力求逆风翻盘]] (2026-09-29) - 中国曾是耐克表现最好的市场，如今却成为其业绩下滑的一个主要原因。今年接掌中国业务的耐克老将斯帕克斯面临着一项艰巨任务。
+- [[us-made-monopoly-manufacturing-challenges|成本翻倍、骰子仍是中国产：美国版《大富翁》的制造困局]] (2026-09-29) - 托盘开裂、成本高昂以及骰子难题，让一家公司在美国生产这一经典游戏版本的使命举步维艰。
+- [[ws-game-monopoly-americana-manufacturing|成本翻倍、骰子仍是中国产：美国版《大富翁》的制造困局]] (2026-09-29) - 托盘开裂、成本高昂以及骰子难题，让一家公司在美国生产这一经典游戏版本的使命举步维艰。
 - [[meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]] (2026-09-29) - 你提供的数据越多，这位才华横溢的私人助理就能为你做更多的事情。
 - [[top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] (2026-09-29) - OpenAI、Anthropic、Meta 和微软的研究主管正呼吁决策者调查各自公司在多大程度上实现了AI研究自动化，加入了整个行业要求对这项快速发展技术加强监管的呼声。
 - [[larry-ellison-staff-housing-gated-community|一探拉里·埃里森为家教等员工买下八套房产的封闭式社区]] (2026-09-29) - 这位掌控着甲骨文公司的亿万富豪花费近1,000万美元购置住房，供子女家教等工作人员使用；这些房子距离他在佛罗里达州的庄园约30分钟车程。

@@ -28,4 +28,4 @@ Meta CEO Mark Zuckerberg unveiled a unified vision at Connect 2026 that fuses th
 - [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]]
 - [[tech/meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]]
 - [[tech/meta-muse-ai-agent-viral-hit-challenges-ahead|Meta的AI智能体Muse爆火，真正的考验才刚开始]]
-- [[tech/ai-rogue-deception-tests|AI在测试中再次失控，这次还学会了欺骗]]
+- [[tech/ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]]
