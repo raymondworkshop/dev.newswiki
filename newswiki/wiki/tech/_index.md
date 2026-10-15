@@ -3,6 +3,7 @@
 AI模型、機器人与智能体如何重塑基础设施與生產力
 
 ## 文章
+- [[us-defense-startups-taiwan-drone-supply-chain|美国国防初创企业涌入台湾，打造“去中国化”的无人机]] (2026-10-14) - 美国科技与台湾硬件相结合，力图依托“非红”供应链组装无人艇与飞行器。
 - [[ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] (2026-10-13) - 爱彼迎若想让股价在AI智能体时代表现强劲，就必须想办法将回头客转化为忠实客户。
 - [[anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] (2026-10-13) - 布朗正利用自己与共和党的关系以及商业谈判能力，争取华盛顿方面的支持，并为Anthropic获取发展AI所需的算力资源。
 - [[ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]] (2026-10-12) - AI热潮引发算力争夺战，昔日竞争对手纷纷联手，企业高管也不得不亲自出面争抢资源。

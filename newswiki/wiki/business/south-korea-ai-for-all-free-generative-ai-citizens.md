@@ -28,4 +28,4 @@ topics:
 - [[business/korean-chip-leader-s-century-divorce-ai-boom|韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]]
 - [[business/openai-q2-revenue-slowdown-vs-anthropic|OpenAI第二季度收入增长乏力，增速逊于Anthropic]]
 - [[business/amd-acquires-world-labs-8-2-billion|AMD将以82亿美元收购World Labs]]
-- [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]

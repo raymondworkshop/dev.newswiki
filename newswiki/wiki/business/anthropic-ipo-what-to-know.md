@@ -26,6 +26,6 @@ Anthropic [[hubs/ipo|IPO]]有望成2026秋最大融资案，[[hubs/valuation|估
 ## 相关文章
 
 - [[valuation-and-risk|先看貴不貴]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[business/oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
-- [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]

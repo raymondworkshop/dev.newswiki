@@ -1,6 +1,10 @@
 
 
 ## Recent Articles
+
+- [[finance/higher-rates-pressure-smaller-pe-firms|高利率冲击下，中小型私募开始承压]] (2026-10-14)
+
+- [[business/us-defense-startups-taiwan-drone-supply-chain|美国国防初创企业涌入台湾，打造“去中国化”的无人机]] (2026-10-14)
 - [[finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16|在Robinhood交易者大会上，人人都有致富故事]] (2026-10-13)
 - [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] (2026-10-13)
 - [[business/ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] (2026-10-13)

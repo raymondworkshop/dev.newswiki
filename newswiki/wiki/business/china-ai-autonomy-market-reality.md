@@ -25,6 +25,6 @@ topics:
 ## 相关文章
 
 - [[business/korean-chip-leader-s-century-divorce-ai-boom|韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
 - [[tech/tech-ceos-question-amodei-ai-alarm|科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]]
-- [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]

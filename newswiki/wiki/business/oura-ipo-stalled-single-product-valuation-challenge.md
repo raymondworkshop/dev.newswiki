@@ -28,5 +28,5 @@ Oura的[[hubs/ipo|IPO]]受挫揭示了单一硬件产品公司的核心困境：
 
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
 - [[valuation-and-risk|先看貴不貴]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[business/reality-impact-musk-tesla-spacex|现实冲击马斯克及特斯拉、SpaceX的拥趸]]
-- [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]

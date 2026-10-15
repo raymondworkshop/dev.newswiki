@@ -36,6 +36,7 @@ Curated hub for the concept 「interest rates」.
 - [[finance/wealth-management-cash-problem|财富管理行业面临3万亿美元难题：投资者持有太多现金]] · #finance
 - [[business/whirlpool-north-america-struggle|退守本土后，惠而浦为何仍难逃“寒冬”？]] · #business
 - [[finance/us-bond-market-breather|遭受重创的债券市场为何终迎喘息之机]] · #finance
+- [[finance/higher-rates-pressure-smaller-pe-firms|高利率冲击下，中小型私募开始承压]] · #finance
 - [[finance/gold-silver-bitcoin-plunge-warsh|黄金、白银和比特币大跌，愤怒投资者可以怪罪凯文·沃什]] · #finance
 
 ---

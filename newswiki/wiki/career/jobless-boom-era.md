@@ -28,4 +28,4 @@ AI 驱动的生产力提升正在导致经济增长与就业增长的脱钩。
 - [[tech/2026-highest-performing-stocks|盘点2026年上半年标普500指数表现最好的20只股票]]
 - [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]
 - [[business/micro-startups-ai-smaller|这些微型初创公司借助AI变得更小了]]
-- [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]

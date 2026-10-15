@@ -26,4 +26,4 @@ AI 让初创公司能够通过削减招聘和使用[[hubs/ai-agent|智能体]]�
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
 - [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]
 - [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]
-- [[business/2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]]
+- [[business/ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]]

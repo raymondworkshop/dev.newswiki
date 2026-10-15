@@ -34,4 +34,4 @@ topics:
 - [[finance/ai-funding-warning-sign|巨额资金涌入AI，这是一个巨大的危险信号]]
 - [[finance/spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
-- [[business/spacex-ipo-validates-musks-extreme-strategy|SpaceX上市印证了马斯克“极致”战略的威力]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]

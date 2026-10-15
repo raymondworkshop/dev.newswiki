@@ -3,6 +3,8 @@
 企业如何決策，發展與機會
 
 ## 文章
+- [[us-defense-startups-taiwan-drone-supply-chain|美国国防初创企业涌入台湾，打造“去中国化”的无人机]] (2026-10-14) - 美国科技与台湾硬件相结合，力图依托“非红”供应链组装无人艇与飞行器。
+- [[higher-rates-pressure-smaller-pe-firms|高利率冲击下，中小型私募开始承压]] (2026-10-14) - 私募股权融资正走向至少2020年以来最惨淡的一年。项目退出停滞打压业绩提成预期，行业面临人才变动危机。
 - [[ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] (2026-10-13) - 爱彼迎若想让股价在AI智能体时代表现强劲，就必须想办法将回头客转化为忠实客户。
 - [[anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] (2026-10-13) - 布朗正利用自己与共和党的关系以及商业谈判能力，争取华盛顿方面的支持，并为Anthropic获取发展AI所需的算力资源。
 - [[reckitt-social-commerce-china-breakthrough|一家西方消费品巨头如何靠社交电商在中国破局]] (2026-10-12) - 利洁时调整销售策略后，在中国连续12个季度实现两位数销售增长。

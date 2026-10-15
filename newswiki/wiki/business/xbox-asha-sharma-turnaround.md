@@ -26,4 +26,4 @@ topics:
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
 - [[business/microsoft-ai-transformation-frontier-playbook|微软力推AI转型，从重构自身开始]]
 - [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]]
-- [[business/microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]

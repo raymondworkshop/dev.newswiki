@@ -29,4 +29,4 @@ topics:
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]]
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]]
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
-- [[finance/nine-stocks-lead-next-wave-ai-thematic-trading|这九只股票或将引领AI主题交易的下一波行情]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]

@@ -20,7 +20,7 @@ Anthropic联合创始人汤姆·布朗通过利用共和党人脉与商业谈判
 - Anthropic联合创始人汤姆·布朗凭借共和党背景与谈判经验，成为公司在华盛顿的关键斡旋者，化解白宫因安全顾虑暂停模型访问的僵局。
 - 布朗主导与[[hubs/spacex|SpaceX]]达成每月12.5亿美元算力租赁协议，并推动与AMD等签署数百亿美元合同，缓解Anthropic算力瓶颈。
 - 他利用个人人脉与特朗普政府高层（商务部长卢特尼克、白宫科技办主任克拉齐奥斯）建立常态化沟通，助力阿莫迪获得特朗普认可。
-- 布朗早年在OpenAI主导GPT-3工程、后创立Anthropic负责芯片采购，确立了多供应商策略（谷歌、亚马逊、AMD、SpaceX）降低单一依赖。
+- 布朗早年在OpenAI主导GPT-3工程、后创立Anthropic负责芯片采购，确立了多供应商策略（谷歌、亚马逊、AMD、[[hubs/spacex|SpaceX]]）降低单一依赖。
 - [AI Synthesis] 布朗的“创始人+外交官”双重角色，折射出AI独角兽在算力军备竞赛与[[hubs/geopolitics|地缘政治]]双重压力下，必须将技术能力转化为政治资本才能生存。
 
 ## 算力获取与商业合作
@@ -49,6 +49,6 @@ Anthropic联合创始人汤姆·布朗通过利用共和党人脉与商业谈判
 ## 相关文章
 
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
+- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
-- [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]

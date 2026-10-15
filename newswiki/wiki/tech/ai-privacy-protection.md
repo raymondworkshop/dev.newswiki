@@ -33,7 +33,7 @@ topics:
 
 ## 相关文章
 
+- [[tech/ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]]
 - [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]]
 - [[tech/ai-leaders-call-for-slower-model-development|三大AI企业掌门人达成共识：模型开发需要降速]]
 - [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]]
-- [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]

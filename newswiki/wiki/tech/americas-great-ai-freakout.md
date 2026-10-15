@@ -28,7 +28,7 @@ AI 生存风险议题在一周内完成「破圈」，从技术圈/政策圈进�
 
 ## 相关文章
 
+- [[tech/ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]]
 - [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]]
 - [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]]
-- [[tech/ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]]
 - [[tech/anthropic-researcher-quits-over-out-of-control-ai-fears|Anthropic研究员因担忧AI“失控”而辞职]]

@@ -53,7 +53,7 @@ A two-year homelab evolution from a $200 ThinkServer to a $7,440 dual-server rac
 ## Power Consumption & Costs
 - Metered (7-day smart plug): prxbox1 ~215W, prxbox2 ~191W, both servers ~406W, whole rack ~430W → ~10 kWh/day, ~$47/mo, ~$565/yr at $0.15/kWh.
 - Night mode (stop 11 containers 11PM–6AM) saves ~5W, not 175W — containers were idle; overnight backups run in same window. CPU `powersave` governor drifted on 31/80 threads of prxbox2.
-- R730s designed for [[hubs/ai-infrastructure|datacenter]] power/cooling; in Minnesota attic they're free heat in winter, cooling problem in summer. Mini PCs would run most workloads at fraction of power but can't hold 16GB GPU or provide iDRAC/ECC.
+- R730s designed for [[hubs/ai-infrastructure|datacenter]] power/cooling; in Minnesota attic they're free heat in winter, cooling problem in summer. Mini PCs would run most workloads at fraction of power but can't hold 16GB [[hubs/gpu|GPU]] or provide iDRAC/ECC.
 
 ## Break-even Analysis
 - Replaced subscriptions: iCloud/Dropbox ($22), NordVPN→Tailscale ($13), 1Password→Vaultwarden ($4), ChatGPT Plus→local LLMs ($20), Ring Protect ($12), security monitoring ($80), Audible ($15), Bluehost ($21) = ~$187/mo gross.

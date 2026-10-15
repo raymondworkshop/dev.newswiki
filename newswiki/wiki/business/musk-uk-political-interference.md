@@ -24,5 +24,5 @@ topics:
 
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
 - [[business/musk-confidant-gracias-set-for-spacex-windfall|马斯克密友格拉西亚斯有望因SpaceX斩获680亿美元收益]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[business/tesla-china-divestiture-spacex-merger|特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]]
-- [[finance/spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]]

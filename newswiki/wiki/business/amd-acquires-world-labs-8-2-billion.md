@@ -24,7 +24,7 @@ AMD以82亿美元全股票收购World Labs，引入李飞飞团队的空间智�
 
 ## 相关文章
 
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]]
 - [[business/openai-q2-revenue-slowdown-vs-anthropic|OpenAI第二季度收入增长乏力，增速逊于Anthropic]]
 - [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]
-- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]

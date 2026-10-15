@@ -38,5 +38,5 @@ AI 行业进入“词元经济学”时代，成本控制成为企业部署 AI �
 
 - [[tech/ai-native-companies-few-employees|AI原生公司：员工很少，老板更少]]
 - [[tech/unitree-ipo-humanoid-robot-trend|宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]
-- [[business/saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]
-- [[finance/us-retail-investors-ai-agents-portfolio-management|美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]
+- [[business/ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]

@@ -29,4 +29,4 @@ Anthropic 在收入规模和盈利能力上首次反超 OpenAI，显示出更强
 - [[business/nvidia-acquires-hugging-face-13b|英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]]
 - [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]]
-- [[business/2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]

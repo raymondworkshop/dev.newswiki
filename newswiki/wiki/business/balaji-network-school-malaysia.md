@@ -30,6 +30,6 @@ topics:
 ## 相关文章
 
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]]
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]
 - [[business/pentagon-missile-submarine-contracts|五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇]]
-- [[business/leica-european-manufacturing-success|售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]]

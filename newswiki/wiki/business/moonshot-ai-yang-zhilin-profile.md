@@ -26,7 +26,7 @@ topics:
 
 ## 相关文章
 
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[business/openai-lost-ai-crown|OpenAI如何失去AI王冠——又欲如何重新夺回]]
 - [[business/anthropic-ipo-what-to-know|关于Anthropic计划中的IPO，你需要了解什么？]]
 - [[business/venture-capital-new-strategy-silicon-valley|风投界新势力凭借新策略在硅谷制胜]]
-- [[business/oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]]

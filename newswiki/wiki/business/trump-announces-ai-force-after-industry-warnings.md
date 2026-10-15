@@ -26,7 +26,7 @@ topics:
 
 ## 相关文章
 
+- [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[business/microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]]
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
-- [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]]

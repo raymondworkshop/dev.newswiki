@@ -3,6 +3,7 @@
 资本如何定价与配置——市場、流动性与风险
 
 ## 文章
+- [[higher-rates-pressure-smaller-pe-firms|高利率冲击下，中小型私募开始承压]] (2026-10-14) - 私募股权融资正走向至少2020年以来最惨淡的一年。项目退出停滞打压业绩提成预期，行业面临人才变动危机。
 - [[ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] (2026-10-13) - 爱彼迎若想让股价在AI智能体时代表现强劲，就必须想办法将回头客转化为忠实客户。
 - [[at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16|在Robinhood交易者大会上，人人都有致富故事]] (2026-10-13) - 在华尔街，投资者正为油价上涨和全球债券抛售潮而担忧。但在Robinhood的Hood Summit大会上，聚会依旧热火朝天。
 - [[index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]] (2026-10-12) - 指数型年金保证不会出现亏损，但保险公司可以定期调整收益计算公式。
