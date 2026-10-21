@@ -35,4 +35,4 @@ topics:
 - [[finance/situational-awareness-citadel-acquisition|前OpenAI员工执掌的对冲基金陷入巨亏，Citadel出手收购其股票投资组合]]
 - [[finance/situational-awareness-crisis|华尔街如何嗅到了Situational Awareness危机爆发的气息]]
 - [[finance/will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]]
-- [[finance/central-bank-crisis-cycle|央行陷入周而复始的危机循环]]
+- [[finance/ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]]

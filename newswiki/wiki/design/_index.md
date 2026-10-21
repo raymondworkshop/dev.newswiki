@@ -3,15 +3,16 @@
 产品如何被设计，被感知，被使用
 
 ## 文章
+- [[developing-taste|Developing Taste]] (2026-10-20) - Why taste matters and how to develop it.
+- [[apple-homeview-first-impression|苹果全新智能家居设备HomeView初体验]] (2026-10-14) - 配备方形屏的HomeView兼具智能家居控制、免提FaceTime通话以及Siri AI智能助理功能。
 - [[alan-dorfman-miniature-toy-empire|“万物皆可微缩”：他靠缩小经典产品成了玩具大亨]] (2026-10-02) - 从3英寸的“超级水枪”到迷你魔方，艾伦·多夫曼痴迷于把经典产品做成小巧却能实际使用的微缩版。
 - [[serious-ai-product|Deciphering Glyph ::        What Would A Serious AI Product Look Like?]] (2026-09-27) - Deciphering Glyph, the blog of Glyph Lefkowitz.
 - [[what-will-make-personal-ai-go-big|What will make personal AI go big?]] (2026-09-25) - Muse launched earlier this month, and it’s the first consumer agent I've used that makes me think people might actually change their habits ...
 - [[the-narrative-is-the-business|The Narrative is the Business]] (2026-09-08) - I'm a designer and creative technologist based in Brooklyn, NY.
-- [[figma-clone-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] (2026-08-24) - What I learned about feedback loops, tests, skills, taste, and product decisions while building a Figma clone with Cursor CLI and Composer 2.5.
+- [[i-spent-120m-tokens-building-figma-clone-with-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] (2026-08-24) - What I learned about feedback loops, tests, skills, taste, and product decisions while building a Figma clone with Cursor CLI and Composer 2.5.
 - [[ukraine-fire-point-ceo-iryna-terekh|重创俄军的乌克兰无人机出自一位90后家具设计师之手]] (2026-08-17) - 34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。
 - [[seven-books-i-keep-close|Seven books I keep close because I love them]] (2026-08-17) - From the highly eclectic blog of Mark Dominus
 - [[pentaton-lp|Pentaton LP • Pentaton]] (2026-08-11) - A vinyl-sleeve-sized music streamer designed to make digital music feel analog again through a high-resolution display for cover art.
-- [[how-i-use-llms-to-learn|How I use LLMs to learn complex topics]] (2026-08-09) - LLMs are used for any things. Learning new things is one of the top use cases.
 - [[whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]] (2026-08-05) - 直播购物应用Whatnot凭借极速竞拍和狂热的“拆卡”模式快速吸引用户，拍品涵盖稀有体育卡牌、时尚服饰、工具及食品等各类商品。
 - [[my-server-is-a-phone-now|my server is a phone now]] (2026-08-04) - rooting a CMF Phone 1 to run my personal infrastructure at home.
 - [[fauci-pandemic-star-to-silent-witness|福奇如何从抗疫明星变为沉默证人]] (2026-07-31) - 作为美国新冠疫情期间最著名的医学专家，福奇正面临着对其个人声誉的最大挑战。

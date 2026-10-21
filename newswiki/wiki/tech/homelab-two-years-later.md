@@ -67,7 +67,7 @@ A two-year homelab evolution from a $200 ThinkServer to a $7,440 dual-server rac
 - Buy for the bottleneck: 10G between servers wasted while NAS stayed on 1G uplink.
 - Monitoring before first failure, not after third: uptime checks and backup verification should exist from start.
 - Offsite copy before you need it: local backups don't survive attic fire.
-- GPU form factor research: rack servers ≠ desktop cases — measure twice, buy once.
+- [[hubs/gpu|GPU]] form factor research: rack servers ≠ desktop cases — measure twice, buy once.
 - Budget for RAM upfront but buy only what you'll use: DDR4 ECC ~5× price spike from AI demand; using 72GB of 256GB.
 
 ## Related Articles

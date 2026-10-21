@@ -34,7 +34,9 @@ Curated hub for the concept 「leverage」.
 - [[finance/situational-awareness-citadel-acquisition|前OpenAI员工执掌的对冲基金陷入巨亏，Citadel出手收购其股票投资组合]] · #finance
 - [[finance/situational-awareness-crisis|华尔街如何嗅到了Situational Awareness危机爆发的气息]] · #finance
 - [[finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16|在Robinhood交易者大会上，人人都有致富故事]] · #finance
+- [[finance/ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]] · #finance
 - [[finance/central-bank-crisis-cycle|央行陷入周而复始的危机循环]] · #finance
+- [[career/day-in-life-carnival-cruise-director|百张合影、无暇睡眠：嘉年华邮轮明星总监的一天]] · #career
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]] · #business
 - [[lifestyle/tech-elites-wealth-spending-dilemma|科技精英赚了超乎想象的钱，却不知该怎么花]] · #lifestyle
 - [[finance/will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]] · #finance

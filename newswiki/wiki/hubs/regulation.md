@@ -2,7 +2,7 @@
 title: "regulatory"
 description: "Hub page aggregating wiki articles related to regulatory."
 topics:
-  - business
+  - finance
 ---
 
 # regulatory
@@ -28,15 +28,16 @@ Curated hub for the concept 「regulatory」.
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]] · #finance
 - [[business/chinese-fentanyl-precursor-makers-pivot-gray-market-peptides|中国芬太尼原料商如今转而向美国人出售“灰色”多肽]] · #business
 - [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]] · #tech
+- [[finance/crypto-law-trump-tether-bo-hines|他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元]] · #finance
 - [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]] · #tech
 - [[business/chinas-economic-dynamism-paradox|先放手发展，后落地监管：中国经济活力的悖论]] · #business
 - [[finance/tokenized-stocks-explained|关于代币化股票你需要知道的五件事]] · #finance
 - [[tech/zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] · #tech
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]] · #finance
-- [[tech/ai-doomsday-vs-real-threats|别管什么AI末日了，真正的威胁就在眼前]] · #tech
 - [[tech/ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]] · #tech
 - [[career/AI时代的职业边界：哪些事情AI不该做？|哪些事AI做不到，也不该做？]] · #career
 - [[business/whatnot-live-shopping-app|在这款直播购物应用里，有人一路竞拍直至倾家荡产]] · #business
+- [[finance/ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]] · #finance
 - [[business/david-ellison-warner-bros-discovery-california|大卫·埃里森如何在华纳兄弟探索交易上打破与加州的僵局]] · #business
 - [[tech/ai-autonomous-cyberattacks|失控AI发动黑客攻击，预示网络混乱新时代到来]] · #tech
 - [[tech/ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]] · #tech
@@ -66,8 +67,7 @@ Curated hub for the concept 「regulatory」.
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]] · #tech
 - [[tech/humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]] · #tech
 - [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]] · #business
-- [[business/alcedine-prediction-market-traders|走近掘金预测市场的Z世代“巨鲸”]] · #business
-- [[finance/z-gen-prediction-market-whales|走近掘金预测市场的Z世代“巨鲸”]] · #finance
+- [[business/alcedine-prediction-market-traders|走近掘金预测市场的Z世代“巨鲸”]] · #finance
 - [[finance/spacex-ipo-spv-fraud|这些散户“持有”的SpaceX股票为何在套现前不翼而飞？]] · #finance
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]] · #finance
 - [[finance/mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]] · #finance
@@ -78,5 +78,5 @@ Curated hub for the concept 「regulatory」.
 - [[business/musk-uk-political-interference|马斯克将他的“政治搅局机器”对准英国]] · #business
 
 ---
-**Topics**: [[business/_index|Business]]  
+**Topics**: [[finance/_index|Finance]]  
 **Tags**: #regulation #concept

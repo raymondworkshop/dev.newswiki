@@ -39,7 +39,7 @@ topics:
 - 特斯拉马斯克承认 Optimus “没有现成供应链”，被迫自建或内制，但仍从中国采购执行器（报道称 6.85 亿美元采购额）。
 
 ## 美国本土化供应链的艰难推进
-- Apptronik 融资 5.2 亿美元（[[hubs/valuation|估值]] 50 亿美元），计划助推得州奥斯汀成人形机器人中心，特斯拉、Contoro Robotics 已落户。
+- Apptronik 融资 5.2 亿美元（[[hubs/valuation|估值]] 50 亿美元），计划助推得州奥斯汀成[[hubs/humanoid-robot|人形机器人]]中心，特斯拉、Contoro Robotics 已落户。
 - 深圳制造商交付周期 <10 天，美国依赖全球供应链常需数周，卡德纳斯称唯一竞争路径是在美国建立区域供应链。
 - [AI Synthesis] 美国在物理 AI（[[hubs/nvidia|Nvidia]] 等芯片优势）保持领先，但硬件制造滞后可能让中国通过大规模部署加速缩小数据与训练差距。
 

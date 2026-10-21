@@ -3,6 +3,8 @@
 健康、关系与文化如何定义当下生活方式
 
 ## 文章
+- [[day-in-life-carnival-cruise-director|百张合影、无暇睡眠：嘉年华邮轮明星总监的一天]] (2026-10-21) - 绰号“火焰”的马扎尔每天工作时间很长，既要主持游戏节目、策划派对，还要解决各种问题。
+- [[what-shall-i-teach-my-son|What Shall I Teach My Son?]] (2026-10-19) - A programmer and expectant father reflects on the purpose of education in the age of AGI, drawing on Neil Postman's 'The End of Education' and the Lindy Effect to argue for collaboratively crafting educational purpose with our children.
 - [[throw-away-1l-water-bottle-hydration-enough|扔掉1升的水壶吧，你摄入的水分够多了]] (2026-10-09) - 你没必要把喝水当作一份额外的工作，因为喝太多水对健康并没有真正的好处。
 - [[ai-agents-guide|AI智能体要替你打理生活，你该让它们接手吗？]] (2026-10-06) - 像Meta的Muse、OpenAI的Dots和Instinct这样的个人AI智能体，已经准备好接管你的待办事项清单了。
 - [[grip-strength-health-biomarker|握力能反映出哪些健康状况]] (2026-10-01) - 简单一握，就能让你了解自己的肌肉力量和未来的健康风险。
@@ -79,6 +81,7 @@
 - [[2026-05-11-divorce-financial-infidelity|婚姻破裂的关键导火索：“财务出轨”]] (2026-05-11) - 如今，对伴侣隐瞒财产或支出已是再简单不过的事情，但“财务不忠”不仅会酿成离婚的结局，还会给个人带来严重的财务后果。
 - [[upper-body-dumbbell-workout|為什麼你練上半身沒線條？一副啞鈴就能完成的4個訓練動作]] (2026-03-26) - 很多人上半身一直有在練，重量也不輕，但線條就是出不來。問題往往不在器材不夠，而是在訓練方式不夠完整。這支影片會帶你用一副啞鈴，完成4個上半身訓練動作，包含推、拉、肩膀與手臂的訓練，讓肌群能被平均刺激，線條自然更清楚。這組訓練特別適合：✅ 居家訓練、器材有限✅ 健身房器材排不太到✅ 不知道如何安排上肢課表的初學者每個動作建議每個做 3–4 組、每組 10–12 下，記得收藏起來
 - [[principles-for-living-operating-system-for-life|Principles For Living: An Operating System for Life]] (2018-06-05) - All that we write about, think about, and strive for at Farnam Street draws inspiration from one of these five principles: Direction Over Speed, Live Deliberately, Thoughtful Opinions Held Loosely, Principles Outlive Tactics, and Own Your Actions.
+- [[simon-sinek-decision-making-filters|Simon Sinek on How to Make Better Choices and Live More Fully]] (2012-11-25) - In Chapter 11 of 16 in his 2012 Capture Your Flag interview, author and public speaker Simon Sinek answers \\\"How Are You Learning to Make Better Decisions?\\\" To Sinek, decision making comes down to usin
 
 ## 看点
 - **关键公司**:[[H&M]], [[Sellpy]], [[Shein]]

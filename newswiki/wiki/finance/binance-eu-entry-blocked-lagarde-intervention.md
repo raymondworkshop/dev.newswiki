@@ -24,7 +24,7 @@ topics:
 
 ## 相关文章
 
+- [[finance/crypto-law-trump-tether-bo-hines|他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元]]
 - [[finance/kalshi-5b-identical-trades-cftc-scrutiny|50亿美元同金额交易扎堆出现，Kalshi平台引发监管关注]]
 - [[finance/china-offshore-wealth-crackdown|中国富豪借离岸架构积累财富的时代正在终结]]
 - [[finance/china-eases-property-financing-to-boost-sector|中国放宽房地产信贷融资以期提振该行业]]
-- [[finance/index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]]

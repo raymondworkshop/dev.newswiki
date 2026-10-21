@@ -37,7 +37,7 @@ The case demonstrates the financial and reputational risk of being a counterpart
 
 ## Related Articles
 
-- [[finance/z-gen-prediction-market-whales|走近掘金预测市场的Z世代“巨鲸”]]
+- [[business/alcedine-prediction-market-traders|走近掘金预测市场的Z世代“巨鲸”]]
 - [[finance/index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]]
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
 - [[lifestyle/passive-income-new-american-dream|Forget Working: Passive Income Is the New American Dream]]

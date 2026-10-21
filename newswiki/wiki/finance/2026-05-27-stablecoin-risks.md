@@ -79,6 +79,6 @@ topics:
 ## 相关文章
 
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
+- [[finance/crypto-law-trump-tether-bo-hines|他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元]]
 - [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]]
-- [[finance/china-financial-crisis-hidden-costs|中国可以避免金融危机，但无法避免深层代价]]

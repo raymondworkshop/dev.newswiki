@@ -25,7 +25,7 @@ topics:
 
 ## 相关文章
 
-- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[finance/bond-market-ai-debt-signals|债券市场正释放哪些有关AI热潮和股市的隐藏信号？]]
+- [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[finance/us-japan-yen-intervention-2026|图解美日联手提振日圆的五大原因]]
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]

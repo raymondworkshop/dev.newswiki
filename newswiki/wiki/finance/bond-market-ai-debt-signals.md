@@ -27,6 +27,6 @@ topics:
 ## 相关文章
 
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]]
+- [[finance/higher-rates-pressure-smaller-pe-firms|高利率冲击下，中小型私募开始承压]]
 - [[finance/rising-rates-worsen-private-equity-crisis|利率上升将使私募股权行业糟糕的一年雪上加霜]]
 - [[finance/us-japan-yen-intervention-2026|图解美日联手提振日圆的五大原因]]
-- [[finance/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967|美债今夏境况堪忧？海外债市更加惨淡]]

@@ -3,7 +3,14 @@
 AI模型、機器人与智能体如何重塑基础设施與生產力
 
 ## 文章
+- [[spacex-stock-rise-ai-sector|SpaceX股价为何大涨并带动AI板块走高]] (2026-10-21) - SpaceX刚刚为华尔街看好AI热潮提供了有力理由：市场对其算力的需求极为旺盛。
+- [[former-officials-urge-energy-permitting-bill-us-china-tech-race|蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败]] (2026-10-20) - 迈克·蓬佩奥、珍妮特·耶伦等数位在特朗普、拜登、奥巴马政府中任职的前官员敦促国会通过能源许可法案，称美国能源基础设施建设速度不够快，难以保持全球竞争力。
+- [[what-shall-i-teach-my-son|What Shall I Teach My Son?]] (2026-10-19) - A programmer and expectant father reflects on the purpose of education in the age of AGI, drawing on Neil Postman's 'The End of Education' and the Lindy Effect to argue for collaboratively crafting educational purpose with our children.
+- [[michael-dell-ai-boom-prep|专访迈克尔·戴尔：互联网泡沫幸存者如何为AI热潮退去做准备]] (2026-10-17) - 在许多科技公司为长期的AI项目大举举债之际，迈克尔·戴尔表示，按需生产模式正为戴尔公司提供安全缓冲。
+- [[ai-companies-cat-and-mouse-spies|AI公司与窃密间谍展开猫鼠较量]] (2026-10-15) - 从“美人计”到内部威胁，早在美国联邦调查局逮捕一名OpenAI员工之前，硅谷就已对间谍活动保持警惕。
+- [[mckinsey-ai-virtual-interview|想入职麦肯锡，你得先和AI虚拟人物过招]] (2026-10-15) - 今秋，这家顶尖咨询公司将调整部分入门级顾问岗位的面试流程，增加模拟客户互动环节，旨在考察应聘者临场应变的能力，以及如何与客户交谈。
 - [[us-defense-startups-taiwan-drone-supply-chain|美国国防初创企业涌入台湾，打造“去中国化”的无人机]] (2026-10-14) - 美国科技与台湾硬件相结合，力图依托“非红”供应链组装无人艇与飞行器。
+- [[apple-homeview-first-impression|苹果全新智能家居设备HomeView初体验]] (2026-10-14) - 配备方形屏的HomeView兼具智能家居控制、免提FaceTime通话以及Siri AI智能助理功能。
 - [[ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] (2026-10-13) - 爱彼迎若想让股价在AI智能体时代表现强劲，就必须想办法将回头客转化为忠实客户。
 - [[anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] (2026-10-13) - 布朗正利用自己与共和党的关系以及商业谈判能力，争取华盛顿方面的支持，并为Anthropic获取发展AI所需的算力资源。
 - [[ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]] (2026-10-12) - AI热潮引发算力争夺战，昔日竞争对手纷纷联手，企业高管也不得不亲自出面争抢资源。
@@ -14,9 +21,9 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[waymo-robotaxi-airport-experience|体验无人驾驶出租车接送机：惬意，但太慢了]] (2026-10-08) - 如今往返更多机场有了全新的出行选择，只要你能习惯驾驶座上空无一人。9月份在菲尼克斯，笔者体验了三次Waymo的无人驾驶机场接送服务。
 - [[tokenized-stocks-explained|关于代币化股票你需要知道的五件事]] (2026-10-08) - SEC近期的一项命令启动了将代币化股票引入美国的计划，后者有潜力彻底重塑整个股市。
 - [[oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]] (2026-10-07) - Oura将自己包装成一家科技平台，但投资者看穿了这一点。
+- [[alcedine-prediction-market-traders|走近掘金预测市场的Z世代“巨鲸”]] (2026-10-06) - 两名前数学竞赛选手掌舵着一家鲜为人知的交易公司Alcedine，这类初创公司处于Kalshi等预测市场新型超级用户崛起的潮流最前沿，并考虑从传统华尔街公司等处筹资。
 - [[ai-agents-guide|AI智能体要替你打理生活，你该让它们接手吗？]] (2026-10-06) - 像Meta的Muse、OpenAI的Dots和Instinct这样的个人AI智能体，已经准备好接管你的待办事项清单了。
 - [[humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]] (2026-10-06) - 人形机器人有可能给人们熟悉的生活方式带来革命性的变化，但美国缺乏能够生产关键部件的供应链。
-- [[z-gen-prediction-market-whales|走近掘金预测市场的Z世代“巨鲸”]] (2026-10-06) - 两名前数学竞赛选手掌舵着一家鲜为人知的交易公司Alcedine，这类初创公司处于Kalshi等预测市场新型超级用户崛起的潮流最前沿，并考虑从传统华尔街公司等处筹资。
 - [[hyundai-robot-new-track|叫板特斯拉：现代汽车瞄准机器人新赛道]] (2026-10-05) - 现代汽车计划推出数十款由人类驾驶的新车，而特斯拉正在转头放弃方向盘。
 - [[meta-ai-application-key-person-wang-tao|Meta爆款AI应用背后关键人物：29岁的亿万富翁汪滔]] (2026-10-05) - 汪滔推动Muse登上APP排行榜榜首，让Meta重返AI竞赛的中心地带，尽管他的一些做法在这家科技巨头内部招致不满。
 - [[will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]] (2026-10-05) - 9%是美国企业和消费者最终每年必须在AI服务上花费的金额占GDP的比例，只有达到这个水平，眼下正投向这项技术的惊人资金规模才说得过去。
@@ -56,7 +63,6 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[ceos-ai-apocalypse-threat|CEO们对AI末日威胁的真实想法是什么？]] (2026-09-17) - 特朗普称AI对人类的威胁是一场骗局，可企业CEO们并不买账。
 - [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...
 - [[novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] (2026-09-17) - 生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。
-- [[ai-doomsday-vs-real-threats|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17) - 飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。
 - [[how-to-write-with-an-llm|How To Write With An LLM]] (2026-09-17) - Two rules keep an LLM from pasteurizing your writing: never take a word it suggests, and never let it encourage you. Then hand it all the tedious work.
 - [[huawei-aims-to-become-chinas-nvidia|华为计划如何成为“中国的英伟达”]] (2026-09-17) - 华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。
 - [[ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17) - 飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。
@@ -95,7 +101,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[bill-gates-ai-warning-no-plan|比尔·盖茨发表5784字AI警告：全球“没有应对计划”]] (2026-08-26) - 这位亿万富豪兼慈善家呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。
 - [[wall-street-ai-anxiety-camp-kotok|探访华尔街精英荒野营：人人皆对AI热潮心生寒意]] (2026-08-25) - 在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。
 - [[startup-founders-24-hour-work-ai-agents|初创公司创始人恨不得24小时工作，以跟上自家AI智能体]] (2026-08-24) - AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。
-- [[figma-clone-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] (2026-08-24) - What I learned about feedback loops, tests, skills, taste, and product decisions while building a Figma clone with Cursor CLI and Composer 2.5.
+- [[i-spent-120m-tokens-building-figma-clone-with-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] (2026-08-24) - What I learned about feedback loops, tests, skills, taste, and product decisions while building a Figma clone with Cursor CLI and Composer 2.5.
 - [[world-models-robotics-next-ai-leap|AI的下一次重大飞跃：走进现实世界]] (2026-08-22) - 工程师与投资者正竞相涌入“世界模型”赛道，期望在机器人领域复刻ChatGPT在写作与编程界引发的革命。
 - [[ai-hardware-stocks-analysis|分析师盘点年内值得持有的六只AI硬件股]] (2026-08-22) - 今年以来，Western Digital的股价已飙升近170%。一位分析师预计，存储设备制造商、网络设备提供商以及苹果公司将迎来强劲增长。
 - [[china-ai-leap-brains|推动中国AI实现惊人飞跃的幕后智囊]] (2026-08-21) - 凭借创新与模仿，中国高校实验室走出的计算机科学家正紧追Anthropic和OpenAI的步伐；他们“很懂怎么把研究成果变现”。
@@ -130,7 +136,6 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 - [[zuckerberg-ai-essay-key-points|关于扎克伯格AI长文，你需要了解的五个要点]] (2026-08-11) - 扎克伯格发表了一篇6,500字的长文，阐述了该公司对AI竞赛的思考及其对社会的意义，并探讨了美国政府应如何监管和促进这项技术。本文梳理了关键要点。
 - [[ai-removing-middle-class-software-engineering|AI is removing the middle class of software engineering]] (2026-08-11) - AI makes projects with weak engineering culture fail much faster.
 - [[how-i-use-llms-to-learn-complex-topics|How I use LLMs to learn complex topics]] (2026-08-09) - LLMs are used for any things. Learning new things is one of the top use cases.
-- [[how-i-use-llms-to-learn|How I use LLMs to learn complex topics]] (2026-08-09) - LLMs are used for any things. Learning new things is one of the top use cases.
 - [[saas-apocalypse-ai-disruption|直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]] (2026-08-07) - 生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。
 - [[ai-generates-new-virus|AI最新的骇人里程碑：生成新病毒]] (2026-08-07) - AI模型失控风险引发警惕，但研究者称AI模型创造新病毒的实验或可用于对抗耐药细菌。
 - [[rogue-ai-agents-guide|失控AI机器人世界的用户指南]] (2026-08-07) - AI智能体在近期“失控”事件中扮演了窃贼、破坏者、霸凌者等恶劣角色。

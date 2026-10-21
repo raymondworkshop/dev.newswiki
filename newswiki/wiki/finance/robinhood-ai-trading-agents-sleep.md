@@ -22,7 +22,7 @@ Robinhood 押注 AI [[hubs/ai-agent|智能体]]与全天候交易重塑散户投
 - 配合 AI [[hubs/ai-agent|智能体]]，Robinhood 将针对部分美股推出全天候交易时段，并计划在未来几个月向美客户提供永续期货，允许全天候加[[hubs/leverage|杠杆]]押注，放大潜在收益与损失。
 - 行业层面，Meta Muse 等[[hubs/ai-agent|智能体]]可能自动将客户现金转移至高收益账户，引发 [[finance/charles-schwab|嘉信理财]]、[[finance/lpl-financial|LPL Financial]]、[[finance/jp-morgan|摩根大通]] 等股价下跌，威胁银行券商低成本资金来源。
 - Robinhood 此前允许接入 [[tech/claude|Claude]]、OpenClaw 等第三方 AI 助手，技术型投资者已自建[[hubs/ai-agent|智能体]]组合模拟迷你基金经理运作；散户对完全交出控制权的接受度仍待观察。
-- [AI Synthesis] 从模因股狂热跌超 80% 到市值重回千亿美元，Robinhood 通过深耕活跃交易者、拓展社交、银行、预测市场与高端信用卡业务实现转型，AI 智能体与 24/7 交易是其下一增长引擎押注。
+- [AI Synthesis] 从模因股狂热跌超 80% 到市值重回千亿美元，Robinhood 通过深耕活跃交易者、拓展社交、银行、预测市场与高端信用卡业务实现转型，AI [[hubs/ai-agent|智能体]]与 24/7 交易是其下一增长引擎押注。
 
 ## 相关文章
 

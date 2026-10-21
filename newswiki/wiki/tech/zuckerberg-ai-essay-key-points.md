@@ -24,7 +24,7 @@ topics:
 
 ## 相关文章
 
+- [[tech/ai-compute-scramble-reshapes-silicon-valley|AI算力争夺战愈演愈烈，硅谷格局面临重塑]]
 - [[tech/us-china-ai-safety-divergence|中美均认同AI需要安全护栏，但安全诉求南辕北辙]]
 - [[tech/ai-safety-panic-washington-china-threat|失控模型与中国威胁：华盛顿陷入AI安全大恐慌]]
 - [[tech/americas-great-ai-freakout|美国AI大恐慌全面爆发]]
-- [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]]

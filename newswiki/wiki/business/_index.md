@@ -3,6 +3,13 @@
 企业如何決策，發展與機會
 
 ## 文章
+- [[spacex-stock-rise-ai-sector|SpaceX股价为何大涨并带动AI板块走高]] (2026-10-21) - SpaceX刚刚为华尔街看好AI热潮提供了有力理由：市场对其算力的需求极为旺盛。
+- [[ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]] (2026-10-21) - 这位亿万富豪今年以特斯拉、SpaceX和派拉蒙天舞的股票作质押，向银行借入更多资金。
+- [[former-officials-urge-energy-permitting-bill-us-china-tech-race|蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败]] (2026-10-20) - 迈克·蓬佩奥、珍妮特·耶伦等数位在特朗普、拜登、奥巴马政府中任职的前官员敦促国会通过能源许可法案，称美国能源基础设施建设速度不够快，难以保持全球竞争力。
+- [[overdeck-two-sigma-divorce-siegel-conflict|对冲基金亿万富豪奥弗德克的两场激烈交锋：对阵妻子和商业伙伴]] (2026-10-19) - 奥弗德克力图避免与妻子的离婚纠纷令他在与Two Sigma另一名联合创始人的争斗中处于不利地位。
+- [[michael-dell-ai-boom-prep|专访迈克尔·戴尔：互联网泡沫幸存者如何为AI热潮退去做准备]] (2026-10-17) - 在许多科技公司为长期的AI项目大举举债之际，迈克尔·戴尔表示，按需生产模式正为戴尔公司提供安全缓冲。
+- [[ai-companies-cat-and-mouse-spies|AI公司与窃密间谍展开猫鼠较量]] (2026-10-15) - 从“美人计”到内部威胁，早在美国联邦调查局逮捕一名OpenAI员工之前，硅谷就已对间谍活动保持警惕。
+- [[crypto-law-trump-tether-bo-hines|他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元]] (2026-10-15) - 博·海因斯在白宫参与制定具有里程碑意义的稳定币法案期间，Tether的资金正源源不断地流入其名下公司Nxum。该法案一经通过，Tether便聘请他担任美国业务负责人。
 - [[us-defense-startups-taiwan-drone-supply-chain|美国国防初创企业涌入台湾，打造“去中国化”的无人机]] (2026-10-14) - 美国科技与台湾硬件相结合，力图依托“非红”供应链组装无人艇与飞行器。
 - [[higher-rates-pressure-smaller-pe-firms|高利率冲击下，中小型私募开始承压]] (2026-10-14) - 私募股权融资正走向至少2020年以来最惨淡的一年。项目退出停滞打压业绩提成预期，行业面临人才变动危机。
 - [[ai-agents-threaten-travel-but-airbnb-could-win|AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]] (2026-10-13) - 爱彼迎若想让股价在AI智能体时代表现强劲，就必须想办法将回头客转化为忠实客户。
@@ -25,7 +32,6 @@
 - [[alcedine-prediction-market-traders|走近掘金预测市场的Z世代“巨鲸”]] (2026-10-06) - 两名前数学竞赛选手掌舵着一家鲜为人知的交易公司Alcedine，这类初创公司处于Kalshi等预测市场新型超级用户崛起的潮流最前沿，并考虑从传统华尔街公司等处筹资。
 - [[paramount-warner-bros-discovery-810b|拿下华纳兄弟探索，埃里森面临整合810亿美元媒体帝国的新考验]] (2026-10-06) - 赢得华纳兄弟探索竞购战是相对容易的一步。如今，派拉蒙CEO大卫·埃里森必须让这笔810亿美元的交易取得成功。
 - [[humanoid-robot-actuator-supply-bottleneck|美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈]] (2026-10-06) - 人形机器人有可能给人们熟悉的生活方式带来革命性的变化，但美国缺乏能够生产关键部件的供应链。
-- [[z-gen-prediction-market-whales|走近掘金预测市场的Z世代“巨鲸”]] (2026-10-06) - 两名前数学竞赛选手掌舵着一家鲜为人知的交易公司Alcedine，这类初创公司处于Kalshi等预测市场新型超级用户崛起的潮流最前沿，并考虑从传统华尔街公司等处筹资。
 - [[hyundai-robot-new-track|叫板特斯拉：现代汽车瞄准机器人新赛道]] (2026-10-05) - 现代汽车计划推出数十款由人类驾驶的新车，而特斯拉正在转头放弃方向盘。
 - [[meta-ai-application-key-person-wang-tao|Meta爆款AI应用背后关键人物：29岁的亿万富翁汪滔]] (2026-10-05) - 汪滔推动Muse登上APP排行榜榜首，让Meta重返AI竞赛的中心地带，尽管他的一些做法在这家科技巨头内部招致不满。
 - [[will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]] (2026-10-05) - 9%是美国企业和消费者最终每年必须在AI服务上花费的金额占GDP的比例，只有达到这个水平，眼下正投向这项技术的惊人资金规模才说得过去。
@@ -37,7 +43,6 @@
 - [[amd-acquires-world-labs-8-2-billion|AMD将以82亿美元收购World Labs]] (2026-09-29) - AMD表示，此次交易将为其引入顶尖的AI研发人才，助力开发更出色的AI硬件、软件和系统，尤其是在物理AI和机器人领域。
 - [[goldman-sachs-ceo-succession-john-waldron|高盛董事会已讨论任命温泽恩为下一任CEO的计划]] (2026-09-29) - 根据该计划，自2018年以来一直领导该行的苏德巍最快将于明年卸任，由首席运营官温泽恩接任。
 - [[nike-china-turnaround-sparks|耐克中国区新帅力求逆风翻盘]] (2026-09-29) - 中国曾是耐克表现最好的市场，如今却成为其业绩下滑的一个主要原因。今年接掌中国业务的耐克老将斯帕克斯面临着一项艰巨任务。
-- [[us-made-monopoly-manufacturing-challenges|成本翻倍、骰子仍是中国产：美国版《大富翁》的制造困局]] (2026-09-29) - 托盘开裂、成本高昂以及骰子难题，让一家公司在美国生产这一经典游戏版本的使命举步维艰。
 - [[ws-game-monopoly-americana-manufacturing|成本翻倍、骰子仍是中国产：美国版《大富翁》的制造困局]] (2026-09-29) - 托盘开裂、成本高昂以及骰子难题，让一家公司在美国生产这一经典游戏版本的使命举步维艰。
 - [[meta-muse-ai-agent-hands-on|我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]] (2026-09-29) - 你提供的数据越多，这位才华横溢的私人助理就能为你做更多的事情。
 - [[top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]] (2026-09-29) - OpenAI、Anthropic、Meta 和微软的研究主管正呼吁决策者调查各自公司在多大程度上实现了AI研究自动化，加入了整个行业要求对这项快速发展技术加强监管的呼声。
@@ -76,7 +81,6 @@
 - [[ed-sheeran-tour-nfl-stadium-owners-macklemore-controversy|一通40分钟的电话，如何让埃德·希兰的巡演悬于一线？]] (2026-09-17) - NFL新英格兰爱国者队老板克拉夫特向歌手埃德·希兰发出明确警告：除非撤换公开指控以色列的开场嘉宾麦克勒莫，否则他将取消在吉列体育场的巡演场次。其他NFL球队老板也准备采取同样的行动。
 - [[microsoft-ai-transformation-lessons|What we’ve learned from Microsoft's own AI transformation]] (2026-09-17) - AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...
 - [[novo-nordisk-anthropic-claude-drug-discovery|诺和诺德将用Anthropic的Claude助力药物研发]] (2026-09-17) - 生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。
-- [[ai-doomsday-vs-real-threats|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17) - 飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。
 - [[huawei-aims-to-become-chinas-nvidia|华为计划如何成为“中国的英伟达”]] (2026-09-17) - 华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。
 - [[ignore-ai-doomsday-real-threat|别管什么AI末日了，真正的威胁就在眼前]] (2026-09-17) - 飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。
 - [[jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]] (2026-09-17) - 自雅各布·考克森发出危险警告以来，长期以来关于AI技术潜在危险的隐忧已爆发为全球性关注。
@@ -237,6 +241,9 @@
 - [[2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]] (2026-03-11) - Aaru背后的团队正吸引包括麦当劳和安永在内的品牌客户，该公司押注AI机器人能够比人类更准确地预测人类行为。
 - [[2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] (2026-02-23) - 对热门AI初创公司的投资争夺战已导致投资者之间的交易条款出现差异，从而引发了外界对这些公司真实价值的质疑。
 - [[doing-something-never-done-before|Doing Something That’s Never Been Done Before]] (2025-11-14) - I’ve found recently that I’ve been a bit hesitant to take on new projects, especially of the interesting variety, largely out of a fear that I’m doing something unoriginal. As anyone who has spent any substantial amount of time in the markets will tell you, being second to an idea isn’t necessarily terrible, but being 50th generally is, and I’d really rather avoid being 50th whenever possible. How do you guarantee, or at least maximize the odds, that whatever you’re doing, you’re the first?
+- [[a-leaders-duty-simon-sinek|A Leader's Duty | Simon Sinek]] (2021-12-31) - Leaders, like social hierarchies, have been around for tens of thousands of years. One thing has always been true: a strong relationship between a leader and their people is based on the trust that th
+- [[how-to-stand-out-in-your-industry|How to Stand Out in Your Industry | Simon Sinek]] (2021-05-26) - In a transactional industry, the most valuable trait to exercise is honesty. It might not always feel like the most lucrative decision, but authenticity pays dividends in ways you might not think.+
+- [[simon-sinek-leadership-psychology-skills|Simon Sinek Top Leadership & Psychology Skills]] (2021-01-23) - Discover some of the most powerful and thought-provoking moments from Simon Sinek — the acclaimed leadership expert and bestselling author of Start With Why, Leaders Eat Last, and The Infinite Game. T
 
 ## 看点
 - **关键公司**:[[hubs/spacex|SpaceX]], [[Anthropic]], [[DeepSeek]], [[hubs/nvidia|Nvidia]], [[Apple]]

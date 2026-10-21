@@ -18,7 +18,7 @@ Curated hub for the concept 「AI Agent」.
 - [[tech/ai-agents-guide|AI智能体要替你打理生活，你该让它们接手吗？]] · #tech
 - [[tech/amd-data-center-cpu-market|AMD为何有望在数据中心CPU市场击败英特尔和英伟达]] · #tech
 - [[business/founders-guide-founder-market-fit|Founders Guide: Success may not matter if you aren't doing what you love]] · #career
-- [[tech/figma-clone-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] · #tech
+- [[design/i-spent-120m-tokens-building-figma-clone-with-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] · #tech
 - [[tech/ai-ml-engineering/langgraph-stateful-ai-agents|LangGraph: Build Stateful AI Agents in Python]] · #tech
 - [[tech/meta-muse-code-coding-agent|Meta发布编程智能体，剑指OpenAI和Anthropic]] · #tech
 - [[tech/meta-muse-popular-opposition|Meta新AI智能体迅速走红，但反对声已经响起]] · #tech

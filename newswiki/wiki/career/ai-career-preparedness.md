@@ -35,5 +35,5 @@ AI is disrupting white-collar jobs at an unprecedented scale, requiring coordina
 
 - [[tech/top-ai-researchers-urge-regulation-self-improving-ai|顶尖AI研究人员呼吁紧急监管自我改进的AI系统]]
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]]
-- [[tech/figma-clone-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]]
+- [[design/i-spent-120m-tokens-building-figma-clone-with-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]]
 - [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]]

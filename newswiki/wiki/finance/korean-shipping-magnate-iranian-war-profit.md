@@ -37,6 +37,6 @@ topics:
 ## 相关文章
 
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
+- [[finance/ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]]
 - [[finance/kalshi-seeks-expansion-single-stock-perpetual-futures|Kalshi寻求扩张高风险交易版图，永续合约热度飙升]]
 - [[finance/2026-05-27-spacex-investment|这位明星选股人在SpaceX实现火箭着陆之前就大举押注]]
-- [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]]

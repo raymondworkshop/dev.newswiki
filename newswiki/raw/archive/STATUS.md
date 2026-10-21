@@ -1,6 +1,6 @@
 # Archive Status
 
-**Last Updated:** 2026-10-14 2026-10-14 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-07 2026-10-07 2026-10-07 2026-10-07 2026-10-07 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-02 2026-10-02 2026-10-02 2026-10-02 2026-10-02 2026-10-01 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-27 2026-09-27 2026-09-27 2026-09-27 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
+**Last Updated:** 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-21 2026-10-17 2026-10-17 2026-10-17 2026-10-17 2026-10-17 2026-10-17 2026-10-17 2026-10-14 2026-10-14 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-13 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-12 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-08 2026-10-07 2026-10-07 2026-10-07 2026-10-07 2026-10-07 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-06 2026-10-02 2026-10-02 2026-10-02 2026-10-02 2026-10-02 2026-10-01 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-29 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-28 2026-09-27 2026-09-27 2026-09-27 2026-09-27 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-25 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-23 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-21 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-19 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-18 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-17 2026-09-14
 
 ## Compilation Batch: 2026-05-27 (5 articles)
 
@@ -103,11 +103,33 @@ All files compiled from raw/ to wiki/ and then archived here.
 
 | File | Topic | Wiki Location | Status |
 |------|-------|---------------|--------|
+| 2026-10-21-The Boss Who Never Answered Questions—And Why It Worked.md | 职场 | `newswiki/wiki/career/the-boss-who-never-answered-questions.md` | Archived |
+| 2026-10-21-Solve Problems Through Service  Simon Sinek.md | 职场 | `newswiki/wiki/career/solve-problems-through-service.md` | Archived |
+| 2026-10-21-Simon Sinek on How to Make Better Choices and Live More Fully.md | 职场 | `newswiki/wiki/career/simon-sinek-decision-making-filters.md` | Archived |
+| 2026-10-21-Simon Sinek Top Leadership & Psychology Skills.md | 职场 | `newswiki/wiki/career/simon-sinek-leadership-psychology-skills.md` | Archived |
+| 2026-10-21-How to Stand Out in Your Industry  Simon Sinek.md | 职场 | `newswiki/wiki/career/how-to-stand-out-in-your-industry.md` | Archived |
+| 2026-10-21-A Leader's Duty  Simon Sinek.md | Career | `newswiki/wiki/career/a-leaders-duty-simon-sinek.md` | Archived |
+| 2026-10-21-蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败.md | 商业 | `newswiki/wiki/business/former-officials-urge-energy-permitting-bill-us-china-tech-race.md` | Archived |
+| 2026-10-21-百张合影、无暇睡眠：嘉年华邮轮明星总监的一天.md | 职场 | `newswiki/wiki/career/day-in-life-carnival-cruise-director.md` | Archived |
+| 2026-10-21-How to Research Technical Topics With AI.md | 科技 | `newswiki/wiki/tech/how-to-research-technical-topics-with-ai.md` | Archived |
+| 2026-10-21-让同事爽快答应请求的秘诀.md | 职场 | `newswiki/wiki/career/getting-colleagues-to-agree-requests.md` | Archived |
+| 2026-10-21-埃里森大举借债以资助儿子收购华纳兄弟探索.md | 金融 | `newswiki/wiki/finance/ellison-borrows-to-fund-son-warner-bros-acquisition.md` | Archived |
+| 2026-10-21-What Shall I Teach My Son.md | 生活 | `newswiki/wiki/lifestyle/what-shall-i-teach-my-son.md` | Archived |
+| 2026-10-21-SpaceX股价为何大涨并带动AI板块走高.md | 商业 | `newswiki/wiki/business/spacex-stock-rise-ai-sector.md` | Archived |
+| 2026-10-20-退休储蓄支取的“4%法则”靠谱吗？.md | 投资 | `newswiki/wiki/finance/4-percent-rule-retirement-withdrawal.md` | Archived |
+| 2026-10-20-对冲基金亿万富豪奥弗德克的两场激烈交锋：对阵妻子和商业伙伴.md | 投资 | `newswiki/wiki/finance/overdeck-two-sigma-divorce-siegel-conflict.md` | Archived |
+| 2026-10-20-Developing Taste.md | 设计 | `newswiki/wiki/design/developing-taste.md` | Archived |
+| 2026-10-17-专访迈克尔·戴尔：互联网泡沫幸存者如何为AI热潮退去做准备.md | 商业 | `newswiki/wiki/business/michael-dell-ai-boom-prep.md` | Archived |
+| 2026-10-15-苹果全新智能家居设备HomeView初体验.md | 设计 | `newswiki/wiki/design/apple-homeview-first-impression.md` | Archived |
+| 2026-10-15-揭秘吉尔福伊尔作为美国驻希腊大使的最后时日.md | 职场 | `newswiki/wiki/career/guilfoyle-ambassador-greece-resignation.md` | Archived |
+| 2026-10-15-想入职麦肯锡，你得先和AI虚拟人物过招.md | 职场 | `newswiki/wiki/career/mckinsey-ai-virtual-interview.md` | Archived |
+| 2026-10-15-他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元.md | 金融 | `newswiki/wiki/finance/crypto-law-trump-tether-bo-hines.md` | Archived |
+| 2026-10-15-I Spent 120M Tokens Building a Figma Clone With an AI Agent.md | 设计 | `newswiki/wiki/design/i-spent-120m-tokens-building-figma-clone-with-ai-agent.md` | Archived |
+| 2026-10-15-AI公司与窃密间谍展开猫鼠较量.md | 科技 | `newswiki/wiki/tech/ai-companies-cat-and-mouse-spies.md` | Archived |
 | 2026-10-14-高利率冲击下，中小型私募开始承压.md | 金融 | `newswiki/wiki/finance/higher-rates-pressure-smaller-pe-firms.md` | Archived |
 | 2026-10-14-美国国防初创企业涌入台湾，打造“去中国化”的无人机.md | 商业 | `newswiki/wiki/business/us-defense-startups-taiwan-drone-supply-chain.md` | Archived |
 | 2026-10-13-福利体系正在压垮英国.md | 投资 | `newswiki/wiki/finance/uk-welfare-disability-crisis.md` | Archived |
 | 2026-10-13-在Robinhood交易者大会上，人人都有致富故事.md | 金融 | `newswiki/wiki/finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16.md` | Archived |
-| 2026-10-13-I Spent 120M Tokens Building a Figma Clone With an AI Agent.md | 科技 | `newswiki/wiki/tech/figma-clone-ai-agent.md` | Archived |
 | 2026-10-13-Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象.md | 商业 | `newswiki/wiki/business/anthropic-cofounder-brown-political-compute-strategy.md` | Archived |
 | 2026-10-13-AI算力争夺战愈演愈烈，硅谷格局面临重塑.md | 科技 | `newswiki/wiki/tech/ai-compute-scramble-reshapes-silicon-valley.md` | Archived |
 | 2026-10-13-AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家.md | 商业 | `newswiki/wiki/business/ai-agents-threaten-travel-but-airbnb-could-win.md` | Archived |
@@ -135,7 +157,7 @@ All files compiled from raw/ to wiki/ and then archived here.
 | 2026-10-07-Oura上市搁浅背后：“单品爆款”企业的估值困境.md | 商业 | `newswiki/wiki/business/oura-ipo-stalled-single-product-valuation-challenge.md` | Archived |
 | 2026-10-07-My Homelab Two Years Later, Every Upgrade and What It Cost.md | 科技 | `newswiki/wiki/tech/homelab-two-years-later.md` | Archived |
 | 2026-10-07-How to Research Technical Topics With AI.md | 科技 | `newswiki/wiki/tech/how-to-research-technical-topics-with-ai.md` | Archived |
-| 2026-10-06-走近掘金预测市场的Z世代“巨鲸”.md | 金融 | `newswiki/wiki/finance/z-gen-prediction-market-whales.md` | Archived |
+| 2026-10-06-走近掘金预测市场的Z世代“巨鲸”.md | 商业 | `newswiki/wiki/business/alcedine-prediction-market-traders.md` | Archived |
 | 2026-10-06-美国想赢得人形机器人竞赛，但一个关键部件面临供应瓶颈.md | 科技 | `newswiki/wiki/tech/humanoid-robot-actuator-supply-bottleneck.md` | Archived |
 | 2026-10-06-拿下华纳兄弟探索，埃里森面临整合810亿美元媒体帝国的新考验.md | 商业 | `newswiki/wiki/business/paramount-warner-bros-discovery-810b.md` | Archived |
 | 2026-10-06-AI智能体要替你打理生活，你该让它们接手吗？.md | 科技 | `newswiki/wiki/tech/ai-agents-guide.md` | Archived |
@@ -198,7 +220,7 @@ All files compiled from raw/ to wiki/ and then archived here.
 | 2026-09-19-Science is open software.md | Tech | `newswiki/wiki/tech/science-is-open-software.md` | Archived |
 | 2026-09-18-密歇根大学体育事务背后的超级金主：拉里·埃里森之妻.md | 商业 | `newswiki/wiki/business/jolin-ellison-michigan-sports-donor-influence.md` | Archived |
 | 2026-09-18-Gareth Price’s AI setup.md | Tech | `newswiki/wiki/tech/gareth-price-ai-setup.md` | Archived |
-| 2026-09-17-别管什么AI末日了，真正的威胁就在眼前.md | 科技 | `newswiki/wiki/tech/ai-doomsday-vs-real-threats.md` | Archived |
+| 2026-09-17-别管什么AI末日了，真正的威胁就在眼前.md | 科技 | `newswiki/wiki/tech/ignore-ai-doomsday-real-threat.md` | Archived |
 | 2026-09-18-How To Write With An LLM.md | 科技 | `newswiki/wiki/tech/how-to-write-with-an-llm.md` | Archived |
 | 2026-09-18-黑客利用Anthropic的Claude入侵了OpenAI.md | 科技 | `newswiki/wiki/tech/hackers-use-claude-to-breach-openai.md` | Archived |
 | 2026-09-18-除了减重，GLP-1类药物还有哪些疗效.md | 生活 | `newswiki/wiki/lifestyle/glp1-drugs-beyond-weight-loss.md` | Archived |
@@ -355,7 +377,7 @@ All files compiled from raw/ to wiki/ and then archived here.
 | 2026-08-11-关于扎克伯格AI长文，你需要了解的五个要点.md | Tech | `newswiki/wiki/tech/zuckerberg-ai-essay-key-points.md` | Archived |
 | 2026-08-11-三星堆失落文明谜团重重，正重塑对中华文明起源的认知.md | Lifestyle Trends | `newswiki/wiki/lifestyle/sanxingdui-lost-civilization.md` | Archived |
 | 2026-08-11-No, local models will not win.md | Tech | `newswiki/wiki/tech/local-models-will-not-win.md` | Archived |
-| 2026-08-11-How I use LLMs to learn complex topics.md | Tech | `newswiki/wiki/tech/how-i-use-llms-to-learn.md` | Archived |
+| 2026-08-11-How I use LLMs to learn complex topics.md | Tech | `newswiki/wiki/tech/how-i-use-llms-to-learn-complex-topics.md` | Archived |
 | 2026-08-08-中国的新出口引擎：为全球工厂供货.md | Business | `newswiki/wiki/business/chinas-new-export-engine.md` | Archived |
 | 2026-08-07-探秘品客生产线：AI如何让每一片薯片都完美.md | Tech | `newswiki/wiki/tech/pringles-ai-production-line.md` | Archived |
 | 2026-08-07-排解孤独的个人试验如何演变成一场社会运动？.md | Lifestyle Trends | `newswiki/wiki/lifestyle/american-dialogues-loneliness-movement.md` | Archived |

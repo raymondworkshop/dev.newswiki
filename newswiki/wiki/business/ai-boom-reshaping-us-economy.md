@@ -28,5 +28,5 @@ AI 已从技术趋势演变为美国经济增长的核心驱动力，但这种�
 
 - [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]]
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]]
+- [[business/spacex-stock-rise-ai-sector|SpaceX股价为何大涨并带动AI板块走高]]
 - [[business/big-tech-ai-spending-off-balance-sheet|科技巨头的AI支出或比表面看起来还要高出3万亿美元]]
-- [[business/microsoft-azure-revenue-milestone|微软利润激增31%，Azure云业务财年收入首破千亿美元大关]]

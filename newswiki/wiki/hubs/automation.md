@@ -17,7 +17,7 @@ Curated hub for the concept 「automation」.
 - [[tech/2026-05-29-ai-film-cannes-compute-costs|AI长片在戛纳首映：50万美元制作成本，算力支出占40万]] · #tech
 - [[business/elite-students-ai-startups-silicon-valley|Elite Students Abandon Wall Street to Chase AI Startup Dreams]] · #business
 - [[career/ai-career-preparedness|Facing AI-Driven Job Disruption: A New Initiative Aims to Prepare Millions of Americans]] · #career
-- [[tech/figma-clone-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] · #tech
+- [[design/i-spent-120m-tokens-building-figma-clone-with-ai-agent|I Spent 120M Tokens Building a Figma Clone With an AI Agent]] · #tech
 - [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]] · #tech
 - [[finance/robinhood-ai-trading-agents-sleep|Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]] · #finance
 - [[tech/2026-05-28-cheap-humanoid-robots|下一波中国冲击：比二手车还便宜的人形机器人]] · #tech

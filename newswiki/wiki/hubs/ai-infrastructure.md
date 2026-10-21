@@ -17,13 +17,13 @@ Curated hub for articles related to 数据中心.
 - [[business/anthropic-cofounder-brown-political-compute-strategy|Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象]] · #business
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]] · #tech
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]] · #tech
-- [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]] · #tech
 - [[business/ai-software-company-moats|How does AI affect software company moats?]] · #business
 - [[business/meta-q2-earnings-ai-spending-drop|Meta股价大跌10%，因AI支出增加且展望不及预期]] · #business
 - [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]] · #tech
 - [[tech/local-models-will-not-win|No, local models will not win]] · #tech
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]] · #tech
 - [[business/spacex-ipo-validates-musks-extreme-strategy|SpaceX上市印证了马斯克“极致”战略的威力]] · #business
+- [[business/spacex-stock-rise-ai-sector|SpaceX股价为何大涨并带动AI板块走高]] · #business
 - [[business/45-million-donation-larry-ellison-trump-inner-circle|一笔4,500万美元的捐款如何让拉里·埃里森深入特朗普核心圈？]] · #business
 - [[tech/ai-spending-war-who-will-blink-first|人工智能领域的支出大战，最终会有人让步吗？]] · #tech
 - [[tech/etched-nvidia-talent-poaching|估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]] · #tech
@@ -48,6 +48,7 @@ Curated hub for articles related to 数据中心.
 - [[finance/chip-stocks-rally-hit-wall-optimism|芯片股涨势遇阻，但一些分析师认为有理由保持乐观]] · #finance
 - [[design/nvidia-ai-agent-pcs-launch|英伟达推出首批专为AI智能体设计的个人电脑]] · #design
 - [[business/apple-micron-china-chip-lobbying|苹果与美光掀起中国芯片游说战，特朗普陷入两难]] · #business
+- [[business/former-officials-urge-energy-permitting-bill-us-china-tech-race|蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败]] · #business
 - [[business/trump-announces-ai-force-after-industry-warnings|行业敲响警钟后，特朗普宣布组建“AI部队”]] · #business
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] · #career
 - [[finance/bessent-us-treasury-bond-market|贝森特为何在美债市场做文章]] · #finance

@@ -56,4 +56,4 @@ Global economies have become more resilient to oil supply disruptions due to amp
 - [[business/ai-software-company-moats|How does AI affect software company moats?]]
 - [[business/spacex-ipo-validates-musks-extreme-strategy|SpaceX上市印证了马斯克“极致”战略的威力]]
 - [[business/ai-boom-reshaping-us-economy|AI热潮正重塑美国经济，深刻程度超乎认知]]
-- [[tech/how-i-use-llms-to-learn|How I use LLMs to learn complex topics]]
+- [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]]

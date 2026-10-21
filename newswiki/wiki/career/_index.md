@@ -3,6 +3,11 @@
 技能、就业与组织如何在AI时代重塑职业路径
 
 ## 文章
+- [[day-in-life-carnival-cruise-director|百张合影、无暇睡眠：嘉年华邮轮明星总监的一天]] (2026-10-21) - 绰号“火焰”的马扎尔每天工作时间很长，既要主持游戏节目、策划派对，还要解决各种问题。
+- [[getting-colleagues-to-agree-requests|让同事爽快答应请求的秘诀]] (2026-10-20) - 人们比我们想象的更愿意答应我们的请求。诀窍在于懂得如何开口。
+- [[what-shall-i-teach-my-son|What Shall I Teach My Son?]] (2026-10-19) - A programmer and expectant father reflects on the purpose of education in the age of AGI, drawing on Neil Postman's 'The End of Education' and the Lindy Effect to argue for collaboratively crafting educational purpose with our children.
+- [[mckinsey-ai-virtual-interview|想入职麦肯锡，你得先和AI虚拟人物过招]] (2026-10-15) - 今秋，这家顶尖咨询公司将调整部分入门级顾问岗位的面试流程，增加模拟客户互动环节，旨在考察应聘者临场应变的能力，以及如何与客户交谈。
+- [[guilfoyle-ambassador-greece-resignation|揭秘吉尔福伊尔作为美国驻希腊大使的最后时日]] (2026-10-14) - 为保住官位，金伯利·吉尔福伊尔声称那些对她不利的短信是AI生成的；这些负面信息的披露令美国总统特朗普日益恼火。
 - [[at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-92197a16|在Robinhood交易者大会上，人人都有致富故事]] (2026-10-13) - 在华尔街，投资者正为油价上涨和全球债券抛售潮而担忧。但在Robinhood的Hood Summit大会上，聚会依旧热火朝天。
 - [[uk-welfare-disability-crisis|福利体系正在压垮英国]] (2026-10-12) - 英国领取残障和疾病福利的人数激增，导致福利支出大幅增加，并危及长期财政稳定。
 - [[ai-agents-privacy-unauthorized-actions|个人AI智能体很好用，却也有可能把你的银行账单发到工作群]] (2026-10-09) - 一些个人AI智能体用户遭遇了无法预期的失控表现，例如私自泄露个人敏感数据以及触发未授权交易等。
@@ -46,6 +51,7 @@
 - [[hidden-skills-of-top-talent|顶尖人才的隐藏技能：把玩耍和“不作为”当作必修课-返朴的财新博客-财新网]] (2026-08-09) - 探讨“无所事事”与玩耍对大脑默认网络（DMN）的激活作用，以及过度工作对前额叶皮质和心理健康的损害。
 - [[llms-reward-expertise|LLMs reward expertise]] (2026-08-06) - An analysis of why domain expertise remains the most critical skill for effective LLM prompting and high-value output.
 - [[ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]] (2026-07-30) - AI工具让创始人更容易单枪匹马地创业，而且许多人在公司发展壮大后依然保持这种单干状态。
+- [[how-to-research-technical-topics-with-ai|How to Research Technical Topics With AI]] (2026-07-28) - How I go from a technical question I cannot answer to an explanation I can reconstruct without the model
 - [[dont-start-startup-to-get-acquired|Don't start a startup with the goal of getting acquired.]] (2026-07-27) - If your goal is to cash out at $5 million as quickly and reliably as possible, becoming a founder is a very strange way to do it.
 - [[big-companies-resume-hiring-ai-employment|大企业重新开始招聘，打破“AI将消灭就业”的预测]] (2026-07-27) - 在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。
 - [[fake-job-interview-git-hook-malware|I Inspected My Take-Home Interview Project. It Was a Whole Operation.]] (2026-07-23) - A LinkedIn recruitment scam delivered malware via a take-home FastAPI project’s git pre-commit hook.
@@ -83,7 +89,13 @@
 - [[2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] (2026-04-03) - 尽管AI引发了大规模失业恐慌，但它同时也催生了大量工程和培训岗位。
 - [[2026-03-25-how-top-companies-develop-talent|这些公司更能成就人才，它们是这样做的]] (2026-03-25) - 在排行榜上排名靠前的公司往往大量招聘大学应届毕业生，让他们在不同岗位上历练，同时注重软技能的传授。
 - [[dont-become-an-engineering-manager|Don't become an Engineering Manager]] (2026-03-03) - Over drinks a few weeks ago, a friend told me he'd been offered a promotion, to an Engineering Manager role.
+- [[the-boss-who-never-answered-questions|The Boss Who Never Answered Questions—And Why It Worked]] (2024-12-04) - What makes a leader truly great? Simon shares about a leader whose unconventional leadership style—pushing for self-reliance and fostering collaboration—taught him valuable lessons about critical th
+- [[a-leaders-duty-simon-sinek|A Leader's Duty | Simon Sinek]] (2021-12-31) - Leaders, like social hierarchies, have been around for tens of thousands of years. One thing has always been true: a strong relationship between a leader and their people is based on the trust that th
+- [[solve-problems-through-service|Solve Problems Through Service | Simon Sinek]] (2021-12-03) - One of the best ways to grow one's self is to help somebody else grow. Oftentimes looking outward and serving others can reveal solutions we'd never find on our own.+ + +Simon is an unshakable opt
+- [[how-to-stand-out-in-your-industry|How to Stand Out in Your Industry | Simon Sinek]] (2021-05-26) - In a transactional industry, the most valuable trait to exercise is honesty. It might not always feel like the most lucrative decision, but authenticity pays dividends in ways you might not think.+
+- [[simon-sinek-leadership-psychology-skills|Simon Sinek Top Leadership & Psychology Skills]] (2021-01-23) - Discover some of the most powerful and thought-provoking moments from Simon Sinek — the acclaimed leadership expert and bestselling author of Start With Why, Leaders Eat Last, and The Infinite Game. T
 - [[principles-for-living-operating-system-for-life|Principles For Living: An Operating System for Life]] (2018-06-05) - All that we write about, think about, and strive for at Farnam Street draws inspiration from one of these five principles: Direction Over Speed, Live Deliberately, Thoughtful Opinions Held Loosely, Principles Outlive Tactics, and Own Your Actions.
+- [[simon-sinek-decision-making-filters|Simon Sinek on How to Make Better Choices and Live More Fully]] (2012-11-25) - In Chapter 11 of 16 in his 2012 Capture Your Flag interview, author and public speaker Simon Sinek answers \\\"How Are You Learning to Make Better Decisions?\\\" To Sinek, decision making comes down to usin
 
 ## 看点
 - **关键公司**:[[Anthropic]], [[Ferretly]], [[RefAssured]], [[LinkedIn]], [[Stripe]]

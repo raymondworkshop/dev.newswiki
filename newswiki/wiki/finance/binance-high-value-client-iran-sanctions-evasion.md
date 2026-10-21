@@ -26,6 +26,6 @@ topics:
 ## 相关文章
 
 - [[finance/binance-eu-entry-blocked-lagarde-intervention|币安入欧计划泡汤背后：拉加德亲自出面干预]]
+- [[finance/ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]]
 - [[finance/index-annuities-drive-private-credit-growth|指数型年金成私募信贷崛起的引擎]]
 - [[finance/mark-walter-annuity-empire-federal-probe|退休储户撑起道奇队老板马克·沃尔特的金融帝国]]
-- [[finance/korean-shipping-magnate-iranian-war-profit|韩国油轮大亨借伊朗战争大赚一笔]]

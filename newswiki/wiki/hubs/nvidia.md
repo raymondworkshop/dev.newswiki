@@ -22,6 +22,7 @@ Curated hub for articles related to NVIDIA.
 - [[tech/homelab-two-years-later|My Homelab Two Years Later, Every Upgrade and What It Cost]] · #tech
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]] · #tech
 - [[business/openai-q2-revenue-slowdown-vs-anthropic|OpenAI第二季度收入增长乏力，增速逊于Anthropic]] · #business
+- [[business/spacex-stock-rise-ai-sector|SpaceX股价为何大涨并带动AI板块走高]] · #business
 - [[tech/ai-autonomous-driving|Wayve's AI Car Drives London Streets, Challenging Tesla and Waymo]] · #tech
 - [[business/china-ai-autonomy-market-reality|中国追求AI自主，股市却呈现另一种现实]] · #business
 - [[tech/jacob-coxon-anthropic-resignation-ai-safety|他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]] · #tech

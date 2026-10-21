@@ -26,4 +26,4 @@ Robinhood的Hood Summit展示了散户投资者通过高风险资产和科技股
 - [[finance/robinhood-ai-trading-agents-sleep|Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]]
 - [[finance/situational-awareness-citadel-acquisition|前OpenAI员工执掌的对冲基金陷入巨亏，Citadel出手收购其股票投资组合]]
 - [[finance/ira-startup-insiders-tax-wealth|初创公司内部人士如何利用退休账户避税囤积巨额财富]]
-- [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]]
+- [[finance/ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]]
