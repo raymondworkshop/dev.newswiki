@@ -4,6 +4,7 @@ AI模型、機器人与智能体如何重塑基础设施與生產力
 
 ## 文章
 - [[spacex-stock-rise-ai-sector|SpaceX股价为何大涨并带动AI板块走高]] (2026-10-21) - SpaceX刚刚为华尔街看好AI热潮提供了有力理由：市场对其算力的需求极为旺盛。
+- [[anthropic-s1-compute-costs-ipo|Anthropic的S-1文件：增长迅猛、多重风险和巨大的计算成本]] (2026-10-21) - 最新披露的信息显示，Anthropic的收入正迅猛增长，但该公司也表示，今年上半年净亏损超过800亿美元，并列出了一长串风险因素。
 - [[former-officials-urge-energy-permitting-bill-us-china-tech-race|蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败]] (2026-10-20) - 迈克·蓬佩奥、珍妮特·耶伦等数位在特朗普、拜登、奥巴马政府中任职的前官员敦促国会通过能源许可法案，称美国能源基础设施建设速度不够快，难以保持全球竞争力。
 - [[what-shall-i-teach-my-son|What Shall I Teach My Son?]] (2026-10-19) - A programmer and expectant father reflects on the purpose of education in the age of AGI, drawing on Neil Postman's 'The End of Education' and the Lindy Effect to argue for collaboratively crafting educational purpose with our children.
 - [[michael-dell-ai-boom-prep|专访迈克尔·戴尔：互联网泡沫幸存者如何为AI热潮退去做准备]] (2026-10-17) - 在许多科技公司为长期的AI项目大举举债之际，迈克尔·戴尔表示，按需生产模式正为戴尔公司提供安全缓冲。

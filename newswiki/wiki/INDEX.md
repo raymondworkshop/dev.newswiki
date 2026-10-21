@@ -1,12 +1,15 @@
 
 
 ## Recent Articles
+- [[lifestyle/why-fascinated-everest-stories|我们为何着迷于讲述珠峰故事？]] (2026-10-21)
+- [[tech/anthropic-s1-compute-costs-ipo|Anthropic的S-1文件：增长迅猛、多重风险和巨大的计算成本]] (2026-10-21)
 - [[career/day-in-life-carnival-cruise-director|百张合影、无暇睡眠：嘉年华邮轮明星总监的一天]] (2026-10-21)
 - [[finance/ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]] (2026-10-21)
 - [[business/spacex-stock-rise-ai-sector|SpaceX股价为何大涨并带动AI板块走高]] (2026-10-21)
 - [[business/former-officials-urge-energy-permitting-bill-us-china-tech-race|蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败]] (2026-10-20)
 - [[career/getting-colleagues-to-agree-requests|让同事爽快答应请求的秘诀]] (2026-10-20)
 - [[design/developing-taste|Developing Taste]] (2026-10-20)
+- [[career/khosla-ventures-chief-of-staff-24-7-hustle|这份硅谷工作要求应聘人连续三年全天候待命]] (2026-10-19)
 - [[lifestyle/what-shall-i-teach-my-son|What Shall I Teach My Son?]] (2026-10-19)
 - [[finance/4-percent-rule-retirement-withdrawal|退休储蓄支取的“4%法则”靠谱吗？]] (2026-10-19)
 - [[finance/overdeck-two-sigma-divorce-siegel-conflict|对冲基金亿万富豪奥弗德克的两场激烈交锋：对阵妻子和商业伙伴]] (2026-10-19)
@@ -420,6 +423,7 @@
 - [[lifestyle/2026-05-11-divorce-financial-infidelity|婚姻破裂的关键导火索：“财务出轨”]] (2026-05-11)
 - [[career/2026-04-30-highest-earning-women-lessons|与美国最高收入女性交谈带来的意外启示]] (2026-04-30)
 - [[career/one-book-a-year|You should read at least one job-related book a year]] (2026-04-23)
+- [[lifestyle/the-skill-most-adults-never-learn-simon-sinek|The Skill Most Adults Never Learn | Simon Sinek]] (2026-04-17)
 - [[career/linkedin-ai-employment-irrationality|领英高管揭示职场AI应用的最大误区]] (2026-04-13)
 - [[career/2026-04-03-ai-created-new-jobs|诚聘“人类AI解决方案主管”：人工智能催生了哪些新职位？]] (2026-04-03)
 - [[lifestyle/upper-body-dumbbell-workout|為什麼你練上半身沒線條？一副啞鈴就能完成的4個訓練動作]] (2026-03-26)
@@ -430,11 +434,19 @@
 - [[business/2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] (2026-02-23)
 - [[business/doing-something-never-done-before|Doing Something That’s Never Been Done Before]] (2025-11-14)
 - [[tech/science-is-open-software|Science is open software]] (2025-05-24)
+- [[career/boss-never-answered-questions-leadership-lesson|The Boss Who Never Answered Questions—And Why It Worked]] (2024-12-04)
 - [[career/the-boss-who-never-answered-questions|The Boss Who Never Answered Questions—And Why It Worked]] (2024-12-04)
+- [[career/build-culture-by-design-not-default-simon-sinek|Build a Culture by DESIGN, not DEFAULT | Simon Sinek]] (2024-07-15)
+- [[career/leadership-unspoken-rules-simon-sinek-responsibility-trust|Leadership's Unspoken Rules: Simon Sinek on Responsibility and Trust]] (2023-12-18)
+- [[career/the-truth-about-daily-motivation-how-teams-fill-the-gap|The Truth About Daily Motivation: How Teams Fill the Gap]] (2023-10-25)
+- [[career/simon-sinek-listening-skills-leadership|Any Successful Person MUST Do This! | Simon Sinek]] (2022-06-08)
+- [[career/how-leaders-give-feedback-simon-sinek|How Leaders Give Feedback | Leading In Management | Simon Sinek]] (2022-02-21)
 - [[career/a-leaders-duty-simon-sinek|A Leader's Duty | Simon Sinek]] (2021-12-31)
 - [[career/solve-problems-through-service|Solve Problems Through Service | Simon Sinek]] (2021-12-03)
 - [[career/how-to-stand-out-in-your-industry|How to Stand Out in Your Industry | Simon Sinek]] (2021-05-26)
 - [[career/simon-sinek-leadership-psychology-skills|Simon Sinek Top Leadership & Psychology Skills]] (2021-01-23)
+- [[lifestyle/how-to-improve-yourself-right-now-and-why-jordan-peterson|How to Improve Yourself Right NOW (and Why) - Prof. Jordan Peterson]] (2017-09-29)
+- [[career/simon-sinek-better-decisions-life|Simon Sinek on How to Make Better Choices and Live More Fully]] (2012-11-25)
 - [[career/simon-sinek-decision-making-filters|Simon Sinek on How to Make Better Choices and Live More Fully]] (2012-11-25)
 
 ## 讀法

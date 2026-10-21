@@ -24,6 +24,7 @@ Curated hub for the concept 「leverage」.
 - [[finance/robinhood-ai-trading-agents-sleep|Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]] · #finance
 - [[tech/science-of-reading-and-evidence-based-math|Science of Reading & Evidence-Based Math]] · #tech
 - [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] · #tech
+- [[career/the-truth-about-daily-motivation-how-teams-fill-the-gap|The Truth About Daily Motivation: How Teams Fill the Gap]] · #career
 - [[business/western-automakers-losing-grip-on-chinese-market|Western Automakers Are Losing Their Grip on the Chinese Auto Market]] · #business
 - [[tech/what-will-make-personal-ai-go-big|What will make personal AI go big?]] · #tech
 - [[business/white-house-intervention-against-fifa-red-card|White House Intervenes Behind the Scenes to Overturn FIFA Red Card Decision]] · #business
@@ -42,6 +43,7 @@ Curated hub for the concept 「leverage」.
 - [[finance/will-us-spend-9-percent-gdp-on-ai|美国会把GDP的9%花在AI上吗？整个行业正寄望于此]] · #finance
 - [[finance/chip-profits-investor-dissatisfaction|芯片公司利润飙升，投资者为何仍不满意？]] · #finance
 - [[tech/apple-thermonuclear-response-to-openai|苹果祭出“热核”反击，迎战OpenAI威胁]] · #tech
+- [[career/khosla-ventures-chief-of-staff-24-7-hustle|这份硅谷工作要求应聘人连续三年全天候待命]] · #career
 - [[finance/bofa-semiconductor-3-2-trillion-opportunity-four-stocks|这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]] · #finance
 - [[business/whirlpool-north-america-struggle|退守本土后，惠而浦为何仍难逃“寒冬”？]] · #business
 - [[finance/korean-shipping-magnate-iranian-war-profit|韩国油轮大亨借伊朗战争大赚一笔]] · #finance

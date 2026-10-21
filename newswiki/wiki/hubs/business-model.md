@@ -13,6 +13,7 @@ Curated hub for the concept 「business model」.
 
 - [[business/ai-powered-solopreneurship|AI助力“一人公司”崛起：单枪匹马也可年入百万美元]] · #business
 - [[lifestyle/ai-dating-chatbots|AI时代的爱情：聊天机器人接管线上约会]] · #lifestyle
+- [[tech/anthropic-s1-compute-costs-ipo|Anthropic的S-1文件：增长迅猛、多重风险和巨大的计算成本]] · #tech
 - [[business/centrus-safer-nuclear-bet|Centrus或是押注核能的较安全对象]] · #business
 - [[business/alan-dorfman-miniature-toy-empire|“万物皆可微缩”：他靠缩小经典产品成了玩具大亨]] · #business
 - [[lifestyle/in-the-weight-loss-wars-novos-obesity-pill-is-pulling-way-ahead-of-lillys-a867d7a7|减肥药大战：诺和诺德口服药遥遥领先礼来]] · #lifestyle

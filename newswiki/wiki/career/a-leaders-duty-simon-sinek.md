@@ -13,11 +13,11 @@ topics:
 
 # [A Leader's Duty | Simon Sinek](https://www.youtube.com/watch?v=cvqIBKmFNXQ)
 
-True leadership is an evolutionary contract: you earn the perks of rank only by accepting the duty to protect your people first, especially when danger threatens.
+Simon Sinek argues that leadership is an anthropological contract where authority's perks are earned only by the willingness to sacrifice first for the team's safety.
 
 ## Key Points
-- Human beings are naturally hierarchical and self-organize into pecking orders — this is an evolved survival mechanism, not a modern corporate invention.
-- The anthropological deal: alphas get first choice of resources (meat, mates, perks) in exchange for running toward danger first to protect the tribe.
-- Moral outrage arises not from leaders having higher pay or better offices, but when leaders sacrifice their people to protect their own compensation — violating the deep-seated social contract.
-- Trust is built when people feel the leader actually has their back and would take accountability, looking for other ways to protect the team even at personal cost.
-- [[Simon Sinek]] frames this as the foundation of [[career/leadership-trust|leadership trust]] — perks are earned by accepting the burden of responsibility.
+- Human hierarchy is anthropologically rooted: for tens of thousands of years, groups of ~150 self-organized around alphas who ate first but were expected to run toward danger first to protect the tribe.
+- The implicit deal: leaders receive perks (higher pay, better office, deference) in exchange for the obligation to protect their people — even at personal cost.
+- Moral outrage arises not from the perks themselves, but when leaders shirk the protective duty (e.g., layoffs to protect their own salary or bonus rather than finding alternatives).
+- Trust is built when people feel the leader actually has their back — taking accountability and seeking other ways to protect the team before accepting harm to them.
+- Simon Sinek frames this as the foundation of [[career/leadership-trust|Leadership Trust]] and a prerequisite for healthy [[business/organizational-culture|Organizational Culture]].

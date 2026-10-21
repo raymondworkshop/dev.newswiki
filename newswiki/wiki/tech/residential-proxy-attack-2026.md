@@ -34,5 +34,5 @@ topics:
 
 - [[tech/coreweave-earnings-q2-2026|CoreWeave股价大涨，收入同比增长一倍]]
 - [[tech/nokia-ai-datacenter-infrastructure|Nokia's New Chapter: Becoming a Supplier of AI Data Center Infrastructure]]
+- [[tech/anthropic-s1-compute-costs-ipo|Anthropic的S-1文件：增长迅猛、多重风险和巨大的计算成本]]
 - [[tech/2026-05-27-nebius-vs-coreweave|CoreWeave请让位，Nebius来了]]
-- [[tech/ibm-quantum-advantage-era|IBM宣称“量子优势”进入新时代]]

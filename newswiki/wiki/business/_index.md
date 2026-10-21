@@ -4,9 +4,11 @@
 
 ## 文章
 - [[spacex-stock-rise-ai-sector|SpaceX股价为何大涨并带动AI板块走高]] (2026-10-21) - SpaceX刚刚为华尔街看好AI热潮提供了有力理由：市场对其算力的需求极为旺盛。
+- [[anthropic-s1-compute-costs-ipo|Anthropic的S-1文件：增长迅猛、多重风险和巨大的计算成本]] (2026-10-21) - 最新披露的信息显示，Anthropic的收入正迅猛增长，但该公司也表示，今年上半年净亏损超过800亿美元，并列出了一长串风险因素。
 - [[ellison-borrows-to-fund-son-warner-bros-acquisition|埃里森大举借债以资助儿子收购华纳兄弟探索]] (2026-10-21) - 这位亿万富豪今年以特斯拉、SpaceX和派拉蒙天舞的股票作质押，向银行借入更多资金。
 - [[former-officials-urge-energy-permitting-bill-us-china-tech-race|蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败]] (2026-10-20) - 迈克·蓬佩奥、珍妮特·耶伦等数位在特朗普、拜登、奥巴马政府中任职的前官员敦促国会通过能源许可法案，称美国能源基础设施建设速度不够快，难以保持全球竞争力。
 - [[overdeck-two-sigma-divorce-siegel-conflict|对冲基金亿万富豪奥弗德克的两场激烈交锋：对阵妻子和商业伙伴]] (2026-10-19) - 奥弗德克力图避免与妻子的离婚纠纷令他在与Two Sigma另一名联合创始人的争斗中处于不利地位。
+- [[khosla-ventures-chief-of-staff-24-7-hustle|这份硅谷工作要求应聘人连续三年全天候待命]] (2026-10-19) - 科技及其他行业老板愈发直言不讳：希望求职者长时间工作。
 - [[michael-dell-ai-boom-prep|专访迈克尔·戴尔：互联网泡沫幸存者如何为AI热潮退去做准备]] (2026-10-17) - 在许多科技公司为长期的AI项目大举举债之际，迈克尔·戴尔表示，按需生产模式正为戴尔公司提供安全缓冲。
 - [[ai-companies-cat-and-mouse-spies|AI公司与窃密间谍展开猫鼠较量]] (2026-10-15) - 从“美人计”到内部威胁，早在美国联邦调查局逮捕一名OpenAI员工之前，硅谷就已对间谍活动保持警惕。
 - [[crypto-law-trump-tether-bo-hines|他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元]] (2026-10-15) - 博·海因斯在白宫参与制定具有里程碑意义的稳定币法案期间，Tether的资金正源源不断地流入其名下公司Nxum。该法案一经通过，Tether便聘请他担任美国业务负责人。
@@ -241,6 +243,11 @@
 - [[2026-03-11-aaru-ai-simulates-human-behavior|靠“预测人类”估值10亿：这家新晋AI独角兽背后是一群00后]] (2026-03-11) - Aaru背后的团队正吸引包括麦当劳和安永在内的品牌客户，该公司押注AI机器人能够比人类更准确地预测人类行为。
 - [[2026-02-23-ai-valuation-back-to-back-financing|揭秘让AI初创公司一夜变身“独角兽”的融资策略]] (2026-02-23) - 对热门AI初创公司的投资争夺战已导致投资者之间的交易条款出现差异，从而引发了外界对这些公司真实价值的质疑。
 - [[doing-something-never-done-before|Doing Something That’s Never Been Done Before]] (2025-11-14) - I’ve found recently that I’ve been a bit hesitant to take on new projects, especially of the interesting variety, largely out of a fear that I’m doing something unoriginal. As anyone who has spent any substantial amount of time in the markets will tell you, being second to an idea isn’t necessarily terrible, but being 50th generally is, and I’d really rather avoid being 50th whenever possible. How do you guarantee, or at least maximize the odds, that whatever you’re doing, you’re the first?
+- [[boss-never-answered-questions-leadership-lesson|The Boss Who Never Answered Questions—And Why It Worked]] (2024-12-04) - What makes a leader truly great? Simon shares about a leader whose unconventional leadership style—pushing for self-reliance and fostering collaboration—taught him valuable lessons about critical th
+- [[build-culture-by-design-not-default-simon-sinek|Build a Culture by DESIGN, not DEFAULT | Simon Sinek]] (2024-07-15) - Building a strong culture is what builds a strong organization. Simon highlights the importance of having difficult conversations, giving feedback the way others receive it best, the problems with \\
+- [[leadership-unspoken-rules-simon-sinek-responsibility-trust|Leadership's Unspoken Rules: Simon Sinek on Responsibility and Trust]] (2023-12-18) - Leadership is not about being in charge. Leadership is about taking care of those in our charge.Learn about the silent agreements that govern the leader-team relationships in organizations and the c
+- [[simon-sinek-listening-skills-leadership|Any Successful Person MUST Do This! | Simon Sinek]] (2022-06-08) - A test for being a good listener is if the other person feels heard.+ + +Simon is an unshakable optimist. He believes in a bright future and our ability to build it together. Described as “a vis
+- [[how-leaders-give-feedback-simon-sinek|How Leaders Give Feedback | Leading In Management | Simon Sinek]] (2022-02-21) - In today’s leadership skills video, Simon Sinek speaks on how to give feedback as a leader. Amongst the qualities of a good leader is to give feedback in a non-degrading manner according to receiver’s
 - [[a-leaders-duty-simon-sinek|A Leader's Duty | Simon Sinek]] (2021-12-31) - Leaders, like social hierarchies, have been around for tens of thousands of years. One thing has always been true: a strong relationship between a leader and their people is based on the trust that th
 - [[how-to-stand-out-in-your-industry|How to Stand Out in Your Industry | Simon Sinek]] (2021-05-26) - In a transactional industry, the most valuable trait to exercise is honesty. It might not always feel like the most lucrative decision, but authenticity pays dividends in ways you might not think.+
 - [[simon-sinek-leadership-psychology-skills|Simon Sinek Top Leadership & Psychology Skills]] (2021-01-23) - Discover some of the most powerful and thought-provoking moments from Simon Sinek — the acclaimed leadership expert and bestselling author of Start With Why, Leaders Eat Last, and The Infinite Game. T

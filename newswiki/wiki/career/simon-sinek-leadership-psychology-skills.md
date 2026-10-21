@@ -13,13 +13,11 @@ topics:
 
 # [Simon Sinek Top Leadership & Psychology Skills](https://www.youtube.com/watch?v=N8tjj9wf9VI&t=20s)
 
-Simon Sinek argues that middle management fails due to absent leadership training and misaligned incentives, and that effective leadership requires a resilient, inclusive, service-oriented "Just Cause" and leveraging one's natural introvert/extrovert tendencies rather than conforming to extroverted stereotypes.
+Great leadership is a learnable skill set — not a personality trait — built on rigorous training, a resilient and inclusive Just Cause, and the courage to serve others first regardless of your introvert or extrovert nature.
 
 ## Key Points
-- Middle management is the hardest role because organizations promote technical experts without teaching them how to lead people — no training in listening, communication, confrontation, or feedback. [[career/_index|Career Hub]]
-- Most organizational breakdowns happen in the middle layer where strategy meets execution; leaders must translate upward and downward, yet receive minimal preparation. [[career/_index|Career Hub]]
-- Two root causes: (1) a vacuum of robust leadership training, and (2) senior management prioritizing quarterly earnings over people, leaving self-taught middle managers unsupported. [[business/_index|Business Hub]]
-- Sinek's remedy: "be the leader you wish you had" — focus on the people around you (peers, reports, even bosses) to create pockets of excellence that attract talent organically. [[career/_index|Career Hub]]
-- A "Just Cause" must pass three tests: resilient (withstands cultural, political, technological change), inclusive (invites contribution from any role), and service-oriented (primary benefit goes to others, not the contributor). [[business/_index|Business Hub]]
-- Introversion vs. extroversion is about energy, not social skill: introverts lose energy from interaction, extroverts gain it; both can be exceptional leaders by leveraging their natural style. [[career/_index|Career Hub]]
-- Examples of introverted leaders: Jim Sinegal (Costco founder) and Richard Branson — charisma stems from devotion to cause, not outward energy. [[career/_index|Career Hub]]
+- Middle management is the hardest role because people are promoted for technical skill but receive no training in listening, communication, confrontation, or feedback — creating managers instead of leaders.
+- Most organizational breakdowns happen in the middle layer where strategy meets execution; the fix is to "be the leader you wish you had" and build pockets of excellence that attract talent organically.
+- A "Just Cause" must pass three tests: resilient (withstands cultural/technological/political change), inclusive (invites contribution from any role), and service-oriented (primary benefit goes to others, not the contributor).
+- Introversion and extroversion are about energy dynamics, not social awkwardness; introverts like Costco's Jim Sinegal and Richard Branson become exceptional leaders by leveraging their natural style — connecting one-on-one rather than holding court.
+- Charisma stems from undying belief in your cause and willingness to devote yourself to it, not from high energy or outward charm.

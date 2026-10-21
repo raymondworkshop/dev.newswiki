@@ -22,7 +22,7 @@ Aim for clarity and a steady pace rather than native-level perfection.
 
 ## Related Articles
 
+- [[career/the-truth-about-daily-motivation-how-teams-fill-the-gap|The Truth About Daily Motivation: How Teams Fill the Gap]]
 - [[career/how-to-choose-a-subproblem|How To Choose A Subproblem]]
 - [[design/Product-Design-Ello-Real-Time-Response|Ello Listens, Adapts & Responds in Real Time]]
 - [[tech/science-of-reading-and-evidence-based-math|Science of Reading & Evidence-Based Math]]
-- [[tech/what-will-make-personal-ai-go-big|What will make personal AI go big?]]

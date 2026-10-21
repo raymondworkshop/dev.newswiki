@@ -29,6 +29,7 @@ Curated hub for the concept 「估值」.
 - [[business/oura-ipo-stalled-single-product-valuation-challenge|Oura上市搁浅背后：“单品爆款”企业的估值困境]] · #business
 - [[tech/sly-lexer-parser|SLY: lexer and parser - Playing with code]] · #tech
 - [[tech/software-engineering-fundamentals-matter-more-than-ever|Software Engineering fundamentals matter more than ever]] · #tech
+- [[lifestyle/the-skill-most-adults-never-learn-simon-sinek|The Skill Most Adults Never Learn | Simon Sinek]] · #lifestyle
 - [[career/jobless-boom-era|“无就业”繁荣时代已经到来]] · #career
 - [[finance/john-overdeck-divorce|一位对冲基金巨头的离婚案曝光华尔街惊人财富]] · #finance
 - [[finance/mark-walter-federal-investigation|一张隐秘交易网如何将道奇队老板卷入联邦调查]] · #finance
